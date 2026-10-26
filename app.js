@@ -1,0 +1,2638 @@
+var T={};var U={};
+T[1]={n:1,mod:1,title:"Conceptos básicos de Fisiopatología",short:"Conceptos básicos",src:"TEMA 1. FP y SM I. Conceptos básicos.pdf",prof:"J. A. Vargas Núñez",
+resumen:[
+{h:"Objeto de la asignatura",ref:"2-3",pts:[
+"**Fisiopatología**: conocer las alteraciones funcionales que originan los síntomas y signos.",
+"**Semiología**: reconocer los síntomas y signos al realizar la exploración física.",
+"Objetivo: estudiar el funcionamiento del cuerpo humano en situación de enfermedad (síntomas y signos como consecuencia de alteraciones funcionales de órganos, aparatos y sistemas).",
+"Saber los mecanismos fisiopatológicos, los síntomas y signos de cada síndrome, interpretarlos, formular una hipótesis sindrómica y conocer las pruebas elementales que la apoyen o rechacen."]},
+{h:"Evolución del concepto de enfermedad",ref:"11-13,15",pts:[
+"**Pueblos primitivos**: causas sobrenaturales (empirismo + creencias mágicas).",
+"**Hipócrates** (s. V-IV a.C.): causas naturales, observadas y tratadas con medios naturales.",
+"**Galeno** (s. II d.C.): sintetiza la tradición hipocrática; su doctrina es la base de la medicina durante 15 siglos.",
+"**Sydenham** (s. XVII): «especie morbosa», formas típicas y constantes de enfermar aisladas por la observación clínica.",
+"**Positivismo (s. XIX)** integra tres orientaciones: anatomoclínica (Morgagni, Virchow, Laennec), fisiopatológica (Müller) y etiológica (Koch, Pasteur).",
+"La medicina actual integra las tres escuelas y añade: «no existen enfermedades sino enfermos» → modelo biopsicosocial."]},
+{h:"Secuencia de un proceso clínico",ref:"14,20",pts:[
+"Etiología – lesión – semiología; entre ellas, patogenia y fisiopatología (**mecanismos de enfermedad**).",
+"Categorías etiológicas: vascular, inflamatoria, infecciosa, traumática, autoinmune, metabólica, neoplásica, congénita, degenerativa, drogas/fármacos/tóxicos e idiopática."]},
+{h:"Síntoma, signo, síndrome y enfermedad",ref:"18,21-24,28",pts:[
+"**Síntomas** (lo que refiere el paciente): disnea («ahogo»), astenia («cansancio»), disuria («dolor al orinar»).",
+"**Signos** (hallazgos de la exploración): coluria («orina oscura»), hemoptisis («esputos con sangre»), cianosis («color azulado de piel y mucosas»).",
+"**Síndrome**: conjunto de síntomas y signos que configuran un cuadro clínico bien definido, que se repite en distintos pacientes y puede obedecer a diferentes causas. Tras el **diagnóstico sindrómico** hay que buscar la causa (**diagnóstico etiológico**).",
+"**Enfermedad**: síntomas y signos debidos a una sola causa (ej.: hepatitis C). **Síndrome**: múltiples causas (ej.: insuficiencia hepática).",
+"Un mismo síndrome, distintas enfermedades: el síndrome de malabsorción (diarrea, dolor abdominal, adelgazamiento) puede deberse a enfermedad celíaca, Crohn o tuberculosis.",
+"Unos mismos síntomas en síndromes distintos: fiebre + dolor torácico + disnea → neumonía, pleuritis, pericarditis, mediastinitis. Unos mismos signos: taquicardia + hipotensión + oliguria → IC, embolia de pulmón, taponamiento pericárdico.",
+"Sufijos: **-osis** proceso degenerativo (artrosis), **-itis** inflamación (colitis, apendicitis), **-oma** tumor (linfoma, sarcoma)."]},
+{h:"Método clínico e historia clínica",ref:"26-27,30-31",pts:[
+"Historia clínica = **anamnesis** (síntoma guía, otros síntomas, antecedentes personales, hábitos tóxicos) + **exploración física** (inspección, palpación, percusión, auscultación).",
+"Después: exploraciones complementarias → **juicio clínico** → diagnóstico, pronóstico y tratamiento.",
+"Ejemplo de la clase: fiebre, dolor torácico, disnea, taquicardia, hipotensión arterial y oliguria → neumonía complicada con sepsis.",
+"Ideas del acto médico: escuchar, preguntar, observar, integrar, ser perseverante y paciente."]},
+{h:"Datos de la asignatura",ref:"5-6",pts:[
+"5 módulos y 36 temas: Fundamentos (6), Metabolismo (6), Digestivo (9), Respiratorio (6), Circulatorio (9).",
+"Evaluación: teórica 70 % (test y casos clínicos), continua 20 % (preguntas cortas), práctica 10 %.",
+"Fechas: evaluación continua 30 de octubre (21 temas); convocatoria ordinaria 18 de enero; extraordinaria 7 de junio."]}],
+esquemas:[
+{t:"flow",title:"Secuencia de un proceso clínico (diap. 14)",steps:["Etiología","Mecanismos de enfermedad: patogenia + fisiopatología","Lesión","Semiología (síntomas y signos)"],ref:"14"},
+{t:"flow",title:"Método clínico (diap. 27, 30)",steps:["Anamnesis","Exploración física","Exploraciones complementarias","Juicio clínico","Diagnóstico · pronóstico · tratamiento"],ref:"27,30"},
+{t:"table",title:"Concepto: síntoma, signo, síndrome, enfermedad",head:["Término","Qué es","Ejemplo (material)"],rows:[
+["Síntoma","Lo que refiere el paciente","Disnea, astenia, disuria"],
+["Signo","Hallazgo de la exploración","Coluria, hemoptisis, cianosis"],
+["Síndrome","Conjunto de síntomas/signos, múltiples causas posibles","Insuficiencia hepática; malabsorción"],
+["Enfermedad","Síntomas/signos por una sola causa","Hepatitis C"]],ref:"18,21,28"},
+{t:"table",title:"Evolución histórica",head:["Etapa","Idea clave"],rows:[
+["Primitivos","Causas sobrenaturales"],["Hipócrates (s. V-IV a.C.)","Causas naturales"],["Galeno (s. II)","Síntesis hipocrática; 15 siglos"],["Sydenham (s. XVII)","Especie morbosa"],["Positivismo (s. XIX)","Anatomoclínica · fisiopatológica · etiológica"],["Actual","Biopsicosocial: «no existen enfermedades sino enfermos»"]],ref:"11-13,15"}],
+claves:["Fisiopatología = por qué ocurren los síntomas; semiología = cómo se reconocen.","Síndrome ≠ enfermedad: el síndrome tiene varias causas, la enfermedad una.","Primero diagnóstico sindrómico, luego etiológico.","Historia clínica = anamnesis + exploración (inspección, palpación, percusión, auscultación)."],
+test:[
+{q:"La Fisiopatología se centra en:",o:["Reconocer síntomas y signos en la exploración","Conocer las alteraciones funcionales que originan los síntomas y signos","Clasificar las enfermedades por su lesión","Establecer el tratamiento"],a:1,e:"La diapositiva 2 define Fisiopatología como el conocimiento de las alteraciones funcionales que originan síntomas y signos; reconocerlos en la exploración es Semiología.",ref:"2"},
+{q:"¿Quién sintetizó la tradición hipocrática y fue base de la medicina durante 15 siglos?",o:["Sydenham","Galeno","Virchow","Koch"],a:1,e:"Galeno (s. II d.C.) sintetiza la tradición hipocrática.",ref:"11"},
+{q:"La orientación etiológica del positivismo del s. XIX se asocia a:",o:["Morgagni, Virchow y Laennec","Müller","Koch y Pasteur","Sydenham"],a:2,e:"Orientación etiológica: Koch y Pasteur (agente externo, microbiano o tóxico). Anatomoclínica: Morgagni, Virchow, Laennec. Fisiopatológica: Müller.",ref:"12"},
+{q:"La hepatitis C es un ejemplo de:",o:["Síndrome","Síntoma","Enfermedad específica (síntomas y signos debidos a una sola causa)","Signo"],a:2,e:"La diapositiva 21 contrapone hepatitis C (enfermedad, una causa) con insuficiencia hepática (síndrome, múltiples causas).",ref:"21"},
+{q:"El síndrome de malabsorción intestinal puede estar causado por:",o:["Solo enfermedad celíaca","Enfermedad celíaca, enfermedad de Crohn o tuberculosis","Solo Crohn","Solo infecciones"],a:1,e:"Un mismo síndrome puede estar causado por enfermedades diferentes (diap. 22).",ref:"22"},
+{q:"El sufijo «-itis» indica:",o:["Proceso degenerativo","Tumor","Inflamación","Malformación"],a:2,e:"-osis: degenerativo; -itis: inflamación; -oma: tumor.",ref:"28"},
+{q:"Son signos (y no síntomas) en el material:",o:["Disnea y astenia","Coluria, hemoptisis y cianosis","Disuria y astenia","Disnea y disuria"],a:1,e:"Los signos de la diapositiva 28: coluria, hemoptisis y cianosis. Síntomas: disnea, astenia, disuria.",ref:"28"},
+{q:"La exploración física clásica comprende:",o:["Anamnesis, palpación, TC y RM","Inspección, palpación, percusión y auscultación","Analítica y ecografía","Solo inspección y auscultación"],a:1,e:"Diapositiva 30: inspección, palpación, percusión y auscultación.",ref:"30"},
+{q:"¿Qué peso tiene en la asignatura la evaluación continua (preguntas cortas)?",o:["10 %","20 %","50 %","70 %"],a:1,e:"Teórica 70 %, continua 20 %, práctica 10 %.",ref:"5"}],
+cortas:[
+{q:"Diferencie síntoma, signo y síndrome. Ponga un ejemplo de cada uno.",a:"Síntoma: lo que refiere el paciente (disnea, astenia, disuria). Signo: hallazgo de la exploración (coluria, hemoptisis, cianosis). Síndrome: conjunto de síntomas y signos que forman un cuadro clínico bien definido y que puede obedecer a distintas causas (insuficiencia hepática, malabsorción).",pts:[["Síntoma = lo que refiere el paciente (ej. disnea)","sintoma"],["Signo = hallazgo de la exploración (ej. cianosis, coluria)","signo"],["Síndrome = conjunto de síntomas y signos / varias causas","sindrome|conjunto"]],ref:"18,28"},
+{q:"¿En qué se diferencian un síndrome y una enfermedad?",a:"La enfermedad agrupa síntomas y signos debidos a una sola causa (hepatitis C); el síndrome agrupa síntomas y signos debidos a múltiples causas (insuficiencia hepática). Tras el diagnóstico sindrómico se debe esclarecer la causa (diagnóstico etiológico).",pts:[["Enfermedad: una sola causa","una sola causa|unica causa|una causa"],["Síndrome: múltiples causas","multiples|varias|diferentes causas"],["Diagnóstico sindrómico seguido del etiológico","etiologic"]],ref:"18,21"},
+{q:"Enumere las partes de la historia clínica y los pasos del método clínico.",a:"Historia clínica: anamnesis (síntoma guía, otros síntomas, antecedentes personales, hábitos tóxicos) y exploración física (inspección, palpación, percusión, auscultación). Después exploraciones complementarias, juicio clínico, diagnóstico, pronóstico y tratamiento.",pts:[["Anamnesis","anamnesis|interrogatorio"],["Exploración física (inspección, palpación, percusión, auscultación)","palpacion|percusion|auscultacion"],["Exploraciones complementarias","complementaria"],["Juicio clínico / diagnóstico","juicio|diagnostico"]],ref:"27,30-31"},
+{q:"Explique las tres orientaciones del positivismo del siglo XIX en el concepto de enfermedad.",a:"Anatomoclínica (Morgagni, Virchow, Laennec): la enfermedad se basa en lesiones. Fisiopatológica (Müller): serie encadenada de hechos físicos y reacciones químicas alteradas. Etiológica (Koch, Pasteur): enfermedad como resultado de un agente externo, microbiano o tóxico.",pts:[["Anatomoclínica (lesiones)","anatomoclinic|lesion"],["Fisiopatológica (Müller)","fisiopatolog|muller"],["Etiológica (Koch, Pasteur; agente externo)","etiologic|koch|pasteur"]],ref:"12"}]};
+
+T[2]={n:2,mod:1,title:"Patología relacionada con el entorno ambiental",short:"Patología ambiental",src:"TEMA 2 PATOLOGIA AMBIENTAL sept 26.pdf",prof:"Dra. E. Montero Hernández",
+resumen:[
+{h:"Agentes ambientales patógenos",ref:"2",pts:[
+"Temperatura, altitud, presión, radiación, electricidad y contaminación."]},
+{h:"Termorregulación (recuerdo fisiológico)",ref:"4-7",pts:[
+"El ser humano es **homeotermo** (37 ºC) con ritmo circadiano (≈0,6 ºC). La Tª **interna** (vísceras; boca/recto) es prioritaria y constante; la **externa** (piel y músculos; axila/ingle) varía para mantener la interna.",
+"Termorreceptores externos/internos → centro termorregulador → **termogénesis** (vasoconstricción cutánea, contracción muscular, ↑metabolismo energético vía SNS, catecolaminas y hormonas tiroideas) o **termólisis** (vasodilatación cutánea, sudación, ventilación pulmonar; radiación, conducción, convección, evaporación).",
+"**Aclimatación al calor** (1-2 semanas): respuesta neuroendocrina (SNS y SRAA), secreción no osmótica de ADH; ↑ gasto cardiaco y volumen intravascular; sudor más abundante y con menos sodio; síntesis de proteínas de shock térmico."]},
+{h:"Trastornos por calor",ref:"8-11",pts:[
+"**Calambres por calor**: contracciones musculares involuntarias, mantenidas y dolorosas tras actividad física intensa que aumenta el calor endógeno; por pérdida extracelular de sodio.",
+"**Agotamiento por calor**: olas de calor en personas no aclimatadas; la termorregulación se conserva y la Tª interna es normal o algo alta; síntomas por depleción hidrosalina (sudor profuso): sed, hipotensión, síncope.",
+"**Golpe de calor**: aumento extremo e incontrolado de la Tª interna + SRIS. **Clásico** (precedido de agotamiento por calor) o **activo** (por ejercicio). Posibles condicionantes genéticos.",
+"Mecanismos: 1) fallo de la termólisis, 2) hipoperfusión del territorio esplácnico, 3) toxicidad celular, 4) síntesis defectuosa de proteínas de shock térmico. La hipoperfusión esplácnica aumenta la permeabilidad intestinal → endotoxemia → citocinas proinflamatorias → SRIS → lesión/muerte celular y MODS.",
+"**Tríada diagnóstica**: exposición a calor, disfunción del SNC y Tª > 40,5 ºC. Predisponentes: edad, obesidad, ropa excesiva, humedad ambiental, depleción de volumen.",
+"**Clásico vs ejercicio**: sujeto sedentario vs deportista; **piel seca/caliente/enrojecida vs húmeda/más fría/pegajosa**; Tª 41 ºC vs 44 ºC; alcalosis respiratoria (por hiperventilación) vs acidosis metabólica (por necrosis tisular)."]},
+{h:"Trastornos por frío",ref:"12-16",pts:[
+"Sistémico: **hipotermia**. Locales: **perniosis, pie de trinchera, congelación**. Otros: **Raynaud, crioaglutininas, urticaria a frigore**.",
+"**Hipotermia**: Tª interna < 35 ºC (leve, moderada, grave). Causa: descenso extremo de la Tª ambiental, no genera calor endógeno, inmersión prolongada en agua fría. Inicialmente se activa la termogénesis (vasoconstricción cutánea → palidez; escalofríos); después se pierde la termorregulación y aparecen efectos directos del frío.",
+"Clínica: **neurológica** (confusión, amnesia, apatía, disartria, coma si Tª < 30 ºC); **circulatoria** (bradicardia, hipotensión, onda J de Osborn, arritmias —FV—, asistolia); **respiratoria** (bradipnea, hipoventilación, menor movimiento ciliar, parada respiratoria); **renal** (poliuria inicial por menor sensibilidad del túbulo a la ADH, oliguria, IR prerrenal).",
+"**Lesiones locales** en zonas acras expuestas: isquemia local, congelación y cristalización del agua intersticial, congelación del agua intracelular."]},
+{h:"Trastornos por altitud",ref:"17-21",pts:[
+"Por encima de ≈2500 m: menor presión atmosférica y de O₂ → **hipoxia hipoxémica**.",
+"**Agudos**: hipoxia súbita (exposición brusca a altitudes extremas, despresurización aguda); **mal de montaña agudo** (primeras horas tras ascenso rápido; el más frecuente y de menor trascendencia); **edema cerebral de gran altitud** y **edema pulmonar de gran altitud**.",
+"Edema cerebral: hipoxia → vasodilatación intracraneal → hiperaflujo y ↑ presión hidrostática capilar → edema vasogénico → HTIC. En el mal de montaña agudo la HTIC se compensa con salida de LCR al espacio subaracnoideo.",
+"Edema pulmonar: activación excesiva del SNS → vasoconstricción no uniforme de arterias pulmonares y de venas pulmonares → ↑ P hidrostática capilar → extravasación a intersticio y alveolos.",
+"**Crónico**: mal de montaña crónico (hipoxia hipoxémica crónica → hipertensión pulmonar y policitemia)."]},
+{h:"Trastornos por presión (disbáricos)",ref:"22-27",pts:[
+"Cambios bruscos de presión ambiental (a 6000 m la P es la mitad; a 10 m de profundidad se duplica). **Ley de Boyle-Mariotte**: relación V–P del gas constante. **Ley de Henry**: a Tª constante, el gas disuelto es proporcional a su P parcial.",
+"Cinco entidades: **I. barotraumatismos** (variaciones del volumen de aire por cambios de P), **II. intoxicación por N**, **III. intoxicación por O₂**, **IV. enfermedad por descompresión**, **V. hipertensión intratorácica**.",
+"Intox. por N: por debajo de 30 m, alta P parcial de N, penetra en tejido nervioso → euforia y trastornos de conducta. Intox. por O₂: tejido nervioso (mareo, espasmos, convulsión) y pulmonar (atelectasia y edema pulmonar).",
+"**Enfermedad por descompresión**: ascenso rápido → descenso brusco de la P parcial de los gases → burbujas gaseosas. Extravasculares: disbarismo mucocutáneo (prurito, lesiones cutáneas), neurológico (paresia, trastornos sensitivos), respiratorio (opresión, disnea, tos). Intravasculares: disbarismo neurológico embólico (isquemia, infarto); también osteonecrosis disbárica.",
+"**Hipertensión intratorácica**: por ascenso brusco en apnea; el aire atrapado aumenta de volumen → neumomediastino, neumotórax, enfisema subcutáneo, embolia gaseosa."]},
+{h:"Radiación, electricidad, contaminación y otros",ref:"28-34",pts:[
+"**Ionizantes**: generan iones; natural o médica; dosis absorbida en gray, dosis equivalente en sievert. Ionización del agua → radicales libres de O₂ → lesión celular; lesión directa del ADN → mutación → defecto de proliferación, necrosis, apoptosis, neoplasias y trastornos hereditarios.",
+"**No ionizantes**: energía vibratoria y rotatoria (luz solar, microondas, radiofrecuencia) → calor local → daño celular. UV: quemadura solar, envejecimiento cutáneo, neoplasias cutáneas, fotosensibilización, oftalmopatía por UV. Microondas/radiofrecuencia: catarata, atrofia testicular.",
+"**Electricidad** (alta/baja tensión): libera calor (quemaduras internas o externas) y estimula estructuras excitables (contracción muscular, pérdida transitoria de conciencia, parada respiratoria, parada cardiaca por FV). La intensidad del efecto depende de la corriente y del receptor (superficie corporal, resistencia, recorrido, p. ej. brazo-brazo).",
+"**Contaminación**: atmosférica (óxidos de N y S → lluvia ácida; óxidos de N, halogenados y ozono → niebla tóxica; nanopartículas; humo de tabaco → enfermedades respiratorias, asma, cáncer de pulmón; sensibilidad química múltiple), acústica y cambio climático (calentamiento global, efecto invernadero, pérdida de capa de ozono, exposición a UV).",
+"**Otros**: síndrome del edificio enfermo (ventilación insuficiente, mala calidad del aire, Legionella), cinetosis, síndrome de huso horario (jet lag), síndrome de la clase turista."]}],
+esquemas:[
+{t:"table",title:"Golpe de calor clásico vs por ejercicio (diap. 11)",head:["","Clásico","Ejercicio"],rows:[
+["Sujeto","Sedentario (mayor edad)","Deportista (joven)"],
+["Piel","Seca, caliente, enrojecida (anhidrosis posible)","Húmeda, más fría, pegajosa (diaforesis)"],
+["Temperatura","41 ºC","44 ºC"],
+["Ácido-base","Alcalosis respiratoria (hiperventilación)","Acidosis metabólica (necrosis tisular)"],
+["Complicaciones (tabla)","Coagulopatía leve; acidosis láctica leve; CK algo elevada; normoglucemia/calcemia/kalemia","CID; acidosis láctica marcada; rabdomiólisis; IR aguda; hipoglucemia/calcemia; hiperkalemia"]],ref:"11"},
+{t:"flow",title:"Mecanismo del golpe de calor (diap. 9-10)",steps:["Calor ambiental y/o ejercicio → ↑ calor corporal","Fallo de termólisis + hipoperfusión esplácnica","↑ permeabilidad intestinal → endotoxemia → citocinas","SRIS → lesión/muerte celular → MODS"],ref:"9-10"},
+{t:"table",title:"Hipotermia: clínica por aparatos",head:["Aparato","Manifestaciones"],rows:[
+["Neurológico","Confusión, amnesia, apatía, disartria, coma (Tª < 30 ºC)"],
+["Circulatorio","Bradicardia, hipotensión, onda J de Osborn, FV, asistolia"],
+["Respiratorio","Bradipnea, hipoventilación, ↓ movimiento ciliar, parada respiratoria"],
+["Renal","Poliuria inicial, oliguria, IR prerrenal"]],ref:"14"},
+{t:"table",title:"Trastornos disbáricos",head:["Entidad","Clave"],rows:[
+["Barotraumatismo","Variación del volumen de aire por cambio de P (Boyle)"],
+["Intoxicación por N","> 30 m; euforia y trastornos de conducta"],
+["Intoxicación por O₂","Convulsión; atelectasia y edema pulmonar"],
+["Enfermedad por descompresión","Ascenso rápido → burbujas (Henry): extra e intravascular"],
+["Hipertensión intratorácica","Ascenso en apnea: neumotórax, neumomediastino, enfisema sc, embolia gaseosa"]],ref:"22-27"}],
+claves:["Golpe de calor: Tª > 40,5 ºC + disfunción del SNC + exposición al calor. Piel seca (clásico) vs húmeda (ejercicio).","Calambres y agotamiento conservan la termorregulación; el golpe de calor la pierde.","Hipotermia < 35 ºC; onda J de Osborn; coma < 30 ºC.","Altitud: hipoxia hipoxémica → edema cerebral (vasogénico) y pulmonar (↑ P hidrostática).","Boyle (volumen) y Henry (gas disuelto) explican los trastornos disbáricos."],
+test:[
+{q:"¿Qué tríada define el golpe de calor?",o:["Fiebre, taquicardia y sudor","Exposición al calor, disfunción del SNC y Tª > 40,5 ºC","Calambres, sed y síncope","Hipotensión, oliguria y acidosis"],a:1,e:"Tríada diagnóstica de la diap. 9.",ref:"9"},
+{q:"¿Qué rasgo corresponde al golpe de calor por ejercicio?",o:["Piel seca y caliente","Piel húmeda, más fría y pegajosa","Alcalosis respiratoria","Paciente sedentario"],a:1,e:"Clásico: piel seca/caliente/enrojecida; ejercicio: húmeda/más fría/pegajosa.",ref:"11"},
+{q:"En el agotamiento por calor:",o:["Se pierde la termorregulación","La Tª interna es normal o ligeramente alta y hay depleción hidrosalina","Hay Tª > 44 ºC","Hay rabdomiólisis siempre"],a:1,e:"Termorregulación conservada; síntomas por depleción hidrosalina (sed, hipotensión, síncope).",ref:"8"},
+{q:"Los calambres por calor se deben a:",o:["Pérdida extracelular de sodio","Exceso de potasio","Hipoxia cerebral","Radiación UV"],a:0,e:"Se producen por pérdida extracelular de sodio.",ref:"8"},
+{q:"La onda J de Osborn aparece en:",o:["Golpe de calor","Hipotermia","Mal de montaña","Enfermedad por descompresión"],a:1,e:"Clínica circulatoria de la hipotermia (diap. 14).",ref:"14"},
+{q:"El edema pulmonar de gran altitud se debe a:",o:["Vasodilatación pulmonar","Activación excesiva del SNS con vasoconstricción pulmonar y ↑ P hidrostática capilar","Descompresión rápida","Policitemia"],a:1,e:"Diap. 19.",ref:"19"},
+{q:"La ley que relaciona el gas disuelto en un líquido con su presión parcial es:",o:["Boyle-Mariotte","Henry","Dalton","Fick"],a:1,e:"Ley de Henry (diap. 22).",ref:"22"},
+{q:"La intoxicación por N en el buceo ocurre:",o:["Por encima de 10 m","Por debajo de 30 m, con euforia y trastornos de conducta","Solo en el ascenso","Con edema pulmonar"],a:1,e:"Diap. 24.",ref:"24"}],
+cortas:[
+{q:"Diferencias en la piel (y otras) entre el golpe de calor clásico y el de ejercicio.",ex:1,a:"Clásico: sujeto sedentario, piel seca, caliente y enrojecida, Tª 41 ºC, alcalosis respiratoria por hiperventilación. Ejercicio: deportista, piel húmeda, más fría y pegajosa, Tª 44 ºC, acidosis metabólica por necrosis tisular.",pts:[["Clásico: piel seca, caliente, enrojecida","seca|caliente|enrojecida"],["Ejercicio: piel húmeda/pegajosa/más fría","humeda|pegajosa|fria|sudor"]],ref:"11"},
+{q:"Mecanismos del golpe de calor.",a:"Fallo de la termólisis, hipoperfusión del territorio esplácnico, toxicidad celular y síntesis defectuosa de proteínas de shock térmico; con endotoxemia, citocinas, SRIS y MODS.",pts:[["Fallo de termólisis","termolisis"],["Hipoperfusión esplácnica","esplacnic"],["Toxicidad celular","toxicidad"],["Proteínas de shock térmico","shock termico"]],ref:"9-10"},
+{q:"Clínica de la hipotermia.",a:"Neurológica (confusión, coma < 30 ºC), circulatoria (bradicardia, hipotensión, onda J, FV), respiratoria (bradipnea, parada) y renal (poliuria, oliguria, IR prerrenal).",pts:[["Neurológica","neurolog|confusion|coma"],["Circulatoria","bradicardia|osborn|arritmia"],["Respiratoria","respirat|bradipnea"],["Renal","renal|poliuria|oliguria"]],ref:"13-14"},
+{q:"Enfermedad por descompresión: mecanismo y clínica.",a:"Ascenso rápido → descenso brusco de la P parcial de los gases → burbujas. Extravasculares: mucocutáneo, neurológico, respiratorio. Intravasculares: neurológico embólico y osteonecrosis disbárica.",pts:[["Ascenso rápido / burbujas","ascenso|burbuja"],["Extravascular (mucocutáneo, neurológico, respiratorio)","mucocutane|neurolog|respirat"],["Intravascular/embólico u osteonecrosis","embolic|osteonecrosis|intravascular"]],ref:"25-26"}]};
+
+T[3]={n:3,mod:1,title:"Agentes vivos como causa de enfermedad. Síndrome general infeccioso",short:"Agentes vivos e infección",src:"TEMA 3. FP y SM I. Agentes vivos.pdf",prof:"Dr. Vargas",
+resumen:[
+{h:"Concepto e interacción microorganismo-huésped",ref:"5-6",pts:[
+"**Infección**: formas de interacción entre un microorganismo (bacterias, virus, hongos, parásitos) y un huésped, cuya defensa fundamental es la respuesta inmune. Tres elementos: mecanismos de **agresión**, de **defensa** y de **evasión**.",
+"**Colonización**: agente **comensal** sin expresión clínica; la microbiota tiene efecto protector.",
+"**Enfermedad infecciosa**: agente **patógeno** que prolifera y se disemina localmente, evita las defensas, lesiona o disfunciona las células y eventualmente se disemina a distancia.",
+"**Patógeno primario**: causa enfermedad por sí mismo. **Oportunista**: la causa por alteración de las defensas (con frecuencia es comensal)."]},
+{h:"Exposición: reservorio, fuente, transmisión",ref:"7-11",pts:[
+"Se requiere: reservorio, fuente de infección, mecanismo de transmisión y puerta de entrada.",
+"**Reservorio**: hábitat donde el agente vive y se multiplica normalmente. Ambiental (agua: Legionella; suelo: Clostridium tetani), animal (zoonosis: Brucella), hombre (enfermo, portador sano, convalecencia o incubación: Salmonella typhi).",
+"**Fuente de infección**: puede coincidir con el reservorio (sarampión: el ser humano) o ser un hábitat ocasional (virus A: reservorio intestino humano, fuente agua contaminada).",
+"**Transmisión directa**: contacto físico (ETS), mordedura o herida con objeto contaminado, vertical (madre-hijo).",
+"**Indirecta**: agua/alimentos contaminados (enterobacterias, virus A, toxina de S. aureus), fómites (ropa, fonendoscopio), inoculación parenteral (virus B, C, VIH), vectores (garrapata, mosquito) y microgotitas inhaladas."]},
+{h:"Etapas de una infección",ref:"13-17",pts:[
+"**Contacto**: Gram − se unen por pili/fimbrias a receptores hidrocarbonados; Gram + mediante fibrillas con ácido lipoteicoico que se une a fibronectina. Virus: VIH–CD4; rinovirus–ICAM-1; SARS-CoV-2 (proteína S)–ACE-2.",
+"**Proliferación e invasión local**: biocapas (↑ virulencia y resistencia).",
+"**Diseminación sistémica**: vía linfática o sanguínea (bacteriemia, viremia, fungemia), neural, conductos naturales, serosas, LCR. Tropismos: válvulas cardiacas–estreptococos viridans; meninges–meningococo; placas de ateroma–salmonella.",
+"**Multiplicación**: extracelulares; **intracelulares facultativos** (M. tuberculosis, Brucella, Salmonella; sobreviven en macrófagos); **intracelulares obligados** (virus, rickettsias, chlamydias, Toxoplasma, Leishmania).",
+"**Lesión tisular**: daño celular directo (efecto citopático), **exotoxinas** (citotóxicas o funcionales: Vibrio cholerae–enterotoxina; C. botulinum–neurotoxina) y **endotoxina** (lipopolisacárido de Gram −, PAMP; induce mediadores inflamatorios en macrófagos vía TLR y NF-κB)."]},
+{h:"Defensa, inmunodepresión y evasión",ref:"18-23",pts:[
+"**Barreras naturales**: integridad de piel/mucosa/conjuntiva; pH ácido (gástrico, cutáneo, vaginal–Lactobacillus); arrastre (cilios, orina, lágrimas–lisozima); microbiota; pérdida de receptores (Plasmodium).",
+"**Inmunodeprimidos**: pérdida de barreras cutáneomucosas → S. epidermidis, S. aureus; neutrófilos → Cándida, Aspergillus; complemento → S. pneumoniae, H. influenzae; células T → M. tuberculosis, Toxoplasma, C. neoformans, P. jirovecii; células B → bacterias encapsuladas (falta de opsonización).",
+"**Evasión**: exclusión anatómica (quistes, E. granulosus); oponerse a la fagocitosis (cápsula: S. pneumoniae, H. influenzae); inhibir la fusión fagosoma-lisosoma; inhibir el complemento (N. meningitidis, ácido siálico); inhibir el interferón (SARS-CoV-2); variación antigénica; células supresoras."]},
+{h:"Síndrome general infeccioso",ref:"24-28",pts:[
+"Manifestaciones locales (según germen y órgano) y generales: síndrome infeccioso **agudo** (común o grave–sepsis) y **crónico**.",
+"**Etapas del agudo**: 1) **incubación** (desde el contacto hasta el inicio de la clínica); 2) **prodrómico** (inespecífico: malestar, fiebre, mialgias); 3) **fase aguda** (manifestaciones locales y sistémicas); 4) **resolución** (hasta que desaparece la clínica); 5) **convalecencia** (tras desaparecer la clínica hasta el control de la infección).",
+"**Agudo común**: fiebre con cortejo febril (taquicardia, taquipnea, sudoración, sequedad de boca, orina concentrada, somnolencia); malestar general (astenia, anorexia, artralgias, mialgias, cefalea); analítica: neutrofilia (bacterias) o linfocitosis (virus), reactantes de fase aguda y VSG elevados.",
+"**Crónico**: fiebre/febrícula, astenia, anorexia y adelgazamiento; el agente persiste y la respuesta inmune es insuficiente (VHB, VHC)."]},
+{h:"SIRS, SOFA y qSOFA",ref:"30-34",pts:[
+"**SRIS**: ≥ 2 de: Tª > 38 ºC o < 36 ºC; FC > 90 lpm; FR > 20 rpm o pCO₂ < 32 mmHg; leucocitos > 12.000 o < 4.000, o > 10 % de cayados.",
+"Consecuencias: vasodilatación sistémica (shock por vasodilatación), lesión tisular sistémica (inflamación + hipoxia isquémica) y síndrome de disfunción multiorgánica.",
+"**SOFA**: respiración (pO₂/SatO₂), coagulación (plaquetas), hígado (bilirrubina), cardiovascular (TA), SNC (Glasgow), renal (creatinina, diuresis).",
+"**qSOFA**: Glasgow ≤ 13, TAS ≤ 100 mmHg, FR ≥ 22 rpm. **2 de 3** → alta probabilidad de evolución desfavorable."]}],
+esquemas:[
+{t:"flow",title:"Fases del síndrome infeccioso agudo (diap. 26)",steps:["Incubación","Prodrómico","Fase aguda","Resolución","Convalecencia"],ref:"26"},
+{t:"flow",title:"Etapas de una infección (diap. 13-17)",steps:["Contacto con el huésped","Proliferación e invasión local","Diseminación sistémica","Multiplicación intra/extracelular","Disfunción y lesión tisular"],ref:"13-17"},
+{t:"table",title:"Inmunodeficiencia → microorganismos (diap. 22)",head:["Defecto","Microorganismos"],rows:[
+["Barreras cutáneomucosas","S. epidermidis, S. aureus"],["Neutrófilos","Cándida, Aspergillus"],["Complemento","S. pneumoniae, H. influenzae"],["Células T","M. tuberculosis, Toxoplasma, C. neoformans, P. jirovecii"],["Células B","Bacterias encapsuladas"]],ref:"22"},
+{t:"table",title:"SRIS vs qSOFA",head:["","SRIS (≥ 2)","qSOFA (2 de 3)"],rows:[
+["Temperatura","> 38 ºC o < 36 ºC","—"],["Frecuencia cardiaca","> 90 lpm","—"],["Respiración","FR > 20 o pCO₂ < 32","FR ≥ 22"],["Leucocitos","> 12.000 o < 4.000 o > 10 % cayados","—"],["Neurológico / TA","—","Glasgow ≤ 13; TAS ≤ 100"]],ref:"31,34"}],
+claves:["Infección = agresión + defensa + evasión.","Cadena: reservorio → fuente → transmisión → puerta de entrada.","Agudo: incubación, prodrómico, aguda, resolución, convalecencia.","Endotoxina (Gram −, LPS) activa macrófagos por TLR/NF-κB.","qSOFA: Glasgow ≤ 13, TAS ≤ 100, FR ≥ 22 (2 de 3)."],
+test:[
+{q:"¿Cuál es la secuencia correcta del síndrome infeccioso agudo?",o:["Prodrómico, incubación, aguda, resolución, convalecencia","Incubación, prodrómico, aguda, resolución, convalecencia","Incubación, aguda, prodrómico, convalecencia, resolución","Aguda, incubación, prodrómico, resolución, convalecencia"],a:1,e:"Diap. 26.",ref:"26"},
+{q:"Un patógeno oportunista:",o:["Causa enfermedad por sí mismo","Causa enfermedad por alteración de los mecanismos de defensa","Nunca es comensal","Solo infecta a niños"],a:1,e:"Diap. 6.",ref:"6"},
+{q:"La endotoxina es:",o:["Una proteína de Gram +","Un lipopolisacárido de la pared de Gram −","Una neurotoxina","Un fómite"],a:1,e:"Diap. 17; actúa como PAMP vía TLR y NF-κB.",ref:"17"},
+{q:"Una zoonosis como Brucella tiene reservorio:",o:["Ambiental","Animal","Humano","Fómite"],a:1,e:"Diap. 8.",ref:"8"},
+{q:"La unión de SARS-CoV-2 al huésped se realiza por:",o:["CD4","ICAM-1","Proteína S con ACE-2","Fibronectina"],a:2,e:"Diap. 13 (VIH: CD4; rinovirus: ICAM-1).",ref:"13"},
+{q:"El déficit de células T predispone a:",o:["S. pneumoniae","Candida","M. tuberculosis, Toxoplasma, C. neoformans, P. jirovecii","S. epidermidis"],a:2,e:"Diap. 22.",ref:"22"},
+{q:"Criterios de qSOFA:",o:["Glasgow ≤ 13, TAS ≤ 100, FR ≥ 22","Tª > 38, FC > 90, FR > 20","Plaquetas, bilirrubina, creatinina","Leucocitos > 12.000"],a:0,e:"Diap. 34; 2 de 3.",ref:"34"},
+{q:"En el síndrome infeccioso agudo común, una infección vírica cursa típicamente con:",o:["Neutrofilia","Linfocitosis","Eosinofilia","Leucopenia grave"],a:1,e:"Neutrofilia en bacterias, linfocitosis en virus.",ref:"27"}],
+cortas:[
+{q:"Fases del síndrome de infección aguda.",ex:2,a:"Incubación, periodo prodrómico (inespecífico: malestar, fiebre, mialgias), fase aguda (manifestaciones locales y sistémicas), fase de resolución y fase de convalecencia.",pts:[["Incubación","incubacion"],["Prodrómico","prodromic"],["Fase aguda","aguda"],["Resolución","resolucion"],["Convalecencia","convalecencia"]],ref:"26"},
+{q:"Cadena de exposición: qué se requiere para que se produzca una infección.",a:"Reservorio, fuente de infección, mecanismo de transmisión (directo o indirecto) y puerta de entrada.",pts:[["Reservorio","reservorio"],["Fuente de infección","fuente"],["Mecanismo de transmisión","transmision"],["Puerta de entrada","puerta"]],ref:"7-11"},
+{q:"Criterios de SRIS y qSOFA.",a:"SRIS (≥ 2): Tª > 38 o < 36 ºC, FC > 90, FR > 20 o pCO₂ < 32, leucocitos > 12.000 o < 4.000 o > 10 % cayados. qSOFA: Glasgow ≤ 13, TAS ≤ 100, FR ≥ 22 (2 de 3).",pts:[["Temperatura","temperatura|38"],["Taquicardia > 90","90|taquicardia"],["Leucocitos","leucocit"],["Glasgow ≤ 13","glasgow"],["TAS ≤ 100","100|sistolic"]],ref:"31,34"},
+{q:"Mecanismos de evasión de la respuesta inmune por los microorganismos.",a:"Exclusión anatómica (quistes), oposición a la fagocitosis (cápsula), inhibición de la fusión fagosoma-lisosoma, inhibición del complemento o del interferón, variación antigénica y células supresoras.",pts:[["Cápsula / fagocitosis","capsula|fagocitosis"],["Inhibición del complemento/interferón","complemento|interferon"],["Variación antigénica","variacion|antigen"],["Exclusión anatómica (quistes)","quiste|anatomic"]],ref:"23"}]};
+
+T[4]={n:4,mod:1,title:"Síndrome de respuesta inflamatoria sistémica. Síndrome febril",short:"Inflamación, SIRS y fiebre",src:"TEMA 4. FP y SM I. SIRS.pdf",prof:"Dr. Vargas",
+resumen:[
+{h:"Mecanismos de defensa",ref:"2",pts:[
+"**1ª línea (inmunidad innata)**: barreras físicas (piel y mucosas); células (macrófagos, neutrófilos, NK); moléculas solubles (RFA, citocinas, complemento).",
+"**2ª línea (inmunidad adquirida)**: linfocitos y anticuerpos."]},
+{h:"Inflamación",ref:"7-11",pts:[
+"**Definición**: reacción de un tejido vivo al daño celular causado por agresiones externas o internas, con objeto de **limitar el daño celular, eliminar el agente causal y procurar la reparación** del tejido dañado. Intervienen PMN, monocitos y mediadores químicos (histamina, citocinas, bradicinina, óxido nítrico, complemento).",
+"Es el paradigma de la respuesta inmune inespecífica: fenómenos tisulares locales (vasodilatación y disfunción endotelial) + manifestaciones sistémicas (reacción de fase aguda).",
+"**Manifestaciones locales**: dolor, calor y rubor, tumor e insuficiencia funcional.",
+"**Reacción de fase aguda**: clínica (anorexia, pérdida de peso, **fiebre**) y alteraciones biológicas (anemia inflamatoria, leucocitosis neutrofílica, trombocitosis, reactantes de fase aguda)."]},
+{h:"Reactantes de fase aguda (RFA)",ref:"12-13",pts:[
+"**Positivos** (↑ síntesis hepática por citocinas proinflamatorias, sobre todo **IL-6**): proteína C reactiva, precursor sérico de amiloide A, antiproteasas, α1-glucoproteína ácida, haptoglobina, ceruloplasmina, fibrinógeno, complemento, ferritina.",
+"**Negativos**: albúmina y transferrina.",
+"Acciones: potencian la inflamación (PCR: opsonizante, activa complemento); antiinflamatorias (PCR estimula el antagonista del receptor de IL-1); limitan la lesión (ceruloplasmina inhibe radicales libres; antiproteasas inhiben enzimas proteolíticas); reparación (fibrinógeno promueve proliferación celular; haptoglobina estimula angiogénesis)."]},
+{h:"SIRS, MODS, CARS y sepsis",ref:"14-19,36",pts:[
+"**SIRS**: resultado de una inflamación generalizada con posible lesión tisular, producida por citocinas proinflamatorias (lesión y muerte celular).",
+"Criterios (≥ 2): Tª > 38 o < 36 ºC; FC > 90; FR > 20 o pCO₂ < 32; leucocitos > 12.000 o < 4.000 o > 10 % de cayados.",
+"Consecuencias: vasodilatación sistémica (shock por vasodilatación) y lesión tisular sistémica (inflamación + hipoxia isquémica) → **MODS**. **CARS**: respuesta antiinflamatoria compensatoria.",
+"**DAMP**: patrón molecular asociado a daño (restos celulares necróticos). **PAMP**: asociado a patógenos (endotoxina, lipopolisacárido).",
+"**Sepsis = SIRS de origen infeccioso**."]},
+{h:"Fiebre",ref:"20-31",pts:[
+"**Definición**: elevación de la Tª por encima de las oscilaciones normales por acción de **pirógenos sobre el centro termorregulador** (↑ del punto de control del termostato hipotalámico). Fiebre desde 37,5 ºC; febrícula entre 37 y 37,5 ºC.",
+"Tª normal (Mackowiak): oscilación 35,6–38,2 ºC; media 36,8 ± 0,4 ºC.",
+"Elevaciones fisiológicas: ritmo circadiano (vespertina), ejercicio, ingesta, estrés emocional, Tª ambiental alta, segunda fase del ciclo menstrual, embarazo (progesterona).",
+"Causas: infección, alteración inmunológica (hipersensibilidad, vasculitis, colagenosis), necrosis tisular, hemopatías, neoplasias, enfermedades metabólicas, fiebre facticia.",
+"Patogenia: citocinas proinflamatorias (fundamentalmente **IL-1 y TNF-α**) con actividad de **pirógeno endógeno**.",
+"**Fases**: **inicio** (acumulación de calor endógeno, escalofríos, sensación de frío, ↑ progresiva de Tª, corta); **estado** (activa termólisis: vasodilatación cutánea, sudoración, taquipnea); **crisis** (sudoración intensa; la termólisis supera la termogénesis).",
+"Síndrome febril: elevación térmica, síntomas generales (escalofríos, sudación, cefalea, anorexia, malestar, taquicardia, taquipnea), mialgias, alteraciones neurológicas, herpes labial, alteraciones analíticas.",
+"Significado biológico: beneficiosa en infecciones leves (acelera la recuperación); perjudicial en graves (deshidratación, catabolismo muscular). Complicaciones: agravamiento de IC/respiratoria/renal, demencia, convulsiones en epilépticos, convulsiones febriles, fiebre prolongada (pérdida de peso, masa muscular y matriz ósea)."]},
+{h:"Caso clínico de la clase",ref:"37-44",pts:[
+"Mujer de 75 años con colelitiasis, dolor en hipocondrio derecho, escalofríos y fiebre 39 ºC; leucocitos 18.630 con 6 % de cayados, PCR 21 mg/dl, hemocultivo E. coli; ecografía: pared vesicular engrosada y cálculos → **colecistitis aguda**.",
+"A las 24 h: disminución de conciencia, TA 85/70, SaO₂ 68 %, plaquetas 92.000, creatinina 2,1, actividad de protrombina 65 % → **shock séptico** con disfunción multiorgánica."]}],
+esquemas:[
+{t:"flow",title:"Fases del proceso febril (diap. 27)",steps:["Inicio: escalofríos, ↑ Tª progresiva","Estado: termólisis activada (vasodilatación, sudor, taquipnea)","Crisis: sudoración intensa, termólisis > termogénesis"],ref:"27"},
+{t:"table",title:"Reactantes de fase aguda",head:["Tipo","Ejemplos"],rows:[
+["Positivos (IL-6 → hígado)","PCR, amiloide A, antiproteasas, α1-glucoproteína ácida, haptoglobina, ceruloplasmina, fibrinógeno, complemento, ferritina"],
+["Negativos","Albúmina, transferrina"]],ref:"12"},
+{t:"flow",title:"Patogenia de la fiebre",steps:["Agresión (infección, necrosis, etc.)","Citocinas pirógenas: IL-1, TNF-α (e IL-6)","Hipotálamo: ↑ punto de control del termostato","Termogénesis ↑ → fiebre"],ref:"25-26,35"},
+{t:"flow",title:"Sepsis → shock séptico",steps:["Infección (PAMP)","SIRS (citocinas)","Vasodilatación sistémica / shock","MODS"],ref:"15-19"}],
+claves:["Inflamación: limitar el daño, eliminar el agente causal y reparar el tejido.","Locales: dolor, calor, rubor, tumor, impotencia funcional. Sistémica: reacción de fase aguda.","RFA positivos por IL-6 en el hígado; negativos: albúmina y transferrina.","Fiebre = pirógenos (IL-1, TNF) que suben el punto del termostato; fases inicio, estado, crisis.","Sepsis = SIRS de causa infecciosa."],
+test:[
+{q:"La inflamación se define como:",o:["Aumento de temperatura central por pirógenos","Reacción de un tejido vivo al daño celular para limitar el daño, eliminar el agente causal y reparar","Respuesta exclusiva de la inmunidad adquirida","Proceso siempre infeccioso"],a:1,e:"Diap. 7.",ref:"7"},
+{q:"Son reactantes de fase aguda negativos:",o:["PCR y fibrinógeno","Albúmina y transferrina","Ferritina y haptoglobina","Complemento y ceruloplasmina"],a:1,e:"Diap. 12.",ref:"12"},
+{q:"La citocina que estimula principalmente la síntesis hepática de RFA es:",o:["IL-6","IL-2","IFN-γ","IL-4"],a:0,e:"Diap. 12 y 34.",ref:"12,34"},
+{q:"Los pirógenos endógenos fundamentales son:",o:["IL-1 y TNF-α","Histamina y bradicinina","Albúmina y transferrina","Endotoxina únicamente"],a:0,e:"Diap. 35.",ref:"35"},
+{q:"En la fase de crisis de la fiebre:",o:["Aparecen escalofríos","Hay sudoración intensa y la termólisis supera a la termogénesis","Se eleva el termostato","No hay cambios"],a:1,e:"Diap. 27.",ref:"27"},
+{q:"La sepsis es:",o:["SIRS de origen infeccioso","Inflamación local","Fiebre prolongada","CARS"],a:0,e:"Diap. 36.",ref:"36"},
+{q:"El MODS es:",o:["Síndrome de disfunción multiorgánica","Síndrome de respuesta antiinflamatoria compensatoria","Síndrome de respuesta inflamatoria sistémica","Patrón molecular de daño"],a:0,e:"Diap. 18-19: CARS es el antiinflamatorio compensatorio.",ref:"18"},
+{q:"Es una elevación fisiológica de la temperatura:",o:["Segunda fase del ciclo menstrual","Infección","Neoplasia","Fiebre facticia"],a:0,e:"Diap. 23.",ref:"23"}],
+cortas:[
+{q:"Defina inflamación.",ex:3,a:"Reacción de un tejido vivo al daño celular causado por agresiones externas o internas, con objeto de limitar el daño celular, eliminar el agente causal y procurar la reparación del tejido dañado. Intervienen PMN, monocitos y mediadores químicos (histamina, citocinas, bradicinina, óxido nítrico, complemento).",pts:[["Reacción de un tejido vivo al daño celular","tejido vivo|dano celular|agresion"],["Limitar el daño / eliminar el agente causal","limitar|eliminar|agente causal"],["Reparación del tejido","repar"],["Mediadores (histamina, citocinas, etc.)","mediador|histamina|citocina"]],ref:"7"},
+{q:"Manifestaciones locales y sistémicas de la inflamación.",a:"Locales: dolor, calor y rubor, tumor e insuficiencia funcional. Sistémicas (reacción de fase aguda): anorexia, pérdida de peso, fiebre, anemia inflamatoria, leucocitosis, trombocitosis y RFA.",pts:[["Dolor, calor, rubor, tumor","dolor|calor|rubor|tumor"],["Insuficiencia funcional","funcional"],["Fiebre","fiebre"],["Reactantes de fase aguda","reactante|fase aguda"]],ref:"10-11"},
+{q:"Fases del proceso febril y mecanismo de la fiebre.",a:"Inicio (calor endógeno, escalofríos), estado (termólisis: vasodilatación, sudor, taquipnea) y crisis (sudoración intensa). Pirógenos (IL-1, TNF-α) elevan el punto de control hipotalámico.",pts:[["Fase de inicio","inicio"],["Fase de estado","estado"],["Fase de crisis","crisis"],["IL-1/TNF pirógenos","il1|il-1|tnf|pirogeno"]],ref:"20,27,35"},
+{q:"Criterios de SIRS y relación con sepsis, MODS y CARS.",a:"SIRS ≥ 2 de: Tª > 38/< 36, FC > 90, FR > 20 o pCO₂ < 32, leucocitos > 12.000/< 4.000 o > 10 % cayados. Sepsis = SIRS infeccioso; puede evolucionar a shock y MODS; CARS es la respuesta antiinflamatoria compensatoria.",pts:[["Criterios (Tª, FC, FR, leucocitos)","temperatura|frecuencia|leucocit"],["Sepsis = SIRS infeccioso","sepsis|infeccios"],["MODS","modS|multiorg"],["CARS antiinflamatoria","cars|antiinflamatoria"]],ref:"17-19,36"}]};
+
+T[5]={n:5,mod:1,title:"Patología tumoral",short:"Patología tumoral",src:"TEMA 5 Patologia tumoral.pdf",prof:"Dra. E. Montero Hernández",
+resumen:[
+{h:"Concepto e importancia",ref:"3-7",pts:[
+"**Tumor ≈ neoplasia**; sufijo «-oma»; prefijo según el tejido de origen (sarcomas, carcinomas).",
+"Neoplasia: crecimiento excesivo y sin control de una célula originaria. Se distinguen **benignos y malignos** según grado de diferenciación celular, velocidad de crecimiento y capacidad de invasión (local y a distancia).",
+"El riesgo aumenta con la edad (acumulación de alteraciones) y con factores ambientales y de estilo de vida. En 2024 el cáncer pasó a ser la primera causa de mortalidad en España, por encima de las enfermedades circulatorias."]},
+{h:"Carcinogénesis",ref:"11-13",pts:[
+"Tres bloques de biología: carcinogénesis, progresión (crecimiento) y defensa antitumoral.",
+"Conductores oncogénicos (drivers): **oncogenes, genes supresores, carcinógenos, herencia** y otros factores → mutaciones → proliferación excesiva y descontrolada.",
+"Mutaciones: activación de protooncogenes, inactivación de antioncogenes, inhibición de apoptosis, activación de telomerasas."]},
+{h:"Oncogenes y supresores",ref:"13-16",pts:[
+"**Protooncogén**: gen normal que regula proliferación, supervivencia y diferenciación; al mutar → **oncogén** y oncoproteínas.",
+"Tipos: factores de crecimiento (PDGF, FGF); receptores (HER2/ERBB2, EGFR); proteínas de señalización (RAS, ABL); factores de transcripción (MYC, JUN, FOS); reguladores del ciclo (CCND1, ciclina D1); antiapoptóticas (BCL2).",
+"**Genes supresores** (p53, pRB): normalmente inhiben la proliferación; su mutación → pérdida del control del ciclo celular. **Reparadores del ADN** (comportamiento recesivo): su mutación → inestabilidad genética."]},
+{h:"Carcinógenos y herencia",ref:"17-20",pts:[
+"**Químicos**: iniciadores (hidrocarburos aromáticos, nitrosaminas, amianto, alquilantes, alcohol); promotores (estrógenos, testosterona). **Físicos**: radiaciones ionizantes y UV. **Biológicos**: VPH, VHB, VHC, VEB, Helicobacter.",
+"La mayoría de los cánceres **no son hereditarios**. En algunas personas hay una mutación germinal (sobre todo en genes supresores) que aumenta la susceptibilidad; hace falta que el otro alelo mute.",
+"AD (un alelo mutado): retinoblastoma (RB), poliposis adenomatosa familiar (APC), Li-Fraumeni (p53), mama y ovario (BRCA1/2). AR (ambos alelos): ataxia-telangiectasia (ATM).",
+"**Hereditario** (alteración germinal transmisible) vs **familiar** (mayor frecuencia en la familia sin síndrome definido) vs **esporádico** (la mayoría)."]},
+{h:"Progresión y defensa antitumoral",ref:"21-27",pts:[
+"Progresión: crecimiento tumoral, acumulación de mutaciones (subclones), **angiogénesis**, invasión regional, **metástasis** y resistencia a apoptosis.",
+"Tiempo de duplicación = velocidad de crecimiento; **fracción de crecimiento** = % de células que se dividen (mayor agresividad y rapidez, pero mayor sensibilidad al tratamiento; menor en fases avanzadas).",
+"Angiogénesis: promotores (oncogén RAS, VEGF → HIF-1) y déficit de antiangiogénicos; formas: tradicional, por partición, mimetismo vascular y secuestro de vasos.",
+"Invasión/metástasis: pérdida de adhesión (cadherina E) → paso por la matriz (metaloproteinasas) → diseminación linfática o hematógena → implantes a distancia (según localización anatómica, factores quimiotácticos, moléculas de adhesión y factores de crecimiento).",
+"Defensa: inespecífica (NK, macrófagos activados por Th1, TNF-α) y específica (linfocitos T citotóxicos). **Evasión**: sustancias inmunosupresoras, falta de moléculas coestimuladoras o HLA-I, expresión de ligandos de Fas o PD-1."]},
+{h:"Manifestaciones y marcadores",ref:"30-32",pts:[
+"**Síndromes paraneoplásicos** (por sustancias del tumor o reacción autoinmune): endocrinos (Cushing por ACTH, SIADH), metabólicos (hipercalcemia, hipoglucemia), neurológicos (Eaton-Lambert, alteración cerebelosa), hematológicos (eritropoyetina, trombosis), cutáneos (dermatomiositis, acantosis nigricans), glomerulonefritis membranosa (linfomas), miastenia (timoma), osteoartropatía hipertrófica (Ca. pulmón), tromboflebitis migrans (Trousseau; Ca. páncreas).",
+"**Marcadores tumorales**: sustancias detectadas en suero por encima de lo normal; pocos útiles para diagnóstico (S y E variables), muy útiles para respuesta al tratamiento y recurrencias.",
+"Histológicos (en biopsia): HER2, RE, RP, Ki-67, PD-L1. Serológicos: oncofetales (AFP–hígado; CEA–colon, páncreas), hormonas (hCG–testículo; calcitonina–Ca. medular de tiroides; catecolaminas–feocromocitoma), glucoproteínas (PSA–próstata; CA 125–ovario; CA 19-9–páncreas, colon; CA 15,3–mama)."]}],
+esquemas:[
+{t:"flow",title:"Biología del cáncer",steps:["Agentes etiológicos → mutaciones","Crecimiento local","Angiogénesis → invasión → metástasis","Escape inmunológico → manifestaciones clínicas"],ref:"12"},
+{t:"table",title:"Protooncogenes por función",head:["Tipo","Ejemplos"],rows:[["Factores de crecimiento","PDGF, FGF"],["Receptores","HER2/ERBB2, EGFR"],["Señalización","RAS, ABL"],["Factores de transcripción","MYC, JUN, FOS"],["Ciclo celular","CCND1"],["Antiapoptóticas","BCL2"]],ref:"15"},
+{t:"table",title:"Marcadores serológicos",head:["Marcador","Tumor"],rows:[["AFP","Hígado"],["CEA","Colon, páncreas"],["hCG","Testicular"],["Calcitonina","Ca. medular de tiroides"],["PSA","Próstata"],["CA 125","Ovario"],["CA 19-9","Páncreas, colon"],["CA 15,3","Mama"]],ref:"32"},
+{t:"table",title:"Herencia en cáncer",head:["Patrón","Ejemplos"],rows:[["AD (un alelo)","RB, APC, p53 (Li-Fraumeni), BRCA1/2"],["AR (dos alelos)","ATM (ataxia-telangiectasia)"]],ref:"18"}],
+claves:["Cáncer = mutaciones en oncogenes (ganancia) y supresores (pérdida) que dan crecimiento sin control.","La mayoría de cánceres son esporádicos; en los hereditarios se hereda la susceptibilidad.","Progresión: angiogénesis (VEGF), pérdida de cadherina E, metaloproteinasas, metástasis.","Evasión inmune: pérdida de HLA-I, PD-1/Fas.","Los marcadores sirven sobre todo para seguimiento."],
+test:[
+{q:"Un protooncogén es:",o:["Un gen supresor","Un gen normal que regula proliferación, supervivencia y diferenciación","Un virus","Un carcinógeno químico"],a:1,e:"Diap. 13.",ref:"13"},
+{q:"Son genes supresores de tumores:",o:["RAS y MYC","p53 y pRB","BCL2 y HER2","VEGF y HIF-1"],a:1,e:"Diap. 16.",ref:"16"},
+{q:"El síndrome de Li-Fraumeni se asocia al gen:",o:["RB","APC","p53","ATM"],a:2,e:"Diap. 18.",ref:"18"},
+{q:"La pérdida de adhesión celular en la invasión depende de:",o:["Cadherina E","VEGF","PD-1","IGF"],a:0,e:"Diap. 25.",ref:"25"},
+{q:"¿Qué marcador se asocia a cáncer de próstata?",o:["CA 125","PSA","AFP","CA 15,3"],a:1,e:"Diap. 32.",ref:"32"},
+{q:"Tromboflebitis migrans (Trousseau) se asocia a:",o:["Cáncer de páncreas","Timoma","Cáncer de pulmón","Linfoma"],a:0,e:"Diap. 31.",ref:"31"},
+{q:"Es mecanismo de evasión inmune tumoral:",o:["Expresión de HLA-I elevada","Expresión del ligando de PD-1/Fas y falta de coestimuladores","Activación de NK","Aumento de TNF-α"],a:1,e:"Diap. 27.",ref:"27"},
+{q:"Los marcadores tumorales son especialmente útiles para:",o:["Diagnóstico precoz de todo cáncer","Evaluar respuesta al tratamiento y recurrencias","Clasificar benigno/maligno","Reemplazar la biopsia"],a:1,e:"Diap. 32.",ref:"32"}],
+cortas:[
+{q:"Diferencie oncogenes y genes supresores de tumores.",a:"Los protooncogenes son genes normales que regulan proliferación, supervivencia y diferenciación; mutados dan oncogenes y oncoproteínas (RAS, MYC, HER2, BCL2). Los supresores (p53, pRB) inhiben la proliferación; su mutación hace perder el control del ciclo; los reparadores de ADN causan inestabilidad genética.",pts:[["Protooncogén → oncogén","protooncogen|oncogen"],["Supresores inhiben proliferación (p53, pRB)","supresor|p53|prb"],["Reparadores del ADN / inestabilidad","reparador|inestabilidad"]],ref:"13-16"},
+{q:"Etapas de la progresión del cáncer hasta la metástasis.",a:"Crecimiento tumoral, angiogénesis (VEGF), pérdida de adhesión (cadherina E), paso de la matriz (metaloproteinasas), diseminación linfática/hematógena e implantes a distancia.",pts:[["Angiogénesis","angiogenesis|vegf"],["Pérdida de adhesión / cadherina","adhesion|cadherina"],["Metaloproteinasas / matriz","metaloproteinasa|matriz"],["Diseminación linfática/hematógena","linfatica|hematogena"]],ref:"24-25"},
+{q:"Cite síndromes paraneoplásicos.",a:"Endocrinos (Cushing por ACTH, SIADH), metabólicos (hipercalcemia, hipoglucemia), neurológicos (Eaton-Lambert), hematológicos (eritropoyetina, trombosis), cutáneos (dermatomiositis, acantosis nigricans).",pts:[["Endocrinos (Cushing/SIADH)","cushing|siadh"],["Metabólicos (hipercalcemia)","hipercalcemia|hipoglucemia"],["Neurológicos (Eaton-Lambert)","eaton|neurolog"],["Cutáneos/hematológicos","acantosis|dermatomiositis|trombosis|eritropoyetina"]],ref:"30-31"},
+{q:"Hereditario, familiar y esporádico: diferencias.",a:"Hereditario: alteración germinal transmisible que aumenta el riesgo. Familiar: mayor frecuencia en una familia sin síndrome definido (genética, ambiente, hábitos). Esporádico: sin predisposición conocida; la mayoría.",pts:[["Hereditario: germinal","germinal|hereditario"],["Familiar: sin síndrome definido","familiar"],["Esporádico: mayoría","esporadico|mayoria"]],ref:"19"}]};
+
+T[6]={n:6,mod:1,title:"Síndrome edematoso",short:"Edema",src:"TEMA 6 edema.pdf",prof:"Dra. E. Montero Hernández",
+resumen:[
+{h:"Concepto y fisiología de base",ref:"3-7",pts:[
+"**Edema**: acumulación anormal de líquido en el espacio intersticial; aumento de volumen palpable (deja fóvea). Aparece cuando la salida de líquido del capilar supera la capacidad del sistema linfático para devolverlo. La localización puede variar con la posición (gravedad).",
+"Agua corporal total ≈ 60 % del peso: 2/3 intracelular (K⁺) y 1/3 extracelular (Na⁺); extracelular = intersticial, intravascular y transcelular.",
+"**Fuerzas de Starling**: salida de líquido del capilar ≈ fuerzas hidrostáticas − fuerzas oncóticas."]},
+{h:"Los 4 mecanismos del edema",ref:"8-14",pts:[
+"**↑ presión hidrostática capilar**: obstrucción venosa (trombo) o ↑ volumen intravascular (IC, TVP, cirrosis).",
+"**↓ presión oncótica del plasma**: la albúmina mantiene el agua en los vasos; hipoalbuminemia por ↓ producción (hígado), ↑ pérdida (riñón: síndrome nefrótico; enteropatía pierdeproteínas) o ↓ aporte (malnutrición, desnutrición).",
+"**↑ permeabilidad capilar**: sale agua, electrolitos y proteínas; por contracción de células endoteliales, lesión directa, lesión mediada por leucocitos, inflamación grave (inflamación, sepsis, alergia).",
+"**Obstrucción linfática**: ↓ drenaje → ↑ líquido y proteínas intersticiales → ↑ presión oncótica intersticial → retención de agua (infecciones, tumores, cirugía con extirpación de ganglios, radioterapia, alteraciones congénitas, fibrosis → linfedema)."]},
+{h:"Tipos de edema y exploración",ref:"15-18",pts:[
+"**Agudo**: piel normal, con fóvea. **Crónico**: piel fría y gruesa, sin fóvea. Localizado vs generalizado (**anasarca**). Con o sin fóvea (**signo de Godet**: presionar la piel unos segundos y ver si queda depresión).",
+"Localización: tejido subcutáneo (periférico), pulmón (edema pulmonar), cavidad abdominal (ascitis), pleura (derrame pleural). **Trasudado**: pocas proteínas; **exudado**: rico en proteínas.",
+"**Simétrico** → causa sistémica (IC, riñón, cirrosis). **Asimétrico** → causa local (TVP, linfedema, insuficiencia venosa crónica)."]},
+{h:"Causas: cardiaca y edema pulmonar",ref:"19-21",pts:[
+"**IC**: ↓ gasto cardiaco → ↑ presión venosa → ↑ presión hidrostática capilar. IC derecha → edema periférico (capilares sistémicos); IC izquierda → edema pulmonar.",
+"**Edema pulmonar cardiogénico**: ↑ presión hidrostática (disfunción VI → ↑ presión en aurícula izquierda → ↑ presión venosa y capilar pulmonar); se acompaña de tos, disnea de reposo, ortopnea y a veces hemoptisis.",
+"**No cardiogénico**: ↑ permeabilidad capilar (SDRA, sepsis grave por endotoxinas, anafilaxia, tóxicos): salida de líquido y proteínas."]},
+{h:"Causas: hepática y renal",ref:"23-25",pts:[
+"**Hepática**: ↑ presión hidrostática (bloqueo del flujo venoso, expansión del volumen esplácnico) + ↓ presión oncótica (hipoalbuminemia). Ascitis, ictericia, alteración de PFH, hepatomegalia.",
+"**Renal**: retención de Na⁺ y agua (↑ presión hidrostática) y pérdida de albúmina (↓ oncótica). HTA, proteinuria, hematuria (glomerulonefritis, síndrome nefrótico, poliquistosis).",
+"**Clave**: ascitis e ictericia → hepático (ascitis antes que edema en piernas; no cede con el reposo en decúbito). Edema palpebral precoz y matutino y proteinuria/cilindruria → renal (puede llegar a anasarca)."]},
+{h:"Otras causas y mixedema",ref:"26-27",pts:[
+"Nutricional (desnutrición grave), hipotiroidismo (piel gruesa e infiltrada), hiperfunción suprarrenal, fármacos (vasodilatadores, corticoides, estrógenos), idiopático.",
+"**Mixedema**: no por ↑ presión hidrostática ni hipoalbuminemia, sino por acúmulo de **glucosaminoglucanos** en el intersticio; **no deja fóvea** (Godet negativo) porque el líquido está atrapado en una matriz rica en GAG. Afecta cara (periorbitario), labios y lengua, manos, piernas; puede ser generalizado."]}],
+esquemas:[
+{t:"table",title:"Mecanismos y causas del edema (diap. 14)",head:["Mecanismo","Causas"],rows:[
+["↑ P hidrostática","Insuficiencia cardiaca, TVP, cirrosis"],
+["↓ P oncótica","Hipoalbuminemia, síndrome nefrótico"],
+["↑ Permeabilidad","Inflamación, sepsis, alergia"],
+["↓ Drenaje linfático","Linfedema, tumor, cirugía"]],ref:"14"},
+{t:"table",title:"Edema hepático vs renal (diap. 25)",head:["","Hepático","Renal"],rows:[
+["Mecanismo","↑ P hidrostática + ↓ P oncótica (hipoalbuminemia)","Pérdida urinaria de proteínas → ↓ P oncótica"],
+["Distribución","Ascitis antes que edema en piernas; no cede con decúbito","Edema palpebral precoz y matutino; puede llegar a anasarca"],
+["Datos que orientan","Ictericia, alteración PFH, hepatomegalia","Proteinuria, cilindruria, HTA o hematuria"]],ref:"25"},
+{t:"table",title:"Edema pulmonar",head:["","Cardiogénico","No cardiogénico"],rows:[
+["Mecanismo","↑ P hidrostática","↑ Permeabilidad capilar"],
+["Ejemplo","Insuficiencia ventricular izquierda","SDRA, sepsis, anafilaxia, tóxicos"]],ref:"20-21"},
+{t:"table",title:"Edema simétrico vs asimétrico",head:["Tipo","Causa","Ejemplos"],rows:[["Simétrico","Sistémica","IC, renal, cirrosis"],["Asimétrico","Local","TVP, linfedema, IVC"]],ref:"18"}],
+claves:["Edema = salida de líquido > drenaje linfático. Cuatro mecanismos: ↑ P hidrostática, ↓ P oncótica, ↑ permeabilidad, obstrucción linfática.","Simétrico = sistémico; asimétrico = local.","Hepático: ascitis + ictericia. Renal: edema palpebral + proteinuria.","Mixedema: GAG, sin fóvea."],
+test:[
+{q:"¿Cuál NO es un mecanismo del edema?",o:["↑ presión hidrostática capilar","↓ presión oncótica","↑ permeabilidad capilar","↑ drenaje linfático"],a:3,e:"El mecanismo es la obstrucción (↓ drenaje) linfática.",ref:"8"},
+{q:"El mixedema se caracteriza por:",o:["Godet positivo","Acúmulo de glucosaminoglucanos y ausencia de fóvea","Hipoalbuminemia","↑ P hidrostática"],a:1,e:"Diap. 27.",ref:"27"},
+{q:"Edema palpebral matutino y proteinuria sugieren origen:",o:["Hepático","Renal","Cardiaco","Linfático"],a:1,e:"Diap. 25.",ref:"25"},
+{q:"La IC izquierda produce típicamente:",o:["Edema pulmonar","Ascitis aislada","Linfedema","Mixedema"],a:0,e:"Diap. 19.",ref:"19"},
+{q:"El edema pulmonar no cardiogénico se debe a:",o:["↑ P hidrostática","↑ permeabilidad capilar (p. ej. SDRA)","Hipotiroidismo","Obstrucción linfática"],a:1,e:"Diap. 20.",ref:"20"},
+{q:"El edema asimétrico orienta hacia:",o:["Causa sistémica","Causa local (TVP, linfedema, IVC)","Cirrosis","Insuficiencia renal"],a:1,e:"Diap. 18.",ref:"18"},
+{q:"Un trasudado se caracteriza por:",o:["Ser rico en proteínas","Tener pocas proteínas","Ser siempre purulento","Aparecer solo en el pulmón"],a:1,e:"Diap. 15.",ref:"15"},
+{q:"Causas de hipoalbuminemia:",o:["Síndrome nefrótico, malnutrición, hepatopatía crónica, enteropatía pierdeproteínas","Solo hepatopatía","Solo desnutrición","TVP"],a:0,e:"Diap. 10.",ref:"10"}],
+cortas:[
+{q:"Causas (mecanismos) del edema, con un ejemplo de cada una.",ex:4,a:"↑ presión hidrostática capilar (IC, TVP, cirrosis); ↓ presión oncótica (hipoalbuminemia, síndrome nefrótico); ↑ permeabilidad capilar (inflamación, sepsis, alergia); obstrucción linfática (linfedema, tumor, cirugía).",pts:[["↑ presión hidrostática (IC, TVP, cirrosis)","hidrostatica"],["↓ presión oncótica / hipoalbuminemia","oncotica|albumina|hipoalbuminemia"],["↑ permeabilidad capilar","permeabilidad"],["Obstrucción linfática","linfatic|linfedema"]],ref:"8-14"},
+{q:"Diferencias entre el edema de origen hepático y el renal.",a:"Hepático: ↑ P hidrostática + ↓ P oncótica; ascitis antes que edema en piernas; ictericia, alteración de PFH. Renal: pérdida de proteínas; edema palpebral matutino; proteinuria, cilindruria; puede llegar a anasarca.",pts:[["Hepático: ascitis e ictericia","ascitis|ictericia"],["Renal: edema palpebral, proteinuria","palpebral|proteinuria"],["Mecanismo oncótico/hidrostático","oncotica|hidrostatica"]],ref:"25"},
+{q:"Edema pulmonar cardiogénico vs no cardiogénico.",a:"Cardiogénico: ↑ presión hidrostática por disfunción del ventrículo izquierdo. No cardiogénico: ↑ permeabilidad capilar (SDRA, sepsis, anafilaxia, tóxicos).",pts:[["Cardiogénico: ↑ presión hidrostática / IC izquierda","hidrostatica|ventricul|izquierd"],["No cardiogénico: ↑ permeabilidad (SDRA)","permeabilidad|sdra"]],ref:"20-21"},
+{q:"¿Qué es el mixedema y por qué no deja fóvea?",a:"Edema por acúmulo de glucosaminoglucanos en el intersticio (hipotiroidismo); el líquido queda atrapado en una matriz rica en GAG, por eso no es depresible (Godet negativo).",pts:[["Glucosaminoglucanos (GAG)","glucosaminoglucano|gag"],["Godet negativo / no depresible","godet|fovea|depresible"]],ref:"27"}]};
+
+T[7]={n:7,mod:2,title:"Equilibrio hidrosalino",short:"Equilibrio hidrosalino",src:"EQUILIBRIO HIDROSALINO.pdf",prof:"Dr. R. de Andrés",
+resumen:[
+{h:"Agua corporal y osmolaridad",ref:"2-14",pts:[
+"El agua corporal total (ACT) es ≈ 60 % del peso. **Intracelular** 2/3 (30-35 % PC); **extracelular** 1/3: intersticial 3/4 y intravascular 1/4 (intersticial 10-15 % PC, plasma 3-5 % PC; transcelular 2 % PC). Entre compartimentos: membrana endotelial (fuerzas de Starling) y membrana celular (osmolaridad).",
+"Solutos: VIC → K⁺ 161 mEq/l, fosfato 100, proteínas 65. VEC → Na⁺ 142, Cl⁻ 101, HCO₃⁻ 27.",
+"El **Na⁺** es el ion más abundante del LEC y el principal determinante regulable de la osmolaridad plasmática, del ACT y del volumen circulante efectivo (VCE). El VCE se regula con la ingesta/absorción/excreción de Na⁺.",
+"Osmolaridad: osmoreceptores hipotalámicos → **sed** y **ADH**. ↑ osmolaridad → ↑ sed y ↑ ADH (↑ reabsorción de agua en túbulos colectores, ↓ diuresis). ↓ osmolaridad → ↓ ADH y ↑ excreción de agua. Valor normal ≈ 285 mOsm.",
+"Pruebas: natremia 135-145 mEq/l; osmolalidad plasmática 285-295 mOsm/l; Osm = 2 × (Na + K) + glucosa/18 + urea/6; Na⁺ urinario; K⁺, HCO₃⁻, Cl⁻."]},
+{h:"Síndromes: clasificación",ref:"15-16",pts:[
+"**Deshidratación** (↓ VEC) y **hiperhidratación** (↑ VEC), cada una isotónica, hipotónica o hipertónica; y euvolemia con alteración de la natremia.",
+"Deshidratación: **isotónica** = pérdida proporcionada de Na y H₂O; **hipotónica** = pérdida predominante de Na; **hipertónica** = pérdida predominante de H₂O.",
+"Hiperhidratación: **isotónica** = ganancia proporcionada de Na y H₂O; **hipotónica** = ganancia predominante de H₂O; **hipertónica** = ganancia predominante de Na."]},
+{h:"Respuesta neuroendocrina compensadora",ref:"20-21",pts:[
+"↓ repleción arterial → barorreceptores → **secreción no osmótica de ADH**, **activación del sistema nervioso simpático** y **activación del SRAA**. Resultado: ↓ filtrado glomerular, ↑ reabsorción tubular de Na y H₂O, ↑ contractilidad miocárdica, taquicardia y vasoconstricción.",
+"**SRAA**: ↓ flujo renal / ↓ Na⁺ en el túbulo distal (mácula densa) / SNS → células yuxtaglomerulares liberan **renina** → angiotensinógeno → angiotensina I → (ECA pulmonar) → **angiotensina II** (vasoconstricción, sed, ↑ aldosterona → ↑ reabsorción de Na⁺ y agua en túbulo distal)."]},
+{h:"Deshidratación isotónica",ref:"18-23",pts:[
+"Causas: renales (insuficiencia corticosuprarrenal primaria, diuréticos) y extrarrenales (vómitos, diarrea, aspiración, grandes quemados, sudoración profusa, hemorragias, secuestro en tercer espacio: íleo, pancreatitis aguda).",
+"Clínica: oliguria, taquicardia, sed; sequedad de mucosas, ausencia de sudoración axilar, pliegue cutáneo, pérdida de peso, ↓ turgencia de globos oculares; hipotensión ortostática, shock hipovolémico.",
+"Laboratorio: ↑ urea y creatinina (IR prerrenal), ↑ hematocrito y albúmina (hemoconcentración), Na⁺ y Osm normales al inicio. Na⁺ urinario > 20 mEq/l si pérdida renal; < 10 si extrarrenal."]},
+{h:"Deshidratación hipotónica e hipertónica",ref:"25-33",pts:[
+"**Hipotónica**: pérdida predominante de Na⁺; por deshidratación isotónica con reposición de agua sin Na⁺ y secreción no osmótica de ADH por hipovolemia. El agua pasa al EIC → **edema citotóxico neuronal** (HTE, confusión, agitación, coma, convulsiones). Compensación lenta: salida de iones y osmolitos (taurina). Na y Osm ↓.",
+"**Hipertónica**: pérdida predominante de agua. Causas: ↓ ingesta (falta de agua, hiposensibilidad del centro de la sed, ↓ conciencia), pérdida renal de agua > Na (diuresis osmótica: glucosuria en DM; diabetes insípida), sudoración excesiva o hiperventilación con aporte insuficiente. El agua sale del EIC → **deshidratación neuronal** (irritabilidad, confusión, coma metabólico). Na y Osm ↑; ↑ urea, creatinina, Hto y albúmina."]},
+{h:"Hiperhidratación",ref:"36-50",pts:[
+"**Isotónica**: ↑ volumen EEC por IR aguda/crónica, glomerulonefritis, o ↓ repleción arterial sin hipovolemia (ICC, cirrosis con HTP, síndrome nefrótico). Respuesta: péptidos natriuréticos (PNA). Clínica: edema, derrames, ascitis, edema pulmonar, ganancia de peso, HTA. Natremia normal, pero en ICC/cirrosis/nefrótico puede haber hipoNa; Na urinario < 10.",
+"**Hipotónica**: ganancia predominante de agua. Causas: SIADH (tumores de pulmón, enfermedades pulmonares, intracraneal, fármacos, dolor/náuseas) e intoxicación acuosa (> 15 l/24 h). Euvolemia, edema citotóxico neuronal. SIADH: Osm urinaria > 100 y Na urinario > 20; intoxicación acuosa: Osm urinaria < 100.",
+"**Hipertónica**: ganancia predominante de Na: hiperaldosteronismo primario (adenoma suprarrenal), fluidos hipertónicos, agua de mar. HTA sin edema (fenómeno de escape); deshidratación neuronal. Na y Osm ↑; hipoK⁺ en hiperaldosteronismo."]},
+{h:"Potasio",ref:"52-53",pts:[
+"**Hipopotasemia** (K < 3,5 mmol/l): ingesta insuficiente (rara), pérdidas renales (hiperaldosteronismo, diuresis osmótica, diuréticos), digestivas (diarrea, vómitos), paso del EEC al EIC (alcalosis metabólica, estimulación β-adrenérgica). ↓ excitabilidad neuromuscular: debilidad, ↓ motilidad digestiva, arritmias.",
+"**Hiperpotasemia** (K > 5,5 mmol/l; la diapositiva escribe «<», error evidente): descartar hemólisis; ↓ eliminación renal (IR, déficit de mineralcorticoides); paso del EIC al EEC (acidosis metabólica, rabdomiólisis, déficit de insulina, β-bloqueantes). Taquiarritmias ventriculares y parada cardiaca."]}],
+esquemas:[
+{t:"table",title:"Deshidratación: 3 tipos (diap. 16-33)",head:["","Isotónica","Hipotónica","Hipertónica"],rows:[
+["Pérdida","Na y H₂O proporcionadas","Predominio de Na","Predominio de H₂O"],
+["Na / Osm plasmáticos","Normales","↓","↑"],
+["EIC","Sin cambio","Expansión (edema neuronal)","Contracción (deshidratación neuronal)"],
+["Ejemplos","Vómitos, diarrea, diuréticos","Reponer H₂O sin Na","Diabetes insípida, ↓ ingesta de agua"]],ref:"16,19,26,31"},
+{t:"table",title:"Hiperhidratación: 3 tipos (diap. 36-50)",head:["","Isotónica","Hipotónica","Hipertónica"],rows:[
+["Ganancia","Na y H₂O","Predominio de H₂O","Predominio de Na"],
+["Natremia / Osm","Normales","↓","↑"],
+["Causas","IR, ICC, cirrosis, nefrótico","SIADH, intoxicación acuosa","Hiperaldosteronismo, fluidos hipertónicos"],
+["Clínica","Edema, derrames, HTA","Euvolemia, edema neuronal","HTA sin edema"]],ref:"36,42,47"},
+{t:"flow",title:"Compensación neuroendocrina de la deshidratación (diap. 20)",steps:["↓ repleción arterial (barorreceptores)","ADH no osmótica + SNS + SRAA","↓ filtrado, ↑ reabsorción de Na y H₂O","Taquicardia, vasoconstricción, ↑ contractilidad"],ref:"20"},
+{t:"flow",title:"Cascada del SRAA (diap. 21)",steps:["↓ flujo renal / ↓ Na en túbulo distal / SNS","Renina (células yuxtaglomerulares)","Angiotensinógeno → AI → (ECA) AII","Vasoconstricción, sed, aldosterona → ↑ reabsorción de Na y H₂O"],ref:"21"}],
+claves:["Na⁺ determina osmolaridad, ACT y volemia.","Osm = 2(Na + K) + glucosa/18 + urea/6.","Deshidratación: respuesta neuroendocrina = ADH no osmótica + SNS + SRAA.","Hipotónica → neuronas se hinchan; hipertónica → neuronas se deshidratan.","SIADH: Osm urinaria > 100 y Na urinario > 20."],
+test:[
+{q:"En la deshidratación isotónica, los valores plasmáticos de Na y Osm son:",o:["Disminuidos","Normales al inicio","Aumentados","Indeterminados"],a:1,e:"Diap. 23.",ref:"23"},
+{q:"La deshidratación hipertónica produce en el SNC:",o:["Edema citotóxico","Deshidratación neuronal con irritabilidad, confusión o coma","Hipertensión intracraneal por edema","Nada"],a:1,e:"Diap. 32.",ref:"32"},
+{q:"El SIADH se caracteriza por:",o:["Osm urinaria < 100","Natremia baja, Osm urinaria > 100 y Na urinario > 20","Natremia alta","Hipovolemia grave"],a:1,e:"Diap. 45.",ref:"45"},
+{q:"Es parte de la respuesta neuroendocrina a la ↓ repleción arterial:",o:["Inhibición del SRAA","Secreción no osmótica de ADH, SNS y SRAA","Inhibición del SNS","↑ diuresis"],a:1,e:"Diap. 20.",ref:"20"},
+{q:"El hiperaldosteronismo primario causa hiperhidratación:",o:["Isotónica","Hipotónica","Hipertónica, con HTA sin edema e hipoK⁺","Ninguna"],a:2,e:"Diap. 47-50.",ref:"47-50"},
+{q:"La hipopotasemia puede deberse a:",o:["Acidosis metabólica","Alcalosis metabólica o estimulación β-adrenérgica (paso al EIC)","Rabdomiólisis","β-bloqueantes"],a:1,e:"Diap. 52-53.",ref:"52"},
+{q:"¿Cuál es el ion más abundante del LEC?",o:["K⁺","Na⁺","Cl⁻","HCO₃⁻"],a:1,e:"Diap. 11.",ref:"11"},
+{q:"El Na urinario < 10 mEq/l en una deshidratación indica pérdida:",o:["Renal","Extrarrenal","Mixta","Ninguna"],a:1,e:"Diap. 23.",ref:"23"}],
+cortas:[
+{q:"Mecanismo compensatorio neuroendocrino en la deshidratación.",ex:5,a:"La ↓ repleción arterial activa los barorreceptores: secreción no osmótica de ADH, activación del SNS y del SRAA (renina → AII → aldosterona). Efectos: ↓ filtrado glomerular, ↑ reabsorción tubular de Na y H₂O, ↑ contractilidad miocárdica, taquicardia y vasoconstricción, sed.",pts:[["ADH (secreción no osmótica)","adh|antidiuretica"],["Sistema nervioso simpático","simpatic|sns"],["SRAA / aldosterona / renina","sraa|renina|angiotensina|aldosterona"],["↑ reabsorción de Na y agua","reabsorcion|retencion"]],ref:"20-21"},
+{q:"Clasifique las deshidraciones según la tonicidad y cite una causa de cada una.",a:"Isotónica (pérdida proporcionada: vómitos, diarrea, diuréticos); hipotónica (predominio de Na: reposición de agua sin Na); hipertónica (predominio de agua: diabetes insípida, diuresis osmótica, ↓ ingesta de agua).",pts:[["Isotónica","isotonic"],["Hipotónica","hipotonic"],["Hipertónica","hipertonic"]],ref:"16-33"},
+{q:"Cascada del SRAA y sus acciones.",a:"Renina (células yuxtaglomerulares) convierte angiotensinógeno en AI; la ECA pulmonar la convierte en AII: vasoconstricción, sed y ↑ aldosterona (↑ reabsorción de Na y agua en el túbulo distal).",pts:[["Renina","renina"],["Angiotensina II (ECA)","angiotensina|eca"],["Aldosterona → reabsorción de Na","aldosterona"],["Vasoconstricción / sed","vasoconstriccion|sed"]],ref:"21"},
+{q:"Hiponatremia por hiperhidratación hipotónica: causas y datos de laboratorio del SIADH.",a:"SIADH (tumores de pulmón, enfermedades pulmonares, patología intracraneal, fármacos, dolor/náuseas) e intoxicación acuosa (> 15 l/24 h). SIADH: natremia y Osm bajas, Osm urinaria > 100 y Na urinario > 20.",pts:[["SIADH","siadh|adh"],["Intoxicación acuosa","intoxicacion"],["Osm urinaria > 100 / Na urinario > 20","100|20"]],ref:"42,45"}]};
+
+T[8]={n:8,mod:2,title:"Alteraciones del equilibrio ácido-base",short:"Equilibrio ácido-base",src:"EQUILIBRIO ACIDO-BASE.pdf",prof:"Dr. R. de Andrés",
+resumen:[
+{h:"Recuerdo fisiológico",ref:"2-8",pts:[
+"El metabolismo celular genera **ácidos no volátiles fuertes** (sulfatos y fosfatos del metabolismo de proteínas; 50-100 mEq/día) y un **ácido volátil débil** (CO₂; 10.000-20.000 mEq/día). Límite fisiológico del pH plasmático: **7,35-7,45** (35-45 nmol/l de H⁺).",
+"Tres líneas de defensa: **buffer** (ácido débil-sal fuerte; extracelular HCO₃⁻/H₂CO₃/CO₂; intracelular Hb, proteínas, fosfatos), **regulación respiratoria** (± eliminación de CO₂) y **regulación renal** (horas-días): generación y reabsorción de HCO₃⁻ en el túbulo proximal; eliminación de H⁺ y generación de HCO₃⁻ en túbulo distal y colector (amonio, fosfato = acidez titulable).",
+"Pruebas: pH 7,35-7,45; HCO₃⁻ 22-26 mEq/l; PCO₂ 35-45 mmHg (sangre venosa 40, arterial 45 según la diapositiva).",
+"**Anion gap** (hiato aniónico) = [Na⁺] − ([Cl⁻] + [HCO₃⁻]) (la diapositiva indica 12-20); por electroneutralidad (Na 142, Cl 101, HCO₃ 27). Representa los aniones no medidos (albúmina, sulfato, fosfatos) menos otros cationes (gammaglobulinas, calcio, magnesio)."]},
+{h:"Acidosis metabólica",ref:"12-17",pts:[
+"**Etiopatogenia**: ↑ ácidos no volátiles o pérdida de bicarbonato.",
+"**AG elevado** (ácidos que se acumulan): lactato (acidosis láctica), cetoácidos (cetoacidosis), insuficiencia renal evolucionada (sulfatos, fosfatos), ácidos exógenos (acetato, etilenglicol, metanol, AAS/salicilatos). **AG normal** (pérdida de HCO₃⁻ con ↑ reabsorción tubular de Cl⁻): acidosis tubular renal (ATR) y diarrea.",
+"**Clínica**: hiperventilación compensatoria (taquipnea, respiración de Kussmaul); depresión de la contractilidad miocárdica, arritmias, hipotensión; estado confusional, coma; osteomalacia en la acidosis crónica (tampones fosfato del hueso).",
+"**Laboratorio**: pH < 7,35, HCO₃⁻ ↓, PCO₂ ↓ (compensación), K⁺ elevado (con algunas formas de ATR)."]},
+{h:"Acidosis respiratoria",ref:"18-21",pts:[
+"**Etiopatogenia**: ↑ ácido volátil (CO₂): EPOC, asma, depresión del SNC, enfermedades neuromusculares.",
+"**Clínica**: insuficiencia respiratoria global (hipoxia hipoxémica + hipercapnia); depresión miocárdica, arritmias, hipotensión; confusión, coma; osteomalacia si es crónica.",
+"**Laboratorio**: pH < 7,35; PCO₂ > 45 mmHg; HCO₃⁻ normal o ↑ (si crónica); K⁺ elevado."]},
+{h:"Alcalosis metabólica",ref:"23-25",pts:[
+"**Etiopatogenia**: déficit relativo de ácidos no volátiles o ↑ de bicarbonato. Mantenedores: depleción de volumen extracelular (reabsorción de Na⁺ y HCO₃⁻) e hipoK⁺ intensa (intercambio K⁺-H⁺).",
+"**Clínica/laboratorio**: tetania (↓ Ca²⁺ iónico por ↑ afinidad de las proteínas); pH > 7,45; pCO₂ y HCO₃⁻ aumentados; hipoK⁺."]},
+{h:"Alcalosis respiratoria",ref:"26-28",pts:[
+"**Etiopatogenia**: déficit relativo de CO₂: hipoxemia con hiperventilación (neumonía, EAP, TEP), ansiedad/pánico, intoxicación por salicilatos, fases iniciales de la sepsis, fiebre, fallo hepático.",
+"**Clínica/laboratorio**: tetania; pH > 7,45; pCO₂ y HCO₃⁻ descendidos; hipoK⁺."]}],
+esquemas:[
+{t:"table",title:"Los 4 trastornos ácido-base",head:["","pH","PCO₂","HCO₃⁻","Causas (material)"],rows:[
+["Acidosis metabólica","↓","↓ (compensa)","↓","Láctica, cetoacidosis, IR, tóxicos (AG alto); ATR, diarrea (AG normal)"],
+["Acidosis respiratoria","↓","↑","Normal o ↑ (crónica)","EPOC, asma, depresión SNC, neuromusculares"],
+["Alcalosis metabólica","↑","↑","↑","Depleción de volumen EEC, hipoK⁺"],
+["Alcalosis respiratoria","↑","↓","↓","Hipoxemia, ansiedad, salicilatos, sepsis inicial, fiebre, fallo hepático"]],ref:"17,21,25,28"},
+{t:"table",title:"Acidosis metabólica según anion gap",head:["Anion gap","Causas"],rows:[
+["Alto","Lactato (acidosis láctica), cetoácidos (cetoacidosis), IR evolucionada (sulfatos, fosfatos), etilenglicol, metanol, AAS"],
+["Normal","Acidosis tubular renal, diarrea (pérdida de HCO₃⁻ y ↑ reabsorción de Cl⁻)"]],ref:"13-14,17"},
+{t:"flow",title:"Tres líneas de defensa del pH",steps:["Buffers (inmediato): HCO₃⁻/CO₂, Hb, proteínas, fosfatos","Regulación respiratoria: eliminación de CO₂","Regulación renal (horas-días): reabsorción de HCO₃⁻, amonio, acidez titulable"],ref:"3,6"}],
+claves:["pH 7,35-7,45; HCO₃⁻ 22-26; PCO₂ 35-45.","AG = Na − (Cl + HCO₃). Alto: láctica, cetoacidosis, IR, tóxicos. Normal: ATR y diarrea.","Acidosis metabólica → Kussmaul. Respiratoria → hipercapnia.","Alcalosis → tetania e hipoK⁺."],
+test:[
+{q:"La fórmula del anion gap es:",o:["Na − (Cl + HCO₃)","Na + K","Cl − HCO₃","Na × Cl"],a:0,e:"Diap. 7.",ref:"7"},
+{q:"¿Cuál de estas causas eleva el anion gap?",o:["Diarrea","Acidosis tubular renal","Cetoacidosis","Hipoxemia con hiperventilación"],a:2,e:"AG alto: láctica, cetoacidosis, IR evolucionada, ácidos exógenos (diap. 17).",ref:"17"},
+{q:"La respiración de Kussmaul aparece en:",o:["Alcalosis respiratoria","Acidosis metabólica","Alcalosis metabólica","Acidosis respiratoria crónica"],a:1,e:"Diap. 16.",ref:"16"},
+{q:"En la acidosis respiratoria:",o:["PCO₂ < 35","PCO₂ > 45 mmHg","pH > 7,45","HCO₃⁻ siempre bajo"],a:1,e:"Diap. 21.",ref:"21"},
+{q:"Es causa de acidosis respiratoria:",o:["EPOC","Ansiedad","Fiebre","Salicilatos"],a:0,e:"Diap. 18; ansiedad, fiebre y salicilatos causan alcalosis respiratoria.",ref:"18,26"},
+{q:"La tetania en las alcalosis se debe a:",o:["↑ Ca²⁺ iónico","↓ Ca²⁺ iónico por ↑ afinidad de proteínas","↓ Na⁺","Hiperpotasemia"],a:1,e:"Diap. 25.",ref:"25"},
+{q:"El HCO₃⁻ plasmático normal es:",o:["10-15 mEq/l","22-26 mEq/l","30-40 mEq/l","35-45 mEq/l"],a:1,e:"Diap. 7.",ref:"7"},
+{q:"La acidosis metabólica con AG normal se asocia a:",o:["Acidosis láctica","Cetoacidosis","ATR y diarrea","Metanol"],a:2,e:"Diap. 17.",ref:"17"}],
+cortas:[
+{q:"Tres causas de acidosis metabólica que aumenten el anion gap.",ex:6,a:"Acidosis láctica (lactato), cetoacidosis (diabética/ayuno), insuficiencia renal evolucionada (sulfatos y fosfatos) e intoxicaciones por ácidos exógenos (etilenglicol, metanol, AAS).",pts:[["Láctica / lactato","lactic|lactato"],["Cetoacidosis","cetoacidosis|cetoacid"],["Insuficiencia renal","renal"],["Tóxicos (metanol, etilenglicol, AAS)","metanol|etilenglicol|aas|salicil|exogeno"]],ref:"13,17"},
+{q:"Líneas de defensa frente a los cambios de pH.",a:"Buffers extracelulares (HCO₃⁻/H₂CO₃/CO₂) e intracelulares (Hb, proteínas, fosfatos); regulación respiratoria (eliminación de CO₂); regulación renal (reabsorción/generación de HCO₃⁻, amonio y fosfato).",pts:[["Buffer / amortiguador","buffer|amortiguador|tampon"],["Respiratoria (CO₂)","respiratori|co2"],["Renal (HCO₃⁻, amonio)","renal|bicarbonato|amonio"]],ref:"3,6"},
+{q:"Clínica y laboratorio de la acidosis metabólica.",a:"Taquipnea/Kussmaul, depresión miocárdica, arritmias, hipotensión, confusión y coma, osteomalacia en la crónica. pH < 7,35, HCO₃⁻ ↓, PCO₂ ↓, K⁺ elevado.",pts:[["Kussmaul / hiperventilación","kussmaul|hiperventilacion|taquipnea"],["Cardiovascular (arritmias, hipotensión)","arritmia|hipotension|miocard"],["pH < 7,35 y HCO₃⁻ bajo","7.35|7,35|bicarbonato|hco3"]],ref:"16-17"},
+{q:"Causas de alcalosis respiratoria.",a:"Hipoxemia con hiperventilación (neumonía, EAP, TEP), ansiedad/pánico, salicilatos, fases iniciales de la sepsis, fiebre y fallo hepático.",pts:[["Hipoxemia (neumonía, EAP, TEP)","hipoxemia|neumonia|tep|eap"],["Ansiedad","ansiedad|panico"],["Salicilatos / sepsis / fiebre / fallo hepático","salicil|sepsis|fiebre|hepatic"]],ref:"26"}]};
+
+T[9]={n:9,mod:2,title:"Alteraciones del metabolismo hidrocarbonado: diabetes e hipoglucemia",short:"Diabetes e hipoglucemia",src:"Tema 9. Metabolismo hidrocarbonado.pdf",prof:"Dr. J. M. Mostaza",
+resumen:[
+{h:"Concepto y diagnóstico",ref:"2,5",pts:[
+"**Diabetes**: enfermedad crónica con **hiperglucemia mantenida** por falta de insulina, defecto de su acción periférica o ambos.",
+"Criterios (normal / prediabetes / diabetes): glucosa basal < 100 / 100-125 / ≥ 126 mg/dl; HbA1c < 5,7 / 5,7-6,4 / ≥ 6,5 %; SOG a las 2 h < 140 / 140-199 / ≥ 200 mg/dl; glucosa aleatoria ≥ 200 mg/dl con síntomas."]},
+{h:"Fisiología y clasificación",ref:"6-8",pts:[
+"La glucemia depende de la dieta (absorción), glucogenólisis y gluconeogénesis (↑ por catecolaminas, glucagón, glucocorticoides) frente a la entrada de glucosa en la célula, glucogenogénesis y glucólisis (insulina; la GH la antagoniza).",
+"**Tipo 1**: autoinmune (clásica, LADA) o idiopática; cursa **sin insulina**. **Tipo 2**: resistencia a la insulina. **Otras**: genéticas (MODY), enfermedades del páncreas (pancreatitis crónica, hemocromatosis), fármacos. **Gestacional**."]},
+{h:"Fisiopatología",ref:"10,12-14",pts:[
+"**DM1**: ausencia de insulina + ↑ hormonas contrainsulares → ↑ glucogenólisis y gluconeogénesis (hiperglucemia, glucosuria, depleción de agua y Na: poliuria, polidipsia, pérdida de peso, deshidratación); ↑ lipólisis y ↓ lipogénesis (↑ AGL: hipertrigliceridemia, hipercetonemia, cetonuria → acidosis metabólica, respiración de Kussmaul); ↑ catabolismo proteico (pérdida de peso y de fuerza).",
+"**DM2**: resistencia a la insulina (↓ captación periférica de glucosa en músculo/tejido adiposo, ↑ producción hepática; al inicio hiperinsulinemia compensadora) + **disfunción progresiva de la célula β** (hiperglucemia crónica, toxicidad por AG, inflamación, depósito de amiloide). La resistencia suele preceder; la diabetes clínica aparece cuando la secreción no la compensa.",
+"Resistencia a la insulina en el síndrome metabólico: relaciones bidireccionales (obesidad visceral, inflamación, ↑ AGL, ↓ adiponectina, sedentarismo, dieta, genética, fármacos). Se asocia a ↑ TG y ↓ HDL, esteatosis hepática, HTA, SAOS e hiperandrogenismo; la hiperglucemia es consecuencia (glucotoxicidad)."]},
+{h:"DM1 vs DM2 y clínica",ref:"15-17",pts:[
+"**DM1**: 10 %, inicio < 30 años, brusco, obesidad generalmente no, HLA y anticuerpos antiinsulares sí, cetoacidosis sí. **DM2**: 90 %, inicio > 40 años, insidioso (a menudo asintomático), obesidad sí, HLA y anticuerpos no, cetoacidosis no.",
+"Comunes (hiperglucemia): poliuria y nicturia, polidipsia, astenia, visión borrosa, deshidratación. Más de DM1: pérdida de peso involuntaria, polifagia, cetoacidosis como debut. Más de DM2: infecciones recurrentes (candidiasis), cicatrización lenta, complicaciones micro y macrovasculares.",
+"**Macroangiopatía** (arteriosclerosis): infarto de miocardio, ictus, enfermedad arterial periférica. **Microangiopatía**: **retinopatía, neuropatía y nefropatía**."]},
+{h:"Complicaciones agudas",ref:"20-23",pts:[
+"**Cetoacidosis diabética (CAD)**: déficit casi absoluto de insulina (debut, omisión de tratamiento, estrés agudo) → ↑ hormonas contrarreguladoras → ↑ glucogenólisis, gluconeogénesis, lipólisis y cetogénesis → acidosis metabólica; hiperglucemia, glucosuria, depleción de agua y Na. Clínica: dolor abdominal, náuseas, vómitos, aliento a manzanas, Kussmaul, deshidratación, delirio.",
+"**Estado hiperosmolar (EHH)**: déficit parcial de insulina; sin ↑ de lipólisis ni cetogénesis → deshidratación hipernatrémica, hipotensión, oliguria y fracaso renal, deshidratación neuronal, coma.",
+"**Hipoglucemia**: descenso de la glucemia con activación adrenérgica y afectación cerebral. Causas: fármacos hipoglucemiantes; postprandial/reactiva (gastrectomía, alcohol, galactosemia); ayuno por menor producción (insuficiencia suprarrenal, insuficiencia hepática fulminante, alcohol, glucogenosis) o por salida excesiva (insulinoma). Si < 50 mg/dl: sudoración, temblor, taquicardia, palidez, ansiedad, hambre; y neuroglucopenia: mareo, conducta anormal, visión borrosa, pérdida de conocimiento, convulsiones, coma."]}],
+esquemas:[
+{t:"table",title:"Diagnóstico (ADA, diap. 5)",head:["","Normal","Prediabetes","Diabetes"],rows:[
+["Glucosa basal","< 100","100-125","≥ 126 mg/dl"],["HbA1c","< 5,7 %","5,7-6,4 %","≥ 6,5 %"],["SOG 2 h","< 140","140-199","≥ 200 mg/dl"],["Aleatoria","—","—","Síntomas + ≥ 200"]],ref:"5"},
+{t:"table",title:"DM1 vs DM2 (diap. 15)",head:["","DM1","DM2"],rows:[
+["Frecuencia","10 %","90 %"],["Edad inicio","< 30 años","> 40 años"],["Inicio","Brusco","Insidioso"],["Obesidad","Generalmente no","Generalmente sí"],["HLA / anticuerpos","Sí","No"],["Cetoacidosis","Sí","No"]],ref:"15"},
+{t:"table",title:"Cetoacidosis vs coma hiperosmolar (diap. 23)",head:["","Cetoacidosis","Hiperosmolar"],rows:[
+["Insulina","Ausente","Presente (parcial)"],["Tipo / edad","DM1, adultos jóvenes","DM2, adultos seniles"],["Mortalidad","Baja","Alta"],["Instauración","< 24 h","> 24 h"],["pH / HCO₃⁻","< 7,30 / < 15","> 7,30 / > 15"],["Deshidratación","5-7 l","7-12 l"],["Osm. plasmática","300-320","> 320"],["Glucemia","< 600 (variable)","> 600"],["Anion gap","> 12","< 12 (variable)"],["Cetonemia/cetonuria","Intensas","Leves o nulas"]],ref:"23"},
+{t:"table",title:"Complicaciones crónicas",head:["Macroangiopatía","Microangiopatía"],rows:[["Infarto de miocardio","Retinopatía"],["Ictus","Neuropatía"],["Enfermedad arterial periférica","Nefropatía"]],ref:"17"}],
+claves:["Diagnóstico: glucosa ≥ 126, HbA1c ≥ 6,5 %, SOG ≥ 200.","DM1 = déficit absoluto de insulina (cetoacidosis); DM2 = resistencia + fallo β.","CAD: acidosis y cetonas; EHH: osmolaridad > 320 sin cetosis.","Microangiopatía: retinopatía, neuropatía, nefropatía.","Hipoglucemia: adrenérgica + neuroglucopénica."],
+test:[
+{q:"Criterio diagnóstico de diabetes:",o:["Glucosa basal ≥ 100","HbA1c ≥ 6,5 %","SOG a las 2 h ≥ 140","HbA1c ≥ 5,7 %"],a:1,e:"Diap. 5.",ref:"5"},
+{q:"La cetoacidosis diabética se caracteriza por:",o:["Insulina presente, sin acidosis","Insulina ausente, acidosis, cetonemia y AG > 12","Osm > 320 sin cetonas","Mortalidad alta"],a:1,e:"Diap. 23.",ref:"23"},
+{q:"El coma hiperosmolar es más frecuente en:",o:["DM1 jóvenes","DM2 en adultos mayores","Gestantes","Niños"],a:1,e:"Diap. 23.",ref:"23"},
+{q:"No es microangiopatía diabética:",o:["Retinopatía","Nefropatía","Neuropatía","Infarto de miocardio"],a:3,e:"El infarto es macroangiopatía (diap. 17).",ref:"17"},
+{q:"Rasgo de DM2 frente a DM1:",o:["Anticuerpos antiinsulares presentes","Obesidad frecuente e inicio insidioso","Cetoacidosis como debut","HLA asociado"],a:1,e:"Diap. 15.",ref:"15"},
+{q:"La DM2 aparece cuando:",o:["Falla la célula β para compensar la resistencia a la insulina","Hay autoinmunidad","Hay déficit absoluto de insulina desde el inicio","Hay hiperglucagonemia aislada"],a:0,e:"Diap. 12.",ref:"12"},
+{q:"Manifestaciones adrenérgicas de la hipoglucemia:",o:["Sudoración, temblor, taquicardia, palidez, hambre","Coma","Convulsiones","Visión borrosa"],a:0,e:"Diap. 26; los otros son neuroglucopénicos.",ref:"26"},
+{q:"La hiperglucemia en la DM1 produce hipercetonemia por:",o:["↑ lipólisis con ↑ AGL","↑ lipogénesis","↑ insulina","↓ glucagón"],a:0,e:"Diap. 10.",ref:"10"}],
+cortas:[
+{q:"Principales microangiopatías diabéticas.",ex:12,a:"Retinopatía, neuropatía y nefropatía diabéticas.",pts:[["Retinopatía","retinopat"],["Neuropatía","neuropat"],["Nefropatía","nefropat"]],ref:"17"},
+{q:"Diferencias entre diabetes tipo 1 y tipo 2.",a:"DM1: 10 %, < 30 años, inicio brusco, no obesidad, HLA y anticuerpos sí, cetoacidosis sí. DM2: 90 %, > 40 años, insidioso, obesidad, sin HLA ni anticuerpos, sin cetoacidosis.",pts:[["Frecuencia 10 % vs 90 %","10|90"],["Edad e inicio","edad|brusco|insidioso"],["Anticuerpos/HLA","anticuerpo|hla"],["Cetoacidosis","cetoacidosis"]],ref:"15"},
+{q:"Compare cetoacidosis diabética y coma hiperosmolar.",a:"CAD: insulina ausente, DM1 joven, acidosis (pH < 7,30), cetonemia, AG > 12, instauración < 24 h, mortalidad baja. EHH: insulina presente, DM2 mayor, sin acidosis, Osm > 320, glucemia > 600, deshidratación intensa, mortalidad alta.",pts:[["CAD: acidosis y cetonas","acidosis|cetonemia|cetona"],["EHH: hiperosmolaridad","hiperosmolar|320|osmolar"],["Insulina ausente vs presente","insulina"]],ref:"23"},
+{q:"Causas y manifestaciones de la hipoglucemia.",a:"Causas: fármacos, postprandial (gastrectomía, alcohol), ayuno (insuficiencia suprarrenal, hepática, alcohol, glucogenosis) e insulinoma. Manifestaciones: adrenérgicas (sudor, temblor, taquicardia) y neuroglucopénicas (mareo, convulsiones, coma).",pts:[["Fármacos / insulinoma / ayuno","farmaco|insulinoma|ayuno"],["Adrenérgicas","sudor|temblor|taquicardia"],["Neuroglucopénicas","mareo|convulsion|coma"]],ref:"25-26"}]};
+
+T[10]={n:10,mod:2,title:"Alteraciones del metabolismo lipídico",short:"Metabolismo lipídico",src:"Alteraciones del Metabolismo Lipídico.pdf",prof:"Dr. C. Lahoz",
+resumen:[
+{h:"Lípidos y lipoproteínas",ref:"2-6",pts:[
+"**Colesterol**: componente de membranas, precursor de hormonas esteroideas, de ácidos biliares y de vitamina D; importante en el sistema nervioso. **Triglicéridos**: reserva de energía (≈ 9 kcal/g), aislamiento térmico y protección mecánica.",
+"No son solubles en agua → se transportan en **lipoproteínas**: corteza (fosfolípidos, colesterol libre, apolipoproteínas) y núcleo (ésteres de colesterol y triglicéridos).",
+"**Apolipoproteínas**: función estructural, activan/inhiben enzimas y son ligandos de receptores."]},
+{h:"Vías metabólicas",ref:"8-12",pts:[
+"**Exógena** (dieta → hígado): absorción y formación de quilomicrones en el intestino → adquieren apo C-II y apo E desde HDL → hidrólisis de TG por la **LPL** en capilares (ácidos grasos a tejidos) → **remanente de quilomicrón** → captación hepática por receptor de apo E / LRP1.",
+"**Endógena** (hígado → tejidos): VLDL naciente → adquiere apo C-II y E → LPL hidroliza TG → **IDL** (remanente de VLDL) → lipasa hepática → **LDL** (apo B100) → entrega de colesterol a tejidos mediante el receptor LDL (LDL-R) y captación hepática de remanentes y LDL.",
+"**PCSK9**: se une al receptor de LDL y acelera su degradación lisosómica → ↓ receptores hepáticos → ↑ cLDL plasmático. Su inhibición → reciclaje normal del receptor → ↓ cLDL.",
+"**Transporte reverso (HDL)**: efluxo de colesterol de tejidos periféricos (ABCA1/ABCG1) con apo A-I → HDL nascente → LCAT esterifica el colesterol → HDL madura → entrega al hígado (SR-BI, vía directa; o vía indirecta con CETP a otras lipoproteínas) → eliminación como ácidos biliares o en la bilis. El organismo no puede catabolizar el colesterol: lo elimina por la bilis."]},
+{h:"Aterogénesis",ref:"17-19",pts:[
+"Las lipoproteínas aterogénicas (con apoB: remanentes, VLDL, IDL, LDL, Lp(a)) deben tener **< 70 nm** para atravesar la barrera endotelial.",
+"Secuencia de la LDL: retención en el subendotelio → modificación (oxidación) → respuesta inflamatoria (moléculas de adhesión, monocitos) → formación de células espumosas → progresión de la placa. La arteriosclerosis es una **enfermedad sistémica y progresiva** (cardiopatía isquémica, enfermedad cerebrovascular, enfermedad arterial periférica).",
+"Por cada ↑ de 38,7 mg/dl (1 mmol/l) de cLDL, el riesgo de ECV mayor aumenta un 22 %; relación continua y lineal."]},
+{h:"Clasificación de las dislipemias",ref:"13-14",pts:[
+"**Hipercolesterolemia** (colesterol total > 200 mg/dl); **hipertrigliceridemia** (TG > 150); **dislipemia mixta** (ambos); **hiperLp(a)** (> 50 mg/dl); **dislipemia aterogénica** (TG > 150 y cHDL < 40 en varones / < 45 en mujeres según la diap. 14 (< 50 en las diap. 28-29); LDL pequeñas y densas); **hipoalfalipoproteinemia** (cHDL bajo); **aumento de remanentes** (cVLDL > 30 mg/dl).",
+"**Fredrickson-OMS**: I (quilomicrones; déficit de LPL o apo C-II; pancreatitis); IIa (LDL; hipercolesterolemia familiar); IIb (LDL + VLDL; mixta); III (remanentes/IDL; defecto de apo E; disbetalipoproteinemia); IV (VLDL; hipertrigliceridemia); V (quilomicrones + VLDL)."]},
+{h:"Hipercolesterolemia",ref:"15,20-21",pts:[
+"**Primarias**: hipercolesterolemia familiar (HF; mutaciones en receptor LDL, apoB o PCSK9) y poligénica (la más frecuente de las primarias). **Secundarias** (las más frecuentes): dieta/estilo de vida, hipotiroidismo, ERC/síndrome nefrótico, enfermedades hepáticas colestásicas, fármacos.",
+"**HF**: herencia **autosómica dominante** (codominante); cLDL extremo desde el nacimiento; heterocigota (HeFH, prevalencia 1/200-1/250; cLDL promedio > 220 mg/dl) y homocigota (HoFH, 1/300.000-1/1.000.000; > 500 mg/dl; muy grave). Es la enfermedad monogénica más prevalente. Aterosclerosis precoz.",
+"**Manifestaciones cutáneas/visibles de la hipercolesterolemia (HF)**: **xantomas tendinosos** (nódulos en tendones: Aquiles, extensores de las manos), **xantelasmas** (depósitos amarillentos en párpados) y **arco corneal** (anillo opaco alrededor de la córnea; arco senil; muy diagnóstico en HeFH). Los xantomas tuberosos aparecen en codos, rodillas y nalgas."]},
+{h:"Hipertrigliceridemia y quilomicronemia",ref:"22-24",pts:[
+"**Primarias**: poligénica y síndrome de quilomicronemia familiar. **Secundarias** (mucho más frecuentes): DM2/obesidad/síndrome metabólico, alcohol, ERC, hipotiroidismo, fármacos (estrógenos, retinoides, corticoides, β-bloqueantes, inhibidores de la proteasa).",
+"TG < 500 mg/dl: riesgo de ECV aterosclerótica. **TG > 500 mg/dl** (severa): lipemia retinalis, **xantomas eruptivos** (pápulas amarillentas en glúteos, espalda y extremidades) y **pancreatitis aguda**.",
+"**TG > 1000 mg/dl = síndrome de quilomicronemia**. Familiar: 1 % de las HTG graves, monogénica AR (LPL, apoC-II, apoA5, GPIHBP1, LMF1), infancia, sin desencadenantes, xantomas eruptivos y lipemia retinalis frecuentes, riesgo de pancreatitis muy alto, respuesta nula a dieta, fibratos y omega-3. Multifactorial: 99 %, adulto, desencadenantes (alcohol, fármacos, obesidad, DM), riesgo moderado, buena respuesta."]},
+{h:"Dislipemia mixta, Tipo III, Lp(a), HDL bajo y remanentes",ref:"25-30",pts:[
+"**Mixta**: primarias (hiperlipidemia familiar combinada; disbetalipoproteinemia tipo III) y secundarias (DM2, ERC/nefrótico, hipotiroidismo, alcohol y dieta, fármacos).",
+"**Disbetalipoproteinemia (tipo III)**: autosómica recesiva, apoE2/E2; aclaramiento deficiente de remanentes (β-VLDL e IDL ricas en colesterol). Colesterol 250-500, TG 200-1000. Xantomas tuberosos y **xantomas estriados palmares**, aterosclerosis precoz; sin lipemia retinalis ni arco corneal.",
+"**Lp(a)**: LDL con apo(a) unida a apoB-100; herencia autosómica codominante; 90 % determinada genéticamente; nivel estable de por vida → **medir una vez en la vida**. Pro-aterogénica, pro-inflamatoria y pro-trombótica (homología con plasminógeno); también estenosis aórtica calcificada.",
+"**Dislipemia aterogénica**: TG ↑, cHDL ↓, LDL pequeñas y densas; obesidad, DM2, esteatosis, síndrome metabólico. **cHDL bajo**: < 40 mg/dl en varones y < 50 mg/dl en mujeres (diap. 29), menor transporte reverso y efecto antioxidante.",
+"**Remanentes** (de quilomicrón y de VLDL/IDL): llevan 40 veces más colesterol por partícula que LDL; aterogénicos aun con LDL normal; cVLDL = CT − cHDL − cLDL.",
+"Perfil lipídico: CT, cHDL, TG, cLDL (Friedewald: cLDL = CT − cHDL − TG/5, válida si TG < 300 mg/dl), Lp(a) una vez en la vida; estudio genético: HF (LDLR, APOB, PCSK9), disbetalipoproteinemia (APOE ε2/ε2), quilomicronemia (LPL, APOC2, APOA5, GPIHBP1)."]},
+{h:"Mensajes clave de la clase",ref:"32",pts:[
+"Colesterol y TG son imprescindibles; se transportan en lipoproteínas; las causas de dislipemia son mayoritariamente secundarias; la HF es la enfermedad monogénica más prevalente; HTG moderada ↑ riesgo de ECV y HTG extrema ↑ riesgo de pancreatitis; ↑ Lp(a), ↑ remanentes, cHDL bajo y dislipemia aterogénica ↑ riesgo de ECV."]}],
+esquemas:[
+{t:"table",title:"Clasificación de Fredrickson (diap. 13)",head:["Tipo","Defecto / lipoproteína","Clave clínica"],rows:[
+["I","LPL o apo C-II; quilomicrones","Pancreatitis, xantomas eruptivos, lipemia retinalis"],
+["IIa","↑ LDL (HF)","Xantomas tendinosos, arco corneal, ECV precoz"],
+["IIb","LDL + VLDL (mixta)","Xantomas, arco corneal, riesgo aterosclerótico"],
+["III","Apo E; remanentes (IDL)","Xantomas palmares y tuberosos, aterosclerosis precoz"],
+["IV","VLDL","Pancreatitis si TG muy altos; obesidad, DM2, alcohol"],
+["V","Quilomicrones + VLDL","Pancreatitis, xantomas eruptivos, lipemia retinalis"]],ref:"13"},
+{t:"table",title:"Hipercolesterolemia familiar: signos visibles (diap. 20-21)",head:["Signo","Descripción"],rows:[
+["Xantomas tendinosos","Nódulos en tendones (Aquiles, extensores de manos)"],
+["Xantelasmas","Depósitos amarillentos en párpados"],
+["Arco corneal","Anillo opaco alrededor de la córnea (arco senil)"],
+["Xantomas tuberosos","Nódulos firmes en codos, rodillas y nalgas"]],ref:"20-21"},
+{t:"table",title:"Quilomicronemia familiar vs multifactorial (diap. 24)",head:["","Familiar","Multifactorial"],rows:[
+["Frecuencia","1 % de las HTG graves","99 % de las HTG extremas"],["Etiología","Monogénica AR (LPL, apoC-II…)","Genes + ambiente"],["Inicio","Infancia","Adulto"],["Desencadenantes","No necesarios","Frecuentes"],["Pancreatitis","Muy alto riesgo","Moderado"],["Fibratos / omega-3","Nula respuesta","Buena respuesta"]],ref:"24"},
+{t:"flow",title:"Vía exógena y endógena",steps:["Quilomicrón (intestino) → LPL → remanente → hígado (apo E/LRP1)","VLDL (hígado) → LPL → IDL → lipasa hepática → LDL","LDL → tejidos vía LDL-R (PCSK9 degrada el receptor)","HDL: transporte reverso (ABCA1, LCAT, SR-BI/CETP) → bilis"],ref:"9-12"}],
+claves:["Quilomicrones = ruta exógena; VLDL → IDL → LDL = ruta endógena; HDL = transporte reverso.","HF: AD (LDLR, apoB, PCSK9); xantomas tendinosos, xantelasmas, arco corneal.","TG > 500: pancreatitis, xantomas eruptivos, lipemia retinalis; > 1000: quilomicronemia.","Tipo III: apoE2/E2, xantomas palmares estriados.","Lp(a): genética, medir una vez en la vida."],
+test:[
+{q:"La hipercolesterolemia familiar se hereda de forma:",o:["Autosómica recesiva","Autosómica dominante (codominante)","Ligada al X","Mitocondrial"],a:1,e:"Diap. 20 y 27.",ref:"20"},
+{q:"Los xantomas tendinosos aparecen típicamente en:",o:["Glúteos","Tendón de Aquiles y extensores de las manos","Párpados","Córnea"],a:1,e:"Diap. 21.",ref:"21"},
+{q:"La LPL hidroliza:",o:["Colesterol","Triglicéridos de quilomicrones y VLDL","Fosfolípidos de HDL","Apo B"],a:1,e:"Diap. 9-10.",ref:"9-10"},
+{q:"PCSK9 produce:",o:["↑ receptores de LDL","Degradación del receptor de LDL y ↑ cLDL","↓ cLDL","↑ HDL"],a:1,e:"Diap. 11.",ref:"11"},
+{q:"Los xantomas eruptivos y la lipemia retinalis se asocian a:",o:["Hipercolesterolemia familiar","TG > 500 mg/dl","HDL bajo","Lp(a) elevada"],a:1,e:"Diap. 23.",ref:"23"},
+{q:"La disbetalipoproteinemia (tipo III) implica:",o:["Déficit de LPL","Genotipo apoE2/E2 y acúmulo de remanentes","Mutación del receptor LDL","Exceso de Lp(a)"],a:1,e:"Diap. 26.",ref:"26"},
+{q:"La Lp(a) debe medirse:",o:["Cada año","Una vez en la vida","Solo si hay HTG","Nunca"],a:1,e:"Diap. 27.",ref:"27"},
+{q:"Las lipoproteínas aterogénicas deben medir:",o:["< 70 nm","> 200 nm","> 100 nm","Cualquier tamaño"],a:0,e:"Diap. 18.",ref:"18"}],
+cortas:[
+{q:"Manifestaciones cutáneas de la hipercolesterolemia familiar heterocigota.",ex:8,a:"Xantomas tendinosos (nódulos en tendones de Aquiles y extensores de las manos), xantelasmas (depósitos amarillentos en párpados) y arco corneal (anillo opaco alrededor de la córnea).",pts:[["Xantomas tendinosos","xantoma|tendin"],["Xantelasmas (párpados)","xantelasma|parpado"],["Arco corneal","arco|cornea"]],ref:"20-21"},
+{q:"Cite las vías del metabolismo lipoproteico.",a:"Exógena (quilomicrones → remanentes → hígado), endógena (VLDL → IDL → LDL) y transporte reverso del colesterol (HDL).",pts:[["Exógena (quilomicrones)","exogena|quilomicron"],["Endógena (VLDL, IDL, LDL)","endogena|vldl|ldl"],["Transporte reverso (HDL)","reverso|hdl"]],ref:"8-12"},
+{q:"Diferencias entre quilomicronemia familiar y multifactorial.",a:"Familiar: monogénica AR (LPL, apoC-II, apoA5, GPIHBP1), infancia, riesgo muy alto de pancreatitis, sin respuesta a fibratos/omega-3. Multifactorial: 99 %, adulto, desencadenantes (alcohol, fármacos, obesidad, DM), buena respuesta.",pts:[["Familiar monogénica (LPL)","monogenic|lpl|recesiv"],["Multifactorial con desencadenantes","multifactorial|desencadenante"],["Pancreatitis","pancreatitis"]],ref:"24"},
+{q:"Causas de hipertrigliceridemia secundaria y complicaciones de la HTG grave.",a:"DM2/obesidad/síndrome metabólico, alcohol, ERC, hipotiroidismo y fármacos. TG > 500: pancreatitis aguda, xantomas eruptivos y lipemia retinalis.",pts:[["DM2/obesidad","diabetes|obesidad"],["Alcohol / fármacos / hipotiroidismo","alcohol|farmaco|hipotiroidismo"],["Pancreatitis","pancreatitis"]],ref:"22-23"}]};
+
+T[11]={n:11,mod:2,title:"Metabolismo de los aminoácidos y proteínas plasmáticas",short:"Aminoácidos y proteínas",src:"TEMA 11. FP y SM I. PROTEINAS.pdf",prof:"Dr. Vargas",
+resumen:[
+{h:"Proteínas y aminoácidos",ref:"3-8",pts:[
+"**Simples** (su hidrólisis solo genera Aa) y **complejas** (grupo proteico + grupo prostético: nucleoproteínas, lipoproteínas, glucoproteínas, fosfoproteínas, metaloproteínas). **Fibrosas** (colágeno) y **globulares** (Igs). Cuatro niveles de estructura: primaria, secundaria, terciaria y cuaternaria.",
+"**Aa esenciales** (no sintetizables; leucina, isoleucina, valina, fenilalanina, triptófano, metionina, treonina, lisina, histidina) y no esenciales (glicina, alanina, prolina, tirosina, cisteína, serina, ác. aspártico, ác. glutámico, arginina).",
+"**Aminoacidopatías**: bloqueos generalmente congénitos de las vías metabólicas o del transporte de Aa. Ejemplos: ciclo de la urea (déficit de ornitina-carbamoil transferasa), Aa aromáticos, ramificados (enfermedad del jarabe de arce) y sulfurados (hiperhomocisteinemia)."]},
+{h:"Proteínas plasmáticas: funciones y síntesis",ref:"10-12",pts:[
+"Funciones: presión oncótica, transporte de sustancias endógenas y exógenas (fármacos), reactantes de fase aguda, defensa humoral y hemostasia.",
+"Síntesis: retículo endoplásmico del hepatocito (Aa de la dieta); Igs en linfocitos B y células plasmáticas. Catabolismo: tubo digestivo, riñón e hígado. Valor normal: **6-8 g/dl**."]},
+{h:"Electroforesis e inmunoelectroforesis",ref:"13-25",pts:[
+"**Proteinograma**: el suero en un soporte inerte (gel de agarosa) sometido a campo eléctrico; separa 5 bandas: **albúmina, α1, α2, β y γ** (hoy se usa electroforesis capilar, midiendo a 214 nm).",
+"**Albúmina**: la de mayor concentración (4 g/dl; 69.000 Da); presión oncótica y transporte. **α1**: α1-antitripsina (> 90 %), HDL, α1-antiquimotripsina, orosomucoide, proteína sérica A del amiloide (RFA positivos). **α2**: α2-macroglobulina (inhibe proteasas), ceruloplasmina, haptoglobina, PCR. **β**: transferrina, hemopexina, LDL, complemento. **γ**: inmunoglobulinas (sobre todo IgG).",
+"**Inmunoelectroforesis**: separación electroforética + reacción con anticuerpos; arcos de precipitación; identifica **paraproteínas** y el tipo de cadenas (ligeras/pesadas)."]},
+{h:"Disproteinemias",ref:"26-37",pts:[
+"Hiper e hipoproteinemias son disproteinemias (alteración de la distribución de fracciones); si no hay cambios electroforéticos suelen ser falsas (hemoconcentración o hemodilución). Hiperproteinemia: ↑ Igs. Hipoproteinemia: déficit de albúmina o γ-globulinas.",
+"**Hipoalbuminemia** (< 3,5 g/dl): ↓ síntesis (insuficiencia hepática, malnutrición/malabsorción, inflamación), ↑ catabolismo (cirugía, neoplasias) o pérdidas (riñón: nefrótico; tubo digestivo: enteropatías; piel: quemaduras; serosas: ascitis). Consecuencias: edemas (↓ P oncótica), ascitis, derrame pleural, hipovolemia, hipotensión, activación del SRAA; efectos tóxicos (↑ fracción libre de fármacos).",
+"**Déficit de α1-antitripsina**: congénito; enfisema y cirrosis. **Hipogammaglobulinemia**: déficit de IgG, congénito o adquirido.",
+"**Patrones múltiples**: inflamación aguda (albúmina ↓, α1 y α2 ↑ por RFA); inflamación crónica (albúmina ↓, α1, α2 y γ ↑: la diferencia es el aumento **policlonal** de γ); hepatopatía crónica (albúmina ↓ y aumento policlonal β y γ: **puente β-γ**, por antígenos intestinales que llegan a la circulación general); síndrome nefrótico (pérdida de albúmina y γ; ↑ síntesis hepática de α2-macroglobulina y β-lipoproteínas)."]},
+{h:"Paraproteinemias y amiloidosis",ref:"39-44",pts:[
+"**Paraproteinemias (gammapatías monoclonales)**: banda estrecha monoclonal (**banda M**), Ig o fragmentos producidos por un solo clon de células B. Entidades: mieloma, macroglobulinemia de Waldenström, linfomas B, gammapatía monoclonal de significado incierto, crioglobulinemia.",
+"Consecuencias: **síndrome de hiperviscosidad** (IgM, IgA: alteraciones oculares, neurológicas, cardiacas), diátesis hemorrágica (por interferencia), lesión renal (precipitación tubular), neuropatía periférica (depósito) y **amiloidosis**.",
+"**Amiloidosis**: acumulación extracelular de sustancia proteica (amiloide) por alteración del plegamiento de múltiples proteínas precursoras."]}],
+esquemas:[
+{t:"table",title:"Fracciones del proteinograma",head:["Fracción","Componentes principales"],rows:[
+["Albúmina","Presión oncótica, transporte (4 g/dl)"],["α1","α1-antitripsina, HDL, orosomucoide, amiloide A"],["α2","α2-macroglobulina, ceruloplasmina, haptoglobina, PCR"],["β","Transferrina, hemopexina, LDL, complemento"],["γ","Inmunoglobulinas (IgG)"]],ref:"17-21"},
+{t:"table",title:"Patrones electroforéticos",head:["Situación","Patrón"],rows:[
+["Inflamación aguda","Albúmina ↓; α1 y α2 ↑"],["Inflamación crónica","Albúmina ↓; α1, α2 y γ policlonal ↑"],["Hepatopatía crónica","Albúmina ↓; puente β-γ"],["Síndrome nefrótico","Albúmina y γ ↓; α2 ↑"],["Paraproteinemia","Banda M monoclonal"]],ref:"34-39"},
+{t:"table",title:"Causas de hipoalbuminemia",head:["Mecanismo","Ejemplos"],rows:[
+["↓ síntesis","Insuficiencia hepática, malnutrición, inflamación"],["↑ catabolismo","Cirugía, neoplasias"],["Pérdidas","Riñón, tubo digestivo, piel (quemados), serosas"]],ref:"29-30"}],
+claves:["Proteinograma: albúmina + α1, α2, β, γ.","Inflamación aguda = α1 y α2 ↑; crónica = además γ policlonal.","Hepatopatía crónica: puente β-γ.","Banda M = paraproteinemia (mieloma, Waldenström…).","Hipoalbuminemia → edema y ↑ fracción libre de fármacos."],
+test:[
+{q:"El proteinograma separa:",o:["3 bandas","5 bandas: albúmina, α1, α2, β y γ","7 bandas","Solo albúmina y globulinas"],a:1,e:"Diap. 13.",ref:"13"},
+{q:"En la inflamación crónica, respecto a la aguda, destaca:",o:["Aumento policlonal de γ-globulinas","Aumento de albúmina","Banda M","Disminución de α2"],a:0,e:"Diap. 35.",ref:"35"},
+{q:"El puente β-γ es típico de:",o:["Síndrome nefrótico","Hepatopatía crónica","Mieloma","Inflamación aguda"],a:1,e:"Diap. 36.",ref:"36"},
+{q:"La banda M indica:",o:["Proliferación de un solo clon de células B","Hipoalbuminemia","Síntesis hepática aumentada","Inflamación aguda"],a:0,e:"Diap. 39.",ref:"39"},
+{q:"El síndrome de hiperviscosidad se asocia a paraproteínas:",o:["IgG","IgM e IgA","IgE","IgD"],a:1,e:"Diap. 42.",ref:"42"},
+{q:"El déficit de α1-antitripsina causa:",o:["Enfisema y cirrosis","Mieloma","Hipoalbuminemia","Amiloidosis"],a:0,e:"Diap. 32.",ref:"32"},
+{q:"Hipoalbuminemia se define como albúmina:",o:["< 3,5 g/dl","< 6 g/dl","< 1 g/dl","> 4 g/dl"],a:0,e:"Diap. 29.",ref:"29"},
+{q:"Es un aminoácido esencial:",o:["Glicina","Leucina","Alanina","Serina"],a:1,e:"Diap. 6.",ref:"6"}],
+cortas:[
+{q:"Fracciones del proteinograma y proteínas principales de cada una.",a:"Albúmina; α1 (α1-antitripsina, HDL); α2 (α2-macroglobulina, ceruloplasmina, haptoglobina); β (transferrina, LDL, complemento); γ (inmunoglobulinas).",pts:[["Albúmina","albumina"],["α1 (α1-antitripsina)","alfa 1|alfa1|antitripsina"],["α2","alfa 2|alfa2|haptoglobina|macroglobulina"],["β (transferrina)","beta|transferrina"],["γ (Igs)","gamma|inmunoglobulina"]],ref:"13,17-21"},
+{q:"Causas y consecuencias de la hipoalbuminemia.",a:"↓ síntesis (hepática, malnutrición, inflamación), ↑ catabolismo (cirugía, neoplasias) y pérdidas (renal, digestivas, cutáneas, serosas). Consecuencias: edemas, ascitis, derrame pleural, hipovolemia y ↑ fracción libre de fármacos.",pts:[["↓ síntesis","sintesis"],["Pérdidas (renal, digestiva…)","perdida|renal|nefrotico"],["Edemas / ↓ presión oncótica","edema|oncotica"]],ref:"29-31"},
+{q:"Paraproteinemias: concepto, entidades y consecuencias.",a:"Banda M monoclonal producida por un clon de células B (mieloma, Waldenström, linfomas B, GMSI, crioglobulinemia). Consecuencias: hiperviscosidad, diátesis hemorrágica, lesión renal, neuropatía y amiloidosis.",pts:[["Banda M / monoclonal","banda m|monoclonal"],["Mieloma / Waldenström","mieloma|waldenstrom"],["Hiperviscosidad / lesión renal / amiloidosis","hiperviscosidad|renal|amiloid"]],ref:"39-43"},
+{q:"Patrón electroforético de la hepatopatía crónica y del síndrome nefrótico.",a:"Hepatopatía crónica: albúmina ↓ y aumento policlonal de β y γ (puente β-γ). Nefrótico: pérdida urinaria de albúmina y γ-globulinas, con ↑ de α2-macroglobulina y β-lipoproteínas.",pts:[["Puente β-γ","puente|beta-gamma|beta gamma"],["Nefrótico: pierde albúmina y γ","nefrotico|orina"]],ref:"36-37"}]};
+
+T[12]={n:12,mod:2,title:"Patología general de la nutrición",short:"Nutrición y obesidad",src:"PATOLOGÍA GENERAL DE LA NUTRICIÓN.pdf",prof:"Dr. R. de Andrés",
+resumen:[
+{h:"Balance energético y requerimientos",ref:"2-4",pts:[
+"**Balance energético**: reserva energética (glucógeno y depósito de grasa) frente al gasto: **basal (60-80 %)**, postprandial (efecto térmico de los alimentos) y de actividad física.",
+"Control: hipotálamo; la **leptina** (del adipocito) y la **insulina** activan la vía anorexígena (↑ MSH, POMC/CART); la **grelina** activa la vía orexígena (NPY, AgRP).",
+"Nutrientes: **energéticos** (lípidos, glúcidos, proteínas), **plásticos** (proteínas y oligoelementos) y **reguladores** (vitaminas y agua). Necesidades basales: 25-35 kcal/kg/día.",
+"Cualitativo: glúcidos 50-60 % de las calorías; lípidos 20-30 % (ácidos grasos esenciales: linoleico y linolénico); proteínas 15-20 % (mínimo 0,8 g/kg/día; hasta 2 g/kg/día en estrés)."]},
+{h:"Métodos de exploración",ref:"5-7,18",pts:[
+"**Antropométricos**: IMC (peso kg / talla² m); pliegue de grasa subcutánea (lipocalibrador, tríceps); perímetro braquial y masa muscular del brazo (perímetro − 0,314 × pliegue tricipital); perímetro de cintura (punto medio entre la última costilla y la cresta ilíaca).",
+"IMC: < 18,5 delgadez; 18,5-24,9 normal; 24,9-26,9 sobrepeso 1; 27-29,9 sobrepeso 2; 30-34,9 obesidad 1; 35-39,9 obesidad 2; ≥ 40 obesidad 3 (mórbida). Desnutrición: IMC < 18 (peso < 85 % del ideal).",
+"**Analíticos**: albúmina (3,5-5,5 g/dl), **prealbúmina** (19,5-35,5 mg/dl; vida media más corta, refleja cambios a corto plazo), transferrina (170-290 mg/dl), proteína transportadora de retinol."]},
+{h:"Obesidad",ref:"8",pts:[
+"Acumulación excesiva de grasa con aumento del peso corporal; **IMC > 30**.",
+"Mecanismos: ingreso energético excesivo (microbiota), ↓ gasto energético, defecto de oxidación de ácidos grasos (leptina).",
+"Obesidad **superior (androide)** vs **inferior (ginecoide)**. Se asocia al síndrome metabólico."]},
+{h:"Síndrome metabólico",ref:"11-14",pts:[
+"**Manifestaciones endocrino-metabólicas**: obesidad superior, DM2, hipertrigliceridemia y ↓ cHDL, esteatosis hepática/esteatohepatitis (adipocitocinas inflamatorias, TNF-α, radicales libres de O₂ por oxidación de ácidos grasos), diátesis trombótica (↑ fibrinógeno y PAI-1), HTA e hiperferritinemia → ↑ riesgo cardiovascular. **Mecánicas**: artrosis (rodilla, espondiloartrosis), síndrome de obesidad-hipoventilación y/o apnea-hipopnea del sueño.",
+"Mecanismo (figura 54-3): ácidos grasos libres y adipocitocinas (↑ IL-6, TNF-α, resistina; ↓ adiponectina) del tejido adiposo → hiperinsulinismo y resistencia a la insulina → DM2, hipertrigliceridemia, esteatosis, HTA y trombosis.",
+"**Definición «Harmonizing the Metabolic Syndrome»**: **3 de los 5 componentes**: obesidad abdominal (ATP III: hombres > 102 cm, mujeres > 88 cm), triglicéridos elevados, cHDL bajo, presión arterial elevada (PAD ≥ 85 mmHg o en tratamiento antihipertensivo) y glucemia en ayunas ≥ 100 mg/dl o en tratamiento. *Nota: en la diap. 14 una ventana emergente tapa los umbrales exactos de TG, cHDL y PAS; no se citan porque no son legibles en el material.*"]},
+{h:"Malnutrición proteico-calórica (desnutrición)",ref:"15-18",pts:[
+"**Definición**: pérdida excesiva de grasa y disminución del peso corporal. Causas: ↓ ingreso energético (ayuno voluntario/involuntario, anorexia en cáncer, enfermedades crónicas —EPOC, ICC, síndromes de malabsorción—) y ↑ gasto energético (fiebre, enfermedad grave, cáncer).",
+"Vías metabólicas del ayuno prolongado: glucogenólisis, gluconeogénesis (a partir de aminoácidos musculares y glicerol), cetogénesis y lipólisis.",
+"**Manifestaciones**: pérdida de peso; retraso del crecimiento (niños); pérdida de grasa subcutánea (úlceras cutáneas); infecciones; consunción muscular; atrofia de vellosidades (digestivo); respiratorio; bradicardia e hipotensión.",
+"Indicadores: IMC < 18 (< 18,5 delgadez), peso < 85 % del ideal, ↓ grasa subcutánea (tríceps), hipoalbuminemia."]},
+{h:"Vitaminas y oligoelementos",ref:"19-22",pts:[
+"**Déficit por**: ↓ aporte (alcohólicos: B1 y ác. fólico; ancianos: B12 y ác. fólico; poca luz solar: vitamina D), malabsorción (intestino delgado: ác. fólico y liposolubles; enfermedad hepática o biliar: liposolubles; íleon terminal: B12) e interacción (metotrexato–ác. fólico; isoniacida–vitamina B6).",
+"**Liposolubles**: A (xeroftalmía, hemeralopía, queratomalacia, manchas de Bitot, hiperqueratosis folicular), D (osteomalacia y raquitismo), K (síntesis de factores II, VII, IX, X, proteínas C y S: diátesis hemorrágica), E (antioxidante: ataxia).",
+"**Hidrosolubles**: B1 (beri-beri; Wernicke-Korsakoff), B2 (estomatitis angular, glositis, dermatitis seborreica), niacina (pelagra: dermatitis, diarrea, demencia), B6 (polineuropatía, anemia sideroblástica, hiperhomocisteinemia), B12 (anemia megaloblástica, síndrome cordonal posterior), ác. fólico (anemia megaloblástica, defectos del tubo neural), C (escorbuto).",
+"**Oligoelementos** (diap. 22): cinc (dermatitis, alteración del gusto, retraso de cicatrización), flúor (caries), selenio (cardiomiopatía de Keshan), cromo (resistencia a la insulina), manganeso, molibdeno."]}],
+esquemas:[
+{t:"table",title:"IMC (diap. 6)",head:["IMC (kg/m²)","Categoría"],rows:[["< 18,5","Delgadez"],["18,5-24,9","Normal"],["24,9-26,9","Sobrepeso 1"],["27-29,9","Sobrepeso 2"],["30-34,9","Obesidad 1"],["35-39,9","Obesidad 2"],["≥ 40","Obesidad 3 (mórbida)"]],ref:"6"},
+{t:"table",title:"Síndrome metabólico: 3 de 5 criterios (diap. 14)",head:["Componente","Criterio"],rows:[
+["Obesidad abdominal","Cintura aumentada (ATP III: > 102 cm hombres; > 88 cm mujeres)"],["Triglicéridos","Elevados (umbral no legible en la diapositiva)"],["cHDL","Bajo (umbral no legible)"],["Presión arterial","PAD ≥ 85 mmHg o en tratamiento"],["Glucemia","Ayunas ≥ 100 mg/dl o en tratamiento"]],ref:"14"},
+{t:"flow",title:"Fisiopatología del síndrome metabólico (diap. 10)",steps:["Obesidad superior: ↑ AGL y adipocitocinas (IL-6, TNF-α, resistina; ↓ adiponectina)","Hiperinsulinismo y resistencia a la insulina","DM2, ↑ TG/↓ HDL, esteatosis, HTA","Diátesis trombótica (PAI-1, fibrinógeno) → ↑ riesgo CV"],ref:"10-11"},
+{t:"table",title:"Déficit de vitaminas (resumen)",head:["Vitamina","Déficit"],rows:[
+["A","Xeroftalmía, hemeralopía, queratomalacia"],["D","Osteomalacia, raquitismo"],["K","Diátesis hemorrágica"],["E","Ataxia"],["B1","Beri-beri; Wernicke-Korsakoff"],["Niacina","Pelagra"],["B12 / ác. fólico","Anemia megaloblástica"],["C","Escorbuto"]],ref:"20-21"}],
+claves:["Gasto basal 60-80 %; leptina/insulina anorexígenas, grelina orexígena.","Obesidad: IMC > 30; superior (androide) = más riesgo metabólico.","Síndrome metabólico = 3 de 5: cintura, TG, cHDL, PA, glucemia.","Desnutrición: IMC < 18, peso < 85 %, hipoalbuminemia; prealbúmina = marcador a corto plazo.","Alcohólicos: B1 y fólico; íleon terminal: B12."],
+test:[
+{q:"¿Cuántos criterios hacen falta para diagnosticar síndrome metabólico (Harmonizing)?",o:["1 de 5","2 de 5","3 de 5","5 de 5"],a:2,e:"Diap. 14.",ref:"14"},
+{q:"El mayor componente del gasto energético es:",o:["Actividad física","Gasto basal (60-80 %)","Efecto térmico de los alimentos","Termogénesis por frío"],a:1,e:"Diap. 2.",ref:"2"},
+{q:"La grelina:",o:["Es anorexígena","Activa la vía orexígena","Es una adipocitocina que aumenta la saciedad","Reduce el apetito"],a:1,e:"Diap. 3.",ref:"3"},
+{q:"La prealbúmina se utiliza porque:",o:["Tiene vida media larga","Tiene vida media más corta y refleja cambios a corto plazo","Es independiente de la nutrición","Solo sube en la obesidad"],a:1,e:"Diap. 7.",ref:"7"},
+{q:"El déficit de vitamina K causa:",o:["Ataxia","Diátesis hemorrágica","Raquitismo","Pelagra"],a:1,e:"Diap. 20.",ref:"20"},
+{q:"Los alcohólicos tienen déficit típico de:",o:["Vit. A y D","B1 y ácido fólico","B12 y vit. C","Vit. K"],a:1,e:"Diap. 19.",ref:"19"},
+{q:"La malabsorción del íleon terminal produce déficit de:",o:["Vitamina B12","Ácido fólico","Vitamina D","Vitamina C"],a:0,e:"Diap. 19.",ref:"19"},
+{q:"Entre las manifestaciones del síndrome metabólico NO se cita:",o:["Diátesis trombótica","Esteatosis hepática","Hiperferritinemia","Hipoglucemia de ayuno"],a:3,e:"Diap. 11.",ref:"11"}],
+cortas:[
+{q:"Características para el diagnóstico de síndrome metabólico.",ex:7,a:"3 de 5 componentes: obesidad abdominal (aumento de la circunferencia de cintura; ATP III: > 102 cm hombres, > 88 cm mujeres), triglicéridos elevados, cHDL bajo, presión arterial elevada (PAD ≥ 85 o en tratamiento) y glucemia en ayunas ≥ 100 mg/dl o en tratamiento.",pts:[["Obesidad abdominal / cintura","abdominal|cintura|perimetro"],["Triglicéridos elevados","triglicerido|tg"],["cHDL bajo","hdl"],["Presión arterial elevada","presion|hta|tension"],["Glucemia alterada en ayunas","glucemia|glucosa"],["3 de 5","3 de|tres de|3 de los 5"]],ref:"14"},
+{q:"Manifestaciones del síndrome metabólico.",a:"Endocrino-metabólicas: obesidad superior, DM2, hipertrigliceridemia y ↓ cHDL, esteatosis/esteatohepatitis, diátesis trombótica, HTA, hiperferritinemia (↑ riesgo CV). Mecánicas: artrosis y síndrome de obesidad-hipoventilación/apnea del sueño.",pts:[["Obesidad / DM2","obesidad|diabetes"],["Dislipemia (TG↑, HDL↓)","trigliceridemia|hdl"],["Esteatosis / HTA / trombosis","esteatosis|hta|hipertension|trombotica"],["Artrosis / apnea del sueño","artrosis|apnea"]],ref:"11,13"},
+{q:"Manifestaciones e indicadores de la desnutrición proteico-calórica.",a:"Pérdida de peso, retraso del crecimiento, pérdida de grasa subcutánea, infecciones, consunción muscular, atrofia de vellosidades, bradicardia e hipotensión. IMC < 18, peso < 85 % del ideal, ↓ pliegue tricipital e hipoalbuminemia.",pts:[["Pérdida de peso / grasa / músculo","peso|grasa|muscular"],["Infecciones","infeccion"],["IMC < 18 / peso < 85 %","imc|85"],["Hipoalbuminemia","albumina"]],ref:"17-18"},
+{q:"Causas de déficit de vitaminas.",a:"↓ aporte (alcohólicos, ancianos, poca luz solar), malabsorción (intestino delgado, hepatobiliar, íleon terminal) e interacciones farmacológicas (MTX–fólico, isoniacida–B6).",pts:[["↓ aporte","aporte|alcoholic|anciano"],["Malabsorción","malabsorcion"],["Interacción fármacos","interaccion|mtx|isoniacida"]],ref:"19"}]};
+
+T[13]={n:13,mod:3,title:"Semiología digestiva: dolor abdominal y hemorragia digestiva",short:"Dolor abdominal y hemorragia digestiva",src:"Tema13_ SemiologiaDigestiva_Hemorragias.pdf",prof:"Dr. J. M. Galván Román",
+resumen:[
+{h:"Cómo evaluar el dolor abdominal: ALICIA",ref:"4-5",pts:[
+"**A**ntigüedad (¿desde cuándo?), **L**ocalización (¿dónde?), **I**rradiación (¿se desplaza?), **C**aracterísticas (¿cólico vs continuo?), **I**ntensidad (EVA), **A**livio/acentuación (comidas, postura, movimiento)."]},
+{h:"Semiología por órganos",ref:"8",pts:[
+"**Esófago**: odinofagia, disfagia, pirosis, dolor cólico esofágico. **Estómago**: dolor ulceroso, dispepsia. **Intestino**: dolor cólico. **Recto**: proctalgia, tenesmo."]},
+{h:"Dolor visceral vs somático",ref:"9",pts:[
+"**Visceral**: sordo, mal localizado (víscera menos inervada; fibras C; inervación bilateral y multisegmento); sin contractura abdominal; inquietud/agitación; no cambia con los movimientos; irradiado.",
+"**Somático**: agudo, bien localizado (peritoneo más inervado; fibras A y C); con contractura abdominal; inmovilidad; aumenta con movimientos o maniobras; no irradiado."]},
+{h:"Ejemplo: dolor ulceroso",ref:"10",pts:[
+"**Úlcera duodenal**: epigastrio, irradiación a la espalda, aparece antes de comer; alivia con alimento y antiácidos. **Úlcera gástrica**: epigastrio/hipocondrio izquierdo, durante o después de comer; la ingesta no alivia."]},
+{h:"Hemorragia digestiva: definición y tipos",ref:"12-14",pts:[
+"**Definición**: paso de sangre a la luz del tubo digestivo. Tipos: **hematemesis, melenas, hematoquecia, rectorragia** y hemorragia oculta (→ anemia ferropénica).",
+"**Real**: evidente (hematemesis, melenas, hematoquecia, rectorragia) u oculta (sangre oculta en heces, asintomática; anemia ferropénica y síndrome anémico subagudo). **Ficticia**: simula hematemesis (lesiones en boca; bebidas de cola, café), melenas (hierro, sales de bismuto, espinacas u otros alimentos oscuros) o hematoquecia (remolacha, colorantes rojos)."]},
+{h:"Clasificación según localización: HDA y HDB",ref:"15-22",pts:[
+"**Hemorragia digestiva alta (HDA)**: por encima del **ángulo de Treitz**; **baja (HDB)**: por debajo.",
+"Error frecuente y grave: **hematemesis = alta**; melenas, hematoquecia y rectorragia **no localizan**.",
+"**HDA** — úlcera péptica (duodenal > gástrica; H. pylori en 90 % de las duodenales y 60 % de las gástricas > AINE/AAS > tumor); **varices esofágicas** (complicación más grave de la hipertensión portal; 40-50 % de cirróticos las tienen al diagnóstico; 20-30 % fallecen por sangrado); otras: **Dieulafoy** (arteria anómala submucosa gástrica), **Mallory-Weiss** (desgarro esófago-cardial por vómitos), angiodisplasias (ancianos con ERC y estenosis aórtica), iatrogénicas (fístulas aortoentéricas, bilio-intestinales).",
+"**HDB** (25 casos/100.000 hab-año; mortalidad 4-10 %; origen 85 % intestino grueso, 10 % tubo superior, 5 % intestino delgado): enfermedad diverticular (17-40 %), angiodisplasia (2-30 %), colitis (EII, isquémica, infecciosa, actínica; 9-20 %), tumores (11-15 %), patología anal (hemorroides, fisuras, varices; 4-10 %), lesiones de intestino delgado (2-9 %)."]},
+{h:"Gravedad y repercusión hemodinámica",ref:"24-26",pts:[
+"**Leve**: PAS > 100, pulso < 100, piel normal, pérdida < 15 % (750 cc). **Grave**: PAS < 100, pulso > 100, piel pálida y sudorosa, ortostatismo, 15-50 %. **Masiva**: shock hipovolémico, agitación, estupor, coma; > 50 %.",
+"Respuesta según cuantía: leve (0-20 %): contracción venosa y reclutamiento de líquido extravascular (pulso débil, taquicardia, inquietud, diaforesis, hipotensión leve, ↓ diuresis); moderada (21-30 %): constricción arteriolar, ↓ presión de pulso, aldosterona, ADH y catecolaminas (hipotensión, piel fría y pegajosa, obnubilación); severa (≥ 31 %): ↓ FEVI, hipotensión, reducción drástica del gasto cardiaco (disnea, coma, muerte).",
+"Manejo inicial: valorar gravedad, aproximación a la localización, causa y tratamiento."]}],
+esquemas:[
+{t:"flow",title:"Regla ALICIA (diap. 5)",steps:["Antigüedad","Localización","Irradiación","Características","Intensidad","Alivio / acentuación"],ref:"5"},
+{t:"table",title:"Dolor visceral vs somático (diap. 9)",head:["","Visceral","Somático"],rows:[
+["Calidad","Sordo, mal localizado","Agudo, bien localizado"],["Fibras","C; bilateral y multisegmento","A y C; peritoneo"],["Contractura","No","Sí"],["Actitud","Inquietud, agitación","Inmovilidad"],["Movimientos","No cambia","Aumenta"],["Irradiación","Irradiado","No irradiado"]],ref:"9"},
+{t:"table",title:"HDA vs HDB (diap. 15-22)",head:["","HDA (sobre Treitz)","HDB (bajo Treitz)"],rows:[
+["Causas principales","Úlcera péptica, varices esofágicas, Mallory-Weiss, Dieulafoy, angiodisplasia","Enfermedad diverticular, angiodisplasia, colitis, tumores, patología anal"],
+["Manifestación localizadora","Hematemesis","Ninguna específica (melenas, hematoquecia y rectorragia no localizan)"]],ref:"15-22"},
+{t:"table",title:"Gravedad del sangrado (diap. 24)",head:["","Leve","Grave","Masiva"],rows:[
+["PAS","> 100","< 100","Shock hipovolémico"],["Pulso","< 100","> 100","—"],["Perfusión","Piel normal","Pálida, sudorosa, ortostatismo","Agitación, estupor, coma"],["Pérdida","< 15 % (750 cc)","15-50 %","> 50 %"]],ref:"24"},
+{t:"table",title:"Hemorragia ficticia (diap. 13)",head:["Simula","Causa"],rows:[["Hematemesis","Lesiones bucales; bebidas de cola, café"],["Melenas","Hierro, sales de bismuto, espinacas"],["Hematoquecia","Remolacha, colorantes rojos"]],ref:"13"}],
+claves:["ALICIA ordena la anamnesis del dolor.","Visceral: sordo, mal localizado, inquietud. Somático: agudo, localizado, inmovilidad y contractura.","HDA = sobre el ángulo de Treitz; hematemesis = alta; melenas/hematoquecia/rectorragia no localizan.","HDA: úlcera péptica (H. pylori) y varices. HDB: diverticular y angiodisplasia.","Gravedad: PAS, pulso, perfusión y % de pérdida."],
+test:[
+{q:"La regla ALICIA corresponde a:",o:["Evaluación del dolor","Gravedad del sangrado","Clasificación de úlceras","Exploración abdominal"],a:0,e:"Diap. 5.",ref:"5"},
+{q:"El dolor visceral se caracteriza por:",o:["Estar bien localizado y causar inmovilidad","Ser sordo, mal localizado y con inquietud","Aumentar con la tos","Causar contractura"],a:1,e:"Diap. 9.",ref:"9"},
+{q:"La úlcera duodenal alivia con:",o:["Ayuno","Alimento y antiácidos","Vómito","No alivia"],a:1,e:"Diap. 10.",ref:"10"},
+{q:"¿Qué manifestación indica por sí sola localización alta?",o:["Melenas","Hematoquecia","Hematemesis","Rectorragia"],a:2,e:"Diap. 16.",ref:"16"},
+{q:"Causa más frecuente de HDA:",o:["Úlcera péptica","Mallory-Weiss","Angiodisplasia","Fístula aortoentérica"],a:0,e:"Diap. 17.",ref:"17"},
+{q:"Causa más frecuente de HDB (según la tabla):",o:["Tumores","Enfermedad diverticular","Hemorroides","Intestino delgado"],a:1,e:"Diap. 21.",ref:"21"},
+{q:"El síndrome de Mallory-Weiss es:",o:["Desgarro esófago-cardial por vómitos","Arteria anómala gástrica","Várices","Colitis isquémica"],a:0,e:"Diap. 20.",ref:"20"},
+{q:"Una pérdida del 15-50 % con PAS < 100 y pulso > 100 es sangrado:",o:["Leve","Grave","Masivo","Ficticio"],a:1,e:"Diap. 24.",ref:"24"}],
+cortas:[
+{q:"Hemorragias digestivas: clasificación según su localización.",ex:9,a:"HDA (por encima del ángulo de Treitz): úlcera péptica, varices esofágicas, Mallory-Weiss, Dieulafoy, angiodisplasias. HDB (por debajo): enfermedad diverticular, angiodisplasia, colitis, tumores, patología anal. Hematemesis = alta; melenas, hematoquecia y rectorragia no localizan.",pts:[["HDA / ángulo de Treitz","hda|treitz|alta"],["HDB","hdb|baja"],["Causas HDA (úlcera, varices)","ulcera|varice"],["Causas HDB (diverticular, angiodisplasia, hemorroides)","diverticul|angiodisplasia|hemorroide|colitis"]],ref:"15-22"},
+{q:"Diferencias entre dolor visceral y somático.",a:"Visceral: sordo, mal localizado, fibras C, inquietud, sin contractura, irradiado. Somático: agudo, bien localizado, peritoneo, fibras A y C, contractura, inmovilidad, aumenta con el movimiento.",pts:[["Visceral: sordo, mal localizado","sordo|mal localizado"],["Somático: agudo, bien localizado","agudo|bien localizado"],["Contractura / inmovilidad en somático","contractura|inmovil"]],ref:"9"},
+{q:"Tipos de manifestación de la hemorragia digestiva.",a:"Hematemesis, melenas, hematoquecia, rectorragia y hemorragia oculta (anemia ferropénica). Puede ser real (evidente u oculta) o ficticia (cola, hierro, bismuto, remolacha).",pts:[["Hematemesis","hematemesis"],["Melenas","melena"],["Hematoquecia / rectorragia","hematoquecia|rectorragia"],["Oculta / anemia ferropénica","oculta|ferropenica"]],ref:"12-13"},
+{q:"Clasifique la gravedad de una hemorragia digestiva.",a:"Leve: PAS > 100, pulso < 100, pérdida < 15 %. Grave: PAS < 100, pulso > 100, piel pálida sudorosa, ortostatismo, 15-50 %. Masiva: shock hipovolémico, > 50 %.",pts:[["Leve < 15 %","15"],["Grave 15-50 %","50"],["Masiva / shock","masiva|shock"]],ref:"24"}]};
+
+T[14]={n:14,mod:3,title:"Exploración clínica abdominal y funcional hepática",short:"Exploración abdominal y pruebas hepáticas",src:"Tema 14.pdf",prof:"Dr. D. Real de Asúa",
+resumen:[
+{h:"Exploración física abdominal",ref:"3-29",pts:[
+"Orden: **inspección → auscultación → palpación → percusión** (orden del mapa conceptual, diap. 3).",
+"**Inspección**: volumen y forma (globuloso, distendido), superficie (regular/irregular), hallazgos abdominales (hematomas, lesiones vasculares, vasos, cicatrices) y extra-abdominales (ictericia conjuntival, arañas vasculares, eritema palmar, Dupuytren, ginecomastia, hipertrofia parotídea, alteraciones ungueales).",
+"**Auscultación**: ruidos hidroaéreos; desaparecen en el íleo paralítico; aumentan en malabsorción, aumento del tránsito e íleo mecánico (ruidos metálicos); soplos vasculares.",
+"**Palpación**: hepática, esplénica, renal. **Percusión**: normal = timpanismo salvo hipocondrio derecho (mate). Timpanismo aumentado: acúmulo de gas (meteorismo, malabsorción, obstrucción, neumoperitoneo). Matidez: ↑ contenido sólido (masa) o líquido (ascitis, retención de orina). Búsqueda de ascitis: matidez en flancos, matidez cambiante, oleada ascítica."]},
+{h:"Signos cutáneos y extraabdominales de hepatopatía",ref:"7-17",pts:[
+"**Ascitis**: acúmulo de líquido en la cavidad peritoneal. **Circulación colateral** (shunts portosistémicos): cabeza de medusa.",
+"**Ictericia**: coloración amarillenta de piel y mucosas por ↑ bilirrubina. Bilirrubina total normal 0,8-1,2 mg/dl; ictericia visible > 2 mg/dl. Errores: ancianos, ingesta de carotenos.",
+"**Angiomas en araña**: dilatación arteriolar central con capilares radiados; **blanquean a la presión**; hepatopatía alcohólica (relación con varices); por exceso de estrógenos no metabolizados (embarazo, ACO, hipertiroidismo).",
+"**Telangiectasias**: dilatación persistente de capilares, **sin arteriola central**, **no blanquean**; hepatopatía crónica; exceso de estrógenos no metabolizados.",
+"**Ginecomastia**; **contractura de Dupuytren** (fibrosis progresiva de la fascia palmar; hepatopatía alcohólica; mecanismo incierto; a veces con eritema palmar); hematomas cutáneos."]},
+{h:"Pruebas hepáticas",ref:"32-36",pts:[
+"**Función hepatocelular**: bilirrubina total (fracaso de captación, conjugación o excreción), **albúmina** (síntesis hepática; vida media larga), **tiempo de protrombina** (síntesis de I, II, V, VII, IX, X, XI, XII; dependientes de vit. K: II, VII, IX, X —test de Koller—; factor VIII: sinusoides hepáticos), **amoniemia** (insuficiencia hepática o shunt portosistémico).",
+"**Colestasis**: bilirrubina directa/conjugada, **fosfatasa alcalina** (transporte transmembrana de metabolitos) y **GGT** (síntesis y transferencia de glutatión).",
+"Colestasis verdadera: BD ↑, FA ↑, GGT ↑. Disociada: BD normal, FA ↑, GGT ↑. Origen extrahepático (óseo o embarazo): BD N, FA ↑, GGT N. Alcohol o fármacos: BD N, FA N, GGT ↑.",
+"**Citólisis (transaminasas)**: GOT/AST (corazón, músculo, riñón, hígado; vida media 15-20 h; poco dependiente de B6) y GPT/ALT (hígado, riñón; vida media 1,5-2 días; muy dependiente de B6). LDH: enzima no específica de tejido.",
+"Complementarias: pruebas de laboratorio específicas, radiológicas (Rx simple ± contraste oral, ecografía, TAC, RMN), endoscópicas, manometrías, biopsias."]}],
+esquemas:[
+{t:"flow",title:"Orden de la exploración abdominal (diap. 3)",steps:["Inspección","Auscultación","Palpación","Percusión"],ref:"3"},
+{t:"table",title:"Araña vascular vs telangiectasia (diap. 11-13)",head:["","Angioma en araña","Telangiectasia"],rows:[
+["Qué","Dilatación arteriolar central + capilares radiados","Dilatación persistente de capilares; sin arteriola central"],["Presión","Blanquea","No blanquea"],["Cuándo","Hepatopatía alcohólica (varices)","Hepatopatía crónica"],["Por qué","Estrógenos no metabolizados","Estrógenos no metabolizados"]],ref:"11-13"},
+{t:"table",title:"Patrones de colestasis (diap. 35)",head:["","Verdadera","Disociada","Extrahepática (óseo/embarazo)","Alcohol/fármacos"],rows:[
+["Bilirrubina directa","↑","N","N","N"],["Fosfatasa alcalina","↑","↑","↑","N"],["GGT","↑","↑","N","↑"]],ref:"35"},
+{t:"table",title:"Transaminasas (diap. 36)",head:["","GOT/AST","GPT/ALT"],rows:[["Tejido","Corazón, músculo, riñón, hígado","Hígado, riñón"],["Vida media","15-20 h","1,5-2 días"],["Dependencia de B6","Poca","Mucha"]],ref:"36"},
+{t:"table",title:"Pruebas hepáticas por función",head:["Función","Prueba"],rows:[["Hepatocelular","Bilirrubina total, albúmina, TP, amonio"],["Colestasis","Bilirrubina directa, FA, GGT"],["Citólisis","AST, ALT, LDH"]],ref:"3,33-36"}],
+claves:["Exploración: inspección, auscultación, palpación, percusión.","Araña vascular: blanquea, arteriola central; telangiectasia: no blanquea.","Signos cutáneos de cirrosis: arañas, eritema palmar, Dupuytren, ginecomastia, ictericia, cabeza de medusa, hematomas.","Función: albúmina, TP, bilirrubina, amonio. Colestasis: BD, FA, GGT. Citólisis: AST, ALT."],
+test:[
+{q:"Un angioma en araña:",o:["No blanquea a la presión","Blanquea a la presión y tiene arteriola central","Es una telangiectasia","Solo aparece en la ictericia"],a:1,e:"Diap. 11-13.",ref:"11,13"},
+{q:"La ictericia es visible cuando la bilirrubina supera:",o:["0,8 mg/dl","1,2 mg/dl","2 mg/dl","10 mg/dl"],a:2,e:"Diap. 10.",ref:"10"},
+{q:"Los ruidos hidroaéreos desaparecen en:",o:["Íleo mecánico","Íleo paralítico","Malabsorción","Diarrea"],a:1,e:"Diap. 18.",ref:"18"},
+{q:"La contractura de Dupuytren es:",o:["Fibrosis de la fascia palmar, asociada a hepatopatía alcohólica","Dilatación arteriolar","Cabeza de medusa","Un signo de colestasis"],a:0,e:"Diap. 15.",ref:"15"},
+{q:"Los factores de coagulación dependientes de vitamina K son:",o:["I, V, VIII","II, VII, IX, X","XI, XII","Solo VIII"],a:1,e:"Diap. 33.",ref:"33"},
+{q:"Colestasis disociada:",o:["BD ↑, FA ↑, GGT ↑","BD normal, FA ↑, GGT ↑","BD N, FA N, GGT ↑","BD ↑ y FA normal"],a:1,e:"Diap. 35.",ref:"35"},
+{q:"La transaminasa más específica del hígado es:",o:["AST/GOT","ALT/GPT","LDH","GGT"],a:1,e:"Diap. 36: ALT en hígado y riñón; AST en corazón, músculo, riñón, hígado.",ref:"36"},
+{q:"La percusión normal del abdomen es:",o:["Mate en todo el abdomen","Timpanismo excepto en hipocondrio derecho (mate)","Matidez en flancos","Timpanismo aumentado"],a:1,e:"Diap. 28.",ref:"28"}],
+cortas:[
+{q:"Manifestaciones cutáneas (y extraabdominales) de la cirrosis.",ex:14,a:"Ictericia conjuntival, angiomas en araña, eritema palmar, contractura de Dupuytren, ginecomastia, hipertrofia parotídea, alteraciones ungueales, hematomas cutáneos, circulación colateral (cabeza de medusa) y ascitis.",pts:[["Ictericia","ictericia"],["Arañas vasculares","arana|angioma"],["Eritema palmar / Dupuytren","eritema|dupuytren"],["Ginecomastia","ginecomastia"],["Circulación colateral / cabeza de medusa / ascitis","medusa|colateral|ascitis"]],ref:"5-17"},
+{q:"Diferencia entre angioma en araña y telangiectasia.",a:"Araña: dilatación arteriolar central con capilares radiados que blanquea a la presión (hepatopatía alcohólica). Telangiectasia: dilatación persistente de capilares sin arteriola central, no blanquea (hepatopatía crónica). Ambas por exceso de estrógenos no metabolizados.",pts:[["Araña: arteriola central, blanquea","arteriola|blanquea"],["Telangiectasia: no blanquea","no blanquea|telangiectasia"],["Estrógenos no metabolizados","estrogeno"]],ref:"11-13"},
+{q:"Pruebas hepáticas de función hepatocelular, colestasis y citólisis.",a:"Función: bilirrubina total, albúmina, tiempo de protrombina y amonio. Colestasis: bilirrubina directa, fosfatasa alcalina y GGT. Citólisis: AST/GOT, ALT/GPT y LDH.",pts:[["Función: albúmina, TP, amonio","albumina|protrombina|amonio"],["Colestasis: FA, GGT, BD","fosfatasa|ggt|directa"],["Citólisis: AST, ALT","ast|alt|got|gpt|transaminasa"]],ref:"33-36"},
+{q:"Hallazgos de la percusión abdominal y búsqueda de ascitis.",a:"Normal: timpanismo salvo hipocondrio derecho (mate). Timpanismo aumentado: gas (meteorismo, obstrucción, neumoperitoneo). Matidez: masa o líquido. Ascitis: matidez en flancos, matidez cambiante y oleada ascítica.",pts:[["Timpanismo / matidez","timpanismo|matidez"],["Matidez en flancos / cambiante","flancos|cambiante"],["Oleada ascítica","oleada"]],ref:"28-29"}]};
+
+T[15]={n:15,mod:3,title:"Fisiopatología esofágica y gástrica",short:"Esófago y estómago",src:"Tema 15. Trastornos esofágicos y gástricos.pdf",prof:"Dra. M. M. Contreras Muruaga",
+resumen:[
+{h:"Exploraciones del esófago",ref:"5",pts:[
+"**Funcionales**: **manometría** (capacidad propulsiva y tono de esfínteres esofágicos superior e inferior) y **pHmetría de 24 h** (la prueba más precisa para la eficacia de los mecanismos antirreflujo).",
+"**Morfológicas**: **endoscopia** (técnica de elección en patología orgánica; biopsias), ecoendoscopia (lesiones submucosas, sobre todo neoplásicas) y radiología con bario (en desuso)."]},
+{h:"Retraso de la deglución (disfagia)",ref:"6-11",pts:[
+"**Fase orofaríngea**: incapacidad para iniciar la deglución. Causas mecánicas (tumores) o funcionales: neurológicas/vasculares (ictus, demencia), pares craneales, unión neuromuscular (miastenia gravis), musculatura faríngea (dermatomiositis-polimiositis), infecciones orales.",
+"**Fase esofágica**: sensación de detención del material deglutido. **Mecánicas** (sólidos): intraluminales (cuerpos extraños, bolos gigantes), parietales (tumor, anillo, estenosis péptica/cáustica/postradiación, atresia) y extraparietales (tumores/adenopatías mediastínicas, quistes, bocios, divertículo de Zenker, aneurisma aórtico, subclavia lusoria, hipertrofia auricular izquierda, osteofitos). Progresiva: neoplasias, cicatrices; intermitente: anillos, divertículos. **Plummer-Vinson**: ferropenia + membrana cerca del EES.",
+"**Funcionales** (sólidos y líquidos): miopáticas (autoinmunes: DM-PM, esclerodermia) y neuropáticas: **acalasia** (falta de relajación del EEI + ↓ peristalsis del cuerpo; progresiva; etiología idiopática, quirúrgica por vagotomía, paraneoplásica o infecciosa —Chagas—; disfagia 90 % y regurgitación no ácida) y **espasmo esofágico difuso** (contracciones potentes y duraderas; intermitente).",
+"Clínica: disfagia (orofaríngea: nada más iniciar la deglución, en la garganta, con regurgitación nasal, atragantamiento y aspiración; esofágica: segundos después, retroesternal), odinofagia (deglución dolorosa), bolo esofágico (nudo no relacionado con deglutir), dolor centrotorácico constrictivo (más común en disfunciones motoras), regurgitación no ácida (decúbito, halitosis pútrida) y síntomas sistémicos (pérdida de peso, desnutrición)."]},
+{h:"Reflujo gastroesofágico (ERGE)",ref:"13-14,31",pts:[
+"**Causas**: ↑ presión intragástrica (obesidad, embarazo, ascitis; retención de contenido gástrico; decúbito), fallo de mecanismos antirreflujo (defecto de la pinza diafragmática —hernia de hiato—, ↓ tono del EEI) y alteración anatómica del cardias.",
+"Reducen el tono del cardias: ↑ pH gástrico, secretina/CCK, β-adrenérgicos, estrógenos/progestágenos, xantinas, antagonistas del calcio, comidas grasas o copiosas, alcohol, nicotina, VIP/NO. Lo aumentan: gastrina, motilina, α-adrenérgicos, comidas proteicas, ↑ presión abdominal, anticolinérgicos, vagotomía.",
+"**Locales**: **pirosis** (quemazón ascendente, más intensa tras comidas y en decúbito), regurgitación ácida, esofagitis (estenosis → disfagia; anemia ferropénica; metaplasia columnar → **esófago de Barrett**, premaligno). **Extradigestivas**: tos, broncoespasmo, pérdida de esmalte dental, disfonía, dolor torácico."]},
+{h:"Vómito",ref:"19-21",pts:[
+"**Vómito**: expulsión brusca y forzada de contenido gástrico o intestinal, precedida de náuseas; **arcadas** si las contracciones no bastan. ↑ presión intraabdominal + contracciones antiperistálticas esofágicas y retrógradas duodenales; elevación del velo del paladar y cierre de glotis.",
+"Centro del vómito (formación reticular bulbar dorsal) recibe: zona gatillo (área postrema), mecanorreceptores viscerales, sistema vestibular, influencias psíquicas y compresión directa (HTIC). Vías: vago, frénico, espinal.",
+"Consecuencias: digestivas (rotura esofágica —**Boerhaave**—, desgarro cardial —**Mallory-Weiss**—), extradigestivas (aspiración: **Mendelson**) y sistémicas (deshidratación, desnutrición, **alcalosis metabólica hipoclorémica + hipopotasemia**, hiponatremia, hipocalcemia)."]},
+{h:"Vaciamiento gástrico: retraso y dumping",ref:"22-25",pts:[
+"**Retraso**: obstrucción del tracto de salida (intrínseca: úlcera, tumor, hipertrofia congénita del píloro, cuerpos extraños; extrínseca: cáncer de páncreas) o **gastroparesia** (miopática: esclerodermia; neuropática: vagotomía, disautonomía/DM, opiáceos, anticolinérgicos; metabólica: hipoK, hiperCa, DM; irritación peritoneal; fitobezoares).",
+"Obstrucción: fase de lucha (hiperperistaltismo → dolor cólico epigástrico; hipersecreción) y de atonía (dolor continuo, distensión, **vómitos de retención** tardíos, copiosos y malolientes, deshidratación y alcalosis hipoclorémica).",
+"**Dumping** (aceleración del vaciamiento tras cirugía resectiva): precoz (≈ 30 min postprandial) y tardío (2-3 h tras la ingesta)."]},
+{h:"Secreción gástrica",ref:"26-30",pts:[
+"Estimulan: nervio vago (Ach), **gastrina**, **histamina** (enterocromafines, mastocitos); inhibe: células D (**somatostatina**). La ingesta es el estímulo más potente.",
+"**Hiposecreción**: resección fúndica/cuerpo; **gastritis crónica atrófica** tipo A (autoinmune, corporal difusa: aquilia, déficit de factor intrínseco → déficit de B12 en íleon terminal → anemia perniciosa/megaloblástica o síndrome cordonal posterior) y tipo B (multifocal, cuerpo y antro; infección por Hp, úlcera gástrica y cáncer gástrico); hipotiroidismo, IR, desnutrición, vagotomía, antisecretores (IBP, anti-H2), VIPoma. Clínica: déficit de B12 (glositis, anemia perniciosa, ataxia sensitiva), ferropenia, sobrecrecimiento bacteriano, infecciones orales.",
+"**Hipersecreción**: ↑ acetilcolina (alimento, estenosis pilórica, estímulo vagal), **gastrina** (síndrome del antro excluido tras Billroth II; **Zollinger-Ellison**: gastrinoma, úlceras múltiples, recidivantes y atípicas, diarrea crónica/malabsorción; hiperplasia de células G), histamina (mastocitosis, cirrosis), calcio (hiperparatiroidismo), ↓ inhibidores (resección duodenal), **H. pylori** (gastritis antral: ↓ células D, citocinas, estimulación de células G → hiperclorhidria; úlcera duodenal), IR. Clínica: dispepsia (orgánica o funcional), úlceras, alcalosis metabólica (vómitos), RGE, diarrea.",
+"**Helicobacter pylori**: biopsia con tinciones especiales, test del aliento con urea marcada con C13 (ureasa) y antígeno en heces."]}],
+esquemas:[
+{t:"table",title:"Disfagia esofágica: mecánica vs funcional",head:["","Mecánica","Funcional (motora)"],rows:[
+["Qué se traga mal","Sólidos","Sólidos y líquidos"],["Evolución","Progresiva (neoplasia, cicatriz) o intermitente (anillos, divertículos)","Progresiva (acalasia) o intermitente (espasmo esofágico)"],["Causas","Intraluminales, parietales, extraparietales","Miopáticas (esclerodermia, DM-PM) y neuropáticas (acalasia, espasmo)"]],ref:"8-9,31"},
+{t:"table",title:"Hiposecreción vs hipersecreción ácida (diap. 28-30)",head:["","Hiposecreción","Hipersecreción"],rows:[
+["Causas","Gastritis atrófica, vagotomía, IBP/anti-H2, resección fúndica","Gastrina (Zollinger-Ellison, antro excluido), histamina, H. pylori, hiperparatiroidismo"],
+["Clínica","Déficit de B12, ferropenia, sobrecrecimiento bacteriano","Dispepsia, úlceras, RGE, diarrea, alcalosis metabólica"]],ref:"28-30"},
+{t:"table",title:"Gastritis atrófica tipo A vs B (diap. 28)",head:["","Tipo A","Tipo B"],rows:[["Localización","Corporal difusa (fundus y cuerpo)","Multifocal (cuerpo y antro)"],["Causa","Autoinmune","Infección por H. pylori"],["Consecuencias","Aquilia, déficit de factor intrínseco, anemia perniciosa","Úlcera gástrica, cáncer gástrico"]],ref:"28"},
+{t:"flow",title:"Reflujo gastroesofágico: causas → clínica",steps:["↑ presión intragástrica / fallo antirreflujo / hernia de hiato","Pirosis y regurgitación ácida","Esofagitis → estenosis, anemia ferropénica","Metaplasia: esófago de Barrett (premaligno)"],ref:"13-14"}],
+claves:["Disfagia: orofaríngea vs esofágica; sólidos = mecánica; sólidos y líquidos = funcional.","Acalasia: no relaja el EEI; regurgitación no ácida.","ERGE: pirosis postprandial, disfagia y sangrado oculto; Barrett es premaligno.","Vómito → alcalosis metabólica hipoclorémica e hipopotasemia.","Hipersecreción: gastrina/H. pylori; hiposecreción: gastritis atrófica → B12 y hierro."],
+test:[
+{q:"La prueba más precisa para evaluar el reflujo gastroesofágico es:",o:["Manometría","pHmetría de 24 h","Radiología con bario","Ecoendoscopia"],a:1,e:"Diap. 5.",ref:"5"},
+{q:"La acalasia se caracteriza por:",o:["Hiperperistaltismo con relajación normal","Falta de relajación del EEI y ↓ peristalsis, con regurgitación no ácida","Obstrucción por tumor","Contracciones simultáneas potentes"],a:1,e:"Diap. 9-10.",ref:"9-10"},
+{q:"La disfagia solo para sólidos orienta a causa:",o:["Funcional","Mecánica","Neurológica","Psíquica"],a:1,e:"Diap. 8, 31.",ref:"8,31"},
+{q:"El síndrome de Mallory-Weiss es:",o:["Rotura esofágica completa","Desgarro de la mucosa cardial por vómitos","Aspiración del contenido gástrico","Perforación gástrica"],a:1,e:"Diap. 21; Boerhaave = rotura esofágica; Mendelson = aspiración.",ref:"21"},
+{q:"La alteración ácido-base típica del vómito es:",o:["Acidosis metabólica","Alcalosis metabólica hipoclorémica con hipopotasemia","Acidosis respiratoria","Alcalosis respiratoria"],a:1,e:"Diap. 21.",ref:"21"},
+{q:"La gastritis crónica atrófica tipo A (autoinmune) cursa con:",o:["Hipersecreción ácida","Déficit de factor intrínseco y anemia perniciosa","Úlcera duodenal","Zollinger-Ellison"],a:1,e:"Diap. 28.",ref:"28"},
+{q:"El síndrome de Zollinger-Ellison es:",o:["Gastrinoma con úlceras múltiples y recidivantes","Déficit de B12","Gastroparesia","Dumping"],a:0,e:"Diap. 29.",ref:"29"},
+{q:"El dumping precoz aparece:",o:["2-3 h tras la ingesta","≈ 30 min postprandial","En ayunas","A las 24 h"],a:1,e:"Diap. 25.",ref:"25"}],
+cortas:[
+{q:"Diferencie la disfagia mecánica de la funcional y cite causas.",a:"Mecánica (sólidos): obstrucción intraluminal, parietal (tumor, estenosis, anillo) o extrínseca (adenopatías, Zenker, aneurisma). Funcional (sólidos y líquidos): miopática (esclerodermia, DM-PM) o neuropática (acalasia, espasmo esofágico).",pts:[["Mecánica: sólidos, obstrucción","solido|obstruccion"],["Funcional: sólidos y líquidos","liquido|funcional|motil"],["Acalasia / espasmo","acalasia|espasmo"]],ref:"8-9"},
+{q:"Causas y manifestaciones del reflujo gastroesofágico.",a:"Causas: ↑ presión intragástrica (obesidad, embarazo, ascitis), hernia de hiato, ↓ tono del EEI. Manifestaciones: pirosis, regurgitación ácida, esofagitis (estenosis, anemia ferropénica, Barrett) y extradigestivas (tos, broncoespasmo, disfonía, pérdida de esmalte).",pts:[["↑ presión / hernia de hiato / ↓ EEI","presion|hernia|eei"],["Pirosis / regurgitación","pirosis|regurgitacion"],["Esofagitis / Barrett","esofagitis|barrett"],["Extradigestivas","tos|broncoespasmo|esmalte|disfonia"]],ref:"13-14"},
+{q:"Consecuencias del vómito.",a:"Digestivas: Boerhaave y Mallory-Weiss. Extradigestivas: aspiración (Mendelson). Sistémicas: deshidratación, desnutrición, alcalosis metabólica hipoclorémica con hipopotasemia, hiponatremia e hipocalcemia.",pts:[["Boerhaave / Mallory-Weiss","boerhaave|mallory"],["Aspiración (Mendelson)","aspiracion|mendelson"],["Alcalosis hipoclorémica e hipopotasemia","alcalosis|hipopotasemia"],["Deshidratación","deshidratacion"]],ref:"21"},
+{q:"Retraso del vaciamiento gástrico: causas y clínica.",a:"Obstrucción del tracto de salida (úlcera, tumor, píloro, cáncer de páncreas) o gastroparesia (esclerodermia, vagotomía, DM, fármacos). Clínica: distensión, dolor cólico (lucha) y luego continuo, vómitos de retención malolientes, deshidratación y alcalosis hipoclorémica.",pts:[["Obstrucción pilórica / tumor / úlcera","obstruccion|piloro|ulcera|tumor"],["Gastroparesia (DM, vagotomía)","gastroparesia|diabetes|vagotomia"],["Vómitos de retención","retencion"]],ref:"22-24"}]};
+
+T[16]={n:16,mod:3,title:"Maldigestión y malabsorción",short:"Maldigestión y malabsorción",src:"Tema 16_Maldigestion_Malabsorcion.pdf",prof:"Dra. P. Gil Martínez / Dr. D. Real de Asúa",
+resumen:[
+{h:"Concepto y absorción intestinal",ref:"4-7",pts:[
+"**Maldigestión/malabsorción**: clínica por mala asimilación de la ingesta.",
+"**Maldigestión**: gástrica, pancreática o biliar. **Malabsorción**: ↓ superficie útil, lesiones de pared, aporte sanguíneo (transporte vascular) y obstrucción linfática.",
+"Dónde se absorbe: duodeno (Ca, Fe, lípidos, vitaminas), yeyuno proximal (liposolubles ADEK), yeyuno (glúcidos, aminoácidos, folatos), **íleon (sales biliares, B12)**, colon (agua y electrolitos)."]},
+{h:"Mecanismos de maldigestión",ref:"8-11",pts:[
+"**Gástrica**: Billroth I (vaciado rápido) y Billroth II (asincronía gastro-pancreática).",
+"**Pancreática** (insuficiencia pancreática exocrina): secreción alterada (pancreatitis crónica); secreción normal con estímulo alterado (asincronía gastro-pancreática, lesión duodenal → ↓ CCK); secreción y estímulo normales con fallo de actividad enzimática (hiperclorhidria).",
+"**Biliar**: ↓ producción (insuficiencia hepática), colestasis (obstrucción del flujo), desactivación en la luz intestinal (hiperclorhidria, insuficiencia pancreática, SIBO) y ↓ reabsorción ileal (cirugía, enfermedad inflamatoria intestinal)."]},
+{h:"Mecanismos de malabsorción",ref:"12-15",pts:[
+"**↓ superficie útil**: síndrome de intestino corto (resecciones > 50 %, sobre todo el primer metro de yeyuno). Adultos: EII, isquemia mesentérica, enteritis rádica, cirugía de la obesidad; niños: enterocolitis necrotizante.",
+"**Lesiones de la pared** (mucosa): infecciosa (giardiasis), física (radioterapia), autoinmune (celiaquía).",
+"**Transporte vascular**: congestión venosa (insuficiencia cardiaca, hepatopatía) o aterosclerosis (↓ flujo mesentérico). **Obstrucción linfática**: congénita (linfangiectasias intestinales), infecciosa (tuberculosis), tumoral (linfoma)."]},
+{h:"Clínica y consecuencias",ref:"18-21",pts:[
+"Cuadro **clásico**: diarrea espumosa, desnutrición, pérdida de peso, distensión abdominal. **Actual**: diarrea crónica (¡no siempre!), síntomas abdominales inespecíficos, pérdida de peso, anemia y cuadros carenciales.",
+"**Nutrientes no digeridos**: diarrea osmótica y secretora; distensión abdominal y meteorismo (metabolismo cólico: ↑ gas y volumen); litiasis biliar; cálculos renales por **hiperoxaluria** (grasas y sales biliares quelan calcio → absorción cólica de oxalatos y déficit de calcio que impide fijar oxalatos en orina → nefrolitiasis).",
+"**Déficit de nutrientes**: desnutrición proteico-calórica (pérdida de peso y masa muscular). Componente calórico: colesterol, vitaminas liposolubles; proteico: albúmina, úrico, edemas, masa muscular."]},
+{h:"SIBO e intolerancia a la lactosa",ref:"23-24",pts:[
+"**Sobrecrecimiento bacteriano (SIBO)**: ↑ bacilos Gram − y anaerobios en la luz. Mecanismos: hipoclorhidria, hipomotilidad (DM, esclerodermia, obstrucción, divertículos). Acción directa: consumo de glúcidos y proteínas y de B12 (producen folatos), desconjugación de sales biliares (liposolubles, menos K), alteración de disacaridasas y enterocinasas, pérdida insensible de sangre (ferropenia). Pérdida de peso y masa muscular.",
+"**Intolerancia a la lactosa**: déficit de lactasa (lactosa → glucosa + galactosa); digestión cólica → ácidos grasos de cadena corta + CO₂ + H₂ → diarrea de heces ácidas y meteorismo. Diagnóstico: **H₂ en aliento**."]},
+{h:"Métodos diagnósticos",ref:"26-30",pts:[
+"**Examen de heces**: macroscópico (cantidad, consistencia, sangre, moco, pus, color: acolia, amarillo, roja, negra); microscópico (fibras musculares: **creatorrea**; almidón: **amilorrea**; grasas); químico (α1-antitripsina fecal: enteropatía pierdeproteínas; sangre oculta; **calprotectina**: inflamación; **elastasa fecal**: insuficiencia pancreática).",
+"**Pruebas funcionales**: digestión de hidratos (H₂ en aliento: déficit de lactasa y SIBO; test de gaxilosa; D-xilosa), proteica (elastasa fecal), lípidos (**Van de Kamer**: recogida de heces 72 h tras sobrecarga grasa), vitaminas (**test de Schilling**: B12 oral + IM; adición de factor intrínseco, enzima pancreática o antibiótico).",
+"Orden diagnóstico: heces > pruebas funcionales > tránsito baritado."]}],
+esquemas:[
+{t:"table",title:"Absorción según segmento (diap. 4)",head:["Localización","Nutrientes"],rows:[["Duodeno","Ca, Fe, lípidos, vitaminas"],["Yeyuno proximal","Liposolubles (A, D, E, K)"],["Yeyuno","Glúcidos, aminoácidos, folatos"],["Íleon","Sales biliares, B12"],["Colon","Agua y electrolitos"]],ref:"4"},
+{t:"table",title:"Maldigestión vs malabsorción (diap. 7)",head:["","Maldigestión","Malabsorción"],rows:[["Mecanismos","Gástrica; pancreática; biliar","↓ superficie; lesión de pared; aporte sanguíneo; obstrucción linfática"],["Ejemplos","Billroth, pancreatitis crónica, colestasis","Intestino corto, celiaquía, giardiasis, linfangiectasia"]],ref:"7"},
+{t:"table",title:"Pruebas diagnósticas",head:["Prueba","Útil en"],rows:[["H₂ en aliento","Déficit de lactasa, SIBO"],["Elastasa fecal","Insuficiencia pancreática"],["Van de Kamer","Esteatorrea (grasas en heces 72 h)"],["Test de Schilling","Absorción de B12"],["α1-antitripsina fecal","Enteropatía pierdeproteínas"],["Calprotectina fecal","Inflamación"]],ref:"28-29"},
+{t:"flow",title:"Maldigestión pancreática (diap. 9)",steps:["Secreción alterada: pancreatitis crónica","Estímulo alterado: asincronía gastro-pancreática, lesión duodenal (CCK)","Actividad enzimática: hiperclorhidria"],ref:"9"}],
+claves:["Maldigestión: gástrica, pancreática, biliar. Malabsorción: superficie, pared, vascular, linfática.","Íleon: sales biliares y B12.","SIBO: hipoclorhidria/hipomotilidad; desconjuga sales biliares; consume B12.","Lactasa: H₂ en aliento.","Heces > funcionales > tránsito baritado."],
+test:[
+{q:"Los tres mecanismos de maldigestión son:",o:["Gástrico, pancreático y biliar","Vascular, linfático y mucoso","Superficie, pared y vascular","Gástrico, hepático y colónico"],a:0,e:"Diap. 7.",ref:"7"},
+{q:"La B12 y las sales biliares se absorben en:",o:["Duodeno","Yeyuno","Íleon","Colon"],a:2,e:"Diap. 4.",ref:"4"},
+{q:"Una resección > 50 % del intestino causa:",o:["SIBO","Síndrome de intestino corto","Intolerancia a la lactosa","Celiaquía"],a:1,e:"Diap. 12.",ref:"12"},
+{q:"La hiperoxaluria en la malabsorción se debe a:",o:["Exceso de calcio","Grasas y sales biliares que quelan calcio, con absorción cólica de oxalatos","Déficit de B12","Hipercalcemia"],a:1,e:"Diap. 20.",ref:"20"},
+{q:"La prueba diagnóstica de la intolerancia a la lactosa es:",o:["Van de Kamer","H₂ en aliento","Schilling","Elastasa fecal"],a:1,e:"Diap. 24.",ref:"24"},
+{q:"La elastasa fecal sirve para:",o:["Insuficiencia pancreática","Enteropatía pierdeproteínas","Inflamación intestinal","Sangre oculta"],a:0,e:"Diap. 28.",ref:"28"},
+{q:"Es una causa de obstrucción linfática:",o:["Linfangiectasia intestinal","Celiaquía","Giardiasis","Billroth I"],a:0,e:"Diap. 15.",ref:"15"},
+{q:"El test de Schilling evalúa:",o:["Absorción de vitamina B12","Digestión de lípidos","Absorción de hierro","Función pancreática"],a:0,e:"Diap. 29.",ref:"29"}],
+cortas:[
+{q:"Tres mecanismos de maldigestión.",ex:11,a:"Maldigestión gástrica (Billroth I y II), pancreática (insuficiencia pancreática exocrina) y biliar (déficit de producción, colestasis, desactivación de sales biliares, ↓ reabsorción ileal).",pts:[["Gástrica (Billroth)","gastric|billroth"],["Pancreática","pancreatic"],["Biliar","biliar|sales biliares"]],ref:"7-11"},
+{q:"Mecanismos de malabsorción con ejemplos.",a:"↓ superficie útil (intestino corto), lesiones de pared (celiaquía, giardiasis, radioterapia), ↓ aporte sanguíneo (isquemia mesentérica, congestión) y obstrucción linfática (linfangiectasia, TBC, linfoma).",pts:[["↓ superficie / intestino corto","superficie|intestino corto"],["Lesión de pared (celiaquía)","pared|celiaquia|giardia"],["Vascular","sanguineo|vascular|isquemia"],["Linfática","linfatic|linfoma|linfangiectasia"]],ref:"12-15"},
+{q:"Explique el sobrecrecimiento bacteriano (SIBO).",a:"↑ de bacilos Gram − y anaerobios en la luz intestinal por hipoclorhidria o hipomotilidad (DM, esclerodermia, divertículos). Consumen glúcidos, proteínas y B12, desconjugan sales biliares y alteran disacaridasas: pérdida de peso, déficit de liposolubles, ferropenia.",pts:[["Hipoclorhidria / hipomotilidad","hipoclorhidria|hipomotilidad"],["Desconjugación de sales biliares","desconjug|sales biliares"],["Consumo de B12","b12"]],ref:"23"},
+{q:"Métodos diagnósticos de la malabsorción.",a:"Examen de heces (macro, micro —creatorrea, amilorrea—, químico —elastasa, calprotectina, α1-antitripsina—), pruebas funcionales (H₂ en aliento, Van de Kamer, Schilling) y tránsito baritado.",pts:[["Examen de heces","heces"],["H₂ en aliento","aliento|h2"],["Van de Kamer","kamer"],["Schilling","schilling"]],ref:"26-30"}]};
+
+T[17]={n:17,mod:3,title:"Diarrea, estreñimiento e íleo",short:"Diarrea, estreñimiento e íleo",src:"Tema 17_Trastornos motores colon.pdf",prof:"Dra. P. Gil Martínez / Dr. D. Real de Asúa",
+resumen:[
+{h:"Diarrea: definición y clasificación",ref:"5-7",pts:[
+"**Definición**: ↑ en frecuencia y volumen y/o pérdida de consistencia; teórica: **peso de heces > 200 g/día** con dieta pobre en fibra. Primero **confirmar la diarrea** y descartar pseudodiarrea (↑ frecuencia sin ↑ volumen: colon irritable, proctitis), incontinencia fecal y diarrea por desbordamiento.",
+"Duración: aguda vs crónica (2-3 semanas). Origen: **delgado** (volumen +, productos patológicos −, dolor periumbilical, sin síndrome rectal) vs **colon** (volumen −, productos patológicos +, dolor en hemiabdomen inferior/hipogastrio/sacro, síndrome rectal: proctalgia, tenesmo, urgencia)."]},
+{h:"Mecanismos de la diarrea",ref:"8-21",pts:[
+"**Secretora**: ↑ secreción intestinal de líquidos y electrolitos. Causas: estímulos secretagogos endógenos (maldigestión-malabsorción de ácidos grasos, fallo de reabsorción ileal de sales biliares, péptidos tumorales: gastrina, VIP, carcinoide/serotonina) o exógenos (enterotoxinas bacterianas); desequilibrio de la inervación del SNA (el estímulo α-adrenérgico ↑ absorción; dañado en DM, amiloidosis); lesión de vellosidades con hipertrofia de criptas (rotavirus, Norwalk, Cryptosporidium, Giardia, Isospora, celiaquía).",
+"**Osmótica**: sustancias no absorbibles que atraen agua a la luz. Exógenas: laxantes (Mg²⁺, lactulosa), antiácidos (Mg²⁺), sorbitol, manitol, xilitol, colchicina, colestiramina, neomicina. Endógena: malabsorción.",
+"**Exudativa**: lesión orgánica de la pared con productos patológicos (PMN en heces); mecanismo mixto; generalmente cólica. Infecciosa (enteroinvasiva o citotóxica; C. difficile), inflamatoria (EII), isquemia, tumoral.",
+"**Motora**: aceleración del tránsito (hipertiroidismo, colon irritable) que reduce el contacto nutrientes-mucosa.",
+"Consecuencias: deshidratación, depleción hidroelectrolítica (hipopotasemia), acidosis metabólica (pérdida de bicarbonato) e hiperaldosteronismo secundario por compensación renal."]},
+{h:"Osmótica vs secretora",ref:"18",pts:[
+"**Ayuno**: la osmótica disminuye; la secretora no disminuye (salvo la mediada por sales biliares). **Osmolalidad** y **hiato osmolal** de las heces: elevados en la osmótica, normales en la secretora. **pH**: ácido en la osmótica, normal en la secretora."]},
+{h:"Estreñimiento",ref:"24-28",pts:[
+"**Definición**: retraso en la evacuación de heces: < 3 deposiciones/semana o ≥ 3 días entre deposiciones; < 35 g/día; heces escasas y duras.",
+"**Causas**: SNC (depresión, anorexia; ictus, Parkinson, EM, medular); cólicas (tránsito lento, obstáculos mecánicos tumorales o estenosis); trastorno de la evacuación rectal.",
+"Tránsito cólico alterado por: dieta pobre en fibra, fármacos (anticolinérgicos, calcio-antagonistas), miopatías (esclerodermia), neuropatías (DM, Hirschsprung, vagotomía), endocrinas (hipotiroidismo, hiperparatiroidismo, embarazo), metabólicas (hipoK, hiperCa).",
+"Evacuación rectal: orgánica (tumor, estenosis), neurológica (embotamiento de sensibilidad rectal, lesiones del arco reflejo), muscular (suelo pélvico, diafragma y pared abdominal; multíparas, enfermedad consuntiva, ancianos).",
+"Consecuencias: hernias, disquecia, lesiones del canal anal (fisuras, hemorroides), obstrucción (fecaloma) y desarrollo de cáncer."]},
+{h:"Íleo",ref:"29-34",pts:[
+"**Íleo**: interrupción completa del tránsito intestinal. Tipos (mecanismos): **mecánico** (obstrucción y estrangulamiento) y **funcional** (paralítico y espástico/dinámico).",
+"**Mecánico — obstrucción**: intraluminal (íleo biliar), parietal (tumoral, cicatriz/estenosis por isquemia o infección), extraluminal (bridas o tumor abdominal). Además, **estrangulamiento**.",
+"**Paralítico**: procesos extraintestinales que frenan por completo la motilidad: irritación peritoneal (trauma, infección), enfermedad sistémica aguda y grave (neumonía, infarto, ictus), alteraciones hidroelectrolíticas (hipoK, hiperCa).",
+"**Espástico**: contracciones asincrónicas e ineficaces (porfiria aguda intermitente, uremia, intoxicación por plomo).",
+"**Clínica**: cese de emisión de gases y heces → distensión y RHA patológicos; dolor abdominal; vómitos; repercusión general: depleción hidrosalina, hipopotasemia, acidosis/alcalosis."]}],
+esquemas:[
+{t:"table",title:"Tipos de íleo y ejemplos (diap. 30-33)",head:["Tipo","Subtipo","Ejemplos"],rows:[
+["Mecánico","Obstrucción","Íleo biliar (intraluminal); tumor, cicatriz, estenosis (parietal); bridas, tumor abdominal (extraluminal)"],
+["Mecánico","Estrangulamiento","—"],
+["Funcional","Paralítico","Peritonitis/irritación peritoneal, neumonía, infarto, ictus, hipoK, hiperCa"],
+["Funcional","Espástico","Porfiria aguda intermitente, uremia, intoxicación por plomo"]],ref:"30-33"},
+{t:"table",title:"Mecanismos de la diarrea (diap. 8-21)",head:["Tipo","Mecanismo","Ejemplos"],rows:[
+["Secretora","↑ secreción de líquidos y electrolitos","Enterotoxinas, VIP/gastrina/carcinoide, rotavirus, celiaquía"],["Osmótica","Solutos no absorbibles","Lactulosa, Mg²⁺, sorbitol, malabsorción"],["Exudativa","Lesión de la pared (PMN)","C. difficile, EII, isquemia, tumor"],["Motora","Tránsito acelerado","Hipertiroidismo, colon irritable"]],ref:"8-21"},
+{t:"table",title:"Diarrea osmótica vs secretora (diap. 18)",head:["","Osmótica","Secretora"],rows:[["Ayuno","Disminuye","No disminuye"],["Osmolalidad / hiato osmolal","Elevados","Normales"],["pH","Ácido","Normal"]],ref:"18"},
+{t:"table",title:"Diarrea de intestino delgado vs colon (diap. 7)",head:["","Delgado","Colon"],rows:[["Volumen","+","−"],["Productos patológicos","−","+"],["Dolor","Periumbilical","Hemiabdomen inferior, hipogastrio, sacro"],["Síndrome rectal","No","Proctalgia, tenesmo, urgencia"]],ref:"7"}],
+claves:["Diarrea > 200 g/día; confirmar y excluir pseudodiarrea.","4 mecanismos: secretora, osmótica, exudativa, motora.","Osmótica cede con el ayuno; secretora no.","Íleo: mecánico (obstrucción, estrangulamiento) y funcional (paralítico, espástico).","Clínica del íleo: no gases/heces, distensión, dolor, vómitos."],
+test:[
+{q:"La diarrea osmótica se caracteriza por:",o:["No ceder con el ayuno","Ceder con el ayuno, osmolalidad fecal elevada y pH ácido","pH normal y hiato osmolal normal","PMN en heces"],a:1,e:"Diap. 18.",ref:"18"},
+{q:"Una diarrea con PMN en heces es:",o:["Secretora","Osmótica","Exudativa","Motora"],a:2,e:"Diap. 19.",ref:"19"},
+{q:"El íleo biliar es un íleo:",o:["Paralítico","Mecánico por obstrucción intraluminal","Espástico","Funcional"],a:1,e:"Diap. 31.",ref:"31"},
+{q:"El íleo paralítico puede deberse a:",o:["Bridas","Hipopotasemia, irritación peritoneal o enfermedad sistémica grave","Intoxicación por plomo","Tumor intraluminal"],a:1,e:"Diap. 32.",ref:"32"},
+{q:"Un íleo espástico se asocia a:",o:["Porfiria aguda intermitente, uremia o intoxicación por plomo","Neumonía","Bridas","Hipertiroidismo"],a:0,e:"Diap. 33.",ref:"33"},
+{q:"El estreñimiento se define por:",o:["< 3 deposiciones/semana o ≥ 3 días entre deposiciones","> 3 deposiciones/día","Heces > 200 g/día","Heces líquidas"],a:0,e:"Diap. 24.",ref:"24"},
+{q:"La diarrea del colon cursa con:",o:["Volumen alto y dolor periumbilical","Volumen bajo, productos patológicos y síndrome rectal","Sin dolor","Ausencia de tenesmo"],a:1,e:"Diap. 7.",ref:"7"},
+{q:"Consecuencia metabólica de la diarrea:",o:["Alcalosis metabólica","Acidosis metabólica por pérdida de bicarbonato","Hiperpotasemia","Hipernatremia siempre"],a:1,e:"Diap. 22.",ref:"22"}],
+cortas:[
+{q:"Íleo: tipos y ejemplos.",ex:10,a:"Mecánico (obstrucción: íleo biliar, tumor, estenosis, bridas; estrangulamiento) y funcional (paralítico: peritonitis, neumonía, hipoK/hiperCa; espástico: porfiria aguda intermitente, uremia, plomo).",pts:[["Mecánico: obstrucción / estrangulamiento","mecanic|obstruccion|estrangulamiento"],["Paralítico (irritación peritoneal, hipoK)","paralitic|peritoneal|hipok|hipopotasemia"],["Espástico (porfiria, plomo)","espastic|porfiria|plomo|uremia"],["Ejemplo: íleo biliar / bridas / tumor","biliar|brida|tumor"]],ref:"30-33"},
+{q:"Mecanismos de la diarrea.",a:"Secretora (↑ secreción: enterotoxinas, VIP), osmótica (solutos no absorbibles: lactulosa, Mg), exudativa (lesión de la pared: EII, C. difficile) y motora (↑ tránsito: hipertiroidismo, colon irritable).",pts:[["Secretora","secretora"],["Osmótica","osmotica"],["Exudativa","exudativa"],["Motora","motora|motilidad"]],ref:"8"},
+{q:"Causas y consecuencias del estreñimiento.",a:"Causas: SNC, tránsito cólico lento (fibra, fármacos, DM, hipotiroidismo, hipoK/hiperCa), obstáculos mecánicos y trastorno de evacuación rectal. Consecuencias: hernias, disquecia, fisuras/hemorroides, fecaloma, cáncer.",pts:[["Causas SNC / cólicas / rectales","snc|colic|rectal|transito"],["Fármacos / dieta / hipotiroidismo","farmaco|fibra|hipotiroidismo"],["Fecaloma / hernias / hemorroides","fecaloma|hernia|hemorroide|fisura"]],ref:"25-28"},
+{q:"Clínica del íleo y repercusión general.",a:"Cese de gases y heces con distensión y RHA patológicos, dolor abdominal y vómitos; depleción hidrosalina, hipopotasemia y acidosis/alcalosis.",pts:[["Cese de gases/heces y distensión","gases|distension|heces"],["Dolor y vómitos","dolor|vomito"],["Depleción hidrosalina / hipopotasemia","hidrosalina|hipopotasemia|depleccion"]],ref:"34"}]};
+
+T[18]={n:18,mod:3,title:"Insuficiencia hepática",short:"Insuficiencia hepática",src:"FPI Tema 18 Insuficiencia Hepática 2025.pdf",prof:"Dr. D. Real de Asúa",
+resumen:[
+{h:"Función hepática e insuficiencia hepática",ref:"7-11",pts:[
+"El hígado integra tres grandes funciones solapadas: **metabolismo, digestión y defensa**. Digestiva: producción y excreción de **bilis** (digestión de grasas; absorción de vitaminas liposolubles A, D, E, K). Defensiva: filtro **antitranslocación bacteriana intestinal** (células de Kupffer, sistema monocito-macrofágico).",
+"**Insuficiencia hepática**: fracaso global de las funciones del parénquima hepático."]},
+{h:"Mecanismos lesionales",ref:"12-14",pts:[
+"Alcohol, otros tóxicos (hierro, cobre, medicamentos), obesidad y virus B y C actúan sobre hepatocitos y células de Kupffer: radicales libres de O₂ y **TNF-α** → necrosis/apoptosis (muerte celular); citocinas proinflamatorias → inflamación; **TGF-β** → activación de células de Ito (**fibrogénesis** → fibrosis).",
+"Evolución de la lesión crónica (5-50 años): hígado normal → fibrosis precoz → **cirrosis** (arquitectura alterada, pérdida de función) → fracaso hepático, hipertensión portal, carcinoma hepatocelular o trasplante."]},
+{h:"Fracaso de síntesis",ref:"16",pts:[
+"**Glúcidos**: hiperglucemia moderada; grave: hipoglucemia, convulsiones, coma. **Lípidos**: hipocolesterolemia; déficit de LCAT (acantocitos/dianocitos). **Proteínas**: hipoalbuminemia; diátesis hemorrágica (alargamiento del TP/INR). **Vitamina D**: hipocalcemia y osteoporosis."]},
+{h:"Fracaso de depuración",ref:"17",pts:[
+"**Bilirrubina**: ictericia. **Bilis**: colestasis. **Gérmenes/toxinas**: ↑ infecciones, hipergammaglobulinemia policlonal. **Proteínas**: **amonio** y aminoácidos aromáticos (fenilalanina, tirosina, triptófano). **Hormonal**: hipogonadismo (IGF-1) e hiperestrogenismo."]},
+{h:"Shunts portosistémicos e hipertensión portal",ref:"18-20",pts:[
+"**Fracaso agudo**: cortocircuito **funcional** (intrahepático). **Fracaso crónico**: cortocircuito **anatómico** (extrahepático; colaterales portosistémicas).",
+"La hipertensión portal se manifiesta con **varices, ascitis, peritonitis bacteriana espontánea, encefalopatía y síndrome hepatorrenal**."]},
+{h:"Encefalopatía hepática",ref:"21-24",pts:[
+"**Efecto neurotóxico**: productos intestinales no metabolizados acceden a la circulación sistémica y atraviesan la barrera hematoencefálica.",
+"**Patogenia**: **predisponente** = shunt portosistémico; **condicionante** = tóxicos intestinales (NH₃, mercaptanos, ácidos grasos de cadena corta), alteración de neurotransmisores, depósito de Mn en ganglios basales; **desencadenantes** = ingesta proteica, estreñimiento, sedantes/tóxicos, infección, diuréticos/insuficiencia renal y hemorragia digestiva.",
+"**Amonio**: en astrocitos ↑ glutamina → **edema cerebral**; ↓ glutamato → defecto de neurotransmisión excitadora y depleción de ATP neuronal; triptófano → ↑ serotonina → exceso de neurotransmisión inhibidora; microglía: estrés oxidativo y neuroinflamación.",
+"**Clínica**: asterixis, fetor hepático, alteración conductual (síndrome confusional agudo), alteración del nivel de conciencia e hipertensión intracraneal. Datos: **NH₃ elevado** y EEG enlentecido inespecífico (ondas theta y delta)."]},
+{h:"Pruebas en el fracaso hepático agudo y pronóstico",ref:"26-28",pts:[
+"**Fracaso metabólico**: ictericia/bilirrubina y TP/INR; **shunt**: encefalopatía.",
+"Bilirrubina total (fracaso de captación, conjugación o excreción); tiempo de protrombina (síntesis hepática de I, II, V, VII, IX, X, XI y XII; dependientes de vit. K: II, VII, IX, X —test de Koller—; el factor VIII se produce en los sinusoides hepáticos).",
+"**Criterios del King's College** (no paracetamol; diapositiva): TP > 100 s (INR > 6,5) con independencia del grado de encefalopatía, o 3 de: edad < 11 o > 40 años; etiología no A/no B, halotano o reacciones idiosincrásicas a fármacos; ictericia > 7 días antes de la encefalopatía; TP > 50 s (INR > 3,5); bilirrubina > 17 mg/dl (300 µmol/l). *La diapositiva solo recoge los criterios de causa no paracetamol.*"]}],
+esquemas:[
+{t:"table",title:"Fracaso de síntesis (diap. 16)",head:["Sustrato","Consecuencia"],rows:[
+["Glúcidos","Hiperglucemia moderada; grave: hipoglucemia, convulsiones, coma"],["Lípidos","Hipocolesterolemia; déficit de LCAT (acantocitos/dianocitos)"],["Proteínas","Hipoalbuminemia; alargamiento de TP/INR (diátesis)"],["Vitamina D","Hipocalcemia, osteoporosis"]],ref:"16"},
+{t:"table",title:"Fracaso de depuración (diap. 17)",head:["Qué no se depura","Consecuencia"],rows:[
+["Bilirrubina","Ictericia"],["Bilis","Colestasis"],["Gérmenes y toxinas","↑ infecciones; hipergammaglobulinemia policlonal"],["Amonio y aa aromáticos","Encefalopatía"],["Hormonas","Hipogonadismo; hiperestrogenismo"]],ref:"17"},
+{t:"table",title:"Patogenia de la encefalopatía hepática (diap. 22)",head:["Nivel","Factores"],rows:[
+["Predisponente","Shunt portosistémico"],["Condicionante","NH₃, mercaptanos, ácidos grasos de cadena corta; alteración de neurotransmisores; Mn en ganglios basales"],["Desencadenante","Ingesta proteica, estreñimiento, sedantes/tóxicos, infección, diuréticos/IR, hemorragia digestiva"]],ref:"22"},
+{t:"flow",title:"Fisiopatología de la encefalopatía (diap. 21-23)",steps:["Shunt: tóxicos intestinales no metabolizados llegan a la circulación","Atraviesan la barrera hematoencefálica","Amonio → astrocitos: ↑ glutamina, edema cerebral, ↓ neurotransmisión excitadora","Asterixis, fetor, confusión, coma"],ref:"21-23"}],
+claves:["Insuficiencia hepática = fracaso de síntesis + depuración + shunts.","Encefalopatía: predisponente (shunt) + condicionante (NH₃, mercaptanos) + desencadenante.","Desencadenantes: proteínas, estreñimiento, sedantes, infección, diuréticos/IR, hemorragia digestiva.","Clínica: asterixis, fetor hepático, confusión; NH₃ ↑, EEG con ondas theta/delta.","HTP: varices, ascitis, PBE, encefalopatía, hepatorrenal."],
+test:[
+{q:"Es un factor desencadenante de la encefalopatía hepática:",o:["Hemorragia digestiva","Dieta hipoproteica","Hipertermia solamente","Insulina"],a:0,e:"Diap. 22.",ref:"22"},
+{q:"El shunt portosistémico es el factor:",o:["Desencadenante","Predisponente","Condicionante","Protector"],a:1,e:"Diap. 22.",ref:"22"},
+{q:"El EEG de la encefalopatía hepática muestra:",o:["Ondas theta y delta (enlentecido)","Ondas alfa","Puntas-onda","Ondas beta"],a:0,e:"Diap. 24.",ref:"24"},
+{q:"El amonio en el astrocito produce:",o:["↑ glutamina y edema cerebral","↓ glutamina","↑ ATP","↑ neurotransmisión excitadora"],a:0,e:"Diap. 23.",ref:"23"},
+{q:"El fracaso hepático crónico se asocia a shunt:",o:["Funcional","Anatómico","Ninguno","Solo intrahepático"],a:1,e:"Diap. 18.",ref:"18"},
+{q:"La hipoalbuminemia y el alargamiento del TP pertenecen a:",o:["Fracaso de depuración","Fracaso de síntesis","Hipertensión portal","Encefalopatía"],a:1,e:"Diap. 16.",ref:"16"},
+{q:"Las células de Ito activadas producen:",o:["Fibrogénesis","Necrosis","Bilis","Albúmina"],a:0,e:"Diap. 13.",ref:"13"},
+{q:"El hiperestrogenismo de la insuficiencia hepática se debe a:",o:["Fracaso de depuración hormonal","Fracaso de síntesis","Shunt anatómico","Colestasis"],a:0,e:"Diap. 17.",ref:"17"}],
+cortas:[
+{q:"Factores desencadenantes de la encefalopatía hepática.",ex:15,a:"Ingesta proteica, estreñimiento, sedantes/tóxicos, infección, diuréticos e insuficiencia renal y hemorragia digestiva (sobre un shunt portosistémico predisponente y tóxicos como NH₃).",pts:[["Ingesta proteica","proteica"],["Estreñimiento","estrenimiento"],["Sedantes / tóxicos","sedante|toxico"],["Infección","infeccion"],["Diuréticos / insuficiencia renal","diuretico|renal"],["Hemorragia digestiva","hemorragia"]],ref:"22"},
+{q:"Fisiopatología de la encefalopatía hepática.",a:"Shunt portosistémico: tóxicos intestinales (amonio, mercaptanos, AGCC) no metabolizados atraviesan la barrera hematoencefálica; el amonio aumenta la glutamina astrocitaria (edema cerebral), reduce la neurotransmisión excitadora y aumenta la inhibidora (serotonina).",pts:[["Shunt / no metabolizados","shunt|metaboliz"],["Amonio / glutamina / edema","amonio|glutamina|edema"],["Barrera hematoencefálica","barrera"]],ref:"21-23"},
+{q:"Consecuencias del fracaso de síntesis y de depuración hepática.",a:"Síntesis: hipoglucemia, hipocolesterolemia, hipoalbuminemia, alargamiento del TP, hipocalcemia. Depuración: ictericia, colestasis, infecciones, amonio (encefalopatía), hiperestrogenismo e hipogonadismo.",pts:[["Hipoalbuminemia / TP alargado","albumina|tp|inr"],["Hipoglucemia","hipoglucemia"],["Ictericia / colestasis","ictericia|colestasis"],["Amonio / encefalopatía","amonio|encefalopatia"]],ref:"16-17"},
+{q:"Clínica de la encefalopatía hepática.",a:"Asterixis, fetor hepático, alteraciones conductuales (síndrome confusional agudo), alteración del nivel de conciencia e hipertensión intracraneal; NH₃ elevado y EEG enlentecido (theta y delta).",pts:[["Asterixis","asterixis"],["Fetor hepático","fetor"],["Confusión / alteración de conciencia","confusional|conciencia"],["NH₃ elevado / EEG","nh3|amonio|eeg"]],ref:"24"}]};
+
+T[19]={n:19,mod:3,title:"Ictericia, bilis y formación de litiasis biliar",short:"Ictericia y litiasis biliar",src:"Tema19_IctericiayLitiasisBiliar.pdf",prof:"Dr. J. M. Galván Román",
+resumen:[
+{h:"Ictericia: concepto",ref:"3-5",pts:[
+"**Ictericia**: coloración amarillenta de piel y mucosas por depósito de bilirrubina, consecuencia de ↑ de sus niveles plasmáticos. La bilirrubina tiene afinidad por las fibras elásticas: la **esclerótica** es el primer lugar donde se detecta.",
+"Aparece habitualmente con bilirrubina total **> 2,5 mg/dl** (entre 1 y 2,5 ya es anormal; en el Tema 14 se cita > 2 mg/dl). Puede haber desfase temporal respecto a la bilirrubinemia. **Carotenemia** y algunos fármacos dan coloración amarillenta de la piel **sin afectar las mucosas**.",
+"Medida: método colorimétrico (van den Bergh: bilirrubina total y directa; ≈ conjugada) y espectrofotométrico (conjugada, δ y no conjugada)."]},
+{h:"Etiología y tipos",ref:"6",pts:[
+"Sobre la cadena degradación del grupo hem → captación por el hepatocito → conjugación → excreción biliar:",
+"**↑ producción** de bilirrubina (hemólisis, eritropoyesis ineficaz) → ↑ bilirrubina **indirecta**: ictericia **hemolítica o prehepática**.",
+"**Trastorno de captación** (medicamentos, síndrome de Gilbert, lesión del hepatocito) y **defecto de conjugación** (hiperbilirrubinemia neonatal, Gilbert, Crigler-Najjar) y **trastorno de eliminación de la conjugada** por el hepatocito (Dubin-Johnson, Rotor, lesión hepatocitaria) → ↑ bilirrubina directa e indirecta: ictericia **hepática**.",
+"**Trastorno de conducción por las vías biliares** (colestasis intrahepática o extrahepática) → ↑ bilirrubina **directa**: ictericia **obstructiva o posthepática**."]},
+{h:"Diagnóstico de la ictericia",ref:"7,10",pts:[
+"Bilirrubina total anormal > 1 mg/dl; ↑ indirecta = alteración antes de la conjugación; ↑ conjugada = después. **Bilirrubina en orina**: solo con ↑ de conjugada (**coluria**); ausente con ↑ de indirecta. Urobilinógeno urinario: puede ↑ si llega más bilirrubina al intestino. **Heces**: pleocrómicas (oscuras; ↑ urobilinógeno) o hipocólicas/acólicas (ausencia de bilirrubina en el intestino).",
+"Cuadro resumen: ver tabla comparativa (hemolítica, hepática, obstructiva)."]},
+{h:"Clínica de la hiperbilirrubinemia",ref:"8-9",pts:[
+"**No conjugada → kernicterus** (neonatos): neurotoxicidad por depósito de bilirrubina en los núcleos grises de la base. Predisponen: hemólisis y trastornos de conjugación, inmadurez enzimática, albúmina baja (↑ bilirrubina libre) y mayor permeabilidad de la barrera hematoencefálica. Daño: inhibición de enzimas mitocondriales, ↓ síntesis proteica, daño del ADN; ↓ captación de tirosina, inhibición de receptores NMDA y ↓ conducción nerviosa (sobre todo VIII par).",
+"**Conjugada**: ictericia; **prurito** (↑ autotaxina → ácido lisofosfatídico); **bradicardia** (retención de sales biliares que deprimen el nodo sinusal, sin repercusión importante); **maldigestión y malabsorción** por ausencia de sales biliares en el intestino (sobre todo grasas)."]},
+{h:"Bilis",ref:"13-14",pts:[
+"Secreción acuosa de agua, sales biliares, lecitina (fosfolípidos), colesterol y bilirrubina. Se sintetiza en el hepatocito, se almacena en la vesícula y se vierte al intestino por la **colecistoquinina (CCK)**.",
+"**Sales biliares** (70 % de los solutos): derivan del colesterol; eliminan colesterol (una molécula por cada ácido biliar) y forman micelas para absorber lípidos y vitaminas liposolubles. **Fosfolípidos**: baja solubilidad, forman micelas junto con las sales biliares."]},
+{h:"Litiasis biliar",ref:"15-20",pts:[
+"**Definición**: depósito sólido de componentes de la bilis (colesterol, bilirrubina, sales biliares) en la vía biliar extrahepática (**coledocolitiasis**) y/o en la vesícula (**colelitiasis**); la mayoría se forman en la vesícula por precipitación de sustancias insolubles en el medio acuoso. **Bilis litogénica**: pasa de solución insaturada a una en la que precipitan los sólidos.",
+"**Tipos**: cálculos de **colesterol** (los más frecuentes), pigmentarios negros (bilirrubina) y pigmentarios marrones/mixtos/infecciosos (hasta 70 % de colesterol). Los pigmentarios son el 25 %.",
+"**Colesterol, 3 fases**: 1) formación de bilis litogénica (sobresaturada en colesterol); 2) depósito (nucleación, floculación y precipitación); 3) crecimiento por aposición de capas de cristales. Factores: ↑ liberación de colesterol a la bilis (edad, estrógenos, obesidad, hiperlipidemia, DM), ↓ sales biliares (insuficiencia hepatocelular, colestasis, alteración del íleon terminal, DM), mucina y factores nucleadores, **estasis vesicular** (ayuno, nutrición parenteral, lesión medular, neuropatías, progesterona, somatostatina).",
+"**Epidemiología (5 F)**: Fat (IMC > 30), Female, Fertile (mujeres 20-40), Forty (> 40 años), Fair-skinned (europeos); + Foreign (↑ en latinoamericanos).",
+"**Pigmentarios negros**: hemólisis o etanol → ↑ bilirrubina conjugada → desconjugación por β-glucuronidasa del epitelio biliar → ↑ bilirrubina insoluble → precipita con calcio. **Marrones**: obstrucción de la vesícula + infección → desconjugación bacteriana de la bilirrubina y de sales biliares (hidrólisis de fosfolípidos) → ↑ bilirrubina y colesterol insolubles."]}],
+esquemas:[
+{t:"table",title:"Tipos de ictericia (diap. 6, 10)",head:["","Hemolítica (prehepática)","Hepática","Obstructiva (posthepática)"],rows:[
+["Bilirrubina en plasma","No conjugada","Mixta","Conjugada"],
+["Orina","Normal","Coluria","Coluria"],
+["Bilirrubinuria","No","Sí","Sí"],
+["Urobilinógeno en orina","Elevado","Variable","Disminuido"],
+["Heces","Pleocromía","Normales o hipocólicas","Hipocólicas o acolia"],
+["Otros datos","Reticulocitosis, ↑ LDH, ↓ haptoglobina","Citólisis, insuficiencia hepatocelular","Colestasis completa"]],ref:"10"},
+{t:"table",title:"Causas por nivel (diap. 6)",head:["Nivel","Causas"],rows:[
+["↑ producción","Hemólisis, eritropoyesis ineficaz"],["Captación","Medicamentos, Gilbert, lesión del hepatocito"],["Conjugación","Hiperbilirrubinemia neonatal, Gilbert, Crigler-Najjar"],["Excreción de la conjugada","Dubin-Johnson, Rotor, lesión hepatocitaria"],["Vías biliares","Colestasis intra y extrahepática"]],ref:"6"},
+{t:"table",title:"Cálculos biliares",head:["Tipo","Origen / mecanismo"],rows:[
+["Colesterol (más frecuentes)","Bilis sobresaturada → nucleación → crecimiento"],["Pigmentarios negros","Hemólisis/etanol → bilirrubina insoluble + calcio"],["Pigmentarios marrones","Infección y obstrucción → desconjugación bacteriana"]],ref:"16-20"},
+{t:"flow",title:"Formación de cálculos de colesterol (diap. 17)",steps:["Bilis litogénica (sobresaturada en colesterol)","Nucleación, floculación y precipitación","Crecimiento por aposición de capas de cristales"],ref:"17"}],
+claves:["Ictericia: bilirrubina > 2,5 mg/dl; primero en la esclerótica.","Hemolítica = indirecta; obstructiva = directa (coluria, acolia, prurito); hepática = mixta.","Bilirrubinuria solo si ↑ conjugada.","Colesterol: los más frecuentes; 5 F; 3 fases.","Pigmentarios: negros (hemólisis/etanol) y marrones (infección)."],
+test:[
+{q:"En la ictericia hemolítica predomina:",o:["Bilirrubina conjugada","Bilirrubina no conjugada, sin bilirrubinuria","Coluria","Heces acólicas"],a:1,e:"Diap. 10.",ref:"10"},
+{q:"La coluria aparece cuando aumenta la bilirrubina:",o:["No conjugada","Conjugada","Ninguna","Solo la δ"],a:1,e:"Diap. 7.",ref:"7"},
+{q:"El prurito colestásico se relaciona con:",o:["Histamina","Autotaxina y ácido lisofosfatídico","Bradicardia","Kernicterus"],a:1,e:"Diap. 9.",ref:"9"},
+{q:"Los cálculos más frecuentes son de:",o:["Bilirrubina","Colesterol","Calcio","Mixtos infecciosos"],a:1,e:"Diap. 16.",ref:"16"},
+{q:"Pertenece a las 5 F:",o:["Fat, Female, Fertile, Forty, Fair-skinned","Fever, Female, Fat, Fast, Foreign","Fertile, Fibrosis, Fat, Forty, Foreign","Fat, Fibrosis, Female, Fair, Fast"],a:0,e:"Diap. 19.",ref:"19"},
+{q:"El kernicterus es:",o:["Neurotoxicidad neonatal por bilirrubina no conjugada","Prurito colestásico","Bradicardia por sales biliares","Litiasis biliar"],a:0,e:"Diap. 8.",ref:"8"},
+{q:"Las heces acólicas indican:",o:["↑ urobilinógeno","Ausencia de bilirrubina en el intestino","Hemólisis","Hemorragia alta"],a:1,e:"Diap. 7.",ref:"7"},
+{q:"Los cálculos pigmentarios marrones se asocian a:",o:["Hemólisis crónica y etanol","Infección y obstrucción con desconjugación bacteriana","Obesidad","Nutrición parenteral"],a:1,e:"Diap. 20.",ref:"20"}],
+cortas:[
+{q:"Clasifique las ictericias y describa la bilirrubina y la orina en cada una.",a:"Hemolítica (prehepática): bilirrubina no conjugada, sin bilirrubinuria. Hepática: mixta, coluria. Obstructiva (posthepática): conjugada, coluria, heces acólicas y urobilinógeno urinario disminuido.",pts:[["Hemolítica / indirecta","hemolitic|indirecta|no conjugada"],["Hepática / mixta","hepatica|mixta"],["Obstructiva / directa / coluria / acolia","obstructiva|directa|conjugada|coluria|acolia"]],ref:"6,10"},
+{q:"Clínica de la hiperbilirrubinemia conjugada.",a:"Ictericia, prurito (autotaxina y ácido lisofosfatídico), bradicardia (sales biliares sobre el nodo sinusal) y maldigestión/malabsorción de grasas por falta de sales biliares.",pts:[["Prurito","prurito"],["Bradicardia","bradicardia"],["Maldigestión/malabsorción de grasas","malabsorcion|maldigestion|grasa"]],ref:"9"},
+{q:"Formación de los cálculos de colesterol.",a:"Tres fases: bilis litogénica sobresaturada en colesterol; nucleación, floculación y precipitación; crecimiento por aposición de capas de cristales. Favorecen: estrógenos, obesidad, DM, ↓ sales biliares y estasis vesicular.",pts:[["Bilis litogénica / sobresaturada","litogenica|sobresaturada"],["Nucleación y precipitación","nucleacion|precipita"],["Crecimiento por aposición","aposicion|crecimiento"],["Factores (obesidad, estrógenos, estasis)","obesidad|estrogeno|estasis"]],ref:"17-19"},
+{q:"Tipos de cálculos pigmentarios y su mecanismo.",a:"Negros: hemólisis o etanol → ↑ bilirrubina conjugada → desconjugación por β-glucuronidasa biliar → bilirrubina insoluble precipita con calcio. Marrones: obstrucción e infección → desconjugación bacteriana → bilirrubina y colesterol insolubles.",pts:[["Negros: hemólisis/etanol","negro|hemolisis|etanol"],["Marrones: infección","marron|infeccion|bacteria"],["β-glucuronidasa / desconjugación","glucuronidasa|desconjug"]],ref:"20"}]};
+
+T[20]={n:20,mod:3,title:"Hipertensión portal y ascitis",short:"Hipertensión portal y ascitis",src:"FPI Tema 20 HTP ascitis.pdf",prof:"Dr. Vargas",
+resumen:[
+{h:"Recuerdo anatómico y fisiológico",ref:"3,6-7",pts:[
+"**Arteria hepática** (del tronco celiaco): 25 % de la sangre y 50 % del oxígeno. **Vena porta** (confluencia de esplénica y mesentéricas superior e inferior): 75 % de la sangre y 50 % del oxígeno. Los **sinusoides** son vasos comunes para sangre arterial y venosa.",
+"Unidad estructural: **lobulillo hepático** (vena centrolobulillar en el centro; espacios porta en la periferia). Unidad funcional: **acino hepático** (centrado en el espacio porta).",
+"Circulación portal = 20 % del gasto cardiaco; presión normal 5-10 mmHg. **Presión portal = flujo × resistencia** (ley de Poiseuille: R = 8ηL/πr⁴)."]},
+{h:"Hipertensión portal: definición y causas",ref:"8-10",pts:[
+"**HTP**: presión en la vena porta **> 10 mmHg**. Mecanismos: ↑ de resistencias (lo habitual) o ↑ de flujo portal (muy rara; fístulas arteriovenosas).",
+"**Prehepática**: trombosis y compresión de la porta (tumores, infecciones de órganos próximos). **Intrahepática**: presinusoidal (granulomas: tuberculosis, esquistosomiasis), **sinusoidal (cirrosis; causa más frecuente)** y postsinusoidal (cirrosis, enfermedad venooclusiva). **Posthepática**: obstrucción de venas suprahepáticas (**Budd-Chiari**), valvulopatía tricuspídea, pericarditis constrictiva."]},
+{h:"Manifestaciones de la HTP",ref:"11",pts:[
+"**Esplenomegalia** con **hiperesplenismo** (anemia, leucopenia y trombopenia).",
+"**Ascitis**: en el bloqueo prehepático hay mínima ascitis. Requiere: hipoalbuminemia (↓ presión oncótica), ↑ linfa hepática y retención renal de sodio y agua.",
+"**Circulación colateral**: porta → cava superior: **varices esofágicas**; porta → cava inferior: plexo hemorroidal, venas umbilicales (cabeza de medusa), venas renales."]},
+{h:"Medida de la HTP",ref:"13",pts:[
+"Presión portal: cateterismo de venas suprahepáticas (presión suprahepática libre y **enclavada**, que refleja la presión de los sinusoides). Visualización: endoscopia (varices) y **ecografía Doppler** (diámetro de la porta > 13 mm sugiere HTP; valora el flujo)."]},
+{h:"Ascitis",ref:"15-18",pts:[
+"**Ascitis**: > 100 ml de líquido en la cavidad peritoneal.",
+"**Trasudado**: HTP, ICC, síndrome nefrótico, enteropatía pierdeproteínas. **Exudado**: inflamación peritoneal, carcinomatosis peritoneal. **Linfa (quilosa)**: lesión u obstrucción de linfáticos abdominales (tumores sólidos, linfomas).",
+"Manifestaciones (↑ presión intraabdominal): tensión abdominal, hernias, reflujo gastroesofágico, disnea y edemas en miembros inferiores.",
+"Diagnóstico: paracentesis exploradora y análisis del líquido. **Gradiente de albúmina suero-ascitis (GASA)**: **> 1,1 g/dl** → debida a HTP (cirrosis, insuficiencia cardiaca, Budd-Chiari, metástasis hepáticas); **< 1,1 g/dl** → carcinomatosis peritoneal, tuberculosis peritoneal, síndrome nefrótico, ascitis pancreática."]}],
+esquemas:[
+{t:"table",title:"Causas de HTP según localización (diap. 10)",head:["Nivel","Causas"],rows:[
+["Prehepática","Trombosis / compresión de la porta"],["Intrahepática presinusoidal","Granulomas: tuberculosis, esquistosomiasis"],["Intrahepática sinusoidal","Cirrosis (la más frecuente)"],["Intrahepática postsinusoidal","Cirrosis, enfermedad venooclusiva"],["Posthepática","Budd-Chiari, valvulopatía tricuspídea, pericarditis constrictiva"]],ref:"10"},
+{t:"table",title:"Gradiente de albúmina suero-ascitis (diap. 18)",head:["GASA","Causas"],rows:[["> 1,1 g/dl (HTP)","Cirrosis, IC, Budd-Chiari, metástasis hepáticas"],["< 1,1 g/dl","Carcinomatosis peritoneal, TBC peritoneal, síndrome nefrótico, ascitis pancreática"]],ref:"18"},
+{t:"table",title:"Circulación colateral (diap. 11)",head:["Vía","Manifestación"],rows:[["Porta → cava superior","Varices esofágicas"],["Porta → cava inferior","Plexo hemorroidal, venas umbilicales, venas renales"]],ref:"11"},
+{t:"table",title:"Tipos de líquido ascítico (diap. 15)",head:["Tipo","Ejemplos"],rows:[["Trasudado","HTP, ICC, nefrótico, enteropatía pierdeproteínas"],["Exudado","Inflamación y carcinomatosis peritoneal"],["Quilosa (linfa)","Tumores sólidos, linfomas"]],ref:"15"}],
+claves:["HTP: presión portal > 10 mmHg; cirrosis = causa más frecuente (sinusoidal).","Manifestaciones: esplenomegalia/hiperesplenismo, ascitis y circulación colateral (varices).","GASA > 1,1 → HTP.","Ascitis: > 100 ml; trasudado, exudado o quilosa."],
+test:[
+{q:"La HTP se define como presión portal:",o:["> 5 mmHg","> 10 mmHg","> 20 mmHg","> 40 mmHg"],a:1,e:"Diap. 8.",ref:"8"},
+{q:"La causa más frecuente de HTP es:",o:["Trombosis portal","Cirrosis (sinusoidal)","Budd-Chiari","Esquistosomiasis"],a:1,e:"Diap. 10.",ref:"10"},
+{q:"El síndrome de Budd-Chiari es una HTP:",o:["Prehepática","Intrahepática presinusoidal","Posthepática","Sinusoidal"],a:2,e:"Diap. 10.",ref:"10"},
+{q:"Un GASA > 1,1 g/dl indica:",o:["Carcinomatosis peritoneal","Hipertensión portal","Tuberculosis peritoneal","Síndrome nefrótico"],a:1,e:"Diap. 18.",ref:"18"},
+{q:"El hiperesplenismo cursa con:",o:["Anemia, leucopenia y trombopenia","Policitemia","Leucocitosis","Trombocitosis"],a:0,e:"Diap. 11.",ref:"11"},
+{q:"La anastomosis porta-cava superior da lugar a:",o:["Hemorroides","Varices esofágicas","Cabeza de medusa","Varices renales"],a:1,e:"Diap. 11.",ref:"11"},
+{q:"La ascitis quilosa se debe a:",o:["Lesión u obstrucción de linfáticos abdominales","Inflamación peritoneal","HTP","Síndrome nefrótico"],a:0,e:"Diap. 15.",ref:"15"},
+{q:"La presión portal depende de:",o:["Flujo × resistencia","Flujo / resistencia","Solo del flujo","Solo del radio"],a:0,e:"Diap. 7.",ref:"7"}],
+cortas:[
+{q:"Clasifique las causas de hipertensión portal según su localización.",a:"Prehepática (trombosis/compresión de la porta), intrahepática (presinusoidal: tuberculosis, esquistosomiasis; sinusoidal: cirrosis; postsinusoidal: enfermedad venooclusiva) y posthepática (Budd-Chiari, valvulopatía tricuspídea, pericarditis constrictiva).",pts:[["Prehepática","prehepatica|trombosis"],["Intrahepática (cirrosis)","intrahepatica|cirrosis|sinusoid"],["Posthepática (Budd-Chiari)","posthepatica|budd"]],ref:"10"},
+{q:"Manifestaciones de la hipertensión portal.",a:"Esplenomegalia con hiperesplenismo, ascitis (hipoalbuminemia, ↑ linfa hepática, retención de Na y agua) y circulación colateral (varices esofágicas, plexo hemorroidal, venas umbilicales).",pts:[["Esplenomegalia / hiperesplenismo","esplenomegalia|hiperesplenismo"],["Ascitis","ascitis"],["Circulación colateral / varices","colateral|varice"]],ref:"11"},
+{q:"Tipos de ascitis y utilidad del gradiente de albúmina suero-ascitis.",a:"Trasudado (HTP, ICC, nefrótico), exudado (inflamación/carcinomatosis peritoneal) y quilosa (linfáticos). GASA > 1,1 g/dl → HTP; < 1,1 → carcinomatosis, TBC peritoneal, nefrótico, pancreática.",pts:[["Trasudado / exudado / quilosa","trasudado|exudado|quilosa"],["GASA > 1,1 → HTP","1,1|1.1|gradiente"]],ref:"15,18"},
+{q:"Mecanismos que permiten el desarrollo de ascitis en la HTP.",a:"Hipoalbuminemia (↓ presión oncótica), aumento de linfa hepática y retención renal de sodio y agua.",pts:[["Hipoalbuminemia","albumina|oncotica"],["↑ linfa hepática","linfa"],["Retención de Na y agua","sodio|retencion"]],ref:"11"}]};
+
+T[21]={n:21,mod:3,title:"Vía biliar extrahepática y páncreas",short:"Vía biliar y páncreas",src:"Tema21_ViaBiliar.pdf",prof:"Dr. J. M. Galván Román",
+resumen:[
+{h:"Patología causada por cálculos biliares",ref:"5-11",pts:[
+"Localización posible de los cálculos: A) luz de la vesícula, B) conducto cístico, C) colédoco, D) conducto común (tras la unión del colédoco con el pancreático).",
+"**Colelitiasis**: lo más frecuente es **asintomática** («piedras en la vesícula»). Sintomática: si hay **obstrucción rápida → cólico biliar**; riesgo de infección → **colecistitis**; riesgo de migración al colédoco → **coledocolitiasis** (± colangitis o pancreatitis).",
+"**Cólico biliar**: dolor por distensión brusca de la pared de la vía biliar retrógrada; tras transgresión dietética; tipo cólico en epigastrio e hipocondrio derecho; irradia a espalda y escápula izquierda; náuseas y vómitos muy frecuentes.",
+"**Colecistitis**: inflamación de la pared de la vesícula (aguda o crónica); 90 % secundaria a colelitiasis. Dolor intenso continuo, náuseas, vómitos, fiebre alta con escalofríos; dolor y defensa abdominal; **Murphy +** (dolor en el punto cístico que aumenta con la inspiración); leucocitosis con desviación izquierda, colestasis variable. Ecografía: litos, pared engrosada (> 4 mm) con edema, halo inflamatorio y Murphy ecográfico +.",
+"Fases: I) obstrucción del cístico; II) cambios en la composición de la bilis; III) distensión y edema; IV) compromiso del retorno venoso y de la circulación arterial; V) isquemia y perforación (localizada o libre: absceso perivesicular, peritonitis; fístula colecistoentérica; colecistitis enfisematosa por gérmenes productores de gas).",
+"**Síndrome de Mirizzi**: compresión extrínseca de la vía biliar o fístula colecistocoledociana.",
+"**Coledocolitiasis**: cálculo en el colédoco: asintomática, cólico biliar, **ictericia obstructiva dolorosa** (obstrucción completa → colestasis), colangitis o pancreatitis."]},
+{h:"Colestasis extrahepática",ref:"13-15",pts:[
+"**Obstrucción del conducto hepático común o del colédoco**: intraluminal (cálculo en colédoco), parietal (colangiocarcinoma) o extrínseca (cáncer de cabeza de páncreas).",
+"Etiología benigna: litiasis biliar, pancreatitis aguda y crónica, pseudoquiste, estenosis biliar posquirúrgica, malformaciones congénitas (atresia biliar, quistes coledocianos), parasitosis (hidatidosis, fasciolasis, ascaridiasis), hemobilia, úlcera duodenal, divertículo duodenal infectado. Maligna: cáncer de cabeza de páncreas, colangiocarcinoma, ampuloma, cáncer de vesícula, compresión por tumor o adenopatías.",
+"Clínica: **ictericia, coluria, acolia**."]},
+{h:"Colangitis e íleo biliar",ref:"16-17",pts:[
+"**Colangitis**: inflamación de los conductos biliares por infección (obstrucción/estasis biliar → sobrecrecimiento bacteriano → paso a sangre: bacteriemia de origen biliar). **Tríada de Charcot**: dolor en hipocondrio derecho + fiebre en picos + ictericia. Leucocitosis con desviación izquierda y colestasis (siempre); hemocultivos frecuentemente positivos.",
+"**Íleo biliar**: obstrucción intestinal mecánica por impactación de un cálculo biliar en el tubo digestivo; complicación excepcional; por una comunicación anormal vía biliar-tubo digestivo (la más frecuente, **fístula colecistoduodenal**) y evacuación del cálculo; cursa como íleo mecánico."]},
+{h:"Diagnóstico de la patología biliar",ref:"18-19",pts:[
+"Clínica y exploración (signo de Murphy, vesícula palpable); analítica (RFA, FA y GGT, bilirrubina elevadas); **ecografía** (primera prueba), Rx simple (litiasis, vesícula en porcelana), TC, RM, colecistografía y colangiografía, **CPRE**."]},
+{h:"Páncreas: fisiología",ref:"20-22",pts:[
+"Glándula exocrina y endocrina retroperitoneal de 10-12 cm; **conducto de Wirsung** desemboca en la ampolla de Vater (esfínter de Oddi) junto con el colédoco.",
+"**Exocrina** (acinos, 90 %): jugo alcalino (pH 8; rico en bicarbonato; 1,5 l/día) con enzimas: tripsina, quimotripsina, elastasa, carboxipeptidasa, amilasa, lipasa, fosfolipasa, ribonucleasa, desoxirribonucleasa. Se secretan como **proenzimas** y existen **antiproteasas** (inhibición de la tripsina) que evitan la autodigestión.",
+"**Endocrina** (islotes de Langerhans, < 5 %): 75 % células β (insulina), 20 % células α (glucagón), 5 % δ (somatostatina) y células productoras de VIP y gastrina."]},
+{h:"Pancreatitis aguda",ref:"23-30",pts:[
+"**Definición**: inflamación aguda del páncreas que suele curar sin secuelas, pero puede dejar lesiones irreversibles; puede afectar a tejidos circundantes y a distancia.",
+"**Etiología**: **litiasis biliar (30-75 %)**, **alcohol (15 %)**; otras: anomalías estructurales (fibrosis del esfínter de Oddi, estenosis o carcinoma duodenal, páncreas divisum o anular, estenosis del Wirsung), cirugía gástrica o biliar, CPRE, trauma, metabólicas (hipertrigliceridemia grave, hipercalcemia), vasculitis, virus (VHB, VHC, parotiditis, rubeola, CMV, coxsackie), fármacos (azatioprina, clorotiazida, furosemida, sulfamidas, tetraciclinas); idiopática 15-20 % (la mitad con microcálculos o bilis espesa).",
+"**Patogenia**: **autodigestión** por activación de enzimas líticas en el páncreas; inflamación, daño vascular, isquemia, ↑ permeabilidad, edema; **SIRS** por liberación de enzimas y citocinas.",
+"**Síntomas**: dolor (85-100 %; brusco, constante, tras copiosa ingesta o alcohol; epigastrio, en cinturón; postura antiálgica), náuseas y vómitos (50-90 %), distensión (50 %; paresia intestinal), fiebre (12-27 %), ictericia (8 %; solo si obstrucción o colangitis), shock (12 %; mal pronóstico).",
+"**Signos**: taquicardia, taquipnea, hipotensión, hipertermia, derrame pleural izquierdo, abdomen distendido, ↓ ruidos, matidez, dolor epigástrico, rebote +, **signos de Cullen y Grey Turner (1 %)**.",
+"**Diagnóstico**: clínica; laboratorio (leucocitosis con desviación izquierda, hiperglucemia, colestasis y citólisis, calcemia baja en formas necrótico-hemorrágicas, ↑ urea y creatinina, hipoalbuminemia); **amilasemia** (diagnóstica si > 3 veces; más sensible) y **lipasemia** (más específica); imagen: ecografía, TAC/RM.",
+"**Complicaciones**: sistémicas (shock, insuficiencia respiratoria, sepsis, hemorragia digestiva, renales, hepatobiliares, cardiacas, esplénicas, necrosis de grasa subcutánea) y locales (exudados, necrosis, oclusiones intestinales, pseudoquistes, abscesos, ascitis pancreática). Mortalidad 13-15 % (50-70 % en necrohemorrágicas)."]},
+{h:"Pancreatitis crónica",ref:"31-39",pts:[
+"**Definición**: inflamación y fibrosis progresiva con deterioro irreversible de la anatomía y fisiología exocrina y endocrina. Más en hombres, 3ª-4ª década.",
+"**Etiología**: **alcohol (70-80 %)** (> 150 g/día y > 10 años; solo 5-10 % la desarrollan), factores dietéticos, idiopática, inflamatoria/autoinmune (CEP, Sjögren, CBP), hereditaria (AD, defecto del inhibidor de la tripsina), obstructiva (cálculo, tumor, cicatriz, páncreas divisum), metabólica (hiperparatiroidismo, hipertrigliceridemia) y fármacos (IDPP4).",
+"**Fisiopatología**: ↓ secreción de bicarbonato → acúmulo de proteínas → obstrucción de conductos; activación intraparenquimatosa de enzimas; lesiones «parcheadas»; fibrosis + infiltrado linfoplasmocitario + dilataciones y estenosis: **proceso irreversible**. Son necesarios factores genéticos además del tóxico (p. ej., déficit de claudina 2).",
+"**Clínica**: dolor epigástrico (penetrante a la espalda, constante, alivia en decúbito lateral/posición fetal o inclinado hacia delante; no relacionado claramente con la ingesta; si es postprandial, sospechar obstrucción); **esteatorrea** (cuando se afecta el 90 % del tejido exocrino: heces amarillentas, untuosas, espumosas, flotantes); **diabetes** (28-40 %; enfermedad avanzada); pérdida de peso.",
+"Complicaciones: malabsorción de B12 (40 %), ictericia/colestasis (1/3 distal del colédoco, pseudoquiste), vómitos de retención (estenosis duodenal), ascitis pancreática (exudativa con amilasa alta). **Tríada clásica: calcificaciones + esteatorrea + diabetes**.",
+"**Diagnóstico**: FA elevada, amilasa escasa o ausente; pruebas de función pancreática. Directas: test secretina-CCK, comida de Lundh. Indirectas: **Van de Kamer** (patrón oro de esteatorrea), **elastasa fecal** (< 200 µg/g; cribado), triglicéridos ¹³C en aire espirado. Imagen: Rx (calcificaciones), US, TAC, RM, CPRE."]}],
+esquemas:[
+{t:"table",title:"Patología biliar por cálculos",head:["Entidad","Clave"],rows:[
+["Colelitiasis","Asintomática (lo más frecuente) o cólico biliar"],["Cólico biliar","Obstrucción rápida; epigastrio/HD; tras transgresión dietética"],["Colecistitis","90 % por litiasis; Murphy +, fiebre, leucocitosis; pared > 4 mm"],["Síndrome de Mirizzi","Compresión extrínseca de la vía biliar / fístula colecistocoledociana"],["Coledocolitiasis","Ictericia obstructiva dolorosa, colangitis, pancreatitis"],["Colangitis","Tríada de Charcot: dolor HD + fiebre en picos + ictericia"],["Íleo biliar","Íleo mecánico por cálculo (fístula colecistoduodenal)"]],ref:"6-17"},
+{t:"table",title:"Pancreatitis aguda vs crónica (diap. 41)",head:["","Aguda","Crónica"],rows:[
+["Lesión","Transitoria","Permanente"],["Afectación","Generalizada","Parcheada"],["Histología","Infiltración neutrofílica","Fibrosis e infiltrado mononuclear"],["Clínica","Siempre sintomática","Asintomática o dolor posprandial"],["Amilasa y lipasa","Elevadas","Normales"]],ref:"41"},
+{t:"table",title:"Etiología de la pancreatitis",head:["","Aguda","Crónica"],rows:[
+["Principal","Litiasis biliar (30-75 %), alcohol (15 %)","Alcohol (70-80 %)"],["Otras","Hipertrigliceridemia, hipercalcemia, CPRE, virus, fármacos","Obstructiva, autoinmune, hereditaria, metabólica, dieta"]],ref:"23,32"},
+{t:"flow",title:"Pancreatitis aguda: patogenia",steps:["Activación de enzimas líticas en el páncreas","Autodigestión: inflamación, daño vascular, edema","Liberación de enzimas y citocinas","SIRS / complicaciones sistémicas"],ref:"24"}],
+claves:["Litiasis biliar → cólico, colecistitis, coledocolitiasis (colangitis, pancreatitis), íleo biliar, Mirizzi.","Colangitis = tríada de Charcot.","Pancreatitis aguda: litiasis y alcohol; autodigestión; amilasa (sensible) y lipasa (específica).","Crónica: alcohol; calcificaciones + esteatorrea + diabetes; amilasa normal.","Murphy +: colecistitis."],
+test:[
+{q:"La tríada de Charcot es:",o:["Dolor HD + fiebre + ictericia","Calcificaciones + esteatorrea + diabetes","Dolor + vómitos + distensión","Fiebre + leucocitosis + shock"],a:0,e:"Diap. 16 (colangitis). La otra tríada es la de la pancreatitis crónica (diap. 36).",ref:"16,36"},
+{q:"La colecistitis aguda es secundaria a colelitiasis en:",o:["10 %","50 %","90 %","100 %"],a:2,e:"Diap. 8.",ref:"8"},
+{q:"Causa más frecuente de pancreatitis aguda:",o:["Litiasis biliar","Alcohol","Hipertrigliceridemia","Fármacos"],a:0,e:"Diap. 23: 30-75 %.",ref:"23"},
+{q:"La enzima más específica de pancreatitis aguda es:",o:["Amilasa","Lipasa","Elastasa","GGT"],a:1,e:"Diap. 29.",ref:"29"},
+{q:"Los signos de Cullen y Grey Turner se ven en:",o:["Colecistitis","Pancreatitis aguda","Colangitis","Pancreatitis crónica"],a:1,e:"Diap. 28.",ref:"28"},
+{q:"El íleo biliar suele deberse a:",o:["Fístula colecistoduodenal","Coledocolitiasis","Colangitis","Páncreas divisum"],a:0,e:"Diap. 17.",ref:"17"},
+{q:"En la pancreatitis crónica:",o:["Amilasa y lipasa elevadas","Amilasa y lipasa normales, con lesión permanente","Siempre sintomática","Infiltración neutrofílica"],a:1,e:"Diap. 41.",ref:"41"},
+{q:"El patrón oro para la esteatorrea es:",o:["Elastasa fecal","Van de Kamer","Test de Lundh","Triglicéridos 13C"],a:1,e:"Diap. 39.",ref:"39"}],
+cortas:[
+{q:"Patologías asociadas a la litiasis biliar.",ex:13,a:"Colelitiasis asintomática, cólico biliar, colecistitis (y sus complicaciones: perforación, fístula, Mirizzi), coledocolitiasis con colestasis/ictericia obstructiva, colangitis, pancreatitis aguda biliar e íleo biliar.",pts:[["Cólico biliar","colico"],["Colecistitis","colecistitis"],["Coledocolitiasis / colestasis","coledocolitiasis|colestasis|ictericia"],["Colangitis","colangitis"],["Pancreatitis","pancreatitis"],["Íleo biliar","ileo biliar"]],ref:"6-17,23"},
+{q:"Colecistitis aguda: clínica, exploración y diagnóstico.",a:"Dolor intenso continuo, náuseas, vómitos, fiebre con escalofríos; dolor y defensa abdominal con Murphy +; leucocitosis con desviación izquierda; ecografía con pared engrosada (> 4 mm), litos y halo inflamatorio.",pts:[["Dolor + fiebre","dolor|fiebre"],["Murphy +","murphy"],["Leucocitosis","leucocit"],["Ecografía: pared engrosada","ecografia|pared|engros"]],ref:"8,19"},
+{q:"Etiología y fisiopatología de la pancreatitis aguda.",a:"Litiasis biliar (30-75 %) y alcohol (15 %), además de hipertrigliceridemia, hipercalcemia, CPRE, virus y fármacos. Autodigestión por activación de enzimas, inflamación, daño vascular y SIRS.",pts:[["Litiasis biliar","litiasis|biliar"],["Alcohol","alcohol"],["Autodigestión / activación enzimática","autodigest|enzima"],["SIRS","sirs|citocina"]],ref:"23-24"},
+{q:"Pancreatitis crónica: etiología, clínica y diagnóstico.",a:"Alcohol (70-80 %); dolor, esteatorrea, diabetes y pérdida de peso; tríada clásica calcificaciones + esteatorrea + DM. Diagnóstico con Van de Kamer, elastasa fecal, test de secretina-CCK y pruebas de imagen; amilasa normal.",pts:[["Alcohol","alcohol"],["Esteatorrea / diabetes / calcificaciones","esteatorrea|diabetes|calcificacion"],["Van de Kamer / elastasa","kamer|elastasa|secretina"]],ref:"32,35-39"}]};
+
+U[1]={
+intro:"Este primer tema te da el vocabulario con el que se piensa toda la asignatura: antes de estudiar un solo órgano, hay que distinguir **qué siente el paciente**, **qué encuentra el médico** y **cómo se pasa de ahí a una causa**.",
+explica:[
+{h:"Para qué sirve la Fisiopatología",ref:"2-3",p:[
+"La Fisiopatología responde a una pregunta muy concreta: **¿por qué aparece este síntoma o este signo?** Estudia cómo funciona el cuerpo humano cuando está enfermo, y explica los síntomas y signos como **consecuencia de alteraciones funcionales** de órganos, aparatos y sistemas.",
+"Su pareja inseparable es la **Semiología**, que se ocupa de *reconocer* esos síntomas y signos al explorar al paciente. Dicho de forma simple: la semiología detecta, la fisiopatología explica.",
+"Lo que se espera de ti al final es una cadena completa: conocer los mecanismos fisiopatológicos, reconocer los síntomas y signos de cada síndrome, interpretarlos, **formular una hipótesis sindrómica** y saber qué pruebas elementales la confirman o la descartan."],
+tip:"Fisiopatología = el porqué de los síntomas. Semiología = cómo se reconocen."},
+{h:"Cómo ha cambiado la idea de enfermedad",ref:"11-13,15",p:[
+"El concepto de enfermedad ha ido de lo sobrenatural a lo biológico y, hoy, a lo global. Los **pueblos primitivos** la explicaban por causas sobrenaturales (empirismo mezclado con creencias mágicas). **Hipócrates** (s. V-IV a.C.) da el salto decisivo: las causas son **naturales**, se observan y se tratan con medios naturales. **Galeno** (s. II d.C.) sintetiza esa tradición y su doctrina domina la medicina durante **quince siglos**.",
+"En el s. XVII, **Sydenham** propone la «especie morbosa»: formas típicas y constantes de enfermar que se aíslan por observación clínica. Y en el **s. XIX, el positivismo** reúne tres miradas complementarias: la **anatomoclínica** (Morgagni, Virchow, Laennec: la enfermedad se apoya en lesiones), la **fisiopatológica** (Müller: hechos físicos y reacciones químicas alteradas) y la **etiológica** (Koch, Pasteur: un agente externo, microbiano o tóxico).",
+"La medicina actual integra las tres y añade una idea: **«no existen enfermedades sino enfermos»**. De ahí el modelo **biopsicosocial**."],
+tip:"Primitivos = sobrenatural · Hipócrates = natural · Galeno = síntesis (15 siglos) · Sydenham = especie morbosa · s. XIX = anatomoclínica + fisiopatológica + etiológica · hoy = biopsicosocial."},
+{h:"De la causa al síntoma: la secuencia clínica",ref:"14,20",p:[
+"Todo proceso clínico sigue una secuencia: **etiología → mecanismos de enfermedad → lesión → semiología**. Entre la causa y lo que vemos están los **mecanismos de enfermedad** (patogenia y fisiopatología), que es exactamente el territorio de esta asignatura.",
+"Las causas se agrupan en categorías: vascular, inflamatoria, infecciosa, traumática, autoinmune, metabólica, neoplásica, congénita, degenerativa, drogas/fármacos/tóxicos e idiopática (sin causa conocida)."]},
+{h:"Síntoma, signo, síndrome y enfermedad",ref:"18,21-24,28",p:[
+"Un **síntoma** es lo que **cuenta el paciente** (disnea, astenia, disuria). Un **signo** es lo que **encuentra el médico** al explorar (coluria, hemoptisis, cianosis). Un **síndrome** es un conjunto de síntomas y signos que forman un cuadro bien definido, que se repite en distintos pacientes y **puede deberse a causas distintas**. Una **enfermedad**, en cambio, agrupa síntomas y signos debidos a **una sola causa**.",
+"La diferencia se ve con dos ejemplos de la clase: la **hepatitis C** es una enfermedad (una causa); la **insuficiencia hepática** es un síndrome (muchas causas posibles). Por eso el orden lógico es siempre el mismo: primero el **diagnóstico sindrómico** (¿qué cuadro es?) y después el **etiológico** (¿qué lo causa?).",
+"El razonamiento tiene dos sentidos. Un mismo síndrome puede tener enfermedades distintas detrás (el síndrome de malabsorción —diarrea, dolor abdominal, adelgazamiento— puede ser celiaquía, Crohn o tuberculosis). Y unos mismos síntomas pueden pertenecer a síndromes distintos (fiebre + dolor torácico + disnea: neumonía, pleuritis, pericarditis o mediastinitis).",
+"Un truco de vocabulario que cae: **-osis** = proceso degenerativo (artrosis), **-itis** = inflamación (colitis, apendicitis), **-oma** = tumor (linfoma, sarcoma)."],
+tip:"Síntoma = lo dice el paciente · Signo = lo halla el médico · Síndrome = cuadro con varias causas · Enfermedad = una causa."},
+{h:"El método clínico",ref:"26-27,30-31",p:[
+"La **historia clínica** tiene dos patas. La **anamnesis**: síntoma guía, otros síntomas, antecedentes personales y hábitos tóxicos. Y la **exploración física**: inspección, palpación, percusión y auscultación. Después vienen las exploraciones complementarias, el **juicio clínico** y, de ahí, diagnóstico, pronóstico y tratamiento.",
+"El ejemplo de la clase junta todo: fiebre, dolor torácico, disnea, taquicardia, hipotensión y oliguria llevan a pensar en una **neumonía complicada con sepsis**. Y la actitud que pide el acto médico: escuchar, preguntar, observar, integrar, ser perseverante y paciente."]}],
+esq:[
+{t:"levels",title:"De la causa al síntoma (diap. 14)",ref:"14",levels:[
+{label:"Etiología",items:["Vascular","Infecciosa","Inflamatoria","Neoplásica","Metabólica","Autoinmune…"],arrow:"actúa a través de"},
+{label:"Mecanismos",items:["Patogenia","Fisiopatología"],arrow:"produce"},
+{label:"Lesión",items:["Alteración estructural"],arrow:"se expresa como"},
+{label:"Semiología",items:["Síntomas (el paciente)","Signos (el médico)"]}]},
+{t:"chain",title:"Razonamiento clínico: del paciente al diagnóstico (diap. 27-31)",ref:"27,30-31",steps:["Anamnesis: síntoma guía, antecedentes, hábitos tóxicos","Exploración física: inspección, palpación, percusión, auscultación","Diagnóstico sindrómico: ¿qué cuadro forman los síntomas y signos?","Exploraciones complementarias","Diagnóstico etiológico: ¿qué lo causa?","Juicio clínico → pronóstico y tratamiento"]},
+{t:"branch",title:"Un mismo cuadro, varias causas (diap. 22-24)",ref:"22-24",root:"Síndrome de malabsorción: diarrea + dolor abdominal + adelgazamiento",branches:[
+{label:"Causa 1",steps:["Enfermedad celíaca"]},
+{label:"Causa 2",steps:["Enfermedad de Crohn"]},
+{label:"Causa 3",steps:["Tuberculosis"]}]}],
+drop:["Evolución histórica"]
+};
+
+U[2]={
+intro:"El entorno puede enfermarnos sin que haya ningún microbio de por medio: basta con que **la temperatura, la altitud, la presión, la radiación o la electricidad** superen lo que el cuerpo sabe compensar. La clave del tema es entender **qué mecanismo de defensa se agota** en cada caso.",
+explica:[
+{h:"Primero, cómo regula el cuerpo su temperatura",ref:"4-7",p:[
+"El ser humano es **homeotermo**: mantiene unos 37 ºC con un pequeño ritmo circadiano (≈ 0,6 ºC). Lo prioritario es la temperatura **interna** (vísceras; se mide en boca o recto), que se mantiene constante; la **externa** (piel y músculos; axila e ingle) varía precisamente para proteger a la interna.",
+"El sistema funciona como un termostato: los **termorreceptores** (externos e internos) informan al **centro termorregulador**, que decide entre **termogénesis** (generar calor: vasoconstricción cutánea, contracción muscular, aumento del metabolismo por el SNS, catecolaminas y hormonas tiroideas) o **termólisis** (perder calor: vasodilatación cutánea, sudación, ventilación; por radiación, conducción, convección y evaporación).",
+"Con 1-2 semanas de exposición se logra la **aclimatación al calor**: más gasto cardiaco y volumen intravascular, sudor más abundante y con **menos sodio**, y síntesis de proteínas de shock térmico. Esto explica por qué los trastornos por calor se ceban con las personas **no aclimatadas**."]},
+{h:"Cuando sobra calor: calambres, agotamiento y golpe de calor",ref:"8-11",p:[
+"Son tres escalones de gravedad. Los **calambres** son contracciones musculares dolorosas y mantenidas tras ejercicio intenso, por **pérdida extracelular de sodio**. El **agotamiento por calor** aparece en olas de calor en personas no aclimatadas: la termorregulación **se conserva**, la temperatura interna es normal o algo alta, y los síntomas (sed, hipotensión, síncope) vienen de la **depleción hidrosalina** por el sudor profuso.",
+"El **golpe de calor** es otra cosa: la temperatura interna se eleva de forma extrema e incontrolada y hay respuesta inflamatoria sistémica. Puede ser **clásico** (precedido de agotamiento, en sujetos sedentarios) o **de ejercicio** (en deportistas). Se diagnostica con una **tríada**: exposición al calor + disfunción del SNC + Tª > 40,5 ºC.",
+"¿Por qué se vuelve tan grave? Hay cuatro mecanismos: **fallo de la termólisis**, **hipoperfusión del territorio esplácnico**, **toxicidad celular** y **síntesis defectuosa de proteínas de shock térmico**. La hipoperfusión esplácnica es el eslabón que conecta con el resto: aumenta la permeabilidad intestinal, pasan endotoxinas, se liberan citocinas proinflamatorias y se desencadena el SRIS, con lesión celular y fallo multiorgánico.",
+"Para el examen, la comparación que cae: en el **clásico** la piel está **seca, caliente y enrojecida** (41 ºC, alcalosis respiratoria por hiperventilación); en el **de ejercicio** está **húmeda, más fría y pegajosa** (44 ºC, acidosis metabólica por necrosis tisular)."],
+tip:"Agotamiento = termorregulación conservada. Golpe de calor = termorregulación perdida. Piel seca = clásico; piel húmeda = ejercicio."},
+{h:"Cuando falta calor: hipotermia y lesiones locales",ref:"12-16",p:[
+"El frío puede dar un cuadro **sistémico** (hipotermia) o **local** (perniosis, pie de trinchera, congelación), además de fenómenos como Raynaud, crioaglutininas o urticaria a frigore.",
+"La **hipotermia** es una temperatura interna < 35 ºC. Al principio el cuerpo lucha: se activa la termogénesis, con vasoconstricción cutánea (palidez) y escalofríos. Cuando esa respuesta se agota, **se pierde la termorregulación** y aparecen los efectos directos del frío sobre cada aparato.",
+"Verás que casi todo se enlentece: en el sistema nervioso, confusión, amnesia, apatía, disartria y **coma por debajo de 30 ºC**; en el corazón, bradicardia, hipotensión, **onda J de Osborn**, fibrilación ventricular y asistolia; en el pulmón, bradipnea e hipoventilación; y en el riñón, **poliuria inicial** (el túbulo responde menos a la ADH), luego oliguria e insuficiencia renal prerrenal.",
+"Las lesiones locales afectan a zonas acras expuestas, por isquemia local y cristalización del agua primero intersticial y luego intracelular."]},
+{h:"Altitud: faltar aire en la montaña",ref:"17-21",p:[
+"A partir de unos **2500 m** baja la presión atmosférica y con ella la de oxígeno: se produce **hipoxia hipoxémica**. Si la exposición es brusca, aparece hipoxia súbita; tras un ascenso rápido, el **mal de montaña agudo** (el más frecuente y el más leve) en las primeras horas; y en los casos graves, **edema cerebral** y **edema pulmonar** de gran altitud. Si se mantiene en el tiempo, **mal de montaña crónico** (hipertensión pulmonar y policitemia).",
+"Los dos edemas tienen una lógica propia. En el **cerebro**: hipoxia → vasodilatación intracraneal → hiperaflujo → aumento de la presión hidrostática capilar → **edema vasogénico** → hipertensión intracraneal (en el mal agudo se compensa desplazando LCR). En el **pulmón**: hipoxia → activación excesiva del SNS → **vasoconstricción no uniforme** de arterias y venas pulmonares → ↑ presión hidrostática capilar → salida de líquido al intersticio y a los alvéolos."]},
+{h:"Presión: los trastornos disbáricos",ref:"22-27",p:[
+"Los cambios bruscos de presión (a 6000 m la presión es la mitad; a 10 m de profundidad se duplica) se entienden con dos leyes. **Boyle-Mariotte**: a temperatura constante, el volumen de un gas varía inversamente con la presión. **Henry**: el gas disuelto en un líquido es proporcional a su presión parcial.",
+"De ellas salen cinco entidades. Boyle explica los **barotraumatismos** (el aire cambia de volumen) y la **hipertensión intratorácica** (ascenso en apnea: el aire atrapado se expande y produce neumomediastino, neumotórax, enfisema subcutáneo o embolia gaseosa). Henry explica las **intoxicaciones por N** (> 30 m; euforia y trastornos de conducta) y **por O₂** (convulsión; atelectasia y edema pulmonar) y la **enfermedad por descompresión**: si se asciende rápido, baja bruscamente la presión parcial de los gases y se forman **burbujas**, que dan clínica extravascular (piel, neurológica, respiratoria) o intravascular (embolia neurológica; también osteonecrosis disbárica)."],
+tip:"Boyle → volumen (barotrauma, hipertensión intratorácica). Henry → gas disuelto (nitrógeno, oxígeno, descompresión)."},
+{h:"Radiación, electricidad, contaminación y otros",ref:"28-34",p:[
+"La radiación **ionizante** (natural o médica; gray y sievert) daña por dos vías: ioniza el agua y genera radicales libres de O₂, y lesiona directamente el ADN, con consecuencias que van de la necrosis y la apoptosis a las neoplasias y los trastornos hereditarios. La **no ionizante** (luz solar, microondas, radiofrecuencia) actúa sobre todo calentando el tejido: con los UV, quemadura solar, envejecimiento cutáneo, neoplasias cutáneas y lesión ocular; con microondas y radiofrecuencia, catarata y atrofia testicular.",
+"La **electricidad** (alta o baja tensión) hace dos cosas: libera calor (quemaduras internas o externas) y estimula estructuras excitables (contracción muscular, pérdida de conciencia, parada respiratoria y fibrilación ventricular). El efecto depende de la corriente y del receptor: superficie, resistencia y recorrido (p. ej., brazo-brazo).",
+"La **contaminación** puede ser atmosférica (lluvia ácida, niebla tóxica, nanopartículas, humo de tabaco: enfermedades respiratorias, asma, cáncer de pulmón), acústica y cambio climático. Otros cuadros del tema: síndrome del edificio enfermo (ventilación insuficiente, Legionella), cinetosis, jet lag y síndrome de la clase turista."]}],
+esq:[
+{t:"levels",title:"Termorregulación: cómo responde el cuerpo (diap. 5-7)",ref:"5-7",levels:[
+{label:"Detecta",items:["Termorreceptores externos","Termorreceptores internos"],arrow:"informan a"},
+{label:"Decide",items:["Centro termorregulador"],arrow:"si hace frío / si hace calor"},
+{label:"Responde",items:["Termogénesis: vasoconstricción, contracción muscular, ↑ metabolismo (SNS, catecolaminas, tiroideas)","Termólisis: vasodilatación, sudación, ventilación"],arrow:"resultado"},
+{label:"Efecto",items:["Tª interna estable (~37 ºC)"]}]},
+{t:"levels",title:"Golpe de calor: de la causa al fallo multiorgánico (diap. 9-10)",ref:"9-10",levels:[
+{label:"Causa",items:["Calor ambiental (clásico)","Ejercicio intenso (activo)"],arrow:"supera la capacidad de"},
+{label:"Mecanismos",items:["Fallo de la termólisis","Hipoperfusión esplácnica","Toxicidad celular","Defecto de proteínas de shock térmico"],arrow:"la hipoperfusión aumenta la permeabilidad intestinal"},
+{label:"Cascada",items:["Endotoxemia","Citocinas proinflamatorias","SRIS"],arrow:"lesión y muerte celular"},
+{label:"Resultado",items:["Tª > 40,5 ºC + disfunción del SNC","MODS"]}]},
+{t:"branch",title:"Del agotamiento al golpe de calor (diap. 8-11)",ref:"8-11",root:"Exposición al calor",branches:[
+{label:"Calambres",steps:["Ejercicio intenso","Pérdida extracelular de sodio","Contracciones dolorosas"]},
+{label:"Agotamiento",steps:["Ola de calor, no aclimatado","Sudor profuso → depleción hidrosalina","Sed, hipotensión, síncope (Tª normal o algo ↑)"]},
+{label:"Golpe de calor",steps:["Fallo de termorregulación","Tª > 40,5 ºC + SNC + SRIS","Clásico: piel seca · Ejercicio: piel húmeda"]}]},
+{t:"chain",title:"Hipotermia: de la defensa al colapso (diap. 13-14)",ref:"13-14",steps:["Descenso extremo de la Tª ambiental / inmersión prolongada en agua fría",["Se activa la termogénesis: vasoconstricción cutánea (palidez) y escalofríos","la defensa se agota"],"Se pierde la termorregulación: Tª interna < 35 ºC",["Efecto directo del frío sobre los aparatos","todo se enlentece"],"SNC: confusión, coma (< 30 ºC) · Corazón: bradicardia, onda J, FV · Pulmón: bradipnea · Riñón: poliuria → oliguria"]},
+{t:"branch",title:"Altitud: dos edemas con distinto mecanismo (diap. 18-19)",ref:"18-19",root:"Hipoxia hipoxémica (altitud > ≈ 2500 m)",branches:[
+{label:"Edema cerebral",steps:["Vasodilatación intracraneal","Hiperaflujo ↑ P hidrostática capilar","Edema vasogénico","HTIC"]},
+{label:"Edema pulmonar",steps:["Activación excesiva del SNS","Vasoconstricción no uniforme (arterias y venas)","↑ P hidrostática capilar","Líquido a intersticio y alvéolos"]}]},
+{t:"chain",title:"Enfermedad por descompresión (diap. 22-26)",ref:"22-26",steps:["Ascenso rápido tras estar a presión elevada",["Cae bruscamente la presión parcial de los gases","ley de Henry"],"Los gases disueltos forman burbujas",["Extravasculares: mucocutáneo · neurológico · respiratorio","Intravasculares: embolia neurológica (isquemia, infarto) · osteonecrosis disbárica"]]}],
+drop:["Mecanismo del golpe de calor (diap. 9-10)"]
+};
+
+U[3]={
+intro:"Una infección no es solo «un microbio que llega»: es una **batalla entre la agresión del agente, las defensas del huésped y las maniobras de evasión del microorganismo**. Este tema recorre esa batalla paso a paso y termina en el síndrome que el médico reconoce a pie de cama.",
+explica:[
+{h:"Qué es una infección y cuándo hay enfermedad",ref:"5-6",p:[
+"Hablamos de **infección** cuando un microorganismo (bacteria, virus, hongo o parásito) interacciona con un huésped, cuya defensa fundamental es la respuesta inmune. Siempre hay tres elementos en juego: mecanismos de **agresión**, de **defensa** y de **evasión**.",
+"No toda presencia de un microorganismo es enfermedad. En la **colonización**, el agente es un **comensal** sin expresión clínica (la microbiota incluso nos protege). Hay **enfermedad infecciosa** cuando un **patógeno** prolifera y se disemina localmente, evita las defensas, lesiona o disfunciona las células y, a veces, llega a distancia.",
+"Un **patógeno primario** causa enfermedad por sí mismo; un **oportunista** solo la causa cuando las defensas están alteradas, y con frecuencia es un comensal habitual."]},
+{h:"Cómo llega el microbio: la cadena de exposición",ref:"7-11",p:[
+"Para que se produzca una infección hacen falta **reservorio, fuente, mecanismo de transmisión y puerta de entrada**. El **reservorio** es el hábitat donde el agente vive y se multiplica normalmente: puede ser ambiental (agua con Legionella, suelo con Clostridium tetani), animal (zoonosis, como Brucella) o el propio hombre (enfermo, portador sano o en incubación/convalecencia, como Salmonella typhi). La **fuente** puede coincidir con el reservorio (sarampión: el ser humano) o ser un hábitat ocasional (virus A: reservorio el intestino humano, fuente el agua contaminada).",
+"La **transmisión** puede ser **directa** (contacto físico como las ETS, mordedura o herida con objeto contaminado, vertical madre-hijo) o **indirecta**: agua y alimentos contaminados, fómites (ropa, fonendoscopio), inoculación parenteral (virus B, C, VIH), vectores (garrapata, mosquito) y microgotitas inhaladas."]},
+{h:"Qué hace el microbio dentro del huésped",ref:"13-17",p:[
+"La infección avanza por etapas. **Contacto**: el microbio se une a receptores concretos (Gram − con pili o fimbrias; Gram + con fibrillas y ácido lipoteicoico que se une a fibronectina; virus: VIH–CD4, rinovirus–ICAM-1, SARS-CoV-2 por su proteína S–ACE-2). **Proliferación e invasión local**, con biocapas que aumentan virulencia y resistencia. **Diseminación sistémica** por vía linfática o sanguínea (bacteriemia, viremia, fungemia), neural, conductos naturales, serosas o LCR; algunos tienen tropismo (válvulas cardiacas–estreptococos viridans; meninges–meningococo).",
+"Después **se multiplica**, y aquí importa dónde: los **extracelulares**; los **intracelulares facultativos** (M. tuberculosis, Brucella, Salmonella, que sobreviven en macrófagos); y los **intracelulares obligados** (virus, rickettsias, chlamydias, Toxoplasma, Leishmania).",
+"Por último, la **lesión tisular**, por tres vías: daño celular directo (efecto citopático), **exotoxinas** (citotóxicas o funcionales: la enterotoxina del Vibrio cholerae, la neurotoxina del C. botulinum) y **endotoxina**, el lipopolisacárido de la pared de los Gram −, que actúa como PAMP y activa a los macrófagos por TLR y NF-κB para liberar mediadores inflamatorios."],
+tip:"Exotoxina = proteína secretada con efecto concreto. Endotoxina = LPS de Gram − que dispara la inflamación."},
+{h:"Cómo se defiende el huésped… y cómo falla",ref:"18-23",p:[
+"Las **barreras naturales** son la primera línea: integridad de piel, mucosas y conjuntiva; pH ácido (gástrico, cutáneo, vaginal con Lactobacillus); arrastre (cilios, orina, lágrimas con lisozima); y la microbiota. Algo tan sorprendente como la **pérdida de receptores** también defiende (Plasmodium).",
+"Cuando un componente falla, aparece un patrón predecible de microorganismos oportunistas: sin **barreras cutáneomucosas**, S. epidermidis y S. aureus; sin **neutrófilos**, Cándida y Aspergillus; sin **complemento**, S. pneumoniae y H. influenzae; sin **células T**, M. tuberculosis, Toxoplasma, C. neoformans y P. jirovecii; sin **células B**, bacterias encapsuladas (falta de opsonización).",
+"Los microorganismos, por su parte, **evaden**: se aíslan anatómicamente (quistes), impiden la fagocitosis (cápsula del neumococo y H. influenzae), bloquean la fusión fagosoma-lisosoma, inhiben el complemento (meningococo, por el ácido siálico) o el interferón (SARS-CoV-2), cambian de antígenos o activan células supresoras."]},
+{h:"El síndrome general infeccioso",ref:"24-28",p:[
+"Una infección puede dar manifestaciones locales (según germen y órgano) y generales. El síndrome infeccioso general puede ser **agudo** (común o grave, la sepsis) o **crónico**. El agudo evoluciona en cinco fases: **incubación** (del contacto al inicio de la clínica), **prodrómica** (inespecífica: malestar, fiebre, mialgias), **aguda** (manifestaciones locales y sistémicas), **resolución** y **convalecencia**.",
+"El agudo común se reconoce por la **fiebre con su cortejo** (taquicardia, taquipnea, sudoración, sequedad de boca, orina concentrada, somnolencia), el malestar general (astenia, anorexia, artralgias, mialgias, cefalea) y una analítica con **neutrofilia** si es bacteriano o **linfocitosis** si es vírico, con reactantes de fase aguda y VSG elevados. El **crónico** cursa con febrícula, astenia, anorexia y adelgazamiento, porque el agente persiste y la respuesta inmune no basta (VHB, VHC)."],
+tip:"Incubación → prodrómico → aguda → resolución → convalecencia."},
+{h:"De la infección a la sepsis: SRIS, SOFA y qSOFA",ref:"30-34",p:[
+"Cuando la respuesta se generaliza hablamos de **SRIS**: se cumple con **2 o más** de estos criterios: Tª > 38 o < 36 ºC; FC > 90; FR > 20 o pCO₂ < 32; leucocitos > 12.000 o < 4.000 o > 10 % de cayados. Sus consecuencias son la vasodilatación sistémica (shock), la lesión tisular sistémica (inflamación más hipoxia isquémica) y el síndrome de disfunción multiorgánica.",
+"Para valorar la gravedad se usa el **SOFA** (respiración, coagulación, hígado, cardiovascular, SNC, renal) y, como cribado rápido, el **qSOFA**: Glasgow ≤ 13, TAS ≤ 100 y FR ≥ 22. Con **2 de 3** la probabilidad de evolución desfavorable es alta."]}],
+esq:[
+{t:"levels",title:"Etapas de una infección: de la exposición a la lesión (diap. 7-17)",ref:"7-17",levels:[
+{label:"Exposición",items:["Reservorio","Fuente","Transmisión (directa / indirecta)","Puerta de entrada"],arrow:"contacto"},
+{label:"Contacto",items:["Pili/fimbrias (Gram −)","Ácido lipoteicoico–fibronectina (Gram +)","Receptores víricos: CD4, ICAM-1, ACE-2"],arrow:"proliferación y biocapas"},
+{label:"Diseminación",items:["Linfática / sanguínea","Neural","Conductos naturales, serosas, LCR"],arrow:"multiplicación"},
+{label:"Lesión",items:["Daño directo (citopático)","Exotoxinas","Endotoxina (LPS)"]}]},
+{t:"chain",title:"Endotoxina: cómo un Gram − dispara la inflamación (diap. 17)",ref:"17",steps:["Bacteria Gram − con lipopolisacárido (endotoxina) en su pared","El LPS actúa como PAMP y es reconocido por el macrófago (TLR)","Se activa NF-κB","Liberación de mediadores inflamatorios"]},
+{t:"levels",title:"Qué defecto inmune favorece cada oportunista (diap. 22)",ref:"22",levels:[
+{label:"Defecto",items:["Barreras cutáneomucosas","Neutrófilos","Complemento","Células T","Células B"],arrow:"se infecta por"},
+{label:"Oportunista",items:["S. epidermidis, S. aureus","Cándida, Aspergillus","S. pneumoniae, H. influenzae","M. tuberculosis, Toxoplasma, C. neoformans, P. jirovecii","Bacterias encapsuladas (sin opsonización)"]}]},
+{t:"chain",title:"Fases del síndrome infeccioso agudo (diap. 26)",ref:"26",steps:[["Incubación: del contacto al inicio de la clínica","sin síntomas"],["Prodrómico: malestar, fiebre, mialgias","inespecífico"],["Fase aguda: manifestaciones locales y sistémicas","evoluciona"],["Resolución: hasta que desaparece la clínica","sigue"],"Convalecencia: hasta el control de la infección"]},
+{t:"levels",title:"De la infección a la disfunción multiorgánica (diap. 30-34)",ref:"30-34",levels:[
+{label:"Infección",items:["Respuesta generalizada"],arrow:"≥ 2 criterios"},
+{label:"SRIS",items:["Tª > 38 o < 36","FC > 90","FR > 20 o pCO₂ < 32","Leucocitos > 12.000 / < 4.000 / > 10 % cayados"],arrow:"consecuencias"},
+{label:"Consecuencias",items:["Vasodilatación sistémica (shock)","Lesión tisular sistémica (inflamación + hipoxia isquémica)"],arrow:"gravedad"},
+{label:"Disfunción",items:["Síndrome de disfunción multiorgánica (SOFA)","qSOFA ≥ 2: Glasgow ≤ 13, TAS ≤ 100, FR ≥ 22"]}]}],
+drop:["Inmunodeficiencia → microorganismos (diap. 22)"]
+};
+
+U[4]={
+intro:"La inflamación es la respuesta que el cuerpo monta frente al daño: empieza **local** (dolor, calor, rubor…), puede hacerse **sistémica** (fiebre, reactantes de fase aguda) y, si se desborda, acaba en **SRIS y sepsis**. Este tema es una sola historia con un hilo: **las citocinas**.",
+explica:[
+{h:"Dos líneas de defensa",ref:"2",p:[
+"El organismo tiene una **primera línea innata**, inmediata e inespecífica: barreras físicas (piel y mucosas), células (macrófagos, neutrófilos, NK) y moléculas solubles (reactantes de fase aguda, citocinas, complemento). Y una **segunda línea adquirida**, específica, formada por linfocitos y anticuerpos. La inflamación es el gran ejemplo de la primera."]},
+{h:"Qué es la inflamación y cómo se nota",ref:"7-11",p:[
+"La inflamación es la **reacción de un tejido vivo al daño celular** causado por agresiones externas o internas. Persigue tres objetivos: **limitar el daño, eliminar el agente causal y reparar el tejido**. Para ello intervienen los PMN, los monocitos y mediadores químicos como la histamina, las citocinas, la bradicinina, el óxido nítrico y el complemento.",
+"Es una respuesta con dos planos. En el **plano local** se produce vasodilatación y disfunción endotelial, que se traducen en los signos clásicos: **dolor, calor, rubor, tumor e insuficiencia funcional**. En el **plano sistémico** aparece la **reacción de fase aguda**: clínicamente, anorexia, pérdida de peso y **fiebre**; en la analítica, anemia inflamatoria, leucocitosis neutrofílica, trombocitosis y reactantes de fase aguda."],
+tip:"Inflamación = limitar el daño + eliminar el agente + reparar. Local: dolor, calor, rubor, tumor, impotencia funcional."},
+{h:"Reactantes de fase aguda: el hígado entra en escena",ref:"12-13",p:[
+"Las citocinas proinflamatorias, sobre todo la **IL-6**, viajan al hígado y le hacen cambiar lo que sintetiza. Los reactantes **positivos** suben: proteína C reactiva, amiloide A, antiproteasas, α1-glucoproteína ácida, haptoglobina, ceruloplasmina, fibrinógeno, complemento y ferritina. Los **negativos** bajan: **albúmina y transferrina**.",
+"No son marcadores pasivos; cada uno hace algo útil: la PCR opsoniza y activa el complemento (y además estimula el antagonista del receptor de IL-1, frenando la inflamación); la ceruloplasmina inhibe radicales libres; las antiproteasas frenan las enzimas que destruyen tejido; el fibrinógeno promueve la proliferación celular y la haptoglobina la angiogénesis. Es decir, potencian, **limitan y reparan** a la vez."]},
+{h:"Cuando la inflamación se generaliza: SRIS, MODS, CARS y sepsis",ref:"14-19,36",p:[
+"El **SRIS** es una inflamación generalizada, con posible lesión tisular, producida por citocinas proinflamatorias que causan lesión y muerte celular. Se define por **≥ 2 criterios**: Tª > 38 o < 36 ºC; FC > 90; FR > 20 o pCO₂ < 32; leucocitos > 12.000, < 4.000 o > 10 % de cayados.",
+"Sus consecuencias son la **vasodilatación sistémica** (shock por vasodilatación) y la **lesión tisular sistémica** (inflamación más hipoxia isquémica), que desembocan en el **MODS**, el síndrome de disfunción multiorgánica. El organismo intenta equilibrarlo con el **CARS**, una respuesta antiinflamatoria compensatoria.",
+"Dos siglas que conviene distinguir: los **DAMP** son patrones moleculares asociados a **daño** (restos celulares necróticos) y los **PAMP** son asociados a **patógenos** (endotoxina, lipopolisacárido). Y la definición que cae: **sepsis = SIRS de origen infeccioso**."]},
+{h:"Fiebre: subir el termostato",ref:"20-31",p:[
+"La fiebre es una elevación de la temperatura por encima de las oscilaciones normales causada por **pirógenos que actúan sobre el centro termorregulador**, es decir, **suben el punto de control del termostato hipotalámico**. Se habla de fiebre desde 37,5 ºC y de febrícula entre 37 y 37,5 ºC. Conviene distinguirla de las elevaciones fisiológicas (ritmo circadiano vespertino, ejercicio, ingesta, estrés, calor ambiental, segunda fase del ciclo menstrual, embarazo).",
+"El pirógeno endógeno son las citocinas proinflamatorias, fundamentalmente **IL-1 y TNF-α**. Las causas son muchas: infección, alteraciones inmunológicas (hipersensibilidad, vasculitis, colagenosis), necrosis tisular, hemopatías, neoplasias, enfermedades metabólicas y fiebre facticia.",
+"El proceso tiene tres fases. En el **inicio**, el termostato sube y el cuerpo siente frío: escalofríos y acumulación de calor endógeno. En el **estado**, se activa la termólisis (vasodilatación cutánea, sudoración, taquipnea). En la **crisis**, la sudoración es intensa y la termólisis supera a la termogénesis.",
+"¿Es buena o mala? **Beneficiosa** en infecciones leves (acelera la recuperación); **perjudicial** en las graves (deshidratación, catabolismo muscular) y en pacientes con insuficiencia cardiaca, respiratoria o renal, demencia o epilepsia. Si se prolonga, hay pérdida de peso, de masa muscular y de matriz ósea."],
+tip:"Pirógenos (IL-1, TNF-α) → sube el termostato → fase de inicio (frío, escalofríos) → estado → crisis (sudor)."},
+{h:"Un caso que lo une todo",ref:"37-44",p:[
+"Una mujer de 75 años con colelitiasis, dolor en hipocondrio derecho y fiebre de 39 ºC con escalofríos; analítica con leucocitosis (18.630, 6 % de cayados), PCR muy alta y E. coli en el hemocultivo; ecografía con pared vesicular engrosada y cálculos: **colecistitis aguda**. A las 24 horas desciende la conciencia, cae la TA (85/70), la SaO₂ (68 %), las plaquetas (92.000) y la actividad de protrombina (65 %), y sube la creatinina (2,1): **shock séptico con disfunción multiorgánica**. Es el recorrido de infección local → sepsis → MODS."]}],
+esq:[
+{t:"levels",title:"Inflamación: de la agresión a la reacción de fase aguda (diap. 7-12)",ref:"7-12",levels:[
+{label:"Agresión",items:["Daño celular externo o interno"],arrow:"activa"},
+{label:"Mediadores",items:["PMN y monocitos","Histamina","Citocinas","Bradicinina","Óxido nítrico","Complemento"],arrow:"efecto local"},
+{label:"Local",items:["Vasodilatación + disfunción endotelial → dolor, calor, rubor, tumor, impotencia funcional"],arrow:"efecto sistémico (IL-6 y otras citocinas)"},
+{label:"Sistémico",items:["Fiebre, anorexia, pérdida de peso","Leucocitosis, trombocitosis, anemia inflamatoria","↑ RFA positivos · ↓ albúmina y transferrina"]}]},
+{t:"chain",title:"Fiebre: patogenia y fases (diap. 25-27)",ref:"25-27",steps:["Agresión: infección, necrosis, neoplasia, inmunológica…",["Citocinas pirógenas (IL-1, TNF-α) actúan sobre el hipotálamo","pirógeno endógeno"],"Se eleva el punto de control del termostato",["INICIO: escalofríos, sensación de frío, ↑ Tª progresiva","el cuerpo acumula calor"],["ESTADO: termólisis activada (vasodilatación cutánea, sudor, taquipnea)","la Tª se mantiene alta"],"CRISIS: sudoración intensa; la termólisis supera a la termogénesis"]},
+{t:"levels",title:"De la infección al shock séptico (diap. 15-19, 36)",ref:"15-19,36",levels:[
+{label:"Estímulo",items:["Infección: PAMP (endotoxina, LPS)","Daño tisular: DAMP (restos necróticos)"],arrow:"citocinas proinflamatorias"},
+{label:"SRIS",items:["≥ 2 criterios: Tª, FC, FR/pCO₂, leucocitos","Sepsis = SRIS de origen infeccioso"],arrow:"consecuencias"},
+{label:"Consecuencias",items:["Vasodilatación sistémica (shock)","Lesión tisular sistémica: inflamación + hipoxia isquémica"],arrow:"si progresa"},
+{label:"Fallo",items:["MODS: disfunción multiorgánica","(CARS: respuesta antiinflamatoria compensatoria)"]}]},
+{t:"levels",title:"Reactantes de fase aguda: quién los induce y qué hacen (diap. 12-13)",ref:"12-13",levels:[
+{label:"Señal",items:["Citocinas proinflamatorias, sobre todo IL-6"],arrow:"actúan sobre el hígado"},
+{label:"Positivos ↑",items:["PCR","Amiloide A","Fibrinógeno","Haptoglobina","Ceruloplasmina","Ferritina","Complemento","Antiproteasas"]},
+{label:"Negativos ↓",items:["Albúmina","Transferrina"]}]}],
+drop:["Fases del proceso febril (diap. 27)"]
+};
+
+U[5]={
+intro:"El cáncer se entiende como una **historia en tres tiempos**: primero una célula acumula **mutaciones** (carcinogénesis), después el tumor **crece y se extiende** (progresión) y, por último, **escapa a las defensas** del organismo. Cada tiempo tiene sus genes, sus mecanismos y sus manifestaciones.",
+explica:[
+{h:"Qué es un tumor y por qué importa",ref:"3-7",p:[
+"**Tumor** y **neoplasia** se usan casi como sinónimos; el sufijo es «-oma» y el prefijo indica el tejido de origen (sarcomas, carcinomas). Una neoplasia es el **crecimiento excesivo y sin control** de una célula originaria. Se clasifica en **benigna o maligna** según el grado de diferenciación celular, la velocidad de crecimiento y la capacidad de invasión (local y a distancia).",
+"El riesgo aumenta con la edad (se acumulan alteraciones) y con factores ambientales y de estilo de vida. En 2024 el cáncer pasó a ser la **primera causa de mortalidad en España**, por encima de las enfermedades circulatorias."]},
+{h:"Carcinogénesis: cómo nace un tumor",ref:"11-16",p:[
+"La biología del cáncer se divide en tres bloques: **carcinogénesis**, **progresión** y **defensa antitumoral**. En el primero, distintos «conductores oncogénicos» (oncogenes, genes supresores, carcinógenos, herencia y otros factores) provocan **mutaciones** que activan protooncogenes, inactivan antioncogenes, inhiben la apoptosis y activan telomerasas, con el resultado de una proliferación excesiva y descontrolada.",
+"La imagen clásica es la de un coche: los **oncogenes son el acelerador pegado** y los **genes supresores son los frenos averiados**. Un **protooncogén** es un gen normal que regula proliferación, supervivencia y diferenciación; al mutar se convierte en **oncogén** y produce oncoproteínas. Los hay de todo tipo: factores de crecimiento (PDGF, FGF), receptores (HER2, EGFR), proteínas de señalización (RAS, ABL), factores de transcripción (MYC, JUN, FOS), reguladores del ciclo (ciclina D1) y antiapoptóticas (BCL2).",
+"Los **genes supresores** (p53, pRB) hacen lo contrario: inhiben la proliferación, y su mutación hace perder el control del ciclo celular. Los **reparadores del ADN** (de comportamiento recesivo) son un tercer grupo: si fallan, hay inestabilidad genética y se acumulan mutaciones."],
+tip:"Oncogenes: ganancia de función (acelerador). Supresores: pérdida de función (frenos). Reparadores: inestabilidad genética."},
+{h:"Carcinógenos y herencia",ref:"17-20",p:[
+"Los carcinógenos pueden ser **químicos** (iniciadores como hidrocarburos aromáticos, nitrosaminas, amianto, alquilantes y alcohol; promotores como estrógenos y testosterona), **físicos** (radiaciones ionizantes y UV) o **biológicos** (VPH, VHB, VHC, VEB, Helicobacter).",
+"La mayoría de los cánceres **no son hereditarios** (esporádicos). En algunas personas existe una mutación germinal, sobre todo en genes supresores, que aumenta la susceptibilidad; hace falta además que el otro alelo mute. En herencia **AD** (un alelo mutado): retinoblastoma (RB), poliposis adenomatosa familiar (APC), Li-Fraumeni (p53), cáncer de mama y ovario (BRCA1/2). En **AR** (ambos alelos): ataxia-telangiectasia (ATM). Distingue: **hereditario** (alteración germinal transmisible), **familiar** (más frecuente en la familia sin síndrome definido) y **esporádico** (la mayoría)."]},
+{h:"Progresión: crecer, invadir y metastatizar",ref:"21-26",p:[
+"El tumor crece acumulando mutaciones, y esas mutaciones generan **subclones** con ventajas distintas. Dos conceptos de velocidad: el **tiempo de duplicación** y la **fracción de crecimiento** (porcentaje de células que se dividen). Más fracción significa mayor agresividad y rapidez, pero también más sensibilidad al tratamiento; es menor en las fases avanzadas.",
+"Para pasar de cierto tamaño necesita sangre: la **angiogénesis**, impulsada por oncogenes como RAS y por VEGF (vía HIF-1) y por el déficit de factores antiangiogénicos. Después viene la **invasión**: la célula pierde adhesión (**cadherina E**), atraviesa la matriz (**metaloproteinasas**) y se disemina por vía linfática o hematógena; los implantes a distancia dependen de la localización anatómica, de factores quimiotácticos, de moléculas de adhesión y de factores de crecimiento."]},
+{h:"Defensa antitumoral y evasión",ref:"27",p:[
+"El organismo se defiende de forma **inespecífica** (células NK, macrófagos activados por Th1, TNF-α) y **específica** (linfocitos T citotóxicos). El tumor **evade** esa defensa mediante sustancias inmunosupresoras, falta de moléculas coestimuladoras o de HLA-I y expresión de ligandos de Fas o PD-1."]},
+{h:"Manifestaciones a distancia y marcadores",ref:"30-32",p:[
+"Los **síndromes paraneoplásicos** se deben a sustancias que produce el tumor o a una reacción autoinmune, y pueden ser endocrinos (Cushing por ACTH, SIADH), metabólicos (hipercalcemia, hipoglucemia), neurológicos (Eaton-Lambert, alteración cerebelosa), hematológicos (eritropoyetina, trombosis), cutáneos (dermatomiositis, acantosis nigricans), renales (glomerulonefritis membranosa en linfomas), miastenia (timoma), osteoartropatía hipertrófica (cáncer de pulmón) y tromboflebitis migrans de Trousseau (cáncer de páncreas).",
+"Los **marcadores tumorales** son sustancias detectables en suero por encima de lo normal. Sirven poco para diagnosticar (sensibilidad y especificidad variables) pero mucho para **valorar la respuesta al tratamiento y las recurrencias**. Los histológicos (en biopsia) son HER2, RE, RP, Ki-67 y PD-L1; entre los serológicos, AFP (hígado), CEA (colon, páncreas), hCG (testículo), calcitonina (carcinoma medular de tiroides), PSA (próstata), CA 125 (ovario), CA 19-9 (páncreas, colon) y CA 15,3 (mama)."]}],
+esq:[
+{t:"levels",title:"Biología del cáncer en tres tiempos (diap. 11-12, 21-27)",ref:"11-27",levels:[
+{label:"Carcinogénesis",items:["Oncogenes","Genes supresores","Carcinógenos","Herencia"],arrow:"mutaciones"},
+{label:"Mutación",items:["Activa protooncogenes","Inactiva antioncogenes","Inhibe apoptosis","Activa telomerasas"],arrow:"proliferación descontrolada"},
+{label:"Progresión",items:["Crecimiento y subclones","Angiogénesis (VEGF)","Invasión local","Metástasis"],arrow:"el sistema inmune falla"},
+{label:"Escape",items:["Evasión inmunitaria","Síndromes paraneoplásicos y manifestaciones clínicas"]}]},
+{t:"branch",title:"Dos familias de genes (diap. 13-16)",ref:"13-16",root:"Ciclo celular normal",branches:[
+{label:"Protooncogén",steps:["Gen normal: regula proliferación, supervivencia y diferenciación","Mutación (ganancia de función)","Oncogén → oncoproteína","Proliferación excesiva"]},
+{label:"Gen supresor",steps:["Gen normal (p53, pRB): inhibe la proliferación","Mutación (pérdida de función)","Se pierde el freno del ciclo","Proliferación sin control"]},
+{label:"Reparador de ADN",steps:["Gen normal: repara el ADN","Mutación (recesiva)","Inestabilidad genética","Acumulación de mutaciones"]}]},
+{t:"chain",title:"Invasión y metástasis (diap. 24-25)",ref:"24-25",steps:["Tumor primario que crece (necesita angiogénesis: RAS, VEGF → HIF-1)",["Pérdida de adhesión celular (cadherina E)","se sueltan"],["Degradación de la matriz (metaloproteinasas)","invaden"],["Diseminación por vía linfática o hematógena","llegan a otro órgano"],"Implante a distancia: depende de localización anatómica, quimiotácticos, adhesión y factores de crecimiento"]},
+{t:"branch",title:"Defensa antitumoral y evasión (diap. 27)",ref:"27",root:"Célula tumoral",branches:[
+{label:"Defensa inespecífica",steps:["NK, macrófagos (Th1), TNF-α","Destrucción de la célula tumoral"]},
+{label:"Defensa específica",steps:["Linfocitos T citotóxicos","Reconocen antígenos tumorales"]},
+{label:"Evasión",steps:["Inmunosupresores · sin coestimuladores ni HLA-I · ligandos de Fas/PD-1","El tumor escapa y progresa"]}]}],
+drop:["Biología del cáncer"]
+};
+
+U[6]={
+intro:"El edema es el síndrome donde mejor se ve el **razonamiento fisiopatológico**: toda hinchazón nace de un desequilibrio entre lo que **sale del capilar** y lo que el sistema linfático puede **devolver**. Si sabes qué fuerza falla, sabes la causa.",
+explica:[
+{h:"Qué es el edema y qué fuerzas lo gobiernan",ref:"3-7",p:[
+"El **edema** es la acumulación anormal de líquido en el espacio intersticial: un aumento de volumen palpable que deja **fóvea**. Aparece cuando la salida de líquido del capilar **supera la capacidad del sistema linfático** para devolverlo. Su localización puede cambiar con la posición, por la gravedad.",
+"Recuerda dónde está el agua: el agua corporal total es ≈ 60 % del peso, 2/3 intracelular (K⁺) y 1/3 extracelular (Na⁺), con el extracelular repartido en intersticial, intravascular y transcelular. Entre capilar e intersticio manda la **ley de Starling**: la salida de líquido es, aproximadamente, la diferencia entre las fuerzas **hidrostáticas** (que empujan fuera) y las **oncóticas** (que retienen)."]},
+{h:"Los cuatro mecanismos",ref:"8-14",p:[
+"Cada mecanismo es la alteración de una pieza de esa ecuación. **Aumento de la presión hidrostática capilar**: por obstrucción venosa (un trombo) o por aumento del volumen intravascular (insuficiencia cardiaca, TVP, cirrosis). **Descenso de la presión oncótica**: la albúmina es lo que mantiene el agua dentro de los vasos, así que si baja por menor producción (hígado), mayor pérdida (riñón en el síndrome nefrótico; enteropatía pierdeproteínas) o menor aporte (malnutrición), el agua se escapa.",
+"**Aumento de la permeabilidad capilar**: sale agua, electrolitos y proteínas, por contracción de las células endoteliales, lesión directa o lesión mediada por leucocitos (inflamación, sepsis, alergia). Y **obstrucción linfática**: baja el drenaje, se acumulan líquido y proteínas en el intersticio, sube la presión oncótica intersticial y se retiene más agua (infecciones, tumores, cirugía con extirpación de ganglios, radioterapia, alteraciones congénitas, fibrosis: el **linfedema**)."],
+tip:"↑ P hidrostática · ↓ P oncótica · ↑ permeabilidad · ↓ drenaje linfático."},
+{h:"Cómo se clasifica y cómo se explora",ref:"15-18",p:[
+"El edema **agudo** tiene piel normal y deja fóvea; el **crónico** tiene piel fría y gruesa y no deja fóvea. Puede ser localizado o generalizado (**anasarca**). El **signo de Godet** consiste en presionar la piel unos segundos y ver si queda depresión. Por localización hablamos de edema periférico (subcutáneo), pulmonar, ascitis (cavidad abdominal) o derrame pleural; el líquido puede ser **trasudado** (pocas proteínas) o **exudado** (rico en proteínas).",
+"Una regla de razonamiento muy útil: el edema **simétrico** apunta a una causa **sistémica** (IC, riñón, cirrosis); el **asimétrico**, a una causa **local** (TVP, linfedema, insuficiencia venosa crónica)."]},
+{h:"Edema cardiaco y pulmonar",ref:"19-21",p:[
+"En la **insuficiencia cardiaca**, el menor gasto cardiaco eleva la presión venosa y, con ella, la presión hidrostática capilar. Si falla el lado **derecho**, el edema es periférico (capilares sistémicos); si falla el **izquierdo**, es pulmonar.",
+"El **edema pulmonar cardiogénico** es de origen hidrostático: la disfunción del ventrículo izquierdo eleva la presión en la aurícula izquierda y, hacia atrás, la presión venosa y capilar pulmonar; cursa con tos, disnea de reposo, ortopnea y a veces hemoptisis. El **no cardiogénico**, en cambio, es por **aumento de la permeabilidad** (SDRA, sepsis grave por endotoxinas, anafilaxia, tóxicos): salen líquido y proteínas."]},
+{h:"Edema hepático y renal: cómo distinguirlos",ref:"23-25",p:[
+"El edema **hepático** combina aumento de la presión hidrostática (bloqueo del flujo venoso y expansión del volumen esplácnico) y descenso de la oncótica (hipoalbuminemia); lo acompañan ascitis, ictericia, alteración de las pruebas hepáticas y hepatomegalia. El **renal** combina retención de Na⁺ y agua (↑ hidrostática) y pérdida urinaria de albúmina (↓ oncótica); lo acompañan HTA, proteinuria y hematuria (glomerulonefritis, síndrome nefrótico, poliquistosis).",
+"La pista clínica: **ascitis e ictericia → hepático** (la ascitis aparece antes que el edema en las piernas y no cede en decúbito). **Edema palpebral precoz y matutino con proteinuria y cilindruria → renal**, que puede llegar a anasarca."],
+tip:"Hepático: ascitis + ictericia. Renal: edema palpebral matutino + proteinuria."},
+{h:"Otras causas y el mixedema",ref:"26-27",p:[
+"Otras causas son la desnutrición grave, el hipotiroidismo, la hiperfunción suprarrenal, los fármacos (vasodilatadores, corticoides, estrógenos) y el edema idiopático. El **mixedema** merece atención: no se debe a presión hidrostática ni a hipoalbuminemia, sino al **acúmulo de glucosaminoglucanos** en el intersticio, y por eso **no deja fóvea**: el líquido queda atrapado en una matriz rica en GAG. Afecta a la cara (periorbitario), labios y lengua, manos y piernas, y puede ser generalizado."]}],
+esq:[
+{t:"branch",title:"Los cuatro mecanismos del edema (diap. 8-14)",ref:"8-14",root:"Sale más líquido del capilar del que drena el sistema linfático",branches:[
+{label:"↑ P hidrostática",steps:["Obstrucción venosa o ↑ volumen intravascular","IC, TVP, cirrosis","Líquido empujado al intersticio"]},
+{label:"↓ P oncótica",steps:["Hipoalbuminemia (↓ producción, ↑ pérdida, ↓ aporte)","Nefrótico, hepatopatía, malnutrición","El agua no se retiene en el vaso"]},
+{label:"↑ Permeabilidad",steps:["Inflamación, sepsis, alergia","Salen agua, electrolitos y proteínas"]},
+{label:"Obstrucción linfática",steps:["Tumor, cirugía, radioterapia, fibrosis","↓ drenaje → ↑ proteínas intersticiales","↑ P oncótica intersticial → retiene agua"]}]},
+{t:"chain",title:"Edema pulmonar cardiogénico (diap. 19-20)",ref:"19-20",steps:["Disfunción del ventrículo izquierdo","↑ presión en la aurícula izquierda","↑ presión venosa y capilar pulmonar","↑ presión hidrostática: líquido a intersticio y alvéolos","Tos, disnea de reposo, ortopnea, a veces hemoptisis"]},
+{t:"levels",title:"Edema de origen hepático: por qué aparece (diap. 23)",ref:"23",levels:[
+{label:"Causa",items:["Cirrosis / hepatopatía"],arrow:"dos mecanismos"},
+{label:"Mecanismos",items:["Bloqueo del flujo venoso y expansión del volumen esplácnico → ↑ P hidrostática","↓ síntesis de albúmina → hipoalbuminemia → ↓ P oncótica"],arrow:"resultado"},
+{label:"Clínica",items:["Ascitis (antes que edema en piernas)","Ictericia, ↑ PFH, hepatomegalia"]}]},
+{t:"levels",title:"Edema de origen renal: por qué aparece (diap. 24-25)",ref:"24-25",levels:[
+{label:"Causa",items:["Glomerulonefritis, síndrome nefrótico, poliquistosis"],arrow:"dos mecanismos"},
+{label:"Mecanismos",items:["Retención de Na⁺ y agua → ↑ P hidrostática","Pérdida urinaria de albúmina → ↓ P oncótica"],arrow:"resultado"},
+{label:"Clínica",items:["Edema palpebral precoz y matutino","Proteinuria, cilindruria, HTA o hematuria","Puede llegar a anasarca"]}]}],
+drop:["Mecanismos y causas del edema (diap. 14)"]
+};
+
+U[7]={
+intro:"Este tema gira en torno a una idea: **el sodio manda sobre el agua**. Si entiendes cómo cambia el volumen y la osmolaridad según se pierda o se gane **sodio, agua o ambos**, puedes deducir la clínica, el laboratorio y la respuesta del organismo de cada síndrome.",
+explica:[
+{h:"Dónde está el agua y quién la mueve",ref:"2-14",p:[
+"El agua corporal total (ACT) es ≈ 60 % del peso. Dos tercios son **intracelulares** y un tercio **extracelular** (intersticial 3/4 e intravascular 1/4). Entre compartimentos, el agua se mueve por la membrana endotelial (fuerzas de Starling) y por la membrana celular (**osmolaridad**). Los solutos mandan en cada lado: dentro de la célula, K⁺, fosfato y proteínas; fuera, **Na⁺**, Cl⁻ y HCO₃⁻.",
+"El **Na⁺** es el ion más abundante del líquido extracelular y el principal determinante regulable de la osmolaridad plasmática, del agua total y del **volumen circulante efectivo** (VCE). Por eso el VCE se regula con la ingesta, absorción y excreción de sodio.",
+"La osmolaridad (normal ≈ 285 mOsm) se vigila con osmorreceptores hipotalámicos: si **sube**, aumentan la **sed** y la **ADH** (más reabsorción de agua en los colectores, menos diuresis); si **baja**, cae la ADH y se excreta más agua. En el laboratorio: natremia 135-145 mEq/l, osmolalidad plasmática 285-295 mOsm/l y Osm = 2 × (Na + K) + glucosa/18 + urea/6."]},
+{h:"Cómo se clasifican los síndromes",ref:"15-16",p:[
+"Hay dos grandes grupos según el **volumen extracelular**: **deshidratación** (VEC ↓) e **hiperhidratación** (VEC ↑), cada uno **isotónico, hipotónico o hipertónico**; además hay situaciones de euvolemia con alteración de la natremia.",
+"La regla para no confundirte: en la **deshidratación**, lo que sigue al nombre es **qué se pierde de más**. Isotónica: pérdida proporcionada de Na y H₂O. Hipotónica: predomina la pérdida de **Na**. Hipertónica: predomina la pérdida de **H₂O**. En la **hiperhidratación**, es lo que se **gana**: isotónica (Na y H₂O), hipotónica (predomina el H₂O) o hipertónica (predomina el Na)."],
+tip:"Deshidratación hipotónica = pierdo sobre todo Na. Hipertónica = pierdo sobre todo agua."},
+{h:"Cómo responde el cuerpo a la deshidratación",ref:"20-21",p:[
+"Si baja la **repleción arterial**, los barorreceptores desencadenan tres respuestas a la vez: **secreción no osmótica de ADH**, **activación del simpático** y **activación del SRAA**. El resultado es disminuir el filtrado glomerular, aumentar la reabsorción tubular de Na y H₂O, aumentar la contractilidad miocárdica, producir taquicardia y vasoconstricción.",
+"El **SRAA** merece su cascada: la caída del flujo renal, del Na⁺ en el túbulo distal (mácula densa) o el estímulo simpático hacen que las células yuxtaglomerulares liberen **renina**; esta convierte el angiotensinógeno en angiotensina I, que la ECA pulmonar convierte en **angiotensina II**, con vasoconstricción, sed y **aldosterona** (más reabsorción de Na⁺ y agua en el túbulo distal)."],
+tip:"Respuesta neuroendocrina: ADH no osmótica + simpático + SRAA."},
+{h:"Deshidratación isotónica",ref:"18-23",p:[
+"Es la pérdida proporcionada de agua y sodio, así que al principio **no cambian ni el Na⁺ ni la osmolaridad**. Las causas pueden ser renales (insuficiencia corticosuprarrenal primaria, diuréticos) o extrarrenales (vómitos, diarrea, aspiración, grandes quemados, sudoración profusa, hemorragias y secuestro en un tercer espacio, como en el íleo o la pancreatitis aguda).",
+"La clínica es la de un volumen bajo: oliguria, taquicardia, sed, sequedad de mucosas, ausencia de sudoración axilar, pliegue cutáneo, pérdida de peso, menor turgencia ocular, hipotensión ortostática y, en lo grave, shock hipovolémico. En el laboratorio, hemoconcentración (↑ hematocrito y albúmina) e insuficiencia renal prerrenal (↑ urea y creatinina). El **Na urinario** orienta el origen: **> 20 mEq/l** si la pérdida es renal, **< 10** si es extrarrenal."]},
+{h:"Deshidratación hipotónica e hipertónica: el cerebro lo paga",ref:"25-33",p:[
+"En la **hipotónica**, predomina la pérdida de sodio (típicamente tras una deshidratación isotónica en la que se repone agua sin sodio, con ADH no osmótica por la hipovolemia). Natremia y osmolaridad bajan y el agua **entra en la célula**: **edema citotóxico neuronal** (hipertensión endocraneal, confusión, agitación, convulsiones, coma). El cerebro compensa lentamente expulsando iones y osmolitos como la taurina.",
+"En la **hipertónica**, predomina la pérdida de agua: por menor ingesta (falta de agua, hiposensibilidad del centro de la sed, menor conciencia), pérdida renal de agua mayor que de sodio (diuresis osmótica por glucosuria en la diabetes; diabetes insípida) o sudoración o hiperventilación sin reposición. Natremia y osmolaridad suben y el agua **sale de la célula**: **deshidratación neuronal** (irritabilidad, confusión, coma metabólico), con ↑ urea, creatinina, hematocrito y albúmina."],
+tip:"Hipotónica → la neurona se hincha (edema citotóxico). Hipertónica → la neurona se deshidrata."},
+{h:"Hiperhidratación",ref:"36-50",p:[
+"En la **isotónica** aumenta el volumen extracelular con natremia normal: por insuficiencia renal, glomerulonefritis o por menor repleción arterial sin hipovolemia real (ICC, cirrosis con hipertensión portal, síndrome nefrótico); responde liberando péptidos natriuréticos. Clínica: edema, derrames, ascitis, edema pulmonar, aumento de peso y HTA; Na urinario < 10.",
+"En la **hipotónica** se gana sobre todo agua, con euvolemia y edema citotóxico neuronal: SIADH (tumores de pulmón, enfermedades pulmonares o intracraneales, fármacos, dolor y náuseas) o intoxicación acuosa (> 15 l/24 h). La orina distingue: en el SIADH, Osm urinaria > 100 y Na urinario > 20; en la intoxicación acuosa, Osm urinaria < 100.",
+"En la **hipertónica** se gana sobre todo sodio: hiperaldosteronismo primario (adenoma suprarrenal), fluidos hipertónicos o agua de mar. Da HTA **sin edema** (fenómeno de escape) y deshidratación neuronal; en el hiperaldosteronismo hay además hipoK⁺."]},
+{h:"Potasio",ref:"52-53",p:[
+"La **hipopotasemia** (K < 3,5 mmol/l) puede venir de ingesta insuficiente (rara), pérdidas renales (hiperaldosteronismo, diuresis osmótica, diuréticos), digestivas (diarrea, vómitos) o del paso del potasio al interior de la célula (alcalosis metabólica, estimulación β-adrenérgica). Baja la excitabilidad neuromuscular: debilidad, menor motilidad digestiva y arritmias.",
+"En la **hiperpotasemia** (K > 5,5 mmol/l; la diapositiva escribe «<», una errata evidente) hay que descartar primero hemólisis. Sus causas: menor eliminación renal (IR, déficit de mineralcorticoides) o salida de potasio de la célula (acidosis metabólica, rabdomiólisis, déficit de insulina, β-bloqueantes). Puede producir taquiarritmias ventriculares y parada cardiaca."]}],
+esq:[
+{t:"levels",title:"Deshidratación: respuesta neuroendocrina (diap. 20)",ref:"20",levels:[
+{label:"Estímulo",items:["↓ repleción arterial (barorreceptores)"],arrow:"activa a la vez"},
+{label:"Respuesta",items:["ADH no osmótica","Sistema nervioso simpático","SRAA"],arrow:"efectos"},
+{label:"Efectos",items:["↓ filtrado glomerular","↑ reabsorción tubular de Na y H₂O","↑ contractilidad, taquicardia, vasoconstricción"]}]},
+{t:"chain",title:"Cascada del SRAA (diap. 21)",ref:"21",steps:[["↓ flujo renal · ↓ Na⁺ en túbulo distal (mácula densa) · SNS","estimulan"],["Células yuxtaglomerulares liberan RENINA","actúa sobre"],["Angiotensinógeno → angiotensina I","ECA pulmonar"],["ANGIOTENSINA II","efectos"],"Vasoconstricción · sed · aldosterona (↑ reabsorción de Na⁺ y agua en el túbulo distal)"]},
+{t:"branch",title:"Deshidratación: tres tipos, tres destinos del agua (diap. 16-33)",ref:"16-33",root:"Pérdida de líquido extracelular",branches:[
+{label:"Isotónica",steps:["Pierde Na y H₂O proporcionados","Na y Osm normales","Hemoconcentración, IR prerrenal, shock hipovolémico"]},
+{label:"Hipotónica",steps:["Predomina la pérdida de Na (o reposición de agua sin Na)","Na y Osm ↓: el agua entra en la neurona","Edema citotóxico: confusión, convulsiones, coma"]},
+{label:"Hipertónica",steps:["Predomina la pérdida de H₂O","Na y Osm ↑: el agua sale de la neurona","Deshidratación neuronal: irritabilidad, coma metabólico"]}]},
+{t:"branch",title:"Hiperhidratación: tres tipos (diap. 36-50)",ref:"36-50",root:"Aumento del volumen extracelular o del agua",branches:[
+{label:"Isotónica",steps:["Gana Na y H₂O (IR, ICC, cirrosis, nefrótico)","Edema, derrames, ascitis, HTA"]},
+{label:"Hipotónica",steps:["Gana sobre todo H₂O (SIADH, intoxicación acuosa)","Euvolemia, Na y Osm ↓","Edema citotóxico neuronal"]},
+{label:"Hipertónica",steps:["Gana sobre todo Na (hiperaldosteronismo, fluidos hipertónicos)","Na y Osm ↑","HTA sin edema; deshidratación neuronal"]}]}],
+drop:["Deshidratación: 3 tipos (diap. 16-33)","Hiperhidratación: 3 tipos (diap. 36-50)"]
+};
+
+U[8]={
+intro:"El pH de la sangre se mantiene en un margen estrechísimo. Este tema se aprende con **un esquema mental de cuatro casillas** (acidosis/alcalosis × metabólica/respiratoria): en cada una hay que saber **qué se acumula o se pierde, qué dice la gasometría y qué se nota en el paciente**.",
+explica:[
+{h:"De dónde vienen los ácidos y cómo se defiende el cuerpo",ref:"2-8",p:[
+"El metabolismo celular genera dos tipos de ácido. Los **no volátiles fuertes** (sulfatos y fosfatos del metabolismo de las proteínas; 50-100 mEq/día) y un **ácido volátil débil**, el **CO₂** (10.000-20.000 mEq/día). El pH plasmático normal es **7,35-7,45** (35-45 nmol/l de H⁺).",
+"Hay **tres líneas de defensa**. Los **tampones (buffers)**, inmediatos: en el extracelular HCO₃⁻/H₂CO₃/CO₂ y, en el intracelular, hemoglobina, proteínas y fosfatos. La **regulación respiratoria**, que aumenta o disminuye la eliminación de CO₂. Y la **regulación renal** (horas a días): reabsorbe y genera HCO₃⁻ en el túbulo proximal y elimina H⁺ y genera HCO₃⁻ en el distal y el colector (amonio y fosfato, la «acidez titulable»).",
+"Los valores de referencia: pH 7,35-7,45, HCO₃⁻ 22-26 mEq/l y PCO₂ 35-45 mmHg. Con ellos se clasifica todo: si el problema está en el **HCO₃⁻** es **metabólico**; si está en el **CO₂** es **respiratorio**."]},
+{h:"El anion gap: una herramienta de razonamiento",ref:"7",p:[
+"El **anion gap** (hiato aniónico) es **Na⁺ − (Cl⁻ + HCO₃⁻)** (la diapositiva da un rango de 12-20). Representa los aniones no medidos (albúmina, sulfato, fosfatos) menos otros cationes no medidos (gammaglobulinas, calcio, magnesio). Su utilidad aparece en la acidosis metabólica, porque separa las que **suman un ácido nuevo** de las que **pierden bicarbonato**."]},
+{h:"Acidosis metabólica",ref:"12-17",p:[
+"Hay acidosis metabólica cuando **aumentan los ácidos no volátiles** o cuando **se pierde bicarbonato**. Con el anion gap se ordena el razonamiento. **Anion gap elevado**: se acumula un ácido que no se mide: lactato (acidosis láctica), cetoácidos (cetoacidosis), sulfatos y fosfatos en la insuficiencia renal evolucionada, o ácidos exógenos (etilenglicol, metanol, AAS/salicilatos). **Anion gap normal**: se pierde bicarbonato y el riñón reabsorbe más Cl⁻ para compensar: **acidosis tubular renal** y **diarrea**.",
+"El organismo compensa por el pulmón, con **hiperventilación** (taquipnea, respiración de Kussmaul), y por eso la PCO₂ baja. Otras consecuencias: depresión de la contractilidad miocárdica, arritmias, hipotensión, confusión y coma, y osteomalacia si es crónica (el hueso aporta fosfato como tampón). En la gasometría: **pH < 7,35, HCO₃⁻ ↓, PCO₂ ↓** y K⁺ elevado en algunas formas."],
+tip:"AG alto: láctica, cetoacidosis, IR, tóxicos. AG normal: ATR y diarrea."},
+{h:"Acidosis respiratoria",ref:"18-21",p:[
+"Se produce cuando se **acumula CO₂**: EPOC, asma, depresión del SNC o enfermedades neuromusculares. Clínicamente es una **insuficiencia respiratoria global** (hipoxia hipoxémica más hipercapnia), con depresión miocárdica, arritmias, hipotensión, confusión y coma; si es crónica, osteomalacia. En la gasometría: **pH < 7,35, PCO₂ > 45 mmHg**, HCO₃⁻ normal o elevado (si es crónica, por compensación renal) y K⁺ elevado."]},
+{h:"Alcalosis metabólica y respiratoria",ref:"23-28",p:[
+"La **alcalosis metabólica** es un déficit relativo de ácidos no volátiles o exceso de bicarbonato. Se mantiene por la **depleción de volumen extracelular** (que favorece reabsorber Na⁺ y HCO₃⁻) y por una **hipopotasemia intensa** (intercambio K⁺-H⁺). Cursa con pH > 7,45, PCO₂ y HCO₃⁻ aumentados e hipoK⁺.",
+"La **alcalosis respiratoria** es un déficit relativo de CO₂ por **hiperventilación**: hipoxemia (neumonía, edema agudo de pulmón, TEP), ansiedad o pánico, intoxicación por salicilatos, fases iniciales de la sepsis, fiebre y fallo hepático. En la gasometría, pH > 7,45, PCO₂ y HCO₃⁻ descendidos e hipoK⁺.",
+"En las dos alcalosis aparece **tetania**: la alcalosis aumenta la afinidad de las proteínas por el calcio y baja el **Ca²⁺ iónico**."],
+tip:"Acidosis metabólica → Kussmaul. Acidosis respiratoria → hipercapnia. Alcalosis → tetania e hipoK⁺."}],
+esq:[
+{t:"levels",title:"Las tres líneas de defensa del pH (diap. 3-6)",ref:"3-6",levels:[
+{label:"Agresión",items:["Ácidos no volátiles (sulfatos, fosfatos)","Ácido volátil (CO₂)"],arrow:"1.º, en segundos"},
+{label:"Tampones",items:["Extracelular: HCO₃⁻/H₂CO₃/CO₂","Intracelular: Hb, proteínas, fosfatos"],arrow:"2.º, minutos"},
+{label:"Pulmón",items:["Eliminar más o menos CO₂ (ventilación)"],arrow:"3.º, horas-días"},
+{label:"Riñón",items:["Reabsorber y generar HCO₃⁻","Eliminar H⁺ (amonio, acidez titulable)"]}]},
+{t:"branch",title:"Los cuatro trastornos ácido-base: qué cambia en la gasometría (diap. 12-28)",ref:"12-28",root:"Gasometría: pH, PCO₂, HCO₃⁻",branches:[
+{label:"Acidosis metabólica",steps:["↑ ácidos no volátiles o pérdida de HCO₃⁻","pH ↓ · HCO₃⁻ ↓ · PCO₂ ↓ (compensa)","Kussmaul, arritmias, coma"]},
+{label:"Acidosis respiratoria",steps:["Retención de CO₂ (EPOC, asma, SNC)","pH ↓ · PCO₂ ↑ · HCO₃⁻ normal o ↑","Hipoxemia + hipercapnia, coma"]},
+{label:"Alcalosis metabólica",steps:["Pérdida de ácido / exceso de HCO₃⁻ (↓ volumen, hipoK⁺)","pH ↑ · HCO₃⁻ ↑ · PCO₂ ↑","Tetania, hipoK⁺"]},
+{label:"Alcalosis respiratoria",steps:["Hiperventilación (hipoxemia, ansiedad, salicilatos…)","pH ↑ · PCO₂ ↓ · HCO₃⁻ ↓","Tetania, hipoK⁺"]}]},
+{t:"levels",title:"Acidosis metabólica: razonar con el anion gap (diap. 13-17)",ref:"13-17",levels:[
+{label:"Problema",items:["pH < 7,35 con HCO₃⁻ bajo"],arrow:"calcular Na − (Cl + HCO₃)"},
+{label:"AG alto",items:["Se suma un ácido: lactato, cetoácidos, IR (sulfatos, fosfatos), etilenglicol, metanol, AAS"]},
+{label:"AG normal",items:["Se pierde HCO₃⁻ con ↑ reabsorción de Cl⁻: acidosis tubular renal, diarrea"],arrow:"compensación"},
+{label:"Respuesta",items:["Hiperventilación (Kussmaul) → ↓ PCO₂"]}]},
+{t:"chain",title:"Alcalosis metabólica: por qué se mantiene (diap. 23-25)",ref:"23-25",steps:["Déficit relativo de ácidos no volátiles o ↑ HCO₃⁻",["Mantenedores: depleción de volumen extracelular (↑ reabsorción de Na⁺ y HCO₃⁻) e hipoK⁺ intensa (intercambio K⁺-H⁺)","persiste"],"pH > 7,45, PCO₂ y HCO₃⁻ ↑",["↑ afinidad de las proteínas por el Ca²⁺","↓ Ca²⁺ iónico"],"Tetania"]}],
+drop:["Los 4 trastornos ácido-base","Acidosis metabólica según anion gap"]
+};
+
+U[9]={
+intro:"La diabetes se resume en una frase: **hay glucosa de más en sangre porque falta insulina o porque la insulina no funciona**. Todo lo demás (síntomas, complicaciones agudas y crónicas) es la consecuencia lógica de esa hiperglucemia y de lo que el cuerpo hace al «creer» que no tiene azúcar dentro de la célula.",
+explica:[
+{h:"Qué es y cómo se diagnostica",ref:"2,5",p:[
+"La **diabetes** es una enfermedad crónica con **hiperglucemia mantenida** por falta de insulina, defecto de su acción periférica o ambos. Se diagnostica con cualquiera de estos criterios: **glucosa basal ≥ 126 mg/dl**, **HbA1c ≥ 6,5 %**, **SOG a las 2 h ≥ 200 mg/dl**, o glucosa aleatoria ≥ 200 con síntomas. La prediabetes ocupa el tramo intermedio (glucosa basal 100-125, HbA1c 5,7-6,4 %, SOG 140-199)."]},
+{h:"El equilibrio de la glucemia y los tipos de diabetes",ref:"6-8",p:[
+"La glucemia es el resultado de una balanza. Suben la glucosa la dieta, la **glucogenólisis** y la **gluconeogénesis** (estimuladas por catecolaminas, glucagón y glucocorticoides); la bajan la entrada de glucosa a la célula, la glucogenogénesis y la glucólisis, todo ello bajo la acción de la **insulina** (que la GH antagoniza).",
+"La **DM tipo 1** es autoinmune (clásica o LADA) o idiopática y cursa **sin insulina**. La **DM tipo 2** se debe a **resistencia a la insulina**. Hay además formas genéticas (MODY), por enfermedad del páncreas (pancreatitis crónica, hemocromatosis) o por fármacos, y la **diabetes gestacional**."]},
+{h:"Fisiopatología: qué pasa sin insulina y con resistencia",ref:"10,12-14",p:[
+"En la **DM1**, sin insulina y con exceso de hormonas contrainsulares, el hígado produce más glucosa (glucogenólisis y gluconeogénesis) y la célula no la capta: **hiperglucemia y glucosuria**, con pérdida de agua y sodio (poliuria, polidipsia, deshidratación y pérdida de peso). Además, **aumenta la lipólisis** y baja la lipogénesis: sube el nivel de ácidos grasos libres, con hipertrigliceridemia, **hipercetonemia y cetonuria** y por tanto **acidosis metabólica** (respiración de Kussmaul). Y aumenta el catabolismo proteico, con pérdida de peso y de fuerza.",
+"En la **DM2** el problema empieza por la **resistencia a la insulina**: el músculo y el tejido adiposo captan menos glucosa y el hígado produce más; al principio el páncreas compensa con hiperinsulinemia. La diabetes clínica aparece cuando la **célula β** ya no puede compensar, porque se deteriora progresivamente (hiperglucemia crónica, toxicidad de los ácidos grasos, inflamación, depósito de amiloide). La resistencia suele preceder.",
+"La resistencia a la insulina forma parte del **síndrome metabólico** con relaciones bidireccionales: obesidad visceral, inflamación, ácidos grasos libres, menor adiponectina, sedentarismo, dieta y genética; se asocia a ↑ TG y ↓ HDL, esteatosis hepática, HTA, SAOS e hiperandrogenismo, y la hiperglucemia es consecuencia (glucotoxicidad)."],
+tip:"DM1: falta insulina → cetoacidosis. DM2: resistencia → fallo de la célula β."},
+{h:"DM1 frente a DM2 y su clínica",ref:"15-17",p:[
+"La **DM1** representa un 10 %, empieza antes de los 30 años, de forma brusca, sin obesidad, con HLA y anticuerpos antiinsulares, y puede debutar con cetoacidosis. La **DM2** es el 90 %, empieza después de los 40, de forma insidiosa (a menudo asintomática), con obesidad, sin HLA ni anticuerpos y sin cetoacidosis.",
+"Los síntomas comunes son los de la hiperglucemia: poliuria, nicturia, polidipsia, astenia, visión borrosa y deshidratación. En la DM1 destacan la pérdida de peso involuntaria, la polifagia y la cetoacidosis de debut; en la DM2, las infecciones recurrentes (candidiasis), la cicatrización lenta y las complicaciones crónicas.",
+"Las complicaciones crónicas son de dos tipos: **macroangiopatía** (arteriosclerosis: infarto de miocardio, ictus, enfermedad arterial periférica) y **microangiopatía**: **retinopatía, neuropatía y nefropatía**."]},
+{h:"Complicaciones agudas: cetoacidosis, estado hiperosmolar e hipoglucemia",ref:"20-26",p:[
+"La **cetoacidosis diabética (CAD)** aparece con un déficit casi absoluto de insulina (debut, omisión del tratamiento, estrés agudo). Con la insulina ausente suben las hormonas contrarreguladoras, y con ellas la glucogenólisis, la gluconeogénesis, la lipólisis y la **cetogénesis**: acidosis metabólica más hiperglucemia y glucosuria con depleción de agua y sodio. Clínicamente: dolor abdominal, náuseas, vómitos, aliento a manzanas, Kussmaul, deshidratación y delirio.",
+"En el **estado hiperosmolar (EHH)** el déficit de insulina es **parcial**, suficiente para evitar la lipólisis y la cetogénesis pero no la hiperglucemia: no hay acidosis, pero sí **deshidratación hipernatrémica**, hipotensión, oliguria, fracaso renal, deshidratación neuronal y coma. Aparece en DM2 de edad avanzada y tiene mayor mortalidad.",
+"La **hipoglucemia** es el descenso de la glucemia con activación adrenérgica y afectación cerebral. Sus causas: fármacos hipoglucemiantes; postprandial o reactiva (gastrectomía, alcohol, galactosemia); en ayuno, por menor producción (insuficiencia suprarrenal, hepática fulminante, alcohol, glucogenosis) o salida excesiva (insulinoma). Con glucemias < 50 mg/dl aparecen primero las manifestaciones **adrenérgicas** (sudoración, temblor, taquicardia, palidez, ansiedad, hambre) y después las **neuroglucopénicas** (mareo, conducta anormal, visión borrosa, pérdida de conocimiento, convulsiones, coma)."],
+tip:"CAD: sin insulina → cetosis y acidosis. EHH: algo de insulina → sin cetosis, osmolaridad > 320."}],
+esq:[
+{t:"levels",title:"DM1: de la falta de insulina a la clínica (diap. 10)",ref:"10",levels:[
+{label:"Causa",items:["Ausencia de insulina","↑ hormonas contrainsulares"],arrow:"efecto sobre"},
+{label:"Glucosa",items:["↑ glucogenólisis y gluconeogénesis","La célula no capta glucosa"],arrow:"hiperglucemia"},
+{label:"Grasa y proteína",items:["↑ lipólisis, ↓ lipogénesis → ↑ ácidos grasos libres","↑ catabolismo proteico"],arrow:"consecuencias"},
+{label:"Clínica",items:["Glucosuria, poliuria, polidipsia, deshidratación","Hipercetonemia → acidosis metabólica (Kussmaul)","Pérdida de peso y de fuerza"]}]},
+{t:"chain",title:"DM2: resistencia a la insulina y fallo de la célula β (diap. 12-14)",ref:"12-14",steps:["Resistencia a la insulina: ↓ captación en músculo y grasa, ↑ producción hepática de glucosa",["El páncreas compensa: hiperinsulinemia","al principio"],["Disfunción progresiva de la célula β (hiperglucemia crónica, toxicidad de AG, inflamación, amiloide)","con el tiempo"],"La secreción ya no compensa la resistencia","Diabetes clínica (hiperglucemia)"]},
+{t:"levels",title:"Cetoacidosis diabética (diap. 20-21)",ref:"20-21",levels:[
+{label:"Desencadenante",items:["Debut","Omisión de tratamiento","Estrés agudo"],arrow:"déficit casi absoluto de insulina"},
+{label:"Hormonas",items:["↑ hormonas contrarreguladoras"],arrow:"estimulan"},
+{label:"Metabolismo",items:["↑ glucogenólisis y gluconeogénesis → hiperglucemia, glucosuria","↑ lipólisis y cetogénesis → cetoácidos"],arrow:"resultado"},
+{label:"Clínica",items:["Acidosis metabólica, aliento a manzanas, Kussmaul","Depleción de agua y Na: deshidratación","Dolor abdominal, náuseas, vómitos, delirio"]}]},
+{t:"branch",title:"Hipoglucemia: causas y dos tiempos de clínica (diap. 25-26)",ref:"25-26",root:"Glucemia < 50 mg/dl",branches:[
+{label:"Causas",steps:["Fármacos hipoglucemiantes","Postprandial: gastrectomía, alcohol, galactosemia","Ayuno: ↓ producción (suprarrenal, hepática, alcohol) o ↑ salida (insulinoma)"]},
+{label:"Fase adrenérgica",steps:["Activación adrenérgica","Sudoración, temblor, taquicardia, palidez, ansiedad, hambre"]},
+{label:"Fase neuroglucopénica",steps:["Afectación cerebral","Mareo, conducta anormal, visión borrosa, convulsiones, coma"]}]}],
+drop:[]
+};
+
+U[10]={
+intro:"Los lípidos son imprescindibles pero **no se disuelven en agua**: viajan empaquetados en lipoproteínas. Si entiendes **qué partícula lleva qué, qué enzima la procesa y dónde acaba**, las dislipemias se deducen casi solas, igual que sus signos visibles en la piel.",
+explica:[
+{h:"Colesterol, triglicéridos y lipoproteínas",ref:"2-6",p:[
+"El **colesterol** forma parte de las membranas y es precursor de hormonas esteroideas, ácidos biliares y vitamina D; es importante en el sistema nervioso. Los **triglicéridos** son la reserva de energía (≈ 9 kcal/g), además de aislamiento térmico y protección mecánica.",
+"Como no son solubles en agua, circulan en **lipoproteínas**: una corteza (fosfolípidos, colesterol libre, apolipoproteínas) y un núcleo (ésteres de colesterol y triglicéridos). Las **apolipoproteínas** tienen función estructural, activan o inhiben enzimas y son ligandos de receptores."]},
+{h:"El viaje de las lipoproteínas",ref:"8-12",p:[
+"Hay **tres rutas**. En la **vía exógena** (dieta → hígado), el intestino forma **quilomicrones**, que cogen apo C-II y apo E de las HDL; la **lipoproteína lipasa (LPL)** de los capilares hidroliza sus triglicéridos y libera ácidos grasos a los tejidos, quedando un **remanente** que el hígado capta por el receptor de apo E / LRP1.",
+"En la **vía endógena** (hígado → tejidos), el hígado libera **VLDL**, que también reciben apo C-II y E; la LPL hidroliza sus triglicéridos y se convierten en **IDL** y, por la lipasa hepática, en **LDL** (apo B100), que entrega colesterol a los tejidos a través del **receptor LDL**. La **PCSK9** se une a ese receptor y acelera su degradación: baja el número de receptores hepáticos y sube el cLDL (inhibirla produce el efecto contrario).",
+"La tercera es el **transporte reverso (HDL)**: las HDL recogen colesterol de los tejidos (ABCA1/ABCG1, con apo A-I), la **LCAT** lo esterifica y la HDL madura lo lleva al hígado (SR-BI, directa; o indirecta con CETP). El organismo **no puede catabolizar el colesterol**: lo elimina por la bilis, como ácidos biliares."],
+tip:"Exógena: quilomicrón → remanente. Endógena: VLDL → IDL → LDL. Reversa: HDL."},
+{h:"Cómo la LDL daña la arteria",ref:"17-19",p:[
+"Las lipoproteínas con apoB (remanentes, VLDL, IDL, LDL, Lp(a)) son aterogénicas, pero solo si son de **< 70 nm**, porque tienen que atravesar la barrera endotelial. La secuencia: **retención en el subendotelio → modificación (oxidación) → respuesta inflamatoria (moléculas de adhesión, monocitos) → células espumosas → progresión de la placa**.",
+"La arteriosclerosis es una **enfermedad sistémica y progresiva** (cardiopatía isquémica, enfermedad cerebrovascular, arterial periférica). La relación con el cLDL es continua y lineal: por cada 38,7 mg/dl (1 mmol/l) de aumento, el riesgo de ECV mayor sube un 22 %."]},
+{h:"Cómo se clasifican las dislipemias",ref:"13-14",p:[
+"Por lo que está elevado: **hipercolesterolemia** (colesterol total > 200), **hipertrigliceridemia** (TG > 150), **mixta** (ambos), **hiperLp(a)** (> 50 mg/dl), **dislipemia aterogénica** (TG > 150 con cHDL bajo y LDL pequeñas y densas), **hipoalfalipoproteinemia** (cHDL bajo) y **aumento de remanentes** (cVLDL > 30 mg/dl). El umbral de cHDL bajo en mujeres aparece como < 45 en la diapositiva 14 y < 50 en las diapositivas 28-29.",
+"La **clasificación de Fredrickson-OMS** ordena por la lipoproteína alterada: I (quilomicrones; déficit de LPL o apo C-II; pancreatitis), IIa (LDL; hipercolesterolemia familiar), IIb (LDL + VLDL; mixta), III (remanentes/IDL; defecto de apo E; disbetalipoproteinemia), IV (VLDL; hipertrigliceridemia) y V (quilomicrones + VLDL)."]},
+{h:"Hipercolesterolemia y sus signos visibles",ref:"15,20-21",p:[
+"Las causas **primarias** son la **hipercolesterolemia familiar (HF)** (receptor LDL, apoB o PCSK9) y la poligénica; las **secundarias**, las más frecuentes, son la dieta o el estilo de vida, el hipotiroidismo, la ERC o el síndrome nefrótico, las hepatopatías colestásicas y algunos fármacos.",
+"La **HF** es **autosómica dominante** (codominante) y la enfermedad monogénica más prevalente: el cLDL está extremadamente alto desde el nacimiento y la aterosclerosis es precoz. La **heterocigota** (1/200-1/250; cLDL > 220 mg/dl) es relativamente frecuente; la **homocigota** (1/300.000-1/1.000.000; > 500 mg/dl) es muy grave.",
+"Como el colesterol se deposita fuera de la arteria, hay **signos visibles**, de los que cae en el examen: **xantomas tendinosos** (nódulos en los tendones de Aquiles y extensores de las manos), **xantelasmas** (depósitos amarillentos en los párpados) y **arco corneal** (anillo opaco alrededor de la córnea; muy diagnóstico en la HeFH). Los xantomas tuberosos aparecen en codos, rodillas y nalgas."],
+tip:"Signos cutáneos de la HF heterocigota: xantomas tendinosos, xantelasmas y arco corneal."},
+{h:"Hipertrigliceridemia y quilomicronemia",ref:"22-24",p:[
+"Las **primarias** (poligénica y síndrome de quilomicronemia familiar) son raras; las **secundarias**, mucho más frecuentes: DM2/obesidad/síndrome metabólico, alcohol, ERC, hipotiroidismo y fármacos (estrógenos, retinoides, corticoides, β-bloqueantes, inhibidores de la proteasa).",
+"Lo importante es el **umbral**. Con **TG < 500 mg/dl** el riesgo es de ECV aterosclerótica. Con **TG > 500** (severa) aparecen lipemia retinalis, **xantomas eruptivos** (pápulas amarillentas en glúteos, espalda y extremidades) y **pancreatitis aguda**. Por encima de **1000** hablamos de síndrome de quilomicronemia.",
+"La **quilomicronemia familiar** es el 1 % de las HTG graves, monogénica AR (LPL, apoC-II, apoA5, GPIHBP1, LMF1), empieza en la infancia sin desencadenantes, con riesgo muy alto de pancreatitis y respuesta nula a dieta, fibratos y omega-3. La **multifactorial** es el 99 %: adulto, con desencadenantes (alcohol, fármacos, obesidad, DM), riesgo moderado y buena respuesta."]},
+{h:"Otras dislipemias: mixta, tipo III, Lp(a), HDL bajo y remanentes",ref:"25-30",p:[
+"La **mixta** puede ser primaria (hiperlipidemia familiar combinada; disbetalipoproteinemia tipo III) o secundaria (DM2, ERC/nefrótico, hipotiroidismo, alcohol, fármacos). La **disbetalipoproteinemia (tipo III)** es autosómica recesiva (apoE2/E2): los remanentes (β-VLDL e IDL ricos en colesterol) se aclaran mal; colesterol 250-500, TG 200-1000, **xantomas tuberosos y estriados palmares** y aterosclerosis precoz, sin lipemia retinalis ni arco corneal.",
+"La **Lp(a)** es una LDL con apo(a) unida a apoB-100; es genética (90 %), de nivel estable toda la vida, y por eso se **mide una sola vez**. Es proaterogénica, proinflamatoria y protrombótica (homología con plasminógeno) y se asocia a estenosis aórtica calcificada. La **dislipemia aterogénica** (↑ TG, ↓ cHDL, LDL pequeñas y densas) se asocia a obesidad, DM2, esteatosis y síndrome metabólico. Los **remanentes** llevan 40 veces más colesterol por partícula que la LDL y son aterogénicos aun con LDL normal (cVLDL = CT − cHDL − cLDL).",
+"En el perfil lipídico se miden CT, cHDL, TG y cLDL (Friedewald: cLDL = CT − cHDL − TG/5, válida con TG < 300), con la Lp(a) una vez en la vida; el estudio genético se reserva para HF (LDLR, APOB, PCSK9), tipo III (APOE ε2/ε2) y quilomicronemia (LPL, APOC2, APOA5, GPIHBP1)."]},
+{h:"Mensajes clave",ref:"32",p:[
+"Colesterol y TG son imprescindibles y se transportan en lipoproteínas. La mayoría de las dislipemias son secundarias. La HF es la enfermedad monogénica más prevalente. La HTG moderada aumenta el riesgo cardiovascular y la extrema el de pancreatitis. Lp(a) elevada, remanentes aumentados, cHDL bajo y dislipemia aterogénica aumentan el riesgo de ECV."]}],
+esq:[
+{t:"levels",title:"Vía exógena (dieta → hígado) (diap. 9)",ref:"9",levels:[
+{label:"Intestino",items:["Absorción de grasa de la dieta","Formación de quilomicrones"],arrow:"adquieren apo C-II y apo E de las HDL"},
+{label:"Capilares",items:["La LPL hidroliza los triglicéridos","Ácidos grasos a los tejidos"],arrow:"queda el remanente"},
+{label:"Hígado",items:["Remanente de quilomicrón captado por receptor de apo E / LRP1"]}]},
+{t:"levels",title:"Vía endógena (hígado → tejidos) y PCSK9 (diap. 10-11)",ref:"10-11",levels:[
+{label:"Hígado",items:["VLDL naciente (recibe apo C-II y E)"],arrow:"LPL hidroliza TG"},
+{label:"Plasma",items:["IDL (remanente de VLDL)"],arrow:"lipasa hepática"},
+{label:"LDL",items:["LDL (apo B100)"],arrow:"receptor LDL (LDL-R)"},
+{label:"Destino",items:["Entrega de colesterol a tejidos","Captación hepática de LDL y remanentes","PCSK9 degrada el LDL-R → ↓ receptores → ↑ cLDL"]}]},
+{t:"chain",title:"Transporte reverso del colesterol: HDL (diap. 12)",ref:"12",steps:["Tejidos periféricos: efluxo de colesterol (ABCA1/ABCG1) a apo A-I","HDL nascente",["LCAT esterifica el colesterol","maduración"],"HDL madura",["Entrega al hígado: SR-BI (directa) o CETP a otras lipoproteínas (indirecta)","excreción"],"Eliminación como ácidos biliares / en la bilis"]},
+{t:"chain",title:"Aterogénesis de la LDL (diap. 17-19)",ref:"17-19",steps:["LDL (apoB, < 70 nm) atraviesa la barrera endotelial","Retención en el subendotelio","Modificación (oxidación)","Respuesta inflamatoria: moléculas de adhesión, monocitos","Células espumosas","Progresión de la placa → cardiopatía isquémica, ictus, arteriopatía periférica"]},
+{t:"branch",title:"Signos visibles según el lípido que se eleva (diap. 20-26)",ref:"20-26",root:"Depósito de lípidos fuera de la arteria",branches:[
+{label:"↑ Colesterol (HF)",steps:["cLDL alto desde el nacimiento","Xantomas tendinosos · xantelasmas · arco corneal"]},
+{label:"TG > 500 mg/dl",steps:["Quilomicrones / VLDL en exceso","Xantomas eruptivos · lipemia retinalis · pancreatitis"]},
+{label:"Tipo III (apoE2/E2)",steps:["Remanentes (β-VLDL, IDL) acumulados","Xantomas tuberosos y palmares estriados · aterosclerosis precoz"]}]}],
+drop:[]
+};
+
+U[11]={
+intro:"Las proteínas plasmáticas son un **espejo de lo que ocurre en el organismo**: su cantidad y su distribución en el proteinograma delatan inflamación, enfermedad hepática, pérdida renal o proliferación de un clon de células B. El tema se estudia leyendo ese «código de barras».",
+explica:[
+{h:"Proteínas y aminoácidos: lo básico",ref:"3-8",p:[
+"Las proteínas pueden ser **simples** (solo dan aminoácidos al hidrolizarse) o **complejas** (con un grupo prostético: nucleoproteínas, lipoproteínas, glucoproteínas, fosfoproteínas, metaloproteínas); y **fibrosas** (colágeno) o **globulares** (inmunoglobulinas). Tienen cuatro niveles de estructura: primaria, secundaria, terciaria y cuaternaria.",
+"Los **aminoácidos esenciales** no se sintetizan y deben llegar en la dieta: leucina, isoleucina, valina, fenilalanina, triptófano, metionina, treonina, lisina e histidina. Las **aminoacidopatías** son bloqueos, generalmente congénitos, de las vías metabólicas o del transporte de aminoácidos: ciclo de la urea (déficit de ornitina-carbamoil transferasa), aminoácidos aromáticos, ramificados (enfermedad del jarabe de arce) y sulfurados (hiperhomocisteinemia)."]},
+{h:"Para qué sirven las proteínas del plasma",ref:"10-12",p:[
+"Las proteínas plasmáticas mantienen la **presión oncótica**, transportan sustancias endógenas y exógenas (fármacos), actúan como reactantes de fase aguda y participan en la defensa humoral y en la hemostasia. Se sintetizan en el retículo endoplásmico del hepatocito (a partir de aminoácidos de la dieta), salvo las inmunoglobulinas, que producen los linfocitos B y las células plasmáticas; se catabolizan en el tubo digestivo, el riñón y el hígado. El valor normal es de **6-8 g/dl**."]},
+{h:"El proteinograma: separar para interpretar",ref:"13-25",p:[
+"En el **proteinograma** se coloca el suero sobre un soporte inerte (gel de agarosa) sometido a un campo eléctrico, y las proteínas se separan en **cinco bandas**: **albúmina, α1, α2, β y γ** (hoy se usa electroforesis capilar). La **albúmina** es la más abundante (4 g/dl) y sostiene la presión oncótica y el transporte. En **α1** domina la α1-antitripsina (> 90 %), con HDL, orosomucoide y la proteína A del amiloide; en **α2**, la α2-macroglobulina (inhibe proteasas), ceruloplasmina, haptoglobina y PCR; en **β**, transferrina, hemopexina, LDL y complemento; en **γ**, las inmunoglobulinas (sobre todo IgG).",
+"La **inmunoelectroforesis** añade una reacción con anticuerpos y da arcos de precipitación: identifica **paraproteínas** y el tipo de cadenas (ligeras o pesadas)."]},
+{h:"Disproteinemias: cuando cambia el patrón",ref:"26-37",p:[
+"Las hiperproteinemias e hipoproteinemias son disproteinemias cuando alteran la distribución de las fracciones; si el trazado no cambia suelen ser falsas (hemoconcentración o hemodilución). La **hipoalbuminemia** (< 3,5 g/dl) tiene tres orígenes: **menos síntesis** (insuficiencia hepática, malnutrición o malabsorción, inflamación), **más catabolismo** (cirugía, neoplasias) o **pérdidas** (riñón en el síndrome nefrótico; tubo digestivo en enteropatías; piel en quemaduras; serosas en ascitis). Sus consecuencias son edemas (↓ presión oncótica), ascitis, derrame pleural, hipovolemia con activación del SRAA y efectos tóxicos de los fármacos por mayor fracción libre.",
+"Otros déficits: la **α1-antitripsina** (congénito: enfisema y cirrosis) y las **γ-globulinas** (hipogammaglobulinemia por déficit de IgG).",
+"Los **patrones combinados** son lo que más se pregunta. En la **inflamación aguda**: albúmina ↓ y α1 y α2 ↑ (reactantes de fase aguda). En la **inflamación crónica**: lo mismo con **aumento policlonal de γ**. En la **hepatopatía crónica**: albúmina ↓ y aumento policlonal de β y γ, el **puente β-γ**, por antígenos intestinales que llegan a la circulación general. En el **síndrome nefrótico**: pérdida de albúmina y γ y aumento hepático de α2-macroglobulina y β-lipoproteínas."],
+tip:"Aguda: α1 y α2 ↑. Crónica: + γ policlonal. Hepatopatía crónica: puente β-γ."},
+{h:"Paraproteinemias y amiloidosis",ref:"39-44",p:[
+"Las **paraproteinemias** (gammapatías monoclonales) producen una **banda M**, estrecha y monoclonal: una inmunoglobulina o sus fragmentos producidos por **un solo clon de células B**. Incluyen mieloma, macroglobulinemia de Waldenström, linfomas B, gammapatía monoclonal de significado incierto y crioglobulinemia.",
+"Sus consecuencias son el **síndrome de hiperviscosidad** (con IgM e IgA: alteraciones oculares, neurológicas, cardiacas), la diátesis hemorrágica, la lesión renal por precipitación tubular, la neuropatía periférica y la **amiloidosis**, que es la acumulación extracelular de una sustancia proteica por alteración del plegamiento de múltiples proteínas precursoras."]}],
+esq:[
+{t:"branch",title:"El proteinograma: cinco bandas (diap. 13-21)",ref:"13-21",root:"Suero → electroforesis → 5 fracciones",branches:[
+{label:"Albúmina",steps:["La más abundante (4 g/dl)","Presión oncótica y transporte"]},
+{label:"α1",steps:["α1-antitripsina (> 90 %)","HDL, orosomucoide, amiloide A"]},
+{label:"α2",steps:["α2-macroglobulina","Ceruloplasmina, haptoglobina, PCR"]},
+{label:"β",steps:["Transferrina, hemopexina","LDL, complemento"]},
+{label:"γ",steps:["Inmunoglobulinas (sobre todo IgG)"]}]},
+{t:"table",title:"Patrones del proteinograma según la enfermedad (diap. 34-39)",ref:"34-39",head:["Situación","Albúmina","Otras bandas"],rows:[
+["Inflamación aguda","↓","α1 y α2 ↑ (reactantes de fase aguda)"],
+["Inflamación crónica","↓","α1, α2 y γ ↑ (γ policlonal)"],
+["Hepatopatía crónica","↓","Puente β-γ (β y γ policlonales ↑)"],
+["Síndrome nefrótico","↓ (pérdida urinaria)","γ ↓; α2 ↑ (↑ síntesis hepática)"],
+["Paraproteinemia","—","Banda M monoclonal"]]},
+{t:"levels",title:"Hipoalbuminemia: causas y consecuencias (diap. 29-31)",ref:"29-31",levels:[
+{label:"Causas",items:["↓ síntesis: hepática, malnutrición, inflamación","↑ catabolismo: cirugía, neoplasias","Pérdidas: riñón, tubo digestivo, piel, serosas"],arrow:"albúmina < 3,5 g/dl"},
+{label:"Mecanismo",items:["↓ presión oncótica","↑ fracción libre de fármacos"],arrow:"consecuencias"},
+{label:"Clínica",items:["Edemas, ascitis, derrame pleural","Hipovolemia, hipotensión, activación del SRAA","Efectos tóxicos de fármacos"]}]},
+{t:"chain",title:"Paraproteinemia: del clon a la clínica (diap. 39-43)",ref:"39-43",steps:["Proliferación de un solo clon de células B","Producción de una Ig (o fragmentos) idéntica: banda M","Hiperviscosidad (IgM, IgA) · diátesis hemorrágica · lesión renal tubular · neuropatía","Amiloidosis: depósito extracelular de proteína mal plegada"]}],
+drop:["Patrones electroforéticos","Fracciones del proteinograma","Causas de hipoalbuminemia"]
+};
+
+U[12]={
+intro:"La nutrición se entiende como una **balanza**: lo que entra, lo que se gasta y lo que se almacena. Cuando pesa de más aparece la **obesidad y el síndrome metabólico**; cuando falta, la **desnutrición y los déficits de vitaminas**. Las dos cosas acaban en el mismo sitio: alteración del metabolismo y riesgo clínico.",
+explica:[
+{h:"Balance energético: quién lo controla",ref:"2-4",p:[
+"El **balance energético** compara la reserva (glucógeno y depósito de grasa) con el gasto: **basal (60-80 %)**, postprandial (efecto térmico de los alimentos) y de actividad física. El **hipotálamo** lo controla: la **leptina** (producida por el adipocito) y la **insulina** activan la vía **anorexígena** (↑ MSH, POMC/CART), y la **grelina** activa la vía **orexígena** (NPY, AgRP).",
+"Los nutrientes son **energéticos** (lípidos, glúcidos, proteínas), **plásticos** (proteínas y oligoelementos) y **reguladores** (vitaminas y agua). Las necesidades basales son de 25-35 kcal/kg/día. Cualitativamente: glúcidos 50-60 % de las calorías, lípidos 20-30 % (con los ácidos grasos esenciales linoleico y linolénico) y proteínas 15-20 % (mínimo 0,8 g/kg/día, hasta 2 g/kg/día en situaciones de estrés)."]},
+{h:"Cómo se mide el estado nutricional",ref:"5-7,18",p:[
+"Los métodos **antropométricos** son el IMC (peso/talla²), el pliegue de grasa subcutánea (tríceps, con lipocalibrador), el perímetro braquial y la masa muscular del brazo (perímetro − 0,314 × pliegue tricipital) y el perímetro de cintura (punto medio entre la última costilla y la cresta ilíaca). Los **analíticos** son la albúmina (3,5-5,5 g/dl), la **prealbúmina** (19,5-35,5 mg/dl; vida media más corta, refleja cambios a corto plazo), la transferrina (170-290 mg/dl) y la proteína transportadora de retinol.",
+"Clasificación por IMC: < 18,5 delgadez; 18,5-24,9 normal; 24,9-26,9 sobrepeso 1; 27-29,9 sobrepeso 2; 30-34,9 obesidad 1; 35-39,9 obesidad 2; ≥ 40 obesidad 3 (mórbida). La desnutrición se define con IMC < 18 (peso < 85 % del ideal)."]},
+{h:"Obesidad",ref:"8",p:[
+"Es la acumulación excesiva de grasa con aumento del peso corporal (**IMC > 30**). Sus mecanismos son un ingreso energético excesivo (con papel de la microbiota), un menor gasto energético y un defecto de oxidación de los ácidos grasos (leptina). Según dónde se acumule, es **superior (androide)** o **inferior (ginecoide)**, y se asocia al síndrome metabólico."]},
+{h:"Síndrome metabólico: cuando la grasa enferma",ref:"11-14",p:[
+"El mecanismo es una cadena: la **obesidad superior** libera ácidos grasos libres y adipocitocinas (↑ IL-6, TNF-α, resistina; ↓ adiponectina), que producen **hiperinsulinismo y resistencia a la insulina**, y de ahí salen casi todas las manifestaciones: DM2, hipertrigliceridemia con cHDL bajo, esteatosis hepática y esteatohepatitis (por adipocitocinas inflamatorias, TNF-α y radicales libres), HTA, diátesis trombótica (↑ fibrinógeno y PAI-1) e hiperferritinemia, con mayor riesgo cardiovascular. Hay además manifestaciones **mecánicas**: artrosis (rodilla, espondiloartrosis) y síndrome de obesidad-hipoventilación o apnea del sueño.",
+"El diagnóstico («Harmonizing the Metabolic Syndrome») exige **3 de 5 componentes**: obesidad abdominal (ATP III: > 102 cm en hombres, > 88 cm en mujeres), triglicéridos elevados, cHDL bajo, presión arterial elevada (PAD ≥ 85 mmHg o en tratamiento) y glucemia en ayunas ≥ 100 mg/dl o en tratamiento. Una nota de honestidad: en la diapositiva 14 una ventana emergente tapa los umbrales exactos de TG, cHDL y PAS, por lo que no se citan."],
+tip:"Síndrome metabólico = 3 de 5: cintura, TG, cHDL, PA y glucemia."},
+{h:"Desnutrición proteico-calórica",ref:"15-18",p:[
+"Es la pérdida excesiva de grasa con descenso del peso. Aparece por **menos ingreso** (ayuno voluntario o involuntario, anorexia del cáncer, enfermedades crónicas como EPOC, ICC o malabsorción) o por **más gasto** (fiebre, enfermedad grave, cáncer). En el ayuno prolongado el cuerpo recurre a la glucogenólisis, la gluconeogénesis (a partir de aminoácidos musculares y glicerol), la cetogénesis y la lipólisis.",
+"Se manifiesta con pérdida de peso, retraso del crecimiento en niños, pérdida de grasa subcutánea (con úlceras cutáneas), infecciones, consunción muscular, atrofia de vellosidades, bradicardia e hipotensión. Los indicadores: IMC < 18, peso < 85 % del ideal, menor pliegue tricipital e hipoalbuminemia."]},
+{h:"Vitaminas y oligoelementos",ref:"19-22",p:[
+"Los déficits tienen tres orígenes: **menor aporte** (alcohólicos: B1 y ácido fólico; ancianos: B12 y fólico; poca luz solar: vitamina D), **malabsorción** (intestino delgado: fólico y liposolubles; enfermedad hepática o biliar: liposolubles; íleon terminal: B12) e **interacciones** (metotrexato–ácido fólico; isoniacida–vitamina B6).",
+"**Liposolubles**: A (xeroftalmía, hemeralopía, queratomalacia, manchas de Bitot), D (osteomalacia y raquitismo), K (síntesis de los factores II, VII, IX, X y proteínas C y S: diátesis hemorrágica) y E (antioxidante: ataxia). **Hidrosolubles**: B1 (beri-beri; Wernicke-Korsakoff), B2 (estomatitis angular, glositis), niacina (pelagra: dermatitis, diarrea, demencia), B6 (polineuropatía, anemia sideroblástica), B12 (anemia megaloblástica, síndrome cordonal posterior), ácido fólico (anemia megaloblástica, defectos del tubo neural) y C (escorbuto).",
+"**Oligoelementos**: cinc (dermatitis, alteración del gusto, retraso de cicatrización), flúor (caries), selenio (cardiomiopatía de Keshan), cromo (resistencia a la insulina), manganeso y molibdeno."]}],
+esq:[
+{t:"levels",title:"Control del balance energético (diap. 2-3)",ref:"2-3",levels:[
+{label:"Señales",items:["Leptina (adipocito)","Insulina","Grelina"],arrow:"actúan sobre el hipotálamo"},
+{label:"Vías",items:["Anorexígena: ↑ MSH, POMC/CART (leptina e insulina)","Orexígena: NPY, AgRP (grelina)"],arrow:"efecto"},
+{label:"Balance",items:["↓ ingesta o ↑ ingesta frente al gasto: basal 60-80 %, postprandial, actividad"]}]},
+{t:"levels",title:"Síndrome metabólico: de la obesidad al riesgo cardiovascular (diap. 10-11)",ref:"10-11",levels:[
+{label:"Origen",items:["Obesidad superior (androide)"],arrow:"libera"},
+{label:"Mediadores",items:["↑ ácidos grasos libres","↑ IL-6, TNF-α, resistina","↓ adiponectina"],arrow:"producen"},
+{label:"Mecanismo",items:["Hiperinsulinismo y resistencia a la insulina"],arrow:"manifestaciones"},
+{label:"Clínica",items:["DM2","↑ TG, ↓ cHDL","Esteatosis / esteatohepatitis","HTA","Diátesis trombótica (↑ fibrinógeno, PAI-1)","Hiperferritinemia → ↑ riesgo CV"]}]},
+{t:"chain",title:"Desnutrición proteico-calórica (diap. 15-18)",ref:"15-18",steps:["↓ ingreso energético (ayuno, anorexia, EPOC, ICC, malabsorción) o ↑ gasto (fiebre, cáncer, enfermedad grave)","Ayuno prolongado: glucogenólisis → gluconeogénesis (aminoácidos y glicerol) → cetogénesis y lipólisis","Pérdida de grasa subcutánea y masa muscular; ↓ albúmina","Infecciones, consunción, bradicardia, hipotensión (IMC < 18; peso < 85 %)"]},
+{t:"branch",title:"Por qué falta una vitamina (diap. 19)",ref:"19",root:"Déficit vitamínico",branches:[
+{label:"↓ Aporte",steps:["Alcohólicos: B1 y fólico","Ancianos: B12 y fólico","Poca luz solar: vitamina D"]},
+{label:"Malabsorción",steps:["Intestino delgado: fólico y liposolubles","Hepática/biliar: liposolubles","Íleon terminal: B12"]},
+{label:"Interacción",steps:["Metotrexato → ácido fólico","Isoniacida → vitamina B6"]}]}],
+drop:["Fisiopatología del síndrome metabólico (diap. 10)","IMC (diap. 6)"]
+};
+
+U[13]={
+intro:"Aquí se aprende a **escuchar el dolor abdominal** y a **leer una hemorragia digestiva**: el dolor se ordena con una regla mnemotécnica y por su origen (visceral o somático); la hemorragia, con una frontera anatómica (el ángulo de Treitz) y con la repercusión sobre la circulación.",
+explica:[
+{h:"Cómo preguntar por el dolor: ALICIA",ref:"4-5",p:[
+"La anamnesis del dolor se ordena con la regla **ALICIA**: **A**ntigüedad (¿desde cuándo?), **L**ocalización (¿dónde?), **I**rradiación (¿se desplaza?), **C**aracterísticas (cólico o continuo), **I**ntensidad (escala EVA) y **A**livio o acentuación (comidas, postura, movimiento).",
+"Cada segmento del tubo digestivo tiene sus síntomas propios: esófago (odinofagia, disfagia, pirosis, dolor cólico esofágico), estómago (dolor ulceroso, dispepsia), intestino (dolor cólico) y recto (proctalgia, tenesmo)."]},
+{h:"Dolor visceral y dolor somático",ref:"9",p:[
+"Dependen de **cómo está inervada la zona**. El **visceral** nace en una víscera poco inervada (fibras C, inervación bilateral y multisegmento): es **sordo, mal localizado**, irradiado, no cambia con los movimientos, se acompaña de **inquietud y agitación** y no produce contractura. El **somático** nace en el peritoneo, mucho más inervado (fibras A y C): es **agudo, bien localizado**, no irradiado, **aumenta con los movimientos**, se acompaña de **inmovilidad** y de **contractura abdominal**.",
+"Un ejemplo clásico: la **úlcera duodenal** duele en el epigastrio con irradiación a la espalda, aparece **antes de comer** y alivia con alimento y antiácidos; la **úlcera gástrica** duele en el epigastrio o el hipocondrio izquierdo **durante o después de comer** y la ingesta no alivia."],
+tip:"Visceral: sordo, mal localizado, agitación. Somático: agudo, localizado, inmovilidad y contractura."},
+{h:"Hemorragia digestiva: qué es y cómo se presenta",ref:"12-14",p:[
+"La hemorragia digestiva es el paso de sangre a la luz del tubo digestivo. Puede presentarse como **hematemesis** (vómito de sangre), **melenas**, **hematoquecia**, **rectorragia** o como hemorragia **oculta** (sangre oculta en heces, asintomática, que acaba produciendo anemia ferropénica y síndrome anémico subagudo).",
+"Ojo con las **hemorragias ficticias**, que simulan sangrado sin serlo: lesiones en la boca o bebidas de cola y café pueden simular hematemesis; hierro, sales de bismuto o espinacas, melenas; y remolacha o colorantes rojos, hematoquecia."]},
+{h:"Alta o baja: la frontera es el ángulo de Treitz",ref:"15-22",p:[
+"La hemorragia digestiva **alta (HDA)** nace por encima del **ángulo de Treitz** y la **baja (HDB)** por debajo. Una trampa clásica: **solo la hematemesis indica localización alta**; las melenas, la hematoquecia y la rectorragia **no localizan** por sí solas.",
+"En la **HDA**, la causa principal es la **úlcera péptica** (duodenal más que gástrica; H. pylori en el 90 % de las duodenales y el 60 % de las gástricas, además de AINE/AAS y tumores). Siguen las **varices esofágicas**, la complicación más grave de la hipertensión portal (el 40-50 % de los cirróticos las tienen al diagnóstico y el 20-30 % fallece por sangrado), y otras como **Dieulafoy** (arteria anómala submucosa gástrica), **Mallory-Weiss** (desgarro esófago-cardial por vómitos), angiodisplasias (ancianos con ERC y estenosis aórtica) y causas iatrogénicas (fístulas aortoentéricas y bilio-intestinales).",
+"La **HDB** (25 casos/100.000 habitantes-año; mortalidad 4-10 %) se origina en el intestino grueso en el 85 % de los casos. Sus causas: enfermedad diverticular (17-40 %), angiodisplasia (2-30 %), colitis (EII, isquémica, infecciosa, actínica; 9-20 %), tumores (11-15 %), patología anal (hemorroides, fisuras; 4-10 %) y lesiones del intestino delgado (2-9 %)."]},
+{h:"Cuánta sangre se pierde y qué hace el cuerpo",ref:"24-26",p:[
+"La gravedad se estima por la presión, el pulso, la perfusión y el porcentaje de volemia perdida. **Leve**: PAS > 100, pulso < 100, piel normal, pérdida < 15 % (750 cc). **Grave**: PAS < 100, pulso > 100, piel pálida y sudorosa, ortostatismo, 15-50 %. **Masiva**: shock hipovolémico, agitación, estupor o coma, > 50 %.",
+"El organismo responde por escalones, y cada uno sigue de forma lógica al anterior. En la pérdida **leve (0-20 %)**: contracción venosa y reclutamiento de líquido extravascular (pulso débil, taquicardia, inquietud, diaforesis, hipotensión leve, menor diuresis). En la **moderada (21-30 %)**: constricción arteriolar, menor presión de pulso y liberación de aldosterona, ADH y catecolaminas (hipotensión, piel fría y pegajosa, obnubilación). En la **severa (≥ 31 %)**: cae la FEVI, hay hipotensión y reducción drástica del gasto cardiaco (disnea, coma, muerte). El manejo inicial: valorar la gravedad, aproximar la localización, la causa y el tratamiento."]}],
+esq:[
+{t:"chain",title:"Regla ALICIA para el dolor (diap. 5)",ref:"5",steps:["Antigüedad: ¿desde cuándo?","Localización: ¿dónde?","Irradiación: ¿se desplaza?","Características: ¿cólico o continuo?","Intensidad: escala EVA","Alivio / acentuación: comidas, postura, movimiento"]},
+{t:"branch",title:"Dolor visceral vs somático: del origen al signo (diap. 9)",ref:"9",root:"Dolor abdominal",branches:[
+{label:"Visceral",steps:["Víscera poco inervada (fibras C, bilateral, multisegmento)","Sordo, mal localizado, irradiado","Inquietud; sin contractura; no cambia con el movimiento"]},
+{label:"Somático",steps:["Peritoneo muy inervado (fibras A y C)","Agudo, bien localizado, no irradiado","Inmovilidad; contractura; aumenta con el movimiento"]}]},
+{t:"branch",title:"Hemorragia alta o baja (diap. 15-22)",ref:"15-22",root:"Sangre en la luz digestiva: ¿por encima o por debajo del ángulo de Treitz?",branches:[
+{label:"HDA (sobre Treitz)",steps:["Úlcera péptica (H. pylori, AINE)","Varices esofágicas (hipertensión portal)","Mallory-Weiss, Dieulafoy, angiodisplasia","Hematemesis = localiza alta"]},
+{label:"HDB (bajo Treitz)",steps:["Enfermedad diverticular","Angiodisplasia, colitis, tumores","Patología anal (hemorroides, fisuras)","85 % intestino grueso"]}]},
+{t:"levels",title:"Respuesta del organismo a la pérdida de sangre (diap. 25-26)",ref:"25-26",levels:[
+{label:"Pérdida leve (0-20 %)",items:["Contracción venosa","Reclutamiento de líquido extravascular"],arrow:"si sigue sangrando"},
+{label:"Moderada (21-30 %)",items:["Constricción arteriolar","↓ presión de pulso","Aldosterona, ADH, catecolaminas"],arrow:"si sigue sangrando"},
+{label:"Severa (≥ 31 %)",items:["↓ FEVI e hipotensión","Gasto cardiaco muy reducido: disnea, coma, muerte"]}]}],
+drop:["Regla ALICIA (diap. 5)"]
+};
+
+U[14]={
+intro:"Este tema te da dos herramientas para **detectar la enfermedad hepática**: lo que **se ve y se palpa** (exploración abdominal y signos cutáneos) y lo que **se mide en sangre** (las pruebas hepáticas, que responden a tres preguntas distintas: ¿funciona el hígado?, ¿hay colestasis?, ¿hay destrucción celular?).",
+explica:[
+{h:"Explorar el abdomen en orden",ref:"3-29",p:[
+"El orden del mapa conceptual es **inspección → auscultación → palpación → percusión**. En la **inspección** se valoran el volumen y la forma (globuloso, distendido), la superficie (regular o irregular) y los hallazgos abdominales (hematomas, lesiones vasculares, vasos, cicatrices) y extraabdominales (ictericia conjuntival, arañas vasculares, eritema palmar, Dupuytren, ginecomastia, hipertrofia parotídea, alteraciones ungueales).",
+"En la **auscultación** se buscan los ruidos hidroaéreos: **desaparecen en el íleo paralítico** y aumentan en la malabsorción, en el mayor tránsito y en el íleo mecánico (ruidos metálicos); también se buscan soplos vasculares. La **palpación** explora hígado, bazo y riñón.",
+"La **percusión** normal da timpanismo salvo en el hipocondrio derecho (mate). El timpanismo aumentado indica acúmulo de gas (meteorismo, malabsorción, obstrucción, neumoperitoneo); la matidez, mayor contenido sólido (masa) o líquido (ascitis, retención de orina). Para buscar **ascitis**: matidez en flancos, matidez cambiante y oleada ascítica."]},
+{h:"Los signos cutáneos de la hepatopatía",ref:"7-17",p:[
+"Casi todos tienen una lógica común: el hígado enfermo **deja de metabolizar** sustancias que pasan a la circulación, y **las derivaciones** (shunts) cambian el flujo venoso. La **ascitis** es el líquido en la cavidad peritoneal y la **circulación colateral** (cabeza de medusa) es una derivación portosistémica visible. La **ictericia** es la coloración amarillenta de piel y mucosas por exceso de bilirrubina: la total normal es de 0,8-1,2 mg/dl y la ictericia es visible por encima de 2 mg/dl (cuidado con ancianos y con la ingesta de carotenos).",
+"El **angioma en araña** es una dilatación arteriolar central con capilares radiados que **blanquea a la presión**; aparece en la hepatopatía alcohólica (relacionado con varices) y por exceso de **estrógenos no metabolizados** (embarazo, ACO, hipertiroidismo). La **telangiectasia** es una dilatación persistente de capilares **sin arteriola central** y **no blanquea**; se ve en la hepatopatía crónica, también por estrógenos no metabolizados.",
+"Otros signos: **ginecomastia**, **contractura de Dupuytren** (fibrosis progresiva de la fascia palmar; hepatopatía alcohólica, mecanismo incierto, a veces con eritema palmar) y hematomas cutáneos."],
+tip:"Araña vascular: arteriola central y blanquea. Telangiectasia: sin arteriola y no blanquea."},
+{h:"Las pruebas hepáticas: tres preguntas",ref:"32-36",p:[
+"**¿Funciona el hígado? (función hepatocelular).** Bilirrubina total (fracaso de captación, conjugación o excreción), **albúmina** (síntesis hepática, vida media larga), **tiempo de protrombina** (refleja la síntesis de los factores I, II, V, VII, IX, X, XI y XII; los dependientes de vitamina K son II, VII, IX y X —test de Koller—; el factor VIII se produce en los sinusoides hepáticos) y **amoniemia** (insuficiencia hepática o shunt portosistémico).",
+"**¿Hay colestasis?** Bilirrubina directa (conjugada), **fosfatasa alcalina** y **GGT**. Sus patrones: **verdadera** (BD ↑, FA ↑, GGT ↑); **disociada** (BD normal, FA ↑, GGT ↑); **de origen extrahepático** como el óseo o el embarazo (BD N, FA ↑, GGT N); y la **debida a alcohol o fármacos** (BD N, FA N, GGT ↑).",
+"**¿Hay destrucción de hepatocitos? (citólisis).** Las transaminasas: **GOT/AST** (corazón, músculo, riñón e hígado; vida media 15-20 h; poco dependiente de B6) y **GPT/ALT** (hígado y riñón; vida media 1,5-2 días; muy dependiente de B6), más específica del hígado. La LDH no es específica de tejido. A todo ello se suman pruebas de imagen (Rx, ecografía, TAC, RMN), endoscopia, manometría y biopsia."]}],
+esq:[
+{t:"chain",title:"Orden de la exploración abdominal (diap. 3)",ref:"3",steps:["Inspección: forma, superficie, hallazgos abdominales y extraabdominales","Auscultación: ruidos hidroaéreos, soplos","Palpación: hígado, bazo, riñón","Percusión: timpanismo, matidez, ascitis (flancos, cambiante, oleada)"]},
+{t:"levels",title:"Signos cutáneos: del hígado enfermo a lo que se ve (diap. 7-17)",ref:"7-17",levels:[
+{label:"Hígado",items:["Hepatopatía crónica / alcohólica"],arrow:"consecuencias"},
+{label:"Mecanismos",items:["Estrógenos no metabolizados","Bilirrubina elevada","Shunts portosistémicos","Fibrosis de la fascia palmar (mecanismo incierto)"],arrow:"se manifiestan como"},
+{label:"Signos",items:["Angiomas en araña y telangiectasias","Ginecomastia","Ictericia (> 2 mg/dl)","Cabeza de medusa y ascitis","Dupuytren, eritema palmar, hematomas"]}]},
+{t:"branch",title:"Tres preguntas, tres grupos de pruebas (diap. 32-36)",ref:"32-36",root:"Sospecha de hepatopatía",branches:[
+{label:"¿Funciona? (hepatocelular)",steps:["Bilirrubina total · albúmina","Tiempo de protrombina · amonio"]},
+{label:"¿Hay colestasis?",steps:["Bilirrubina directa","Fosfatasa alcalina · GGT"]},
+{label:"¿Hay citólisis?",steps:["AST/GOT (múltiples tejidos)","ALT/GPT (más específica del hígado) · LDH"]}]}],
+drop:["Orden de la exploración abdominal (diap. 3)","Pruebas hepáticas por función"]
+};
+
+U[15]={
+intro:"Este tema recorre el tubo digestivo alto siguiendo el **camino del alimento**: tragar (esófago), que no vuelva (reflujo), vaciarse bien (estómago) y secretar el ácido justo. En cada paso hay que distinguir **si el problema es mecánico (algo obstruye) o funcional (algo no se mueve o no se regula bien)**.",
+explica:[
+{h:"Cómo se explora el esófago",ref:"5",p:[
+"Las pruebas **funcionales** miden cómo trabaja: la **manometría** valora la capacidad propulsiva y el tono de los esfínteres esofágicos superior e inferior, y la **pHmetría de 24 h** es la prueba más precisa para saber si los mecanismos antirreflujo funcionan. Las **morfológicas** miran la estructura: la **endoscopia** es la técnica de elección en patología orgánica (permite biopsias), la ecoendoscopia estudia lesiones submucosas, sobre todo neoplásicas, y la radiología con bario está en desuso."]},
+{h:"Disfagia: dificultad para tragar",ref:"6-11",p:[
+"La primera pregunta es **en qué fase** falla. En la **fase orofaríngea** el paciente no logra **iniciar** la deglución (causas mecánicas como tumores, o funcionales: neurológicas o vasculares como ictus y demencia, pares craneales, unión neuromuscular como la miastenia gravis, musculatura faríngea como la dermatomiositis-polimiositis, infecciones orales); se nota en la garganta, con regurgitación nasal, atragantamiento y aspiración. En la **fase esofágica** la sensación es de **detención** del bolo, retroesternal, segundos después de tragar.",
+"La segunda pregunta es **qué se traga mal**, porque orienta la causa. Si falla con **sólidos**, piensa en **mecánica**: intraluminal (cuerpos extraños), de la pared (tumor, anillo, estenosis péptica, cáustica o postradiación, atresia) o extraparietal (tumores y adenopatías mediastínicas, quistes, bocios, divertículo de Zenker, aneurisma aórtico, hipertrofia auricular izquierda, osteofitos). Si es **progresiva**, sospecha neoplasia o cicatriz; si es **intermitente**, anillos o divertículos. El **síndrome de Plummer-Vinson** combina ferropenia y una membrana cerca del esfínter esofágico superior.",
+"Si falla con **sólidos y líquidos**, piensa en **funcional**: miopática (autoinmune como DM-PM o esclerodermia) o neuropática. La **acalasia** no relaja el esfínter esofágico inferior y además disminuye la peristalsis del cuerpo; es progresiva y su causa puede ser idiopática, quirúrgica (vagotomía), paraneoplásica o infecciosa (Chagas); produce disfagia en el 90 % y regurgitación no ácida. El **espasmo esofágico difuso** es el contrario: contracciones potentes y duraderas, de curso intermitente.",
+"Otros síntomas asociados: **odinofagia** (deglución dolorosa), **bolo esofágico** (nudo no relacionado con tragar), dolor centrotorácico constrictivo (más común en trastornos motores), **regurgitación no ácida** (en decúbito, con halitosis pútrida) y síntomas sistémicos (pérdida de peso, desnutrición)."],
+tip:"Solo sólidos = mecánica. Sólidos y líquidos = funcional (acalasia, espasmo)."},
+{h:"Reflujo gastroesofágico (ERGE)",ref:"13-14,31",p:[
+"El reflujo ocurre cuando falla la barrera del cardias o cuando hay más presión de la que la barrera aguanta. Las causas son el **aumento de la presión intragástrica** (obesidad, embarazo, ascitis, retención de contenido gástrico, decúbito), el **fallo de los mecanismos antirreflujo** (defecto de la pinza diafragmática, es decir, hernia de hiato, o menor tono del EEI) y la alteración anatómica del cardias.",
+"Disminuyen el tono del cardias el aumento del pH gástrico, secretina/CCK, β-adrenérgicos, estrógenos y progestágenos, xantinas, antagonistas del calcio, comidas grasas o copiosas, alcohol, nicotina y VIP/NO. Lo aumentan gastrina, motilina, α-adrenérgicos, comidas proteicas y mayor presión abdominal.",
+"La clínica local es la **pirosis** (quemazón ascendente, más intensa tras las comidas y en decúbito), la regurgitación ácida y la **esofagitis**, que puede evolucionar a estenosis (disfagia), anemia ferropénica o metaplasia columnar: el **esófago de Barrett**, que es **premaligno**. Las manifestaciones extradigestivas son tos, broncoespasmo, pérdida de esmalte dental, disfonía y dolor torácico."]},
+{h:"El vómito y sus consecuencias",ref:"19-21",p:[
+"El **vómito** es la expulsión brusca y forzada de contenido gástrico o intestinal, precedida de náuseas; si las contracciones no bastan, hay arcadas. Se produce por aumento de la presión intraabdominal, contracciones antiperistálticas esofágicas y retrógradas duodenales, elevación del velo del paladar y cierre de la glotis. Lo coordina el **centro del vómito** (formación reticular bulbar dorsal), que recibe información de la zona gatillo (área postrema), los mecanorreceptores viscerales, el sistema vestibular, las influencias psíquicas y la compresión directa (HTIC); las vías son el vago, el frénico y las espinales.",
+"Sus consecuencias son **digestivas** (rotura esofágica: **Boerhaave**; desgarro cardial: **Mallory-Weiss**), **extradigestivas** (aspiración: **Mendelson**) y **sistémicas**: deshidratación, desnutrición, **alcalosis metabólica hipoclorémica con hipopotasemia**, hiponatremia e hipocalcemia."],
+tip:"Vómito → pierdes HCl y K⁺ → alcalosis metabólica hipoclorémica + hipopotasemia."},
+{h:"Vaciamiento gástrico: lento o demasiado rápido",ref:"22-25",p:[
+"El **retraso** puede ser por **obstrucción del tracto de salida** (intrínseca: úlcera, tumor, hipertrofia congénita del píloro, cuerpos extraños; extrínseca: cáncer de páncreas) o por **gastroparesia** (miopática como esclerodermia; neuropática como vagotomía, disautonomía/DM, opiáceos o anticolinérgicos; metabólica; por irritación peritoneal; fitobezoares).",
+"La obstrucción evoluciona en dos fases: la **de lucha**, con hiperperistaltismo, dolor cólico epigástrico e hipersecreción; y la **de atonía**, con dolor continuo, distensión y **vómitos de retención** tardíos, copiosos y malolientes, con deshidratación y alcalosis hipoclorémica.",
+"El **dumping** es la aceleración del vaciamiento tras cirugía resectiva: **precoz** (≈ 30 min tras comer) y **tardío** (2-3 h tras la ingesta)."]},
+{h:"Secreción gástrica: de menos a más ácido",ref:"26-30",p:[
+"Estimulan la secreción el nervio vago (acetilcolina), la **gastrina** y la **histamina** (enterocromafines, mastocitos); la inhibe la **somatostatina** de las células D. La ingesta es el estímulo más potente.",
+"La **hiposecreción** aparece con la resección del fundus o cuerpo, la gastritis crónica atrófica, hipotiroidismo, IR, desnutrición, vagotomía y antisecretores (IBP, anti-H2). La **gastritis atrófica tipo A** es autoinmune y corporal difusa: aquilia, déficit de factor intrínseco, déficit de B12 en el íleon terminal y, con ello, anemia perniciosa/megaloblástica o síndrome cordonal posterior. La **tipo B** es multifocal (cuerpo y antro) y por infección por H. pylori; se asocia a úlcera y cáncer gástrico. La clínica: déficit de B12 (glositis, ataxia sensitiva), ferropenia, sobrecrecimiento bacteriano e infecciones orales.",
+"La **hipersecreción** viene del aumento de acetilcolina, de **gastrina** (síndrome del antro excluido tras Billroth II; **Zollinger-Ellison**: gastrinoma con úlceras múltiples, recidivantes y atípicas, y diarrea crónica; hiperplasia de células G), de histamina (mastocitosis, cirrosis), de calcio (hiperparatiroidismo), de la pérdida de inhibidores (resección duodenal) y de **H. pylori** (la gastritis antral baja las células D y estimula las G: hiperclorhidria y úlcera duodenal). Cursa con dispepsia, úlceras, alcalosis metabólica por vómitos, RGE y diarrea. **H. pylori** se diagnostica con biopsia, test del aliento con urea marcada con C13 (ureasa) o antígeno en heces."]}],
+esq:[
+{t:"branch",title:"Disfagia esofágica: mecánica o funcional (diap. 8-10, 31)",ref:"8-10,31",root:"Detención del bolo en el esófago",branches:[
+{label:"Solo sólidos → mecánica",steps:["Obstáculo en la luz, la pared o fuera del esófago","Progresiva: neoplasia, cicatriz · Intermitente: anillos, divertículos"]},
+{label:"Sólidos y líquidos → funcional",steps:["Trastorno motor miopático o neuropático","Acalasia (progresiva) · Espasmo difuso (intermitente)"]}]},
+{t:"chain",title:"Acalasia (diap. 9-10)",ref:"9-10",steps:["Causa: idiopática, quirúrgica (vagotomía), paraneoplásica o Chagas","El EEI no se relaja y el cuerpo del esófago pierde peristalsis","Retención del alimento: disfagia progresiva (90 %)","Regurgitación no ácida en decúbito, halitosis pútrida, pérdida de peso"]},
+{t:"levels",title:"Reflujo gastroesofágico: causas, clínica y complicaciones (diap. 13-14)",ref:"13-14",levels:[
+{label:"Causas",items:["↑ presión intragástrica (obesidad, embarazo, ascitis)","Hernia de hiato (pinza diafragmática)","↓ tono del EEI"],arrow:"fallo de la barrera antirreflujo"},
+{label:"Reflujo",items:["Contenido ácido asciende al esófago"],arrow:"síntomas"},
+{label:"Clínica",items:["Pirosis, regurgitación ácida","Extradigestiva: tos, broncoespasmo, disfonía, pérdida de esmalte"],arrow:"si se mantiene"},
+{label:"Complicaciones",items:["Esofagitis → estenosis (disfagia), anemia ferropénica","Metaplasia columnar: esófago de Barrett (premaligno)"]}]},
+{t:"chain",title:"Vómito: de la causa a la alcalosis (diap. 19-21)",ref:"19-21",steps:["Estímulo: zona gatillo, vísceras, vestíbulo, psique, HTIC","Centro del vómito (formación reticular bulbar dorsal)","Vómito: ↑ presión abdominal, antiperistaltismo, cierre de glotis",["Pérdida de HCl y K⁺, de agua y sodio","consecuencias sistémicas"],"Alcalosis metabólica hipoclorémica + hipopotasemia, deshidratación, hiponatremia"]},
+{t:"levels",title:"Obstrucción pilórica: dos fases (diap. 23-24)",ref:"23-24",levels:[
+{label:"Causa",items:["Úlcera, tumor, hipertrofia del píloro","Cáncer de páncreas (extrínseca)"],arrow:"fase de lucha"},
+{label:"Lucha",items:["Hiperperistaltismo","Dolor cólico epigástrico","Hipersecreción"],arrow:"fase de atonía"},
+{label:"Atonía",items:["Dolor continuo y distensión","Vómitos de retención: tardíos, copiosos, malolientes","Deshidratación y alcalosis hipoclorémica"]}]},
+{t:"branch",title:"Secreción gástrica: hipo e hipersecreción (diap. 26-30)",ref:"26-30",root:"Equilibrio entre estimuladores (vago, gastrina, histamina) e inhibidor (somatostatina)",branches:[
+{label:"Hiposecreción",steps:["Gastritis atrófica (A autoinmune, B por H. pylori), vagotomía, IBP/anti-H2","Sin factor intrínseco → déficit de B12; ferropenia; SIBO","Anemia perniciosa, glositis, síndrome cordonal posterior"]},
+{label:"Hipersecreción",steps:["Gastrina (Zollinger-Ellison, antro excluido), histamina, calcio, H. pylori","↑ ácido","Dispepsia, úlceras múltiples, RGE, diarrea, alcalosis"]}]}],
+drop:["Reflujo gastroesofágico: causas → clínica","Disfagia esofágica: mecánica vs funcional"]
+};
+
+U[16]={
+intro:"Para asimilar un nutriente hay que **digerirlo** (romperlo en piezas pequeñas) y **absorberlo** (pasarlo a la sangre o la linfa). Si falla la primera parte hablamos de **maldigestión**; si falla la segunda, de **malabsorción**. Las preguntas giran siempre en torno a **dónde** falla la cadena.",
+explica:[
+{h:"Qué es cada cosa y dónde se absorbe cada nutriente",ref:"4-7",p:[
+"La **maldigestión** tiene origen **gástrico, pancreático o biliar**; la **malabsorción**, en la reducción de la superficie útil, las lesiones de la pared, el aporte sanguíneo (transporte vascular) y la obstrucción linfática.",
+"Conviene saber el mapa de la absorción: el **duodeno** absorbe calcio, hierro, lípidos y vitaminas; el yeyuno proximal, las liposolubles (A, D, E, K); el yeyuno, glúcidos, aminoácidos y folatos; el **íleon, sales biliares y B12**; y el colon, agua y electrolitos. Por eso una lesión en un tramo produce un déficit concreto."]},
+{h:"Los tres mecanismos de maldigestión",ref:"8-11",p:[
+"**Gástrica**: tras una cirugía de Billroth I (el vaciado es demasiado rápido) o de Billroth II (se pierde la sincronía entre estómago y páncreas).",
+"**Pancreática** (insuficiencia pancreática exocrina): puede fallar la **secreción** (pancreatitis crónica), el **estímulo** con secreción normal (asincronía gastro-pancreática o lesión duodenal que reduce la CCK) o la **actividad de las enzimas** con secreción y estímulo normales (hiperclorhidria).",
+"**Biliar**: por menor **producción** (insuficiencia hepática), **colestasis** (obstrucción del flujo), **desactivación** de las sales en la luz intestinal (hiperclorhidria, insuficiencia pancreática, SIBO) o menor **reabsorción ileal** (cirugía, enfermedad inflamatoria intestinal)."],
+tip:"Maldigestión: gástrica, pancreática y biliar."},
+{h:"Los mecanismos de malabsorción",ref:"12-15",p:[
+"**Menos superficie útil**: el síndrome de intestino corto (resecciones > 50 %, sobre todo del primer metro de yeyuno; en adultos por EII, isquemia mesentérica, enteritis rádica o cirugía de la obesidad; en niños, por enterocolitis necrotizante). **Lesiones de la pared**: infecciosas (giardiasis), físicas (radioterapia) o autoinmunes (celiaquía).",
+"**Transporte vascular**: congestión venosa (insuficiencia cardiaca, hepatopatía) o aterosclerosis (menor flujo mesentérico). **Obstrucción linfática**: congénita (linfangiectasias intestinales), infecciosa (tuberculosis) o tumoral (linfoma)."]},
+{h:"Cómo se manifiesta",ref:"18-21",p:[
+"El cuadro **clásico** es la diarrea espumosa con desnutrición, pérdida de peso y distensión abdominal; en la **práctica actual**, a menudo hay diarrea crónica (aunque no siempre), síntomas abdominales inespecíficos, pérdida de peso, anemia y cuadros carenciales.",
+"Lo que **no se digiere ni absorbe** pasa al colon: provoca diarrea osmótica y secretora, y la fermentación cólica produce gas y volumen (distensión y meteorismo). También favorece la litiasis biliar y, sorprendentemente, los **cálculos renales por hiperoxaluria**: las grasas y las sales biliares quelan el calcio, el colon absorbe más oxalato y, sin calcio para fijarlo, el oxalato se elimina por la orina y forma cálculos.",
+"El **déficit de nutrientes** da desnutrición proteico-calórica: pérdida de peso y de masa muscular; con componente calórico (colesterol, vitaminas liposolubles) y proteico (albúmina, edemas)."]},
+{h:"Dos cuadros concretos: SIBO e intolerancia a la lactosa",ref:"23-24",p:[
+"El **sobrecrecimiento bacteriano (SIBO)** es un exceso de bacilos Gram − y anaerobios en la luz, favorecido por la **hipoclorhidria** y la **hipomotilidad** (DM, esclerodermia, obstrucción, divertículos). Las bacterias consumen glúcidos, proteínas y **B12** (aunque producen folatos), **desconjugan las sales biliares** (déficit de liposolubles, menos vitamina K), alteran las disacaridasas y producen pérdida insensible de sangre (ferropenia), con pérdida de peso y de masa muscular.",
+"La **intolerancia a la lactosa** es déficit de lactasa: la lactosa no se desdobla en glucosa y galactosa, llega al colon y se fermenta a ácidos grasos de cadena corta, CO₂ y H₂, con diarrea de heces ácidas y meteorismo. Se diagnostica con **H₂ en aliento**."]},
+{h:"Cómo se diagnostica",ref:"26-30",p:[
+"Orden lógico: **heces → pruebas funcionales → tránsito baritado**. El **examen de heces** puede ser macroscópico (cantidad, consistencia, sangre, moco, pus, color), microscópico (fibras musculares: **creatorrea**; almidón: **amilorrea**; grasas) o químico (α1-antitripsina fecal: enteropatía pierdeproteínas; sangre oculta; **calprotectina**: inflamación; **elastasa fecal**: insuficiencia pancreática).",
+"Las **pruebas funcionales** estudian cada digestión: hidratos (H₂ en aliento para lactasa y SIBO, test de gaxilosa, D-xilosa), proteínas (elastasa fecal), lípidos (**Van de Kamer**: heces de 72 h tras una sobrecarga de grasa) y vitaminas (**test de Schilling**: B12 oral e intramuscular, añadiendo factor intrínseco, enzima pancreática o antibiótico para localizar el defecto)."]}],
+esq:[
+{t:"levels",title:"Dónde se absorbe cada nutriente (diap. 4)",ref:"4",levels:[
+{label:"Duodeno",items:["Calcio","Hierro","Lípidos","Vitaminas"],arrow:"siguiente tramo"},
+{label:"Yeyuno",items:["Liposolubles A, D, E, K (proximal)","Glúcidos","Aminoácidos","Folatos"],arrow:"siguiente tramo"},
+{label:"Íleon",items:["Sales biliares","Vitamina B12"],arrow:"siguiente tramo"},
+{label:"Colon",items:["Agua","Electrolitos"]}]},
+{t:"branch",title:"Maldigestión: tres puntos de fallo (diap. 8-11)",ref:"8-11",root:"Los nutrientes no se rompen en piezas absorbibles",branches:[
+{label:"Gástrica",steps:["Billroth I: vaciado rápido","Billroth II: asincronía gastro-pancreática"]},
+{label:"Pancreática",steps:["Secreción alterada: pancreatitis crónica","Estímulo alterado: ↓ CCK, asincronía","Actividad enzimática: hiperclorhidria"]},
+{label:"Biliar",steps:["↓ producción: insuficiencia hepática","Colestasis: obstrucción","Desactivación (SIBO, hiperclorhidria) · ↓ reabsorción ileal"]}]},
+{t:"branch",title:"Malabsorción: cuatro puntos de fallo (diap. 12-15)",ref:"12-15",root:"Los nutrientes digeridos no pasan a la sangre o la linfa",branches:[
+{label:"↓ Superficie",steps:["Resección > 50 %","Intestino corto"]},
+{label:"Pared lesionada",steps:["Giardiasis, radioterapia, celiaquía"]},
+{label:"Vascular",steps:["Congestión venosa (IC, hepatopatía)","Aterosclerosis mesentérica"]},
+{label:"Linfática",steps:["Linfangiectasia, TBC, linfoma"]}]},
+{t:"chain",title:"Hiperoxaluria en la malabsorción de grasas (diap. 20)",ref:"20",steps:["Grasas y sales biliares no absorbidas llegan al colon","Quelan el calcio de la luz intestinal","Se absorben más oxalatos en el colon; falta calcio para fijarlos en la orina","Hiperoxaluria → nefrolitiasis (cálculos renales)"]},
+{t:"chain",title:"SIBO: del defecto de defensa al déficit (diap. 23)",ref:"23",steps:["Hipoclorhidria o hipomotilidad (DM, esclerodermia, obstrucción, divertículos)","Sobrecrecimiento de bacilos Gram − y anaerobios en la luz","Consumen glúcidos, proteínas y B12 · desconjugan sales biliares · alteran disacaridasas","Pérdida de peso y de masa muscular · déficit de liposolubles · ferropenia"]}],
+drop:["Maldigestión pancreática (diap. 9)"]
+};
+
+U[17]={
+intro:"Aquí hay tres «atascos» del tránsito intestinal: la **diarrea** (pasa demasiado rápido o con demasiada agua), el **estreñimiento** (pasa lento o no se evacúa) y el **íleo** (no pasa). Lo más importante es razonar **el mecanismo**, porque de él se deduce el tipo de diarrea y de íleo.",
+explica:[
+{h:"Diarrea: qué es y cómo se orienta",ref:"5-7",p:[
+"La **diarrea** es el aumento de la frecuencia y el volumen y/o la pérdida de consistencia de las heces; la definición teórica es un **peso de heces > 200 g/día** con dieta pobre en fibra. Lo primero es **confirmarla** y descartar la pseudodiarrea (más frecuencia sin más volumen: colon irritable, proctitis), la incontinencia fecal y la diarrea por desbordamiento.",
+"Se clasifica por duración (aguda o crónica, a partir de 2-3 semanas) y por origen. La del **intestino delgado** tiene mucho volumen, sin productos patológicos, con dolor periumbilical y sin síndrome rectal. La **cólica** tiene poco volumen, con productos patológicos (moco, sangre, pus), dolor en hemiabdomen inferior, hipogastrio o sacro, y **síndrome rectal** (proctalgia, tenesmo, urgencia)."]},
+{h:"Los cuatro mecanismos de la diarrea",ref:"8-21",p:[
+"**Secretora**: el intestino **secreta** más líquido y electrolitos. Por estímulos secretagogos endógenos (maldigestión-malabsorción de ácidos grasos, fallo de reabsorción ileal de sales biliares, péptidos tumorales como gastrina, VIP o serotonina del carcinoide) o exógenos (enterotoxinas bacterianas); por desequilibrio de la inervación autónoma (el estímulo α-adrenérgico aumenta la absorción y se daña en DM o amiloidosis); o por lesión de vellosidades con hipertrofia de criptas (rotavirus, Norwalk, Cryptosporidium, Giardia, celiaquía).",
+"**Osmótica**: hay **solutos no absorbibles** que atraen agua a la luz. Exógenos: laxantes (Mg²⁺, lactulosa), antiácidos con Mg²⁺, sorbitol, manitol, xilitol, colchicina, colestiramina, neomicina; endógeno: la malabsorción.",
+"**Exudativa**: una **lesión orgánica de la pared** deja productos patológicos (PMN en heces) y el mecanismo es mixto; suele ser cólica. Puede ser infecciosa (enteroinvasiva, citotóxica, C. difficile), inflamatoria (EII), isquémica o tumoral. **Motora**: se acelera el tránsito (hipertiroidismo, colon irritable) y hay menos contacto entre nutrientes y mucosa.",
+"Las consecuencias son deshidratación, depleción hidroelectrolítica (hipopotasemia), **acidosis metabólica** (pérdida de bicarbonato) e hiperaldosteronismo secundario por compensación renal."]},
+{h:"Osmótica o secretora: cómo distinguirlas",ref:"18",p:[
+"El **ayuno** lo separa casi todo: la diarrea **osmótica disminuye** porque dejas de ingerir el soluto; la **secretora no disminuye** (salvo la mediada por sales biliares). En las heces, la **osmolalidad** y el **hiato osmolal** están elevados en la osmótica y normales en la secretora, y el **pH** es ácido en la osmótica y normal en la secretora."],
+tip:"Osmótica: cede con el ayuno, hiato osmolal alto, pH ácido. Secretora: no cede, hiato normal."},
+{h:"Estreñimiento",ref:"24-28",p:[
+"Es el retraso en la evacuación: **< 3 deposiciones/semana** o ≥ 3 días entre deposiciones, < 35 g/día y heces escasas y duras. Sus causas pueden estar en el **SNC** (depresión, anorexia, ictus, Parkinson, EM, lesiones medulares), en el **colon** (tránsito lento u obstáculos mecánicos como tumores o estenosis) o en la **evacuación rectal**.",
+"El tránsito cólico se altera por dieta pobre en fibra, fármacos (anticolinérgicos, calcio-antagonistas), miopatías (esclerodermia), neuropatías (DM, Hirschsprung, vagotomía), causas endocrinas (hipotiroidismo, hiperparatiroidismo, embarazo) y metabólicas (hipoK, hiperCa). La evacuación rectal falla por causas orgánicas (tumor, estenosis), neurológicas (menor sensibilidad rectal, lesión del arco reflejo) o musculares (suelo pélvico, diafragma y pared abdominal; multíparas, ancianos).",
+"Si se mantiene: hernias, disquecia, lesiones anales (fisuras, hemorroides), obstrucción por fecaloma y, a largo plazo, desarrollo de cáncer."]},
+{h:"Íleo: cuando el tránsito se detiene",ref:"29-34",p:[
+"El **íleo** es la **interrupción completa** del tránsito intestinal. Según el mecanismo es **mecánico** (algo lo obstruye o lo estrangula) o **funcional** (el intestino deja de moverse bien: paralítico o espástico).",
+"El **mecánico por obstrucción** puede ser intraluminal (íleo biliar), parietal (tumor, cicatriz o estenosis por isquemia o infección) o extraluminal (bridas, tumor abdominal); además existe el **estrangulamiento**. El **paralítico** lo producen procesos extraintestinales que frenan por completo la motilidad: irritación peritoneal (trauma, infección), enfermedad sistémica aguda y grave (neumonía, infarto, ictus) y alteraciones hidroelectrolíticas (hipoK, hiperCa). El **espástico** se debe a contracciones asincrónicas e ineficaces (porfiria aguda intermitente, uremia, intoxicación por plomo).",
+"La clínica es lógica: **cese de la emisión de gases y heces**, distensión con ruidos hidroaéreos patológicos, dolor abdominal y vómitos; con repercusión general por depleción hidrosalina, hipopotasemia y trastorno ácido-base."]}],
+esq:[
+{t:"branch",title:"Los cuatro mecanismos de diarrea (diap. 8-21)",ref:"8-21",root:"Más agua y menos consistencia en las heces",branches:[
+{label:"Secretora",steps:["↑ secreción de líquidos y electrolitos","Enterotoxinas, VIP, gastrina, carcinoide, rotavirus, celiaquía","No cede con el ayuno"]},
+{label:"Osmótica",steps:["Solutos no absorbibles atraen agua","Lactulosa, Mg²⁺, sorbitol, malabsorción","Cede con el ayuno"]},
+{label:"Exudativa",steps:["Lesión orgánica de la pared","C. difficile, EII, isquemia, tumor","PMN y productos patológicos"]},
+{label:"Motora",steps:["Tránsito acelerado","Hipertiroidismo, colon irritable","Menos contacto con la mucosa"]}]},
+{t:"levels",title:"Consecuencias de la diarrea (diap. 22)",ref:"22",levels:[
+{label:"Pérdida",items:["Agua","Electrolitos","Bicarbonato"],arrow:"producen"},
+{label:"Consecuencias",items:["Deshidratación","Hipopotasemia","Acidosis metabólica"],arrow:"el riñón compensa"},
+{label:"Respuesta",items:["Hiperaldosteronismo secundario"]}]},
+{t:"chain",title:"Estreñimiento: de la causa a la complicación (diap. 24-28)",ref:"24-28",steps:["Causa: SNC · tránsito cólico lento (fibra, fármacos, endocrino, metabólico) · obstáculo mecánico · fallo de evacuación rectal","< 3 deposiciones/semana; heces escasas y duras","Complicaciones: hernias, disquecia, fisuras, hemorroides, fecaloma","A largo plazo: desarrollo de cáncer"]},
+{t:"branch",title:"Tipos de íleo y ejemplos (diap. 30-33)",ref:"30-33",root:"Interrupción completa del tránsito intestinal",branches:[
+{label:"Mecánico: obstrucción",steps:["Intraluminal: íleo biliar","Parietal: tumor, cicatriz, estenosis","Extraluminal: bridas, tumor abdominal"]},
+{label:"Mecánico: estrangulamiento",steps:["Estrangulamiento (tipo de íleo mecánico)"]},
+{label:"Funcional: paralítico",steps:["Irritación peritoneal","Neumonía, infarto, ictus","Alteraciones hidroelectrolíticas: hipoK, hiperCa"]},
+{label:"Funcional: espástico",steps:["Contracciones asincrónicas","Porfiria aguda intermitente, uremia, plomo"]}]},
+{t:"chain",title:"Clínica del íleo (diap. 34)",ref:"34",steps:["Tránsito interrumpido","Cese de gases y heces","Distensión · ruidos hidroaéreos patológicos · dolor · vómitos","Depleción hidrosalina, hipopotasemia, acidosis/alcalosis"]}],
+drop:["Tipos de íleo y ejemplos (diap. 30-33)","Mecanismos de la diarrea (diap. 8-21)"]
+};
+
+U[18]={
+intro:"La insuficiencia hepática es el **fracaso global del hígado**. Se entiende organizándola en tres planos: lo que el hígado **deja de fabricar** (síntesis), lo que **deja de eliminar** (depuración) y lo que ocurre cuando la sangre **se salta el hígado** (shunts), que desemboca en la **encefalopatía hepática**.",
+explica:[
+{h:"Qué hace el hígado y qué es su fracaso",ref:"7-11",p:[
+"El hígado integra tres funciones solapadas: **metabolismo, digestión y defensa**. En la digestiva produce y excreta **bilis** (digestión de grasas y absorción de vitaminas liposolubles A, D, E y K); en la defensiva actúa como filtro **antitranslocación bacteriana intestinal** gracias a las células de Kupffer (sistema monocito-macrofágico). La **insuficiencia hepática** es el fracaso global de las funciones del parénquima."]},
+{h:"Cómo se daña: del tóxico a la cirrosis",ref:"12-14",p:[
+"Alcohol, otros tóxicos (hierro, cobre, medicamentos), obesidad y virus B y C actúan sobre hepatocitos y células de Kupffer. Generan radicales libres de oxígeno y **TNF-α**, que causan necrosis y apoptosis; las citocinas proinflamatorias provocan inflamación; y el **TGF-β** activa las células de Ito, que producen **fibrosis** (fibrogénesis).",
+"La lesión crónica evoluciona durante 5 a 50 años: hígado normal → fibrosis precoz → **cirrosis** (arquitectura alterada y pérdida de función) → fracaso hepático, hipertensión portal, carcinoma hepatocelular o trasplante."]},
+{h:"Lo que el hígado deja de hacer: síntesis y depuración",ref:"16-17",p:[
+"En el **fracaso de síntesis** cae todo lo que fabricaba: de **glúcidos**, hiperglucemia moderada y, si es grave, hipoglucemia, convulsiones y coma; de **lípidos**, hipocolesterolemia y déficit de LCAT (acantocitos y dianocitos); de **proteínas**, hipoalbuminemia y diátesis hemorrágica con alargamiento del TP/INR; y de **vitamina D**, hipocalcemia y osteoporosis.",
+"En el **fracaso de depuración** se acumula lo que debía eliminar: **bilirrubina** (ictericia), **bilis** (colestasis), **gérmenes y toxinas** (más infecciones e hipergammaglobulinemia policlonal), **amonio y aminoácidos aromáticos** (fenilalanina, tirosina, triptófano; llevan a encefalopatía) y **hormonas** (hipogonadismo e hiperestrogenismo)."]},
+{h:"Shunts portosistémicos e hipertensión portal",ref:"18-20",p:[
+"La sangre del intestino debería pasar por el hígado antes de llegar al resto del cuerpo. Cuando se desvía, hablamos de **shunt**: en el fracaso **agudo** es **funcional** (intrahepático) y en el **crónico** es **anatómico** (extrahepático, con colaterales portosistémicas). La **hipertensión portal** se manifiesta con varices, ascitis, peritonitis bacteriana espontánea, encefalopatía y síndrome hepatorrenal."]},
+{h:"Encefalopatía hepática: el desenlace neurológico",ref:"21-24",p:[
+"El mecanismo central es el **efecto neurotóxico**: productos intestinales no metabolizados llegan a la circulación sistémica y **atraviesan la barrera hematoencefálica**. Se organiza en tres niveles: **predisponente** (el shunt portosistémico), **condicionante** (tóxicos intestinales como NH₃, mercaptanos y ácidos grasos de cadena corta; alteración de neurotransmisores; depósito de manganeso en ganglios basales) y **desencadenantes**: ingesta proteica, estreñimiento, sedantes y tóxicos, infección, diuréticos o insuficiencia renal y hemorragia digestiva.",
+"El **amonio** actúa en el astrocito: aumenta la **glutamina** y produce **edema cerebral**, reduce el glutamato (defecto de neurotransmisión excitadora y depleción de ATP neuronal), y el triptófano aumenta la serotonina (exceso de neurotransmisión inhibidora); en la microglía provoca estrés oxidativo y neuroinflamación.",
+"La clínica: **asterixis**, **fetor hepático**, alteración conductual (síndrome confusional agudo), alteración del nivel de conciencia e hipertensión intracraneal. Hay **NH₃ elevado** y un EEG enlentecido inespecífico (ondas theta y delta)."],
+tip:"Predisponente = shunt. Condicionante = NH₃ y otros tóxicos. Desencadenantes: proteínas, estreñimiento, sedantes, infección, diuréticos/IR, hemorragia digestiva."},
+{h:"Pruebas en el fracaso agudo y pronóstico",ref:"26-28",p:[
+"El fracaso metabólico se ve en la ictericia/bilirrubina y el TP/INR; el shunt, en la encefalopatía. La bilirrubina total refleja fracaso de captación, conjugación o excreción; el tiempo de protrombina refleja la síntesis de I, II, V, VII, IX, X, XI y XII (dependientes de vitamina K: II, VII, IX y X, test de Koller; el factor VIII se produce en los sinusoides hepáticos).",
+"Para el pronóstico se usan los **criterios del King's College** (para causa no paracetamol; la diapositiva no recoge los del paracetamol): TP > 100 s (INR > 6,5) con independencia del grado de encefalopatía, o 3 de estos: edad < 11 o > 40 años; etiología no A/no B, halotano o reacciones idiosincrásicas a fármacos; ictericia > 7 días antes de la encefalopatía; TP > 50 s (INR > 3,5); bilirrubina > 17 mg/dl (300 µmol/l)."]}],
+esq:[
+{t:"levels",title:"Del agente al daño hepático (diap. 12-14)",ref:"12-14",levels:[
+{label:"Agente",items:["Alcohol","Hierro, cobre, fármacos","Obesidad","Virus B y C"],arrow:"actúan sobre hepatocitos y células de Kupffer"},
+{label:"Mediadores",items:["Radicales libres de O₂ y TNF-α → necrosis, apoptosis","Citocinas → inflamación","TGF-β → activa células de Ito"],arrow:"con el tiempo (5-50 años)"},
+{label:"Evolución",items:["Fibrosis precoz → CIRROSIS"],arrow:"complicaciones"},
+{label:"Desenlace",items:["Insuficiencia hepática","Hipertensión portal","Carcinoma hepatocelular","Trasplante"]}]},
+{t:"branch",title:"Insuficiencia hepática: síntesis, depuración y shunt (diap. 16-20)",ref:"16-20",root:"Fracaso global del parénquima hepático",branches:[
+{label:"Fracaso de síntesis",steps:["Glúcidos: hipoglucemia grave","Lípidos: hipocolesterolemia","Proteínas: hipoalbuminemia, ↑ TP/INR","Vitamina D: hipocalcemia, osteoporosis"]},
+{label:"Fracaso de depuración",steps:["Bilirrubina: ictericia","Bilis: colestasis","Toxinas: infecciones","Amonio y aa aromáticos → encefalopatía","Hormonas: hiperestrogenismo, hipogonadismo"]},
+{label:"Shunt portosistémico",steps:["Agudo: funcional","Crónico: anatómico","HTP: varices, ascitis, PBE, encefalopatía, hepatorrenal"]}]},
+{t:"levels",title:"Encefalopatía hepática: patogenia (diap. 21-23)",ref:"21-23",levels:[
+{label:"Desencadenantes",items:["Ingesta proteica","Estreñimiento","Sedantes / tóxicos","Infección","Diuréticos / insuficiencia renal","Hemorragia digestiva"],arrow:"precipitan, sobre un shunt previo"},
+{label:"Predisponente",items:["Shunt portosistémico"],arrow:"los tóxicos evitan el filtro hepático"},
+{label:"Condicionante",items:["NH₃","Mercaptanos","Ácidos grasos de cadena corta","Alteración de neurotransmisores · Mn en ganglios basales"],arrow:"cruzan la barrera hematoencefálica"},
+{label:"Cerebro",items:["Astrocito: ↑ glutamina → edema cerebral","↓ glutamato → ↓ neurotransmisión excitadora, ↓ ATP","↑ serotonina → ↑ neurotransmisión inhibidora"],arrow:"clínica"},
+{label:"Clínica",items:["Asterixis, fetor hepático","Síndrome confusional → alteración de conciencia","NH₃ ↑ · EEG con ondas theta y delta"]}]}],
+drop:["Fracaso de síntesis (diap. 16)","Fracaso de depuración (diap. 17)","Patogenia de la encefalopatía hepática (diap. 22)"]
+};
+
+U[19]={
+intro:"Este tema une dos historias del metabolismo de la bilirrubina y de la bilis. En la primera, **la bilirrubina sigue un camino con varias estaciones** (producción, captación, conjugación, excreción) y la ictericia depende de **en cuál se atasca**. En la segunda, **la bilis se vuelve piedra** cuando se desequilibra su composición.",
+explica:[
+{h:"Qué es la ictericia",ref:"3-5",p:[
+"La **ictericia** es la coloración amarillenta de piel y mucosas por depósito de **bilirrubina**, consecuencia de que sus niveles plasmáticos aumentan. Como la bilirrubina tiene afinidad por las fibras elásticas, la **esclerótica** es el primer lugar donde se detecta. Suele aparecer con bilirrubina total **> 2,5 mg/dl** (entre 1 y 2,5 ya es anormal; en el tema 14 se cita > 2 mg/dl) y puede haber un desfase respecto a la cifra en sangre.",
+"Cuidado con las simulaciones: la **carotenemia** y algunos fármacos amarillean la piel **sin afectar a las mucosas**. La bilirrubina se mide por método colorimétrico (van den Bergh: total y directa, aproximadamente la conjugada) o espectrofotométrico (conjugada, δ y no conjugada)."]},
+{h:"Una cadena con cuatro estaciones y tres tipos de ictericia",ref:"6",p:[
+"La bilirrubina viaja así: **degradación del grupo hem → captación por el hepatocito → conjugación → excreción por la bilis**. Cada tipo de ictericia es un atasco en un punto distinto de esa cadena.",
+"Si **se produce de más** (hemólisis, eritropoyesis ineficaz), sube la bilirrubina **indirecta** (no conjugada): ictericia **hemolítica o prehepática**. Si falla el **propio hepatocito** (captación, conjugación o eliminación de la conjugada: medicamentos, Gilbert, Crigler-Najjar, hiperbilirrubinemia neonatal, Dubin-Johnson, Rotor o lesión hepatocitaria), suben directa e indirecta: ictericia **hepática**. Si falla la **conducción por las vías biliares** (colestasis intra o extrahepática), sube la **directa** (conjugada): ictericia **obstructiva o posthepática**."],
+tip:"Hemolítica = indirecta · Hepática = mixta · Obstructiva = directa."},
+{h:"Cómo se distingue en la práctica",ref:"7,10",p:[
+"Se mide la bilirrubina total (anormal > 1 mg/dl). Si sube la **indirecta**, la alteración está antes de la conjugación; si sube la **conjugada**, después. La **bilirrubina en orina** aparece **solo cuando sube la conjugada** (**coluria**); con la hemolítica no hay bilirrubinuria. El urobilinógeno urinario puede aumentar si llega más bilirrubina al intestino. Las **heces** son **pleocrómicas** (oscuras, con más urobilinógeno) en la hemolítica, e **hipocólicas o acólicas** si la bilirrubina no llega al intestino (obstrucción)."]},
+{h:"Qué le hace la bilirrubina al cuerpo",ref:"8-9",p:[
+"La **no conjugada**, en neonatos, produce **kernicterus**, una neurotoxicidad por depósito en los núcleos grises de la base. Lo favorecen la hemólisis y los trastornos de conjugación, la inmadurez enzimática, la albúmina baja (más bilirrubina libre) y la mayor permeabilidad de la barrera hematoencefálica; el daño pasa por inhibición de enzimas mitocondriales, menor síntesis proteica, daño del ADN, menor captación de tirosina, inhibición de receptores NMDA y menor conducción nerviosa (sobre todo del VIII par).",
+"La **conjugada** produce ictericia, **prurito** (↑ autotaxina → ácido lisofosfatídico), **bradicardia** (las sales biliares retenidas deprimen el nodo sinusal, sin repercusión importante) y **maldigestión y malabsorción**, sobre todo de grasas, por la ausencia de sales biliares en el intestino."]},
+{h:"La bilis",ref:"13-14",p:[
+"La bilis es una secreción acuosa de agua, sales biliares, lecitina (fosfolípidos), colesterol y bilirrubina. Se sintetiza en el hepatocito, se almacena en la vesícula y se vierte al intestino por la **colecistoquinina (CCK)**. Las **sales biliares** (70 % de los solutos) derivan del colesterol, **eliminan colesterol** (una molécula por cada ácido biliar) y forman micelas para absorber lípidos y vitaminas liposolubles; los fosfolípidos, poco solubles, forman micelas junto a ellas."]},
+{h:"Litiasis biliar: cuando la bilis se hace piedra",ref:"15-20",p:[
+"La litiasis es el depósito sólido de componentes de la bilis (colesterol, bilirrubina, sales biliares) en la vía biliar extrahepática (**coledocolitiasis**) o en la vesícula (**colelitiasis**); la mayoría se forma en la vesícula por precipitación de sustancias insolubles en el medio acuoso. La **bilis litogénica** es la que pasa de solución insaturada a una en la que precipitan los sólidos.",
+"Los **cálculos de colesterol** son los más frecuentes y se forman en tres fases: **1)** bilis litogénica (sobresaturada en colesterol), **2)** depósito (nucleación, floculación y precipitación) y **3)** crecimiento por aposición de capas de cristales. Lo favorecen más colesterol en la bilis (edad, estrógenos, obesidad, hiperlipidemia, DM), menos sales biliares (insuficiencia hepatocelular, colestasis, enfermedad del íleon terminal, DM), mucina y factores nucleadores, y la **estasis vesicular** (ayuno, nutrición parenteral, lesión medular, neuropatías, progesterona, somatostatina). El perfil clásico se recuerda con las **5 F**: *Fat* (IMC > 30), *Female*, *Fertile* (mujeres de 20-40), *Forty* (> 40 años) y *Fair-skinned* (europeos); además, *Foreign* (más en latinoamericanos).",
+"Los **pigmentarios** son el 25 %. Los **negros**: la hemólisis o el etanol aumentan la bilirrubina conjugada, la β-glucuronidasa del epitelio biliar la desconjuga, la bilirrubina insoluble precipita con calcio. Los **marrones** (mixtos o infecciosos, hasta 70 % de colesterol): obstrucción de la vesícula con infección, desconjugación bacteriana de la bilirrubina y de las sales biliares, y precipitan bilirrubina y colesterol insolubles."]}],
+esq:[
+{t:"levels",title:"La cadena de la bilirrubina y el tipo de ictericia (diap. 6)",ref:"6",levels:[
+{label:"Producción",items:["Degradación del grupo hem","↑ por hemólisis o eritropoyesis ineficaz → ictericia HEMOLÍTICA (indirecta)"],arrow:"captación por el hepatocito"},
+{label:"Hepatocito",items:["Captación (medicamentos, Gilbert)","Conjugación (neonatal, Gilbert, Crigler-Najjar)","Eliminación de la conjugada (Dubin-Johnson, Rotor)"],arrow:"si falla: ictericia HEPÁTICA (directa + indirecta)"},
+{label:"Bilis",items:["Conducción por las vías biliares: colestasis intra o extrahepática"],arrow:"si falla"},
+{label:"Resultado",items:["Ictericia OBSTRUCTIVA (directa): coluria, acolia, prurito"]}]},
+{t:"branch",title:"Tres ictericias frente a frente (diap. 10)",ref:"10",root:"Bilirrubina elevada",branches:[
+{label:"Hemolítica (prehepática)",steps:["Bilirrubina no conjugada","Sin bilirrubinuria; orina normal","Heces pleocrómicas; reticulocitosis, ↑ LDH, ↓ haptoglobina"]},
+{label:"Hepática",steps:["Bilirrubina mixta","Coluria","Heces normales o hipocólicas; citólisis e insuficiencia hepatocelular"]},
+{label:"Obstructiva (posthepática)",steps:["Bilirrubina conjugada","Coluria; urobilinógeno ↓","Heces hipocólicas o acolia; colestasis completa"]}]},
+{t:"chain",title:"Kernicterus en el neonato (diap. 8)",ref:"8",steps:["Hiperbilirrubinemia no conjugada (hemólisis, trastorno de conjugación, inmadurez enzimática)","Albúmina baja → más bilirrubina libre; barrera hematoencefálica más permeable","Depósito en los núcleos grises de la base","Inhibe enzimas mitocondriales, ↓ síntesis proteica, ↓ conducción nerviosa (VIII par)"]},
+{t:"chain",title:"Cálculos de colesterol en tres fases (diap. 17)",ref:"17",steps:[["Factores: ↑ colesterol en bilis (estrógenos, obesidad, DM), ↓ sales biliares, estasis vesicular","favorecen"],"1. Bilis litogénica (sobresaturada en colesterol)","2. Nucleación, floculación y precipitación","3. Crecimiento por aposición de capas de cristales"]},
+{t:"branch",title:"Cálculos pigmentarios (diap. 20)",ref:"20",root:"Bilirrubina insoluble que precipita",branches:[
+{label:"Negros",steps:["Hemólisis o etanol","↑ bilirrubina conjugada","β-glucuronidasa biliar la desconjuga","Bilirrubina insoluble + calcio"]},
+{label:"Marrones (infecciosos)",steps:["Obstrucción de la vesícula + infección","Desconjugación bacteriana de bilirrubina y sales biliares","↑ bilirrubina y colesterol insolubles"]}]}],
+drop:["Tipos de ictericia (diap. 6, 10)","Formación de cálculos de colesterol (diap. 17)"]
+};
+
+U[20]={
+intro:"La hipertensión portal es un problema de **plomería**: la sangre del intestino llega al hígado por la vena porta y, si algo **resiste el paso**, la presión sube hacia atrás. Todo el tema se deduce de una pregunta: **¿dónde está el obstáculo y adónde busca salida la sangre?**",
+explica:[
+{h:"Recordatorio: cómo se irriga el hígado",ref:"3,6-7",p:[
+"El hígado recibe sangre por dos vías. La **arteria hepática** (del tronco celiaco) aporta el 25 % de la sangre y el 50 % del oxígeno; la **vena porta** (confluencia de la esplénica y las mesentéricas superior e inferior) aporta el 75 % de la sangre y el otro 50 % del oxígeno. Ambas se mezclan en los **sinusoides**, vasos comunes para sangre arterial y venosa.",
+"La unidad estructural es el **lobulillo hepático** (vena centrolobulillar en el centro, espacios porta en la periferia) y la funcional es el **acino hepático** (centrado en el espacio porta). La circulación portal es el 20 % del gasto cardiaco y su presión normal es de 5-10 mmHg. Como en cualquier circuito, **presión portal = flujo × resistencia**, y la resistencia sigue la ley de Poiseuille (R = 8ηL/πr⁴), muy sensible al radio del vaso."]},
+{h:"Qué es la hipertensión portal y por qué se produce",ref:"8-10",p:[
+"Hay **hipertensión portal (HTP)** cuando la presión en la vena porta supera los **10 mmHg**. Casi siempre es por **aumento de las resistencias** y, muy raramente, por aumento del flujo (fístulas arteriovenosas).",
+"Se clasifica según dónde esté el obstáculo respecto a los sinusoides. **Prehepática**: trombosis o compresión de la porta (tumores, infecciones de órganos próximos). **Intrahepática**: presinusoidal (granulomas de tuberculosis o esquistosomiasis), **sinusoidal (cirrosis; la causa más frecuente)** y postsinusoidal (cirrosis, enfermedad venooclusiva). **Posthepática**: obstrucción de las venas suprahepáticas (**Budd-Chiari**), valvulopatía tricuspídea o pericarditis constrictiva."],
+tip:"Antes del sinusoide = prehepática · en el hígado = intrahepática (cirrosis, la más frecuente) · después = posthepática (Budd-Chiari)."},
+{h:"Consecuencias de la hipertensión portal",ref:"11",p:[
+"Como la sangre no puede pasar, se acumula y busca salidas. En el **bazo** produce **esplenomegalia con hiperesplenismo** (anemia, leucopenia y trombopenia). Se abren **vías colaterales** hacia la circulación sistémica: de la porta a la **cava superior** (**varices esofágicas**) y de la porta a la **cava inferior** (plexo hemorroidal, venas umbilicales —cabeza de medusa— y venas renales).",
+"Y aparece la **ascitis**. En el bloqueo prehepático hay mínima ascitis; para que se desarrolle hacen falta tres cosas: **hipoalbuminemia** (menor presión oncótica), **aumento de la linfa hepática** y **retención renal de sodio y agua**."]},
+{h:"Cómo se mide",ref:"13",p:[
+"La presión portal se mide por **cateterismo de las venas suprahepáticas**: la presión suprahepática libre y la **enclavada**, que refleja la presión de los sinusoides. Se visualiza con endoscopia (varices) y con **ecografía Doppler**: un diámetro de la porta > 13 mm sugiere HTP y permite valorar el flujo."]},
+{h:"Ascitis: qué líquido es y qué lo origina",ref:"15-18",p:[
+"La **ascitis** es la presencia de más de **100 ml** de líquido en la cavidad peritoneal. El líquido puede ser **trasudado** (pocas proteínas: HTP, ICC, síndrome nefrótico, enteropatía pierdeproteínas), **exudado** (inflamación o carcinomatosis peritoneal) o **linfa quilosa** (lesión u obstrucción de linfáticos abdominales: tumores sólidos, linfomas).",
+"El aumento de presión intraabdominal produce tensión abdominal, hernias, reflujo gastroesofágico, disnea y edemas en las piernas. El diagnóstico se hace con **paracentesis exploradora** y análisis del líquido. El dato estrella es el **gradiente de albúmina suero-ascitis (GASA)**: **> 1,1 g/dl** indica ascitis por HTP (cirrosis, insuficiencia cardiaca, Budd-Chiari, metástasis hepáticas); **< 1,1 g/dl**, carcinomatosis peritoneal, tuberculosis peritoneal, síndrome nefrótico o ascitis pancreática."],
+tip:"GASA > 1,1 g/dl = la ascitis es por hipertensión portal."}],
+esq:[
+{t:"levels",title:"Hipertensión portal: del obstáculo a la clínica (diap. 7-11)",ref:"7-11",levels:[
+{label:"Obstáculo",items:["Prehepática: trombosis o compresión de la porta","Intrahepática: cirrosis (la más frecuente)","Posthepática: Budd-Chiari, tricuspídea, pericarditis constrictiva"],arrow:"↑ resistencia (presión = flujo × resistencia)"},
+{label:"HTP",items:["Presión portal > 10 mmHg"],arrow:"la sangre busca salida"},
+{label:"Consecuencias",items:["Bazo: esplenomegalia con hiperesplenismo (anemia, leucopenia, trombopenia)","Colaterales: varices esofágicas, hemorroides, cabeza de medusa, venas renales","Ascitis"]}]},
+{t:"branch",title:"Circulación colateral: adónde escapa la sangre (diap. 11)",ref:"11",root:"Vena porta con presión elevada",branches:[
+{label:"Hacia la cava superior",steps:["Anastomosis porta-cava superior","Varices esofágicas"]},
+{label:"Hacia la cava inferior",steps:["Plexo hemorroidal","Venas umbilicales: cabeza de medusa","Venas renales"]}]},
+{t:"levels",title:"Ascitis en la HTP: tres ingredientes (diap. 11)",ref:"11",levels:[
+{label:"Ingredientes",items:["Hipoalbuminemia → ↓ presión oncótica","↑ linfa hepática","Retención renal de Na y agua"],arrow:"se acumula líquido"},
+{label:"Ascitis",items:["> 100 ml en la cavidad peritoneal"],arrow:"↑ presión intraabdominal"},
+{label:"Clínica",items:["Tensión abdominal, hernias","Reflujo gastroesofágico, disnea","Edemas en miembros inferiores"]}]},
+{t:"chain",title:"Diagnóstico de la ascitis (diap. 15-18)",ref:"15-18",steps:["Paracentesis exploradora y análisis del líquido",["Aspecto del líquido: trasudado / exudado / quilosa","y calcular el GASA"],"GASA > 1,1 g/dl: HTP (cirrosis, IC, Budd-Chiari, metástasis hepáticas)","GASA < 1,1 g/dl: carcinomatosis peritoneal, TBC peritoneal, nefrótico, ascitis pancreática"]}],
+drop:["Circulación colateral (diap. 11)","Causas de HTP según localización (diap. 10)","Gradiente de albúmina suero-ascitis (diap. 18)"]
+};
+
+U[21]={
+intro:"La vía biliar y el páncreas comparten una puerta de salida —la **ampolla de Vater**—, y por eso sus enfermedades se encadenan: **un cálculo biliar puede dar cólico, colecistitis, colangitis, íleo o pancreatitis** según dónde se detenga. El tema se ordena siguiendo ese recorrido.",
+explica:[
+{h:"Los cálculos y lo que provocan según dónde se queden",ref:"5-11",p:[
+"Un cálculo puede estar en la luz de la **vesícula**, en el **conducto cístico**, en el **colédoco** o en el **conducto común** (tras la unión del colédoco con el pancreático). La **colelitiasis** es, lo más frecuente, **asintomática**. Se vuelve sintomática si hay **obstrucción rápida (cólico biliar)**, riesgo de infección (**colecistitis**) o riesgo de migración al colédoco (**coledocolitiasis**, con posible colangitis o pancreatitis).",
+"El **cólico biliar** es el dolor por distensión brusca de la pared de la vía biliar; aparece tras una transgresión dietética, es de tipo cólico en epigastrio e hipocondrio derecho, irradia a la espalda y la escápula izquierda, y se acompaña de náuseas y vómitos muy frecuentes.",
+"La **colecistitis** es la inflamación de la pared de la vesícula (aguda o crónica), secundaria a colelitiasis en el 90 % de los casos: dolor intenso continuo, náuseas, vómitos, fiebre alta con escalofríos, dolor y defensa abdominal, y **Murphy positivo** (dolor en el punto cístico que aumenta con la inspiración); leucocitosis con desviación izquierda y colestasis variable. La ecografía muestra litos, pared engrosada (> 4 mm) con edema, halo inflamatorio y Murphy ecográfico. Evoluciona por fases: obstrucción del cístico → cambios en la composición de la bilis → distensión y edema → compromiso del retorno venoso y de la circulación arterial → isquemia y perforación (absceso perivesicular, peritonitis, fístula colecistoentérica o colecistitis enfisematosa).",
+"El **síndrome de Mirizzi** es la compresión extrínseca de la vía biliar o una fístula colecistocoledociana. La **coledocolitiasis** puede ser asintomática, dar cólico, **ictericia obstructiva dolorosa** (obstrucción completa con colestasis), colangitis o pancreatitis."]},
+{h:"Colestasis extrahepática",ref:"13-15",p:[
+"Es la obstrucción del conducto hepático común o del colédoco: **intraluminal** (cálculo), **parietal** (colangiocarcinoma) o **extrínseca** (cáncer de cabeza de páncreas). La etiología **benigna** incluye litiasis biliar, pancreatitis aguda y crónica, pseudoquiste, estenosis posquirúrgica, malformaciones congénitas (atresia biliar, quistes coledocianos), parasitosis, hemobilia, úlcera duodenal y divertículo duodenal infectado; la **maligna**, el cáncer de cabeza de páncreas, el colangiocarcinoma, el ampuloma, el cáncer de vesícula y la compresión por tumor o adenopatías. La clínica es **ictericia, coluria y acolia**."]},
+{h:"Colangitis e íleo biliar",ref:"16-17",p:[
+"La **colangitis** es la inflamación de los conductos biliares por infección: la obstrucción y la estasis permiten el sobrecrecimiento bacteriano, y las bacterias pasan a la sangre (bacteriemia de origen biliar). Se reconoce por la **tríada de Charcot**: dolor en hipocondrio derecho, fiebre en picos e ictericia; con leucocitosis con desviación izquierda, colestasis y hemocultivos frecuentemente positivos.",
+"El **íleo biliar** es una obstrucción intestinal mecánica por la impactación de un cálculo biliar en el tubo digestivo; es una complicación excepcional que ocurre por una comunicación anormal entre la vía biliar y el tubo digestivo (la más frecuente, una **fístula colecistoduodenal**) por la que se evacúa el cálculo."],
+tip:"Tríada de Charcot (colangitis): dolor en hipocondrio derecho + fiebre en picos + ictericia."},
+{h:"Cómo se diagnostica la patología biliar",ref:"18-19",p:[
+"Se combinan clínica y exploración (signo de Murphy, vesícula palpable), analítica (reactantes de fase aguda, FA, GGT y bilirrubina elevadas) y pruebas de imagen: la **ecografía** es la primera, y después radiología simple (litiasis, vesícula en porcelana), TC, RM, colecistografía, colangiografía y **CPRE**."]},
+{h:"El páncreas: una glándula con dos funciones",ref:"20-22",p:[
+"Es una glándula retroperitoneal de 10-12 cm; el **conducto de Wirsung** desemboca en la ampolla de Vater (esfínter de Oddi) junto con el colédoco. La parte **exocrina** (acinos, 90 %) produce un jugo alcalino (pH 8, rico en bicarbonato, 1,5 l/día) con enzimas: tripsina, quimotripsina, elastasa, carboxipeptidasa, amilasa, lipasa, fosfolipasa, ribonucleasa y desoxirribonucleasa.",
+"La clave para entender la pancreatitis es que estas enzimas se secretan como **proenzimas**, y que existen **antiproteasas** (inhiben la tripsina) que evitan que el páncreas se **autodigiera**. La parte **endocrina** (islotes de Langerhans, < 5 %) tiene 75 % de células β (insulina), 20 % de α (glucagón), 5 % de δ (somatostatina) y células productoras de VIP y gastrina."]},
+{h:"Pancreatitis aguda",ref:"23-30",p:[
+"Es la **inflamación aguda del páncreas**, que suele curar sin secuelas pero puede dejar lesiones irreversibles y afectar a tejidos circundantes y a distancia. Sus causas principales son la **litiasis biliar (30-75 %)** y el **alcohol (15 %)**; también anomalías estructurales (fibrosis del esfínter de Oddi, estenosis o carcinoma duodenal, páncreas divisum o anular), cirugía gástrica o biliar, CPRE, trauma, metabólicas (hipertrigliceridemia grave, hipercalcemia), vasculitis, virus (VHB, VHC, parotiditis, rubeola, CMV, coxsackie) y fármacos (azatioprina, clorotiazida, furosemida, sulfamidas, tetraciclinas); un 15-20 % es idiopática.",
+"La **patogenia** es la **autodigestión**: se activan enzimas líticas dentro del páncreas, con inflamación, daño vascular, isquemia, aumento de permeabilidad y edema; la liberación de enzimas y citocinas produce **SIRS**.",
+"Clínicamente domina el **dolor** (85-100 %): brusco, constante, tras una ingesta copiosa o alcohol, en epigastrio y «en cinturón», con postura antiálgica; náuseas y vómitos (50-90 %), distensión (50 %, por paresia intestinal), fiebre (12-27 %), ictericia (8 %, solo si obstrucción o colangitis) y shock (12 %, de mal pronóstico). Los signos: taquicardia, taquipnea, hipotensión, hipertermia, derrame pleural izquierdo, abdomen distendido con menos ruidos, matidez, rebote positivo y, en el 1 %, los signos de **Cullen y Grey Turner**.",
+"El diagnóstico es clínico y de laboratorio: leucocitosis con desviación izquierda, hiperglucemia, colestasis y citólisis, calcemia baja en las formas necrótico-hemorrágicas, ↑ urea y creatinina e hipoalbuminemia; la **amilasemia** (diagnóstica si > 3 veces el valor normal, la más sensible) y la **lipasemia** (la más específica); y la imagen (ecografía, TAC/RM). Las complicaciones son **sistémicas** (shock, insuficiencia respiratoria, sepsis, hemorragia digestiva, renales, hepatobiliares, cardiacas) y **locales** (necrosis, oclusiones intestinales, pseudoquistes, abscesos, ascitis pancreática). Mortalidad: 13-15 % (50-70 % en las necrohemorrágicas)."],
+tip:"Aguda: litiasis biliar y alcohol → autodigestión → SIRS. Amilasa (sensible), lipasa (específica)."},
+{h:"Pancreatitis crónica",ref:"31-39",p:[
+"Es la inflamación con **fibrosis progresiva** y deterioro **irreversible** de la anatomía y la función exocrina y endocrina. Es más frecuente en hombres, en la 3ª-4ª década. La causa principal es el **alcohol (70-80 %)** (> 150 g/día durante más de 10 años, aunque solo el 5-10 % la desarrolla: hacen falta factores genéticos, como el déficit de claudina 2). Otras causas: factores dietéticos, idiopática, autoinmune/inflamatoria (CEP, Sjögren, CBP), hereditaria (AD, defecto del inhibidor de la tripsina), obstructiva, metabólica y fármacos (IDPP4).",
+"La fisiopatología es una cadena: menor secreción de bicarbonato → acúmulo de proteínas → obstrucción de conductos → activación intraparenquimatosa de enzimas → lesiones parcheadas → fibrosis, infiltrado linfoplasmocitario, dilataciones y estenosis: un **proceso irreversible**.",
+"La clínica es **dolor epigástrico** penetrante a la espalda, constante, que alivia en decúbito lateral, en posición fetal o inclinado hacia delante (si es postprandial, sospechar obstrucción); **esteatorrea** cuando se afecta el 90 % del tejido exocrino (heces amarillentas, untuosas, espumosas y flotantes); **diabetes** (28-40 %, enfermedad avanzada) y pérdida de peso. La **tríada clásica** es **calcificaciones + esteatorrea + diabetes**. Complicaciones: malabsorción de B12 (40 %), colestasis por afectación del tercio distal del colédoco, vómitos de retención por estenosis duodenal y ascitis pancreática.",
+"En el diagnóstico, la amilasa es escasa o ausente y la FA está elevada. Las pruebas funcionales directas son el test de secretina-CCK y la comida de Lundh; las indirectas, el **Van de Kamer** (patrón oro de la esteatorrea), la **elastasa fecal** (< 200 µg/g; cribado) y los triglicéridos ¹³C en aire espirado. Imagen: Rx (calcificaciones), US, TAC, RM, CPRE."]}],
+esq:[
+{t:"branch",title:"Un cálculo biliar, según dónde se detenga (diap. 5-17)",ref:"5-17",root:"Colelitiasis (lo más frecuente: asintomática)",branches:[
+{label:"Obstrucción rápida",steps:["Cólico biliar: epigastrio / hipocondrio derecho, tras transgresión dietética"]},
+{label:"Infección de la vesícula",steps:["Colecistitis: fiebre, Murphy +, leucocitosis","Perforación, fístula, Mirizzi"]},
+{label:"Migración al colédoco",steps:["Coledocolitiasis: ictericia obstructiva dolorosa","Colangitis (Charcot) · Pancreatitis"]},
+{label:"Fístula a intestino",steps:["Fístula colecistoduodenal","Íleo biliar: obstrucción intestinal mecánica"]}]},
+{t:"chain",title:"Fases de la colecistitis aguda (diap. 9-10)",ref:"9-10",steps:["I. Obstrucción del conducto cístico","II. Cambios en la composición de la bilis","III. Distensión y edema de la vesícula","IV. Compromiso del retorno venoso y de la circulación arterial","V. Isquemia y perforación: absceso perivesicular, peritonitis, fístula colecistoentérica, colecistitis enfisematosa"]},
+{t:"chain",title:"Colangitis: de la obstrucción a la bacteriemia (diap. 16)",ref:"16",steps:["Obstrucción de la vía biliar (p. ej., cálculo en el colédoco)","Estasis biliar","Sobrecrecimiento bacteriano","Paso a la sangre: bacteriemia de origen biliar","Tríada de Charcot: dolor en HD + fiebre en picos + ictericia"]},
+{t:"levels",title:"Pancreatitis aguda: de la causa a la complicación (diap. 23-30)",ref:"23-30",levels:[
+{label:"Causa",items:["Litiasis biliar (30-75 %)","Alcohol (15 %)","Hipertrigliceridemia, hipercalcemia, CPRE, virus, fármacos"],arrow:"activación de enzimas líticas"},
+{label:"Patogenia",items:["Autodigestión del páncreas","Inflamación, daño vascular, isquemia, ↑ permeabilidad, edema"],arrow:"liberación de enzimas y citocinas"},
+{label:"Sistémico",items:["SIRS","Shock, insuficiencia respiratoria, sepsis"],arrow:"clínica"},
+{label:"Clínica",items:["Dolor epigástrico en cinturón","Náuseas, vómitos, distensión","Cullen y Grey Turner (1 %)","↑ amilasa (sensible) y lipasa (específica)"]}]},
+{t:"chain",title:"Pancreatitis crónica: fisiopatología y tríada (diap. 31-36)",ref:"31-36",steps:["Alcohol (70-80 %) y otros factores, con predisposición genética","↓ secreción de bicarbonato → acúmulo de proteínas → obstrucción de conductos","Activación intraparenquimatosa de enzimas: lesiones parcheadas","Fibrosis, infiltrado linfoplasmocitario, dilataciones y estenosis: PROCESO IRREVERSIBLE","Tríada clásica: calcificaciones + esteatorrea + diabetes"]}],
+drop:["Pancreatitis aguda: patogenia"]
+};
+
+Object.keys(U).forEach(function(k){var t=T[k],u=U[k];if(u.intro)t.intro=u.intro;if(u.explica)t.explica=u.explica;if(u.esq)t.esquemas=u.esq.concat(t.esquemas.filter(function(e){return e.t==="table"&&(u.drop||[]).indexOf(e.title)<0}))});
+var MODS=[
+{id:1,name:"Fundamentos",sub:"Temas 1-6",topics:[1,2,3,4,5,6]},
+{id:2,name:"Metabolismo y nutrición",sub:"Temas 7-12",topics:[7,8,9,10,11,12]},
+{id:3,name:"Aparato digestivo",sub:"Temas 13-21",topics:[13,14,15,16,17,18,19,20,21]}];
+
+var EXAMQ=[
+{n:1,t:"Diferencias en la piel por golpe de calor clásico y por ejercicio",topic:2,kind:"Comparación"},
+{n:2,t:"Fases del síndrome de infección aguda",topic:3,kind:"Enumeración ordenada"},
+{n:3,t:"Definición de inflamación",topic:4,kind:"Definición"},
+{n:4,t:"Causas del edema",topic:6,kind:"Enumeración (mecanismos)"},
+{n:5,t:"Mecanismo compensatorio neuroendocrino en la deshidratación",topic:7,kind:"Mecanismo"},
+{n:6,t:"Tres causas de acidosis metabólica que aumenten el anión gap",topic:8,kind:"Enumeración (n = 3)"},
+{n:7,t:"Características para el diagnóstico de síndrome metabólico",topic:12,kind:"Criterios diagnósticos"},
+{n:8,t:"Manifestaciones cutáneas de hipercolesterolemia familiar heterocigótica",topic:10,kind:"Enumeración (signos)"},
+{n:9,t:"Hemorragias digestivas: clasificación según localización",topic:13,kind:"Clasificación"},
+{n:10,t:"Íleo: tipos y ejemplos",topic:17,kind:"Clasificación + ejemplos"},
+{n:11,t:"Tres mecanismos de maldigestión",topic:16,kind:"Enumeración (n = 3)"},
+{n:12,t:"Principales microangiopatías diabéticas",topic:9,kind:"Enumeración"},
+{n:13,t:"Patologías asociadas a la litiasis biliar",topic:21,kind:"Enumeración"},
+{n:14,t:"Manifestaciones cutáneas de cirrosis",topic:14,kind:"Enumeración (signos)"},
+{n:15,t:"Factores desencadenantes de la encefalopatía hepática",topic:18,kind:"Enumeración"}];
+
+var EXSTYLE={
+resumen:"El examen son 15 preguntas cortas de una línea. Cada una pide recordar una lista, una clasificación o una definición del material de clase; ninguna es un caso clínico ni exige cálculo.",
+hallazgos:[
+"**Cada pregunta cae en un tema distinto**: 15 preguntas, 15 temas. Ningún tema se repite.",
+"**Reparto por bloques**: Fundamentos 4 (T2, 3, 4, 6), Metabolismo y nutrición 5 (T7, 8, 9, 10, 12), Digestivo 6 (T13, 14, 16, 17, 18, 21).",
+"**Sin pregunta el año pasado**: Temas 1, 5, 11, 15, 19 y 20. Con una sola convocatoria no es una predicción; solo indica que, si la lógica «un tema = una pregunta» se repite, esos temas aún no han salido.",
+"**Formato dominante: enumeración**. Se piden causas, mecanismos, tipos, fases, factores, manifestaciones o patologías: 10 de 15 son listas. Dos son comparaciones (piel en golpe de calor; tipos y ejemplos de íleo) y una es una definición.",
+"**Cuando hay número, es exacto**: «tres causas», «tres mecanismos». Conviene saber las listas completas y poder dar tres elementos sin dudar.",
+"**Dos preguntas de signos cutáneos** (hipercolesterolemia familiar y cirrosis): la exploración visible entra en el examen.",
+"**Verbos de la consigna**: «Diferencias», «Fases», «Definición», «Causas», «Mecanismo», «Características», «Manifestaciones», «Clasificación», «Tipos y ejemplos», «Principales», «Patologías asociadas», «Factores desencadenantes»."],
+consejos:[
+"Estudia cada tema como **listas cerradas** (qué entra y qué no) antes que como explicaciones largas.",
+"Memoriza los **números** que acompañan a las listas (criterios, tríadas, umbrales).",
+"Practica respondiendo en **una o dos líneas** y comprueba que no falta ningún elemento de la lista."]};
+
+/* Preguntas nuevas en el estilo del examen. Respuestas construidas solo con el material. */
+var SIM=[
+{n:1,q:"Indique qué significan los sufijos -osis, -itis y -oma, con un ejemplo de cada uno.",a:"-osis: proceso degenerativo (artrosis). -itis: inflamación (colitis, apendicitis). -oma: tumor (linfoma, sarcoma).",pts:[["-osis = degenerativo (artrosis)","osis|degenerativ|artrosis"],["-itis = inflamación (colitis, apendicitis)","itis|inflamacion|colitis|apendicitis"],["-oma = tumor (linfoma, sarcoma)","oma|tumor|linfoma|sarcoma"]],ref:"28"},
+{n:2,q:"Tres tipos de lesión local por frío ambiental.",a:"Perniosis, pie de trinchera y congelación.",pts:[["Perniosis","perniosis"],["Pie de trinchera","trinchera"],["Congelación","congelacion"]],ref:"12"},
+{n:2,q:"Diferencie calambres, agotamiento y golpe de calor.",a:"Calambres: contracciones dolorosas por pérdida extracelular de sodio tras actividad intensa. Agotamiento: depleción hidrosalina con termorregulación conservada y Tª normal o ligeramente alta. Golpe de calor: pérdida de la termorregulación con Tª > 40,5 ºC y disfunción del SNC.",pts:[["Calambres por pérdida de sodio","calambre|sodio"],["Agotamiento con termorregulación conservada","agotamiento|conservada|hidrosalina"],["Golpe de calor: pérdida de termorregulación, > 40,5 ºC, SNC","golpe|40|sistema nervioso|snc"]],ref:"8-9"},
+{n:3,q:"Mecanismos de evasión de la respuesta inmune por parte de los microorganismos (cite tres).",a:"Cápsula que se opone a la fagocitosis (S. pneumoniae, H. influenzae), inhibición de la fusión fagosoma-lisosoma, inhibición del complemento (N. meningitidis), inhibición del interferón (SARS-CoV-2), variación antigénica o exclusión anatómica (quistes).",pts:[["Cápsula / fagocitosis","capsula|fagocitosis"],["Inhibición del complemento o interferón","complemento|interferon"],["Variación antigénica / quistes","variacion|antigen|quiste"]],ref:"23"},
+{n:3,q:"Criterios de qSOFA.",a:"Glasgow ≤ 13, presión arterial sistólica ≤ 100 mmHg y frecuencia respiratoria ≥ 22 rpm; 2 de 3 implican alta probabilidad de evolución desfavorable.",pts:[["Glasgow ≤ 13","glasgow"],["TAS ≤ 100","100|sistolic"],["FR ≥ 22","22|respiratoria"]],ref:"34"},
+{n:4,q:"Cite cuatro reactantes de fase aguda positivos y dos negativos.",a:"Positivos: PCR, fibrinógeno, haptoglobina, ceruloplasmina, ferritina, complemento, antiproteasas, amiloide A. Negativos: albúmina y transferrina.",pts:[["Positivos (PCR, fibrinógeno, ferritina…)","pcr|proteina c|fibrinogeno|haptoglobina|ferritina|ceruloplasmina"],["Negativos: albúmina","albumina"],["Negativos: transferrina","transferrina"]],ref:"12"},
+{n:4,q:"Fases de la fiebre.",a:"Inicio (acumulación de calor endógeno, escalofríos, ↑ progresiva de Tª), estado (termólisis activada: vasodilatación, sudoración, taquipnea) y crisis (sudoración intensa, la termólisis supera a la termogénesis).",pts:[["Inicio","inicio"],["Estado","estado"],["Crisis","crisis"]],ref:"27"},
+{n:5,q:"Tres oncogenes o genes supresores y su función.",a:"Oncogenes: RAS (señalización), MYC (factor de transcripción), HER2 (receptor), BCL2 (antiapoptótico). Supresores: p53 y pRB, que inhiben la proliferación celular.",pts:[["Oncogén (RAS, MYC, HER2, BCL2)","ras|myc|her2|bcl2|abl|egfr"],["Supresor p53","p53"],["Supresor pRB","prb|rb"]],ref:"15-16"},
+{n:5,q:"Marcadores tumorales serológicos: cite cuatro con el tumor asociado.",a:"AFP (hígado), CEA (colon, páncreas), PSA (próstata), CA 125 (ovario), CA 19-9 (páncreas, colon), CA 15,3 (mama), hCG (testículo), calcitonina (carcinoma medular de tiroides).",pts:[["PSA – próstata","psa|prostata"],["CA 125 – ovario","ca 125|ovario"],["AFP – hígado","afp|alfafetoproteina|higado"],["CEA / CA 19-9 / CA 15,3","cea|19|15"]],ref:"32"},
+{n:6,q:"Tres signos o síntomas de edema de origen renal frente a hepático.",a:"Renal: edema palpebral matutino precoz, proteinuria y cilindruria (puede llegar a anasarca). Hepático: ascitis antes que edema en piernas, ictericia y alteración de PFH.",pts:[["Renal: edema palpebral / proteinuria","palpebral|proteinuria|cilindruria"],["Hepático: ascitis / ictericia","ascitis|ictericia"]],ref:"25"},
+{n:7,q:"Tipos de hiperhidratación según la tonicidad, con una causa de cada uno.",a:"Isotónica (insuficiencia renal, ICC, cirrosis, nefrótico), hipotónica (SIADH, intoxicación acuosa) e hipertónica (hiperaldosteronismo primario, fluidos hipertónicos, agua de mar).",pts:[["Isotónica (IR, ICC, cirrosis)","isotonic|renal|cirrosis|icc"],["Hipotónica (SIADH, intoxicación acuosa)","hipotonic|siadh|acuosa"],["Hipertónica (hiperaldosteronismo)","hipertonic|aldosteron|agua de mar"]],ref:"36,42,47"},
+{n:8,q:"Manifestaciones clínicas de la acidosis metabólica.",a:"Hiperventilación compensatoria (Kussmaul), depresión miocárdica, arritmias, hipotensión, confusión y coma, y osteomalacia en la forma crónica.",pts:[["Kussmaul / taquipnea","kussmaul|taquipnea"],["Cardiovasculares","miocard|arritmia|hipotension"],["Confusión / coma","confusion|coma"]],ref:"16"},
+{n:9,q:"Cite tres diferencias entre cetoacidosis diabética y coma hiperosmolar.",a:"CAD: insulina ausente, DM1, acidosis con cetonemia y AG > 12, < 24 h, mortalidad baja. EHH: insulina presente, DM2 mayor, sin acidosis, Osm > 320 y glucemia > 600, > 24 h, mortalidad alta.",pts:[["Insulina ausente vs presente","insulina"],["Acidosis/cetonas vs hiperosmolaridad","acidosis|cetona|osmolar|320"],["Tipo de diabetes / edad","dm1|tipo 1|tipo i|dm2|tipo 2"],["Mortalidad / duración","mortalidad|24"]],ref:"23"},
+{n:9,q:"Cite cuatro complicaciones agudas o crónicas de la diabetes.",a:"Agudas: cetoacidosis, estado hiperosmolar, hipoglucemia. Crónicas macrovasculares (infarto, ictus, arteriopatía periférica) y microvasculares (retinopatía, neuropatía, nefropatía).",pts:[["Cetoacidosis / hiperosmolar","cetoacidosis|hiperosmolar"],["Hipoglucemia","hipoglucemia"],["Macroangiopatía","macroangiopatia|infarto|ictus"],["Microangiopatía","retinopatia|nefropatia|neuropatia"]],ref:"17,20-26"},
+{n:10,q:"Clasificación de Fredrickson: ¿qué lipoproteína aumenta en los tipos I, IIa y IV?",a:"Tipo I: quilomicrones; tipo IIa: LDL; tipo IV: VLDL.",pts:[["I: quilomicrones","quilomicron"],["IIa: LDL","ldl"],["IV: VLDL","vldl"]],ref:"13"},
+{n:10,q:"Causas secundarias de hipertrigliceridemia.",a:"DM2/obesidad/síndrome metabólico, consumo excesivo de alcohol, insuficiencia renal crónica, hipotiroidismo y fármacos (estrógenos, retinoides, corticoides, β-bloqueantes, inhibidores de la proteasa).",pts:[["DM2 / obesidad","diabetes|obesidad|metabolico"],["Alcohol","alcohol"],["Insuficiencia renal / hipotiroidismo","renal|hipotiroidismo"],["Fármacos","farmaco|estrogeno|corticoide"]],ref:"22"},
+{n:11,q:"Tres causas de hipoalbuminemia y dos consecuencias.",a:"Causas: ↓ síntesis (insuficiencia hepática, malnutrición, inflamación), ↑ catabolismo (cirugía, neoplasias), pérdidas (nefrótico, enteropatías, quemaduras, ascitis). Consecuencias: edemas/ascitis/derrame pleural e ↑ fracción libre de fármacos.",pts:[["↓ síntesis","sintesis|hepatica|malnutricion"],["Pérdidas (renal, digestiva…)","perdida|nefrotico|enteropatia"],["Edemas / ascitis","edema|ascitis"],["Efectos tóxicos de fármacos","farmaco|toxic"]],ref:"29-31"},
+{n:15,q:"Complicaciones locales y extradigestivas del reflujo gastroesofágico.",a:"Locales: pirosis, regurgitación ácida, esofagitis (estenosis, anemia ferropénica) y esófago de Barrett. Extradigestivas: tos, broncoespasmo, pérdida de esmalte dental, disfonía y dolor torácico.",pts:[["Pirosis / regurgitación","pirosis|regurgitacion"],["Esofagitis / Barrett","esofagitis|barrett"],["Extradigestivas (tos, disfonía…)","tos|disfonia|broncoespasmo|esmalte"]],ref:"14"},
+{n:12,q:"Asocie cada déficit vitamínico con su cuadro: vitaminas A, D, K y C.",a:"A: xeroftalmía, hemeralopía, queratomalacia. D: osteomalacia y raquitismo. K: diátesis hemorrágica. C: escorbuto.",pts:[["A: xeroftalmía / hemeralopía","xeroftalmia|hemeralopia|ceguera"],["D: osteomalacia / raquitismo","osteomalacia|raquitismo"],["K: diátesis hemorrágica","hemorragic|diatesis"],["C: escorbuto","escorbuto"]],ref:"20-21"},
+{n:13,q:"Causas de hemorragia digestiva alta (cite tres).",a:"Úlcera péptica (duodenal > gástrica; H. pylori y AINE), varices esofágicas, Mallory-Weiss, Dieulafoy, angiodisplasias e iatrogénicas.",pts:[["Úlcera péptica","ulcera"],["Varices esofágicas","varice"],["Mallory-Weiss / Dieulafoy / angiodisplasia","mallory|dieulafoy|angiodisplasia"]],ref:"17-20"},
+{n:14,q:"Hallazgos de la inspección abdominal y extraabdominal en un paciente con hepatopatía.",a:"Abdominales: ascitis/distensión, circulación colateral (cabeza de medusa), hematomas, cicatrices. Extra-abdominales: ictericia, arañas vasculares, eritema palmar, Dupuytren, ginecomastia, hipertrofia parotídea y alteraciones ungueales.",pts:[["Ascitis / circulación colateral","ascitis|colateral|medusa"],["Ictericia / arañas vasculares","ictericia|arana"],["Dupuytren / eritema palmar / ginecomastia","dupuytren|eritema|ginecomastia"]],ref:"5-17"},
+{n:15,q:"Causas de disfagia esofágica de origen mecánico (cite una de cada localización).",a:"Intraluminal: cuerpos extraños o bolos gigantes. Parietal: tumor esofágico, anillo o estenosis péptica/cáustica. Extraparietal: tumores o adenopatías mediastínicas, divertículo de Zenker, aneurisma aórtico.",pts:[["Intraluminal","intraluminal|cuerpo extrano|bolo"],["Parietal (tumor, estenosis)","parietal|tumor|estenosis|anillo"],["Extraparietal (Zenker, adenopatías)","extraparietal|zenker|adenopatia|aneurisma"]],ref:"8"},
+{n:16,q:"Cite los tres mecanismos de malabsorción distintos de la maldigestión que aparecen en el material.",a:"Disminución de la superficie útil (intestino corto), lesiones de la pared/mucosa (celiaquía, giardiasis, radioterapia), alteración del transporte vascular y obstrucción linfática.",pts:[["↓ superficie útil","superficie|intestino corto"],["Lesión de pared","pared|mucosa|celiaquia"],["Vascular / linfático","vascular|sanguineo|linfatic"]],ref:"7,12-15"},
+{n:17,q:"Mecanismos de la diarrea y un ejemplo de cada uno.",a:"Secretora (enterotoxinas, VIP), osmótica (lactulosa, sorbitol, Mg²⁺), exudativa (C. difficile, EII) y motora (hipertiroidismo, colon irritable).",pts:[["Secretora (enterotoxinas, VIP)","secretora|enterotoxina|vip"],["Osmótica (lactulosa, sorbitol)","osmotica|lactulosa|sorbitol"],["Exudativa (EII, C. difficile)","exudativa|difficile|inflamatoria"],["Motora (hipertiroidismo)","motora|hipertiroidismo|colon irritable"]],ref:"8-21"},
+{n:18,q:"Consecuencias de la insuficiencia hepática por fracaso de síntesis (cite tres).",a:"Hipoglucemia (grave), hipocolesterolemia, hipoalbuminemia, alargamiento del TP/INR con diátesis hemorrágica, hipocalcemia y osteoporosis (déficit de vitamina D).",pts:[["Hipoalbuminemia","albumina"],["Alargamiento del TP / INR","tp|inr|protrombina"],["Hipoglucemia / hipocolesterolemia","hipoglucemia|hipocolesterolemia"]],ref:"16"},
+{n:19,q:"Cite tres diferencias clínicas o analíticas entre ictericia hemolítica y obstructiva.",a:"Hemolítica: bilirrubina no conjugada, sin bilirrubinuria, urobilinógeno elevado, heces pleocrómicas. Obstructiva: conjugada, coluria, urobilinógeno disminuido, heces hipocólicas o acólicas.",pts:[["Tipo de bilirrubina (no conjugada vs conjugada)","conjugada|indirecta|directa"],["Coluria / bilirrubinuria","coluria|bilirrubinuria"],["Heces (pleocromía vs acolia)","pleocrom|acolia|hipocolica"]],ref:"10"},
+{n:19,q:"Tipos de cálculos biliares y cuál es el más frecuente.",a:"Colesterol (los más frecuentes), pigmentarios negros (bilirrubina) y pigmentarios marrones/mixtos/infecciosos.",pts:[["Colesterol (más frecuentes)","colesterol"],["Pigmentarios negros","negro"],["Marrones / infecciosos","marron|infeccioso|mixto"]],ref:"16"},
+{n:20,q:"Causas de hipertensión portal según su localización.",a:"Prehepática (trombosis de la porta), intrahepática (presinusoidal, sinusoidal —cirrosis—, postsinusoidal) y posthepática (Budd-Chiari, valvulopatía tricuspídea, pericarditis constrictiva).",pts:[["Prehepática","prehepatica|trombosis"],["Intrahepática (cirrosis)","intrahepatica|cirrosis|sinusoid"],["Posthepática (Budd-Chiari)","posthepatica|budd|pericarditis"]],ref:"10"},
+{n:20,q:"Utilidad del gradiente de albúmina suero-ascitis.",a:"Un gradiente > 1,1 g/dl indica ascitis por hipertensión portal (cirrosis, IC, Budd-Chiari, metástasis hepáticas); < 1,1 g/dl indica carcinomatosis peritoneal, tuberculosis peritoneal, síndrome nefrótico o ascitis pancreática.",pts:[["> 1,1 → hipertensión portal","1,1|1.1|portal"],["< 1,1 → carcinomatosis/TBC/nefrótico/pancreática","carcinomatosis|tuberculosis|nefrotico|pancreatica"]],ref:"18"},
+{n:21,q:"Complicaciones de la colecistitis aguda.",a:"Perforación localizada o libre (absceso perivesicular, peritonitis), fístula colecistoentérica, colecistitis enfisematosa y síndrome de Mirizzi.",pts:[["Perforación / absceso / peritonitis","perforacion|absceso|peritonitis"],["Fístula","fistula"],["Enfisematosa / Mirizzi","enfisematosa|mirizzi"]],ref:"9-10"},
+{n:21,q:"Diferencias entre pancreatitis aguda y crónica.",a:"Aguda: lesión transitoria, afectación generalizada, infiltración neutrofílica, siempre sintomática, amilasa y lipasa elevadas. Crónica: lesión permanente, afectación parcheada, fibrosis con infiltrado mononuclear, asintomática o dolor posprandial, amilasa y lipasa normales.",pts:[["Lesión transitoria vs permanente","transitoria|permanente"],["Generalizada vs parcheada","generalizada|parcheada"],["Amilasa/lipasa elevadas vs normales","amilasa|lipasa"]],ref:"41"}];
+
+var CLAVES={
+intro:"Resumen del resumen. Lo mínimo que debes tener claro: ideas centrales, cómo se conectan los temas y qué hay que recitar de memoria.",
+bloques:[
+{mod:1,titulo:"Fundamentos (T1-T6)",ideas:[
+"**Síntoma ≠ signo ≠ síndrome ≠ enfermedad.** Síndrome = varias causas; enfermedad = una causa (T1).",
+"**Agentes físicos**: calor (golpe de calor = Tª > 40,5 ºC + SNC alterado), frío (hipotermia < 35 ºC), altitud (hipoxia), presión (Boyle/Henry), radiación, electricidad (T2).",
+"**Infección** = agresión + defensa + evasión. Cadena: reservorio → fuente → transmisión → puerta de entrada (T3).",
+"**Inflamación** local → fase aguda sistémica → SIRS → sepsis/MODS. Fiebre por IL-1/TNF-α sobre el hipotálamo (T4).",
+"**Cáncer** = oncogenes activados + supresores inactivados + escape inmune; la mayoría es esporádico (T5).",
+"**Edema** = hidrostática ↑, oncótica ↓, permeabilidad ↑ o linfático obstruido (T6)."]},
+{mod:2,titulo:"Metabolismo y nutrición (T7-T12)",ideas:[
+"**Na⁺ manda sobre volumen y osmolaridad.** Deshidratación y hiperhidratación: iso, hipo e hipertónica (T7).",
+"**pH 7,35-7,45.** Acidosis metabólica: anion gap alto (láctica, cetoacidosis, IR, tóxicos) o normal (ATR, diarrea) (T8).",
+"**Diabetes** = falta o resistencia a la insulina. CAD (acidosis, cetonas) vs EHH (Osm > 320, sin cetosis) (T9).",
+"**Lipoproteínas**: quilomicrón (exógena), VLDL → IDL → LDL (endógena), HDL (reverso). HF = AD, xantomas y arco corneal (T10).",
+"**Proteinograma**: albúmina + α1, α2, β, γ. Banda M = gammapatía monoclonal (T11).",
+"**Síndrome metabólico** = 3 de 5 criterios; desnutrición: IMC < 18 e hipoalbuminemia (T12)."]},
+{mod:3,titulo:"Aparato digestivo (T13-T21)",ideas:[
+"**Dolor**: ALICIA; visceral (sordo) vs somático (agudo, contractura). **Hemorragia**: HDA sobre el ángulo de Treitz (T13).",
+"**Exploración y pruebas hepáticas**: función (albúmina, TP, bilirrubina, amonio), colestasis (BD, FA, GGT) y citólisis (AST, ALT) (T14).",
+"**Esófago y estómago**: disfagia, ERGE, vómito, vaciamiento, secreción (hiper: gastrina/Hp; hipo: atrofia → B12) (T15).",
+"**Maldigestión** (gástrica, pancreática, biliar) vs **malabsorción** (superficie, pared, vascular, linfática) (T16).",
+"**Diarrea** (secretora, osmótica, exudativa, motora), **estreñimiento** e **íleo** (mecánico/funcional) (T17).",
+"**Insuficiencia hepática** = síntesis + depuración + shunt → encefalopatía (T18). **Ictericia**: hemolítica/hepática/obstructiva; litiasis (T19).",
+"**HTP** (> 10 mmHg; cirrosis) → ascitis (GASA > 1,1), varices, esplenomegalia (T20). **Vía biliar y páncreas**: cólico → colecistitis → coledocolitiasis → colangitis/pancreatitis (T21)."]}],
+conexiones:[
+{t:"Albúmina baja → edema",d:"La hipoalbuminemia (nefrótico, hepatopatía, desnutrición, enteropatía) baja la presión oncótica y produce edema/ascitis.",temas:[6,11,12,14,18,20]},
+{t:"Infección → inflamación → SIRS → sepsis",d:"Los PAMP activan macrófagos (TLR/NF-κB); las citocinas dan fiebre, RFA y SIRS. Golpe de calor, pancreatitis aguda y colangitis comparten la vía SIRS/MODS.",temas:[2,3,4,21]},
+{t:"Vómito y diarrea → trastorno hidroelectrolítico y ácido-base",d:"El vómito causa alcalosis metabólica hipoclorémica con hipoK; la diarrea, acidosis metabólica con AG normal y deshidratación.",temas:[7,8,15,17]},
+{t:"Resistencia a la insulina: DM2 + dislipemia + esteatosis",d:"Obesidad visceral → AGL y adipocitocinas → hiperinsulinismo → DM2, ↑ TG/↓ HDL, esteatosis, HTA y diátesis trombótica (síndrome metabólico).",temas:[9,10,12]},
+{t:"Cirrosis → hipertensión portal → complicaciones",d:"HTP: ascitis, varices (HDA), esplenomegalia/hiperesplenismo, encefalopatía (shunt), hepatorrenal. Estrógenos no metabolizados: arañas, ginecomastia, eritema.",temas:[13,14,18,20]},
+{t:"Bilis: sales biliares, colestasis, maldigestión y litiasis",d:"Sin sales biliares hay maldigestión de grasas y déficit de liposolubles (K → coagulopatía). La colestasis da ictericia obstructiva y prurito; la bilis litogénica forma cálculos que causan cólico, colecistitis, colangitis y pancreatitis.",temas:[12,14,16,19,21]},
+{t:"Páncreas: digestión, glucemia y triglicéridos",d:"La insuficiencia pancreática da maldigestión (elastasa fecal, Van de Kamer); la pancreatitis crónica añade diabetes; la hipertrigliceridemia grave y el alcohol causan pancreatitis aguda.",temas:[9,10,16,21]},
+{t:"Hemorragia digestiva y ferropenia",d:"El sangrado oculto causa anemia ferropénica; la hemorragia digestiva y las varices son desencadenantes de encefalopatía hepática.",temas:[13,15,18]},
+{t:"Hipotiroidismo en varios temas",d:"Mixedema (edema sin fóvea), ↑ colesterol y TG, hipoacidez gástrica y estreñimiento.",temas:[6,10,15,17]},
+{t:"Alcohol: un factor en muchos temas",d:"Hepatopatía alcohólica (arañas, Dupuytren), HTG, déficit de B1/fólico, pancreatitis aguda y crónica, hipoglucemia de ayuno.",temas:[9,10,12,14,21]}],
+memorizar:[
+{t:"Criterios y umbrales",items:[
+"**SIRS** (≥ 2): Tª > 38/< 36 · FC > 90 · FR > 20 o pCO₂ < 32 · leucocitos > 12.000/< 4.000 o > 10 % cayados (T3-4)",
+"**qSOFA** (2 de 3): Glasgow ≤ 13 · TAS ≤ 100 · FR ≥ 22 (T3)",
+"**Golpe de calor**: exposición + SNC + Tª > 40,5 ºC (T2)",
+"**Diabetes**: glucosa basal ≥ 126 · HbA1c ≥ 6,5 % · SOG 2 h ≥ 200 (T9)",
+"**Síndrome metabólico**: 3 de 5 (cintura, TG, cHDL, PA, glucemia) (T12)",
+"**pH** 7,35-7,45 · HCO₃⁻ 22-26 · PCO₂ 35-45 (T8)",
+"**HTP** > 10 mmHg · **GASA** > 1,1 g/dl (T20)"]},
+{t:"Tríadas y series",items:[
+"**Charcot**: dolor HD + fiebre en picos + ictericia (T21)",
+"**Pancreatitis crónica**: calcificaciones + esteatorrea + diabetes (T21)",
+"**Fases del síndrome infeccioso agudo**: incubación, prodrómico, aguda, resolución, convalecencia (T3)",
+"**Fases de la fiebre**: inicio, estado, crisis (T4)",
+"**ALICIA**: antigüedad, localización, irradiación, características, intensidad, alivio (T13)"]},
+{t:"Listas de examen",items:[
+"**Edema**: ↑ hidrostática, ↓ oncótica, ↑ permeabilidad, obstrucción linfática (T6)",
+"**Acidosis con AG alto**: láctica, cetoacidosis, IR, tóxicos (T8)",
+"**Microangiopatía diabética**: retinopatía, neuropatía, nefropatía (T9)",
+"**HF**: xantomas tendinosos, xantelasmas, arco corneal (T10)",
+"**HDA / HDB**: sobre / bajo el ángulo de Treitz (T13)",
+"**Cirrosis, signos**: ictericia, arañas, eritema palmar, Dupuytren, ginecomastia, cabeza de medusa (T14)",
+"**Maldigestión**: gástrica, pancreática, biliar (T16)",
+"**Íleo**: mecánico (obstrucción, estrangulamiento) y funcional (paralítico, espástico) (T17)",
+"**Desencadenantes de encefalopatía**: proteínas, estreñimiento, sedantes, infección, diuréticos/IR, hemorragia digestiva (T18)"]}]};
+
+(function(){
+"use strict";
+/* ---------- utilidades ---------- */
+var esc=function(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")};
+var fmt=function(s){return esc(s).replace(/\*\*(.+?)\*\*/g,"<strong>$1</strong>").replace(/(^|[^*])\*([^*]+?)\*(?!\*)/g,"$1<em>$2</em>")};
+var SUB="₀₁₂₃₄₅₆₇₈₉";
+var norm=function(s){return String(s).replace(/[₀-₉]/g,function(c){return SUB.indexOf(c)}).normalize("NFD").replace(/[̀-ͯ]/g,"").toLowerCase()};
+var shuffle=function(a){a=a.slice();for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t}return a};
+var reEsc=function(k){return k.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")};
+var TOP=Object.keys(T).map(Number).sort(function(a,b){return a-b});
+var modOf=function(n){return MODS.filter(function(m){return m.topics.indexOf(n)>=0})[0]};
+var plural=function(r){return /[,\-]/.test(r)?"Diaps. ":"Diap. "};
+var srcLine=function(n,ref){return "📄 "+plural(ref)+ref+" · "+T[n].src.replace(/\.pdf$/i,"")};
+
+var IC={
+home:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11.5 12 4l9 7.5"/><path d="M5.5 10v9.5h13V10"/></svg>',
+prac:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="m8.5 12.3 2.3 2.3 4.7-5"/></svg>',
+exam:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3.5h8l4 4V20.5H7z"/><path d="M15 3.5v4h4M10 12h6M10 16h6"/></svg>',
+key:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3.5 14.4 9l5.6.6-4.2 3.8 1.3 5.6L12 16l-5.1 3 1.3-5.6L4 9.6 9.6 9z"/></svg>',
+search:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"><circle cx="11" cy="11" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>',
+theme:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.5 1.5M17.2 17.2l1.5 1.5M5.3 18.7l1.5-1.5M17.2 6.8l1.5-1.5"/></svg>',
+user:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="8.5" r="3.8"/><path d="M4.5 20c.9-3.6 3.9-5.5 7.5-5.5s6.6 1.9 7.5 5.5"/></svg>',
+back:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m14.5 5-7 7 7 7"/></svg>'
+};
+
+/* ---------- progreso (localStorage + db por usuario si está disponible) ---------- */
+var LSK="fisiopat_progreso_v1";
+var P={ts:0,read:{},t:{},c:{},last:null,theme:null};
+var dbDoc=null,saveTimer=null,storeMode="local";
+function lsGet(){try{var s=localStorage.getItem(LSK);return s?JSON.parse(s):null}catch(e){return null}}
+function lsSet(){try{localStorage.setItem(LSK,JSON.stringify(P))}catch(e){}}
+function sane(o){var r={ts:0,read:{},t:{},c:{},last:null,theme:null};if(o&&typeof o==="object"){r.ts=+o.ts||0;["read","t","c"].forEach(function(k){if(o[k]&&typeof o[k]==="object")r[k]=o[k]});r.last=o.last||null;r.theme=o.theme||null}return r}
+function save(){P.ts=Date.now();lsSet();if(SB&&sbUser){clearTimeout(saveTimer);saveTimer=setTimeout(sbPush,700)}if(dbDoc){clearTimeout(saveTimer);saveTimer=setTimeout(function(){try{dbDoc.set(P).catch(function(){})}catch(e){}},700)}}
+function applyTheme(){var r=document.documentElement;if(P.theme)r.setAttribute("data-theme",P.theme);else r.removeAttribute("data-theme")}
+/* --- Supabase (solo en la versión alojada por cuenta propia; ver config.js) --- */
+var SB=null,sbUser=null,AM={msg:"",err:false};
+function sbPush(){if(!SB||!sbUser)return;SB.from("progreso").upsert({user_id:sbUser.id,data:P,updated_at:new Date().toISOString()}).then(function(r){if(r&&r.error)console.warn("No se pudo guardar el progreso en Supabase:",r.error.message)})}
+function sbPull(){
+  SB.from("progreso").select("data").eq("user_id",sbUser.id).maybeSingle().then(function(r){
+    storeMode="cuenta";
+    if(r&&!r.error&&r.data&&r.data.data){var d=sane(r.data.data);if(d.ts>P.ts){P=d;lsSet();applyTheme()}else sbPush()}
+    else if(r&&!r.error&&P.ts)sbPush();
+    render();
+  });
+}
+function sbSession(sess){
+  var u=sess&&sess.user;
+  if(u&&(!sbUser||sbUser.id!==u.id)){sbUser=u;sbPull()}
+  else if(!u&&sbUser){sbUser=null;storeMode="local";render()}
+}
+function initSupabase(){
+  var c=window.SUPA_CFG;
+  if(!c||!c.url||!c.key||!window.supabase||!window.supabase.createClient)return;
+  try{
+    SB=window.supabase.createClient(c.url,c.key);
+    SB.auth.getSession().then(function(r){sbSession(r&&r.data&&r.data.session);render()});
+    SB.auth.onAuthStateChange(function(_e,sess){sbSession(sess)});
+  }catch(e){SB=null}
+}
+function initStore(){
+  var l=lsGet();if(l)P=sane(l);applyTheme();
+  initSupabase();
+  if(!window.claude||!claude.use)return;
+  Promise.all([claude.use("db"),claude.use("user")]).then(function(r){
+    var db=r[0],user=r[1];if(!db||!user||!user.id)return null;
+    return Promise.resolve(user.id()).then(function(id){
+      dbDoc=db.collection("data/users/"+id).doc("progress");
+      return dbDoc.get().then(function(snap){
+        storeMode="cuenta";
+        if(snap&&snap.exists){var d=sane(snap.data());if(d.ts>P.ts){P=d;lsSet();applyTheme()}else{try{dbDoc.set(P)}catch(e){}}}
+        else if(P.ts){try{dbDoc.set(P)}catch(e){}}
+        render();
+      });
+    });
+  }).catch(function(){});
+}
+/* progreso por tema: 10 % lectura, 45 % test acertados, 45 % cortas (parcial = mitad) */
+function stats(n){
+  var tp=T[n],tt=tp.test.length,cc=tp.cortas.length,ta=0,tr=0,ca=0,cs=0,ct=0;
+  tp.test.forEach(function(_,i){var v=P.t[n+"_"+i];if(v!==undefined){ta++;tr+=v}});
+  tp.cortas.forEach(function(_,i){var v=P.c[n+"_"+i];if(v!==undefined){ca++;cs+=v/2}});
+  return {tests:tt,testOk:tr,testAns:ta,cortas:cc,cortasAns:ca,cortasScore:cs,read:!!P.read[n]};
+}
+function pr(n){var s=stats(n);return (s.read?.1:0)+.45*s.testOk/s.tests+.45*s.cortasScore/s.cortas}
+function avg(list){return list.length?list.reduce(function(a,n){return a+pr(n)},0)/list.length:0}
+function acc(n){var s=stats(n),a=s.testAns+s.cortasAns;return a?(s.testOk+s.cortasScore)/a:null}
+
+/* ---------- estado de vista ---------- */
+var V={v:"home",n:1,tab:"resumen"};
+var PS={scope:"all",topic:1,type:"test",count:10,only:"all"};
+var S=null;          /* sesión de práctica activa */
+var EXF="0";         /* filtro de preguntas nuevas del examen */
+var RS=false;        /* confirmación de reinicio */
+var SIMIDX=SIM.map(function(_,i){return i});
+
+/* ---------- componentes ---------- */
+function ring(p,s,label){
+  var r=(s-6)/2,c=2*Math.PI*r,h=s/2;
+  return '<svg class="ring" width="'+s+'" height="'+s+'" viewBox="0 0 '+s+' '+s+'" aria-hidden="true"><circle class="bg" cx="'+h+'" cy="'+h+'" r="'+r+'"/><circle class="fg" cx="'+h+'" cy="'+h+'" r="'+r+'" stroke-dasharray="'+c.toFixed(1)+'" stroke-dashoffset="'+(c*(1-p)).toFixed(1)+'" transform="rotate(-90 '+h+' '+h+')"/>'+(label?'<text x="50%" y="50%" text-anchor="middle" dominant-baseline="central">'+Math.round(p*100)+'</text>':"")+'</svg>';
+}
+function bar(p,cls){return '<div class="bar '+(cls||"")+'"><i style="width:'+Math.round(p*100)+'%"></i></div>'}
+function pts(list){return '<ul class="pts">'+list.map(function(x){return "<li>"+fmt(x)+"</li>"}).join("")+"</ul>"}
+function tbtn(n){return '<button data-a="go" data-v="topic" data-n="'+n+'">'+'Tema '+n+'</button>'}
+
+/* ---------- barra lateral y barras ---------- */
+function sideHTML(){
+  var h='<div class="brand"><div class="logo">Fp</div><div><b>Fisiopatología</b><small>Centro de estudio</small></div></div>';
+  var nav=[["home","Inicio","home"],["practice","Práctica","prac"],["exam","Examen del año pasado","exam"],["claves","Claves esenciales","key"],["search","Buscar","search"]];
+  h+='<nav class="nav" aria-label="Secciones">'+nav.map(function(x){return '<button data-a="go" data-v="'+x[0]+'"'+(V.v===x[0]?' aria-current="page"':"")+'>'+IC[x[2]]+x[1]+"</button>"}).join("")+"</nav>";
+  MODS.forEach(function(m){
+    h+='<div class="sidehead"><span class="dot m'+m.id+'"></span>'+esc(m.name)+"</div>";
+    m.topics.forEach(function(n){
+      h+='<button class="tlink" data-a="go" data-v="topic" data-n="'+n+'"'+(V.v==="topic"&&V.n===n?' aria-current="page"':"")+'><span class="n">'+n+'</span><span class="t">'+esc(T[n].short)+"</span>"+ring(pr(n),16,false).replace('class="ring"','class="ring mini"')+"</button>";
+    });
+  });
+  h+='<div class="sidefoot"><button class="linkbtn" data-a="theme">Cambiar tema claro/oscuro</button>'+(SB?'<button class="linkbtn" data-a="go" data-v="cuenta">'+(sbUser?"Cuenta: sincronizado":"Iniciar sesión para sincronizar")+"</button>":"")+'<span>'+(storeMode==="cuenta"?"Progreso guardado en tu cuenta.":"Progreso guardado en este dispositivo.")+"</span></div>";
+  return h;
+}
+function tabbarHTML(){
+  var nav=[["home","Inicio","home"],["practice","Práctica","prac"],["exam","Examen","exam"],["claves","Claves","key"],["search","Buscar","search"]];
+  var cur=V.v==="topic"?"home":V.v;
+  return nav.map(function(x){return '<button data-a="go" data-v="'+x[0]+'"'+(cur===x[0]?' aria-current="page"':"")+'>'+IC[x[2]]+"<span>"+x[1]+"</span></button>"}).join("");
+}
+function titleOf(){
+  return {home:"Fisiopatología",practice:"Práctica",exam:"Examen del año pasado",claves:"Claves esenciales",search:"Buscar",cuenta:"Cuenta y sincronización"}[V.v]||("Tema "+V.n);
+}
+function topHTML(){
+  return (V.v!=="home"?'<button class="iconbtn" data-a="go" data-v="home" aria-label="Volver al inicio">'+IC.back+"</button>":"")+'<div class="ttl">'+esc(titleOf())+'</div>'+(SB?'<button class="iconbtn" data-a="go" data-v="cuenta" aria-label="Cuenta">'+IC.user+'</button>':"")+'<button class="iconbtn" data-a="theme" aria-label="Cambiar tema">'+IC.theme+"</button>";
+}
+
+/* ---------- vista: inicio ---------- */
+function homeView(){
+  var all=avg(TOP),readN=TOP.filter(function(n){return P.read[n]}).length,tOk=0,tTot=0,cOk=0,cTot=0;
+  TOP.forEach(function(n){var s=stats(n);tOk+=s.testOk;tTot+=s.tests;cOk+=s.cortasScore;cTot+=s.cortas});
+  var last=P.last&&T[P.last]?P.last:null;
+  var nxt=last||TOP.filter(function(n){return pr(n)<1})[0]||1;
+  var weak=TOP.map(function(n){return [n,acc(n)]}).filter(function(x){return x[1]!==null&&x[1]<.7}).sort(function(a,b){return a[1]-b[1]}).slice(0,3);
+  var h='<div class="hero"><div class="eyebrow">Fisiopatología · 21 temas</div><h1>Tu centro de estudio</h1><p>Resúmenes, esquemas, test y preguntas cortas, construidos solo con las diapositivas de clase y con el examen del año pasado como guía de estilo.</p></div>';
+  h+='<div class="card"><div class="row" style="gap:20px;flex-wrap:nowrap;align-items:center">'+ring(all,84,true).replace('class="ring"','class="ring" style="flex:none"')+'<div style="min-width:0;display:flex;flex-direction:column;gap:12px;flex:1"><div class="row" style="gap:22px">'+
+    '<div class="stat"><b>'+readN+'/21</b><span>temas leídos</span></div><div class="stat"><b>'+tOk+'/'+tTot+'</b><span>test acertados</span></div><div class="stat"><b>'+Math.round(cOk)+'/'+cTot+'</b><span>cortas dominadas</span></div></div>'+
+    '<div class="row"><button class="btn sm" data-a="go" data-v="topic" data-n="'+nxt+'">'+(last?"Continuar · Tema "+nxt:"Empezar · Tema "+nxt)+'</button>'+(weak.length?'<button class="btn sm sec2" data-a="startweak">Repasar lo flojo</button>':"")+"</div></div></div>"+
+    (weak.length?'<p class="note" style="margin-top:14px">Temas con más fallos: '+weak.map(function(w){return '<button class="linkbtn" data-a="go" data-v="topic" data-n="'+w[0]+'">T'+w[0]+" ("+Math.round(w[1]*100)+" %)</button>"}).join(" · ")+"</p>":"")+"</div>";
+  h+='<div class="grid g3">'+
+    '<button class="tile" data-a="go" data-v="practice"><span class="iconbtn" style="background:var(--accent-soft);color:var(--accent)">'+IC.prac+'</span><span class="tt"><b>Práctica</b><br><span class="note">Test, cortas y simulacro</span></span></button>'+
+    '<button class="tile" data-a="go" data-v="exam"><span class="iconbtn" style="background:var(--accent-soft);color:var(--accent)">'+IC.exam+'</span><span class="tt"><b>Examen del año pasado</b><br><span class="note">Por tema y análisis de estilo</span></span></button>'+
+    '<button class="tile" data-a="go" data-v="claves"><span class="iconbtn" style="background:var(--accent-soft);color:var(--accent)">'+IC.key+'</span><span class="tt"><b>Claves esenciales</b><br><span class="note">El resumen del resumen</span></span></button></div>';
+  MODS.forEach(function(m){
+    h+='<section class="sec"><div class="row" style="justify-content:space-between;flex-wrap:nowrap"><div><h2><span class="dot m'+m.id+'" style="display:inline-block;margin-right:8px"></span>'+esc(m.name)+'</h2><div class="meta">'+esc(m.sub)+"</div></div><div style=\"width:90px;flex:none\">"+bar(avg(m.topics),"m"+m.id)+"</div></div>";
+    h+='<div class="grid g2">'+m.topics.map(function(n){return '<button class="tile" data-a="go" data-v="topic" data-n="'+n+'"><span class="tn">'+n+'</span><span class="tt">'+esc(T[n].title)+"</span>"+ring(pr(n),36,true)+"</button>"}).join("")+"</div></section>";
+  });
+  h+='<div class="note">'+(RS?'¿Borrar todo tu progreso? <button class="linkbtn" data-a="resetyes">Sí, borrar</button> · <button class="linkbtn" data-a="resetno">Cancelar</button>':'<button class="linkbtn" data-a="reset">Reiniciar progreso</button>')+" · Fuente única: las diapositivas en PDF de cada tema (citadas por número de diapositiva).</div>";
+  return h;
+}
+
+/* ---------- vista: tema ---------- */
+function schemeHTML(e){
+  var h='<div class="scheme"><h3>'+fmt(e.title)+(e.ref?' <span class="ref">'+plural(e.ref)+esc(e.ref)+"</span>":"")+"</h3>";
+  var nd=function(x,c){return '<div class="node'+(c?" "+c:"")+'">'+fmt(x)+"</div>"};
+  var arw=function(l){return '<div class="ar">↓'+(l?"<i>"+fmt(l)+"</i>":"")+"</div>"};
+  if(e.t==="levels"){
+    h+='<div class="lv">'+e.levels.map(function(L,i){
+      var last=i===e.levels.length-1,cls=last?"end":i>0?"mid":"";
+      return '<div class="lv-row '+cls+'"><div class="lv-lab">'+esc(L.label)+'</div><div class="lv-items">'+L.items.map(function(x){return nd(x)}).join("")+"</div></div>"+(last?"":'<div class="lv-arrow"><span>↓'+(L.arrow?"<i>"+fmt(L.arrow)+"</i>":"")+"</span></div>");
+    }).join("")+"</div>";
+  }
+  else if(e.t==="chain"){
+    h+='<div class="chain">'+e.steps.map(function(x,i){
+      var last=i===e.steps.length-1,txt=Array.isArray(x)?x[0]:x,lab=Array.isArray(x)?x[1]:"";
+      return nd(txt,last?"end":"")+(last?"":arw(lab));
+    }).join("")+"</div>";
+  }
+  else if(e.t==="branch"){
+    h+='<div class="branch"><div class="root">'+fmt(e.root)+'</div><div class="ar0">↓</div><div class="bcols">'+e.branches.map(function(b){
+      return '<div class="bcol"><h4>'+fmt(b.label)+"</h4>"+b.steps.map(function(x,i){var last=i===b.steps.length-1;return nd(x,last?"end":"")+(last?"":'<div class="ar">↓</div>')}).join("")+"</div>";
+    }).join("")+"</div></div>";
+  }
+  else if(e.t==="flow")h+='<ol class="flow">'+e.steps.map(function(s){return "<li><span>"+fmt(s)+"</span></li>"}).join("")+"</ol>";
+  else h+='<div class="tw"><table><thead><tr>'+e.head.map(function(c){return "<th>"+fmt(c)+"</th>"}).join("")+"</tr></thead><tbody>"+e.rows.map(function(r){return "<tr>"+r.map(function(c){return "<td>"+fmt(c)+"</td>"}).join("")+"</tr>"}).join("")+"</tbody></table></div>";
+  return h+"</div>";
+}
+function topicView(){
+  var n=V.n,tp=T[n],m=modOf(n),idx=TOP.indexOf(n),st=stats(n);
+  var h='<div class="th">'+ring(pr(n),64,true)+'<div style="min-width:0;flex:1"><div class="eyebrow"><span class="dot m'+m.id+'" style="display:inline-block;margin-right:6px"></span>Tema '+n+" · "+esc(m.name)+"</div><h1>"+esc(tp.title)+'</h1><div class="meta">'+esc(tp.prof)+" · "+esc(tp.src.replace(/\.pdf$/i,""))+"</div></div></div>";
+  var tabs=[["resumen","Resumen"],["esquemas","Esquemas"],["test","Test"],["cortas","Cortas"]];
+  h+='<div><div class="seg" role="tablist">'+tabs.map(function(t){return '<button role="tab" data-a="tab" data-t="'+t[0]+'" aria-selected="'+(V.tab===t[0])+'">'+t[1]+"</button>"}).join("")+"</div></div>";
+  if(S&&S.host==="topic"&&S.topic===n&&S.tab===V.tab)h+=sessionHTML();
+  else if(V.tab==="resumen"){
+    if(tp.intro)h+='<p class="lead">'+fmt(tp.intro)+"</p>";
+    if(tp.explica){
+      tp.explica.forEach(function(b){h+='<section class="block"><h3>'+fmt(b.h)+' <span class="ref">'+plural(b.ref)+esc(b.ref)+'</span></h3><div class="prose">'+b.p.map(function(x){return "<p>"+fmt(x)+"</p>"}).join("")+"</div>"+(b.tip?'<div class="callout"><b>Para fijar.</b> '+fmt(b.tip)+"</div>":"")+"</section>"});
+    }else tp.resumen.forEach(function(b){h+='<section class="block"><h3>'+fmt(b.h)+' <span class="ref">'+plural(b.ref)+esc(b.ref)+"</span></h3>"+pts(b.pts)+"</section>"});
+    h+='<div class="keys"><h3>Para memorizar</h3><ul>'+tp.claves.map(function(c){return "<li>"+fmt(c)+"</li>"}).join("")+"</ul></div>";
+    h+='<div class="row"><button class="btn'+(P.read[n]?" sec2":"")+'" data-a="read">'+(P.read[n]?"✓ Leído · desmarcar":"Marcar como leído")+'</button><button class="btn ghost" data-a="tab" data-t="esquemas">Ver esquemas</button></div>';
+  }
+  else if(V.tab==="esquemas")h+=tp.esquemas.map(schemeHTML).join("");
+  else if(V.tab==="test"){
+    var wrong=tp.test.filter(function(_,i){return P.t[n+"_"+i]===0}).length;
+    h+='<div class="card sec"><h3>Test del tema</h3><p class="meta">'+tp.test.length+' preguntas de opción múltiple. Las opciones se barajan cada vez. Mejor registro actual: '+st.testOk+'/'+st.tests+' acertadas.</p><div class="row"><button class="btn" data-a="starttopic" data-k="test">Empezar test</button>'+(wrong?'<button class="btn sec2" data-a="starttopic" data-k="testfail">Repasar las '+wrong+' falladas</button>':'')+'</div></div>';
+  }
+  else{
+    h+='<div class="card sec"><h3>Preguntas cortas</h3><p class="meta">Escribe tu respuesta; se compara con los puntos clave del material y puedes ajustar la nota tú mismo.</p><div class="row"><button class="btn" data-a="starttopic" data-k="cortas">Practicar cortas</button></div></div>';
+    h+='<div class="q-list">'+tp.cortas.map(function(c,i){
+      var v=P.c[n+"_"+i];
+      return '<details class="qa"><summary><span class="status '+(v===undefined?"":"s"+v)+'"></span><span class="qt">'+fmt(c.q)+(c.ex?' <span class="chip acc">Examen #'+c.ex+"</span>":"")+'</span></summary><div class="body"><div>'+fmt(c.a)+'</div><div class="note">'+esc(srcLine(n,c.ref))+"</div></div></details>";
+    }).join("")+"</div>";
+  }
+  h+='<div class="nav2">'+(idx>0?'<button class="btn ghost sm" data-a="go" data-v="topic" data-n="'+TOP[idx-1]+'">‹ Tema '+TOP[idx-1]+"</button>":"<span></span>")+(idx<TOP.length-1?'<button class="btn ghost sm" data-a="go" data-v="topic" data-n="'+TOP[idx+1]+'">Tema '+TOP[idx+1]+" ›</button>":"<span></span>")+"</div>";
+  return h;
+}
+
+/* ---------- sesiones de práctica ---------- */
+function resolve(it){
+  if(it.k==="sim"){var s=SIM[it.idx];return {n:s.n,q:s.q,a:s.a,pts:s.pts,ref:s.ref,key:"S"+it.idx,sa:true}}
+  var tp=T[it.n];
+  if(it.k==="mc"){var q=tp.test[it.i];return {n:it.n,q:q.q,o:q.o,a:q.a,e:q.e,ref:q.ref,key:it.n+"_"+it.i}}
+  var c=tp.cortas[it.i];return {n:it.n,q:c.q,a:c.a,pts:c.pts,ref:c.ref,ex:c.ex,key:it.n+"_"+it.i,sa:true};
+}
+function startSession(items,host,topic,tab){
+  items=items.map(function(it){var o={k:it.k,n:it.n,i:it.i,idx:it.idx};if(it.k==="mc")o.order=shuffle([0,1,2,3]);return o});
+  S={items:items,i:0,res:[],host:host,topic:topic,tab:tab,cur:{},done:false};
+  render();window.scrollTo(0,0);
+}
+function gradeText(r,text){
+  var t=norm(text);
+  var hits=r.pts.map(function(p){
+    var ok=p[1].split("|").some(function(k){k=norm(k).trim();if(!k)return false;return k.length<=3?new RegExp("(^|[^a-z0-9])"+reEsc(k)).test(t):t.indexOf(k)>=0});
+    return {lab:p[0],ok:ok};
+  });
+  var ratio=hits.filter(function(h){return h.ok}).length/hits.length;
+  return {hits:hits,score:ratio>=.75?2:ratio>=.4?1:0};
+}
+function record(r,score){
+  if(r.sa)P.c[r.key]=score;else P.t[r.key]=score;
+  S.res[S.i]=score;save();
+}
+function sessionHTML(){
+  var h="";
+  if(S.done)return summaryHTML();
+  var it=S.items[S.i],r=resolve(it),total=S.items.length,c=S.cur;
+  h+='<div class="progress-top">'+bar(S.i/total)+'<span class="cnt">'+(S.i+1)+" / "+total+'</span><button class="btn ghost sm" data-a="quit">Salir</button></div>';
+  h+='<div class="card qcard"><div class="row"><span class="chip">Tema '+r.n+" · "+esc(T[r.n].short)+"</span>"+(r.ex?'<span class="chip acc">Examen #'+r.ex+"</span>":"")+(it.k==="sim"?'<span class="chip warn">Pregunta nueva</span>':"")+'</div><div class="qtext">'+fmt(r.q)+"</div>";
+  if(!r.sa){
+    h+='<div class="opts">'+it.order.map(function(oi,j){
+      var cls="",dis=c.sel!==undefined?" disabled":"";
+      if(c.sel!==undefined){if(oi===r.a)cls=" ok";else if(j===c.sel)cls=" bad"}
+      return '<button class="opt'+cls+'" data-a="pick" data-k="'+j+'"'+dis+'><span class="L">'+"ABCD"[j]+"</span><span>"+fmt(r.o[oi])+"</span></button>";
+    }).join("")+"</div>";
+    if(c.sel!==undefined){
+      var good=it.order[c.sel]===r.a;
+      h+='<div class="fb '+(good?"ok":"bad")+'"><b class="h">'+(good?"Correcto":"Incorrecto")+"</b>"+(good?"":"<div>Respuesta correcta: <strong>"+fmt(r.o[r.a])+"</strong></div>")+"<div>"+fmt(r.e)+'</div><div class="note">'+esc(srcLine(r.n,r.ref))+"</div></div>";
+      h+='<div class="row"><button class="btn" data-a="next">'+(S.i+1<total?"Siguiente":"Ver resultado")+"</button></div>";
+    }
+  }else{
+    if(!c.g){
+      h+='<textarea id="ans" placeholder="Escribe tu respuesta con tus palabras…" aria-label="Tu respuesta">'+esc(c.text||"")+"</textarea>"+(c.warn?'<div class="note">Escribe algo antes de corregir, o pulsa «Ver respuesta».</div>':"")+'<div class="row"><button class="btn" data-a="grade">Corregir</button><button class="btn ghost" data-a="reveal">Ver respuesta</button></div>';
+    }else{
+      var g=c.g,cls=g.score===2?"ok":g.score===1?"mid":"bad",head=g.score===2?"Muy bien: cubres los puntos clave":g.score===1?"Casi: te faltan elementos":(c.revealed?"Respuesta revelada":"Insuficiente: faltan puntos clave");
+      h+='<div class="fb '+cls+'"><b class="h">'+head+'</b>'+(g.hits.length&&!c.revealed?'<ul class="check">'+g.hits.map(function(x){return '<li class="'+(x.ok?"y":"n")+'"><span class="ic">'+(x.ok?"✓":"✕")+"</span><span>"+fmt(x.lab)+"</span></li>"}).join("")+"</ul>":"")+'</div>';
+      h+='<div class="model"><b>Respuesta modelo.</b> '+fmt(r.a)+'<div class="note" style="margin-top:6px">'+esc(srcLine(r.n,r.ref))+"</div></div>";
+      if(!c.revealed)h+='<div class="note">La corrección busca palabras clave; si tu respuesta era correcta con otras palabras, ajusta la nota:</div>';
+      h+='<div class="row"><span class="note">Mi nota:</span><div class="seg">'+[[2,"Correcta"],[1,"Parcial"],[0,"Incorrecta"]].map(function(x){return '<button data-a="ovr" data-s="'+x[0]+'" aria-selected="'+(S.res[S.i]===x[0])+'">'+x[1]+"</button>"}).join("")+'</div></div><div class="row"><button class="btn" data-a="next">'+(S.i+1<total?"Siguiente":"Ver resultado")+"</button></div>";
+    }
+  }
+  return h+"</div>";
+}
+function summaryHTML(){
+  var total=S.items.length,sum=0,fails=[];
+  S.items.forEach(function(it,i){var r=S.res[i],rr=resolve(it),v=rr.sa?(r||0)/2:(r||0);sum+=v;if(v<1)fails.push([it,rr,v])});
+  var pct=Math.round(sum/total*100);
+  var h='<div class="card sec" style="text-align:center;align-items:center"><div class="eyebrow">Resultado</div><div class="score">'+pct+'<span style="font-size:28px"> %</span></div><div class="meta">'+(Math.round(sum*2)/2)+" de "+total+" puntos (las cortas parciales cuentan la mitad)</div>"+bar(pct/100)+'<div class="row" style="justify-content:center"><button class="btn" data-a="again">Repetir</button>'+(fails.length?'<button class="btn sec2" data-a="retryfails">Repasar las '+fails.length+" no perfectas</button>":"")+'<button class="btn ghost" data-a="quit">Cerrar</button></div></div>';
+  if(fails.length){
+    h+='<section class="sec"><h2>Para repasar</h2><div class="q-list">'+fails.map(function(f){var rr=f[1];return '<details class="qa"><summary><span class="status s0"></span><span class="qt">'+fmt(rr.q)+'</span></summary><div class="body"><div>'+fmt(rr.sa?rr.a:rr.o[rr.a])+"</div>"+(rr.e?'<div class="note">'+fmt(rr.e)+"</div>":"")+'<div class="note">'+esc(srcLine(rr.n,rr.ref))+'</div><div><button class="linkbtn" data-a="go" data-v="topic" data-n="'+rr.n+'">Ir al Tema '+rr.n+" ›</button></div></div></details>"}).join("")+"</div></section>";
+  }
+  return h;
+}
+
+/* ---------- constructores de sesión ---------- */
+function mcAll(topics){var a=[];topics.forEach(function(n){T[n].test.forEach(function(_,i){a.push({k:"mc",n:n,i:i})})});return a}
+function saAll(topics){var a=[];topics.forEach(function(n){T[n].cortas.forEach(function(_,i){a.push({k:"sa",n:n,i:i})})});return a}
+function simAll(topics){return SIMIDX.filter(function(i){return topics.indexOf(SIM[i].n)>=0}).map(function(i){return {k:"sim",idx:i}})}
+function keyOf(it){return it.k==="sim"?"S"+it.idx:it.n+"_"+it.i}
+function filt(list,only){
+  if(only==="all")return list;
+  return list.filter(function(it){var k=keyOf(it),v=it.k==="mc"?P.t[k]:P.c[k];return only==="fail"?(v!==undefined&&v<(it.k==="mc"?1:2)):v===undefined});
+}
+function simulacro(){
+  var tops=shuffle(TOP).slice(0,15),a=[];
+  tops.forEach(function(n){
+    var pool=saAll([n]).concat(simAll([n]));
+    a.push(pool[Math.floor(Math.random()*pool.length)]);
+  });
+  return a;
+}
+function startPractice(){
+  var topics=PS.scope==="all"?TOP:PS.scope==="topic"?[PS.topic]:MODS[+PS.scope.slice(1)-1].topics;
+  var items;
+  if(PS.type==="sim")items=simulacro();
+  else{
+    var pool=PS.type==="test"?mcAll(topics):PS.type==="cortas"?saAll(topics):PS.type==="nuevas"?simAll(topics):mcAll(topics).concat(saAll(topics));
+    pool=filt(pool,PS.only);
+    items=shuffle(pool);
+    if(PS.count>0)items=items.slice(0,PS.count);
+  }
+  if(!items.length){PS.empty=true;render();return}
+  PS.empty=false;
+  startSession(items,"page");
+}
+
+/* ---------- vista: práctica ---------- */
+function seg(key,opts){return '<div class="seg">'+opts.map(function(o){return '<button data-a="pset" data-key="'+key+'" data-val="'+o[0]+'" aria-selected="'+(String(PS[key])===String(o[0]))+'">'+o[1]+"</button>"}).join("")+"</div>"}
+function practiceView(){
+  var h='<div class="hero"><div class="eyebrow">Modo práctica</div><h1>Practica y corrígete</h1><p>Responde, recibe la corrección con su explicación y la diapositiva de referencia. Tu progreso se actualiza con cada respuesta.</p></div>';
+  h+='<div class="card sec">';
+  h+='<div class="field"><span class="lbl">Tipo</span>'+seg("type",[["test","Test"],["cortas","Cortas"],["mix","Mixto"],["nuevas","Preguntas nuevas"],["sim","Simulacro de examen"]])+"</div>";
+  if(PS.type==="sim")h+='<p class="note">El simulacro reúne 15 preguntas cortas, una por tema distinto elegido al azar (como en el examen del año pasado), del banco de cortas y de preguntas nuevas.</p>';
+  else{
+    h+='<div class="field"><span class="lbl">Temas</span>'+seg("scope",[["all","Todos"],["m1","Fundamentos"],["m2","Metabolismo"],["m3","Digestivo"],["topic","Un tema"]])+"</div>";
+    if(PS.scope==="topic")h+='<div class="field"><label for="ptopic">Tema</label><select id="ptopic" data-a="ptopic">'+TOP.map(function(n){return '<option value="'+n+'"'+(n===PS.topic?" selected":"")+">"+n+". "+esc(T[n].short)+"</option>"}).join("")+"</select></div>";
+    h+='<div class="field"><span class="lbl">Cuáles</span>'+seg("only",[["all","Todas"],["fail","Falladas"],["new","Sin responder"]])+"</div>";
+    h+='<div class="field"><span class="lbl">Cantidad</span>'+seg("count",[[10,"10"],[20,"20"],[0,"Todas"]])+"</div>";
+  }
+  h+=(PS.empty?'<div class="fb mid"><b class="h">No hay preguntas con ese filtro</b>Prueba con «Todas» o cambia el alcance.</div>':"")+'<div class="row"><button class="btn" data-a="startpractice">Empezar</button></div></div>';
+  h+='<p class="note">Las preguntas nuevas (banco de '+SIM.length+') imitan el estilo del examen del año pasado y se han redactado únicamente con el contenido de las diapositivas.</p>';
+  return h;
+}
+
+/* ---------- vista: examen ---------- */
+function examView(){
+  var asked={};EXAMQ.forEach(function(q){asked[q.topic]=1});
+  var h='<div class="hero"><div class="eyebrow">Examen del año pasado</div><h1>Las 15 preguntas, por tema</h1><p>'+fmt(EXSTYLE.resumen)+"</p></div>";
+  h+='<section class="sec"><h2>Mapa por temas</h2><div class="heat">'+TOP.map(function(n){return '<div'+(asked[n]?' class="on"':"")+' data-a="go" data-v="topic" data-n="'+n+'" role="button" tabindex="0" aria-label="Tema '+n+(asked[n]?", con pregunta":", sin pregunta")+'" style="cursor:pointer">'+n+"</div>"}).join("")+'</div><p class="note">Azul: tema con pregunta en el examen. Una sola convocatoria no permite predecir cuáles saldrán.</p></section>';
+  h+='<section class="sec"><h2>Análisis de estilo</h2><div class="card">'+pts(EXSTYLE.hallazgos)+"</div></section>";
+  h+='<section class="sec"><h2>Preguntas originales</h2><div class="q-list">'+EXAMQ.map(function(q){
+    var tp=T[q.topic],ci=-1;tp.cortas.forEach(function(c,i){if(c.ex===q.n)ci=i});
+    var c=ci>=0?tp.cortas[ci]:null,v=ci>=0?P.c[q.topic+"_"+ci]:undefined;
+    return '<details class="qa"><summary><span class="qn">'+q.n+'</span><span class="qt">'+esc(q.t)+'<div class="row" style="margin-top:6px;gap:6px"><span class="chip">'+esc(q.kind)+'</span><span class="chip acc">T'+q.topic+" · "+esc(tp.short)+'</span></div></span><span class="status '+(v===undefined?"":"s"+v)+'"></span></summary><div class="body">'+(c?"<div>"+fmt(c.a)+'</div><div class="note">'+esc(srcLine(q.topic,c.ref))+'</div><div class="row"><button class="btn sm" data-a="practiceone" data-n="'+q.topic+'" data-i="'+ci+'">Practicar esta pregunta</button><button class="btn sm ghost" data-a="go" data-v="topic" data-n="'+q.topic+'" data-t="resumen">Ver el tema</button></div>':"")+"</div></details>";
+  }).join("")+"</div></section>";
+  h+='<section class="sec"><h2>Cómo estudiarlo</h2><div class="card">'+pts(EXSTYLE.consejos)+"</div></section>";
+  var list=SIMIDX.filter(function(i){return EXF==="0"||String(SIM[i].n)===EXF});
+  h+='<section class="sec"><h2>Preguntas nuevas al estilo del examen</h2><div class="row"><button class="btn" data-a="startsim">Simulacro de 15 preguntas</button><button class="btn sec2" data-a="startnuevas">Practicar las '+list.length+" de abajo</button></div>";
+  h+='<div class="field"><label for="exf">Filtrar por tema</label><select id="exf" data-a="exf"><option value="0">Todos los temas</option>'+TOP.map(function(n){return '<option value="'+n+'"'+(String(n)===EXF?" selected":"")+">"+n+". "+esc(T[n].short)+"</option>"}).join("")+"</select></div>";
+  h+='<div class="q-list">'+list.map(function(i){var s=SIM[i],v=P.c["S"+i];return '<details class="qa"><summary><span class="status '+(v===undefined?"":"s"+v)+'"></span><span class="qt">'+fmt(s.q)+'<div class="row" style="margin-top:6px"><span class="chip acc">T'+s.n+"</span></div></span></summary><div class=\"body\"><div>"+fmt(s.a)+'</div><div class="note">'+esc(srcLine(s.n,s.ref))+'</div><div class="row"><button class="btn sm" data-a="practicesim" data-idx="'+i+'">Practicar</button></div></div></details>'}).join("")+"</div></section>";
+  return h;
+}
+
+/* ---------- vista: claves ---------- */
+function clavesView(){
+  var h='<div class="hero"><div class="eyebrow">Claves esenciales</div><h1>El resumen del resumen</h1><p>'+fmt(CLAVES.intro)+"</p></div>";
+  h+='<section class="sec"><h2>Ideas fundamentales</h2>'+CLAVES.bloques.map(function(b){var m=MODS.filter(function(x){return x.id===b.mod})[0];return '<div class="card sec"><div class="eyebrow"><span class="dot m'+b.mod+'" style="display:inline-block;margin-right:6px"></span>'+esc(m?m.name:"")+"</div><h3>"+fmt(b.titulo)+"</h3>"+pts(b.ideas)+"</div>"}).join("")+"</section>";
+  h+='<section class="sec"><h2>Conexiones lógicas</h2><div class="grid g2">'+CLAVES.conexiones.map(function(c){return '<div class="card conn"><h3>'+fmt(c.t)+"</h3><p>"+fmt(c.d)+'</p><div class="links">'+c.temas.map(function(n){return '<button data-a="go" data-v="topic" data-n="'+n+'">T'+n+"</button>"}).join("")+"</div></div>"}).join("")+"</div></section>";
+  h+='<section class="sec"><h2>Lo que hay que memorizar</h2>'+CLAVES.memorizar.map(function(m){return '<div class="card sec"><h3>'+fmt(m.t)+"</h3>"+pts(m.items)+"</div>"}).join("")+"</section>";
+  return h;
+}
+
+/* ---------- vista: cuenta (Supabase) ---------- */
+function cuentaView(){
+  var h='<div class="hero"><div class="eyebrow">Cuenta</div><h1>Sincroniza tu progreso</h1><p>Con una cuenta, tu progreso se comparte entre el iPad, el móvil y el ordenador. Sin cuenta, se guarda solo en este dispositivo.</p></div>';
+  if(!SB)return h+'<div class="card"><p class="note">La sincronización no está configurada en esta copia (falta rellenar config.js).</p></div>';
+  if(sbUser){
+    h+='<div class="card sec"><h3>Sesión iniciada</h3><p class="meta">'+esc(sbUser.email||"")+'</p><p class="note">Cada respuesta se guarda automáticamente en tu cuenta.</p><div class="row"><button class="btn ghost" data-a="signout">Cerrar sesión</button></div></div>';
+  }else{
+    h+='<div class="card sec"><div class="field"><label for="em">Correo</label><input type="email" id="em" autocomplete="email" inputmode="email" style="padding:11px 14px;border-radius:12px;border:1px solid var(--line);background:var(--surface);font-size:16px;min-height:44px;width:100%"></div><div class="field"><label for="pw">Contraseña (mínimo 6 caracteres)</label><input type="password" id="pw" autocomplete="current-password" style="padding:11px 14px;border-radius:12px;border:1px solid var(--line);background:var(--surface);font-size:16px;min-height:44px;width:100%"></div>'+(AM.msg?'<div class="fb '+(AM.err?"bad":"ok")+'">'+esc(AM.msg)+"</div>":"")+'<div class="row"><button class="btn" data-a="signin">Entrar</button><button class="btn sec2" data-a="signup">Crear cuenta</button></div></div>';
+  }
+  return h;
+}
+function authDo(kind){
+  var em=(document.getElementById("em")||{}).value||"",pw=(document.getElementById("pw")||{}).value||"";
+  if(!em||pw.length<6){AM={msg:"Escribe tu correo y una contraseña de al menos 6 caracteres.",err:true};render();return}
+  var p=kind==="up"?SB.auth.signUp({email:em,password:pw}):SB.auth.signInWithPassword({email:em,password:pw});
+  p.then(function(r){
+    if(r.error){AM={msg:r.error.message,err:true}}
+    else if(kind==="up"&&!(r.data&&r.data.session)){AM={msg:"Cuenta creada. Revisa tu correo para confirmarla y luego pulsa Entrar.",err:false}}
+    else AM={msg:"",err:false};
+    render();
+  });
+}
+
+/* ---------- vista: búsqueda ---------- */
+var IDX=null;
+function schemeText(e){
+  if(e.t==="table")return e.rows.map(function(r){return r.join(" · ")}).join(" | ");
+  if(e.t==="levels")return e.levels.map(function(L){return L.label+": "+L.items.join(", ")}).join(" → ");
+  if(e.t==="branch")return e.root+" → "+e.branches.map(function(b){return b.label+": "+b.steps.join(" → ")}).join(" | ");
+  return (e.steps||[]).map(function(x){return Array.isArray(x)?x[0]:x}).join(" → ");
+}
+function buildIdx(){
+  IDX=[];
+  TOP.forEach(function(n){
+    var tp=T[n];
+    IDX.push({n:n,sec:"Título",text:tp.title});
+    tp.claves.forEach(function(c){IDX.push({n:n,sec:"Claves",text:c})});
+    if(tp.intro)IDX.push({n:n,sec:"Introducción",text:tp.intro});
+    if(tp.explica)tp.explica.forEach(function(b){b.p.forEach(function(p){IDX.push({n:n,sec:b.h,text:p})})});
+    else tp.resumen.forEach(function(b){b.pts.forEach(function(p){IDX.push({n:n,sec:b.h,text:p})})});
+    tp.esquemas.forEach(function(e){IDX.push({n:n,sec:e.title,text:schemeText(e)})});
+  });
+  CLAVES.bloques.forEach(function(b){b.ideas.forEach(function(x){IDX.push({n:0,sec:"Claves esenciales",text:x})})});
+  CLAVES.memorizar.forEach(function(m){m.items.forEach(function(x){IDX.push({n:0,sec:"Claves esenciales · "+m.t,text:x})})});
+}
+function searchHTML(q){
+  var nq=norm(q.trim());
+  if(nq.length<2)return '<div class="empty">Escribe al menos dos letras para buscar en todos los temas.</div>';
+  if(!IDX)buildIdx();
+  var out=[];
+  for(var i=0;i<IDX.length&&out.length<40;i++){
+    var e=IDX[i],plain=e.text.replace(/\*+/g,""),np=norm(plain),k=np.indexOf(nq);
+    if(k<0)continue;
+    var from=Math.max(0,k-50),to=Math.min(plain.length,k+nq.length+110),snip;
+    if(np.length===plain.length)snip=esc(plain.slice(from,k))+"<mark>"+esc(plain.slice(k,k+nq.length))+"</mark>"+esc(plain.slice(k+nq.length,to));
+    else snip=esc(plain.slice(from,to));
+    out.push('<button class="hit" data-a="'+(e.n?"go":"go")+'" data-v="'+(e.n?"topic":"claves")+'" data-n="'+e.n+'"><b>'+(e.n?"Tema "+e.n+" · "+esc(T[e.n].short):"Claves esenciales")+"</b><small>"+esc(e.sec)+"</small><span>"+(from>0?"…":"")+snip+(to<plain.length?"…":"")+"</span></button>");
+  }
+  return out.length?out.join(""):'<div class="empty">Sin resultados para «'+esc(q)+'».</div>';
+}
+var lastQ="";
+function searchView(){
+  return '<div class="hero"><div class="eyebrow">Buscar</div><h1>Encuentra cualquier concepto</h1></div><input type="search" id="q" placeholder="p. ej. anion gap, ascitis, Kussmaul…" value="'+esc(lastQ)+'" aria-label="Buscar"><div class="q-list" id="results">'+searchHTML(lastQ)+"</div>";
+}
+
+/* ---------- render y eventos ---------- */
+function pageHTML(){
+  if(S&&S.host==="page")return '<div class="sec">'+sessionHTML()+"</div>";
+  switch(V.v){
+    case "topic":return topicView();
+    case "practice":return practiceView();
+    case "exam":return examView();
+    case "claves":return clavesView();
+    case "search":return searchView();
+    case "cuenta":return cuentaView();
+    default:return homeView();
+  }
+}
+function render(){
+  var side=document.querySelector(".side"),st=side?side.scrollTop:0;
+  side.innerHTML=sideHTML();side.scrollTop=st;
+  document.querySelector(".topbar").innerHTML=topHTML();
+  document.querySelector(".tabbar").innerHTML=tabbarHTML();
+  document.getElementById("page").innerHTML=pageHTML();
+  if(V.v==="search"&&!(S&&S.host==="page")&&!lastQ){var q=document.getElementById("q");if(q&&!/iPhone|iPad/.test(navigator.userAgent))q.focus()}
+}
+function go(v,n,tab){
+  V.v=v;if(v==="topic"){V.n=n;V.tab=tab||"resumen";P.last=n;save()}
+  S=null;RS=false;render();window.scrollTo(0,0);
+}
+function advance(){
+  S.i++;S.cur={};
+  if(S.i>=S.items.length){S.done=true}
+  render();window.scrollTo(0,S.host==="topic"?0:0);
+}
+document.addEventListener("click",function(ev){
+  var el=ev.target.closest("[data-a]");if(!el||el.tagName==="SELECT")return;
+  var a=el.getAttribute("data-a"),d=el.dataset;
+  switch(a){
+    case "go":go(d.v,+d.n,d.t);break;
+    case "tab":V.tab=d.t;S=null;render();break;
+    case "read":P.read[V.n]=!P.read[V.n];save();render();break;
+    case "theme":
+      var dark=document.documentElement.getAttribute("data-theme")==="dark"||(!document.documentElement.getAttribute("data-theme")&&matchMedia("(prefers-color-scheme: dark)").matches);
+      P.theme=dark?"light":"dark";applyTheme();save();break;
+    case "signin":authDo("in");break;
+    case "signup":authDo("up");break;
+    case "signout":SB.auth.signOut().then(function(){sbUser=null;storeMode="local";AM={msg:"",err:false};render()});break;
+    case "reset":RS=true;render();break;
+    case "resetno":RS=false;render();break;
+    case "resetyes":P={ts:0,read:{},t:{},c:{},last:null,theme:P.theme};save();RS=false;render();break;
+    case "starttopic":{
+      var n=V.n,k=d.k,items;
+      if(k==="test")items=shuffle(mcAll([n]));
+      else if(k==="testfail")items=shuffle(filt(mcAll([n]),"fail"));
+      else items=shuffle(saAll([n]));
+      startSession(items,"topic",n,V.tab);break;}
+    case "pick":{var c=S.cur;if(c.sel!==undefined)break;c.sel=+d.k;var it=S.items[S.i],r=resolve(it);record(r,it.order[c.sel]===r.a?1:0);render();break;}
+    case "grade":{
+      var ta=document.getElementById("ans"),txt=ta?ta.value:"",it2=S.items[S.i],r2=resolve(it2);
+      if(txt.trim().length<3){S.cur.warn=true;S.cur.text=txt;render();break}
+      var g=gradeText(r2,txt);S.cur={text:txt,g:g};record(r2,g.score);render();break;}
+    case "reveal":{var it3=S.items[S.i],r3=resolve(it3),ta2=document.getElementById("ans");S.cur={text:ta2?ta2.value:"",g:{hits:[],score:0},revealed:true};record(r3,0);render();break;}
+    case "ovr":{var r4=resolve(S.items[S.i]);record(r4,+d.s);render();break;}
+    case "next":advance();break;
+    case "quit":S=null;render();window.scrollTo(0,0);break;
+    case "again":{var its=S.items,host=S.host,tp=S.topic,tb=S.tab;startSession(shuffle(its),host,tp,tb);break;}
+    case "retryfails":{
+      var fl=[];S.items.forEach(function(it,i){var rr=resolve(it),v=S.res[i];if(!(rr.sa?v===2:v===1))fl.push(it)});
+      startSession(shuffle(fl),S.host,S.topic,S.tab);break;}
+    case "pset":PS[d.key]=d.key==="count"?+d.val:d.val;PS.empty=false;render();break;
+    case "startpractice":startPractice();break;
+    case "startweak":{
+      var wk=TOP.filter(function(n){var x=acc(n);return x!==null&&x<.7});
+      var pool=filt(mcAll(wk).concat(saAll(wk)),"fail");
+      if(!pool.length)pool=mcAll(wk).concat(saAll(wk));
+      startSession(shuffle(pool).slice(0,15),"page");break;}
+    case "practiceone":startSession([{k:"sa",n:+d.n,i:+d.i}],"page");break;
+    case "practicesim":startSession([{k:"sim",idx:+d.idx}],"page");break;
+    case "startsim":startSession(simulacro(),"page");break;
+    case "startnuevas":{
+      var l=SIMIDX.filter(function(i){return EXF==="0"||String(SIM[i].n)===EXF}).map(function(i){return {k:"sim",idx:i}});
+      startSession(shuffle(l),"page");break;}
+  }
+});
+document.addEventListener("keydown",function(ev){
+  if((ev.key==="Enter"||ev.key===" ")&&ev.target.matches(".heat div[data-a]")){ev.preventDefault();ev.target.click()}
+});
+document.addEventListener("change",function(ev){
+  var el=ev.target,a=el.getAttribute&&el.getAttribute("data-a");
+  if(a==="ptopic"){PS.topic=+el.value;render()}
+  else if(a==="exf"){EXF=el.value;render();var s=document.getElementById("exf");if(s)s.scrollIntoView({block:"center"})}
+});
+document.addEventListener("input",function(ev){
+  if(ev.target.id==="q"){lastQ=ev.target.value;document.getElementById("results").innerHTML=searchHTML(lastQ)}
+});
+
+document.getElementById("root").innerHTML='<div class="app"><aside class="side" aria-label="Navegación"></aside><div class="main"><div class="topbar"></div><main class="page" id="page"></main></div></div><nav class="tabbar" aria-label="Secciones"></nav>';
+initStore();
+render();
+})();
