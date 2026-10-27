@@ -1678,7 +1678,8 @@ esq:[
 drop:["Pancreatitis aguda: patogenia"]
 };
 
-Object.keys(U).forEach(function(k){var t=T[k],u=U[k];if(u.intro)t.intro=u.intro;if(u.explica)t.explica=u.explica;if(u.esq)t.esquemas=u.esq.concat(t.esquemas.filter(function(e){return e.t==="table"&&(u.drop||[]).indexOf(e.title)<0}))});\nvar MODS=[
+Object.keys(U).forEach(function(k){var t=T[k],u=U[k];if(u.intro)t.intro=u.intro;if(u.explica)t.explica=u.explica;if(u.esq)t.esquemas=u.esq.concat(t.esquemas.filter(function(e){return e.t==="table"&&(u.drop||[]).indexOf(e.title)<0}))});
+var MODS=[
 {id:1,name:"Fundamentos",sub:"Temas 1-6",topics:[1,2,3,4,5,6]},
 {id:2,name:"Metabolismo y nutrición",sub:"Temas 7-12",topics:[7,8,9,10,11,12]},
 {id:3,name:"Aparato digestivo",sub:"Temas 13-21",topics:[13,14,15,16,17,18,19,20,21]}];
